@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="10" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-29e" n="29e" /> τὸ γὰρ ἐν χερσὶ τῶν
+                  πολεμίων ὄντων φοβεῖσθαι τοὺς ἄρχοντας ἀνδρείας ἅμα καὶ πειθαρχίας
+                  σημεῖον. <milestone unit="tlnum" n="15" /> ὅθεν ὁ μὲν Πλάτων ἐθίζει τοὺς
+                  ψόγους φοβεῖσθαι καὶ τὰ αἰσχρὰ μᾶλλον τοὺς πόνους καὶ τοὺς κινδύνους,
+                  ὁ δὲ Κάτων ἔλεγε φιλεῖν τοὺς ἐρυθριῶντας μᾶλλον ἢ τοὺς: ὠχριῶντας.
+                  ἔστι δὲ καὶ τῶν <milestone unit="tlnum" n="20" /> ἐπαγγελιῶν ἴδιος
+                  χαρακτήρ. ὁ μὲν γὰρ Δόλων πο ἐπαγγέλλεται <quote rend="blockquote">
+                     <l> τόφρα γὰρ ἐς στρατὸν εἶμι διαμπερές, ὄφρ᾽ ἂν </l> <note resp="ed" place="unspecified" anchored="yes">ιδ. κ 325</note>
+                     <l>νῆ Ἀγαμεμνονέην</l>
+                  </quote> ιορωμαι ὁ δὲ Διομήδης ἐπαγγέλλεται μὲν οὐδέν, ἧττον δ᾽ ἄν
+                     <milestone unit="tlnum" n="25" />
+                  </p></div2></div1></body></text></TEI.2>

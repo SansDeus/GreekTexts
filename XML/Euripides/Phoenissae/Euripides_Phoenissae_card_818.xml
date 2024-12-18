@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="818" unit="card" /></p></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἔτεκες, ὦ Γαῖ᾽, ἔτεκές ποτε,
+<lb />βάρβαρον ὡς ἀκοὰν ἐδάην ἐδάην ποτ᾽ ἐν οἴκοις,
+<lb rend="displayNum" n="820" />τὰν ἀπὸ θηροτρόφου φοινικολόφοιο δράκοντος
+<lb />γένναν ὀδοντοφυῆ, Θήβαις κάλλιστον ὄνειδος:
+<lb />Ἁρμονίας δέ ποτ᾽ εἰς ὑμεναίους
+<lb />ἤλυθον οὐρανίδαι, φόρμιγγί τε τείχεα Θήβας
+<lb />τᾶς Ἀμφιονίας τε λύρας ὕπο πύργος ἀνέστα
+<lb rend="displayNum" n="825" />διδύμων ποταμῶν πόρον ἀμφὶ μέσον,
+<lb />Δίρκα χλοεροτρόφον ᾇ πεδίον
+<lb />πρόπαρ Ἰσμηνοῦ καταδεύει:
+<lb />Ἰώ θ᾽, ἁ κερόεσσα προμάτωρ,
+<lb />Καδμείων βασιλῆας ἐγείνατο,
+<lb rend="displayNum" n="830" />μυριάδας δ᾽ ἀγαθῶν ἑτέροις ἑτέ-
+<lb />ρας μεταμειβομένα πόλις ἅδ᾽ ἐπ᾽ ἄκροις ἕστακ᾽
+<lb />Ἀρηΐοις στεφάνοισιν.
+</p></sp></div2></div1></body></text></TEI.2>

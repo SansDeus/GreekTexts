@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="iambic" org="uniform" sample="complete"><sp><p><milestone ed="p" n="203" unit="card" />
+</p></sp></div2>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />Τύριον οἶδμα λιποῦσ᾽ ἔβαν
+<lb />ἀκροθίνια Λοξίᾳ
+<lb />Φοινίσσας ἀπὸ νάσου
+<lb rend="displayNum" n="205" />Φοίβῳ δούλα μελάθρων,
+<lb />ἵν᾽ ὑπὸ δειράσι νιφοβόλοις
+<lb />Παρνασοῦ κατενάσθη,
+<lb />Ἰόνιον κατὰ πόντον ἐλά-
+<lb />τᾳ πλεύσασα περιρρύτῳ
+<lb rend="displayNum" n="210" />ὑπὲρ ἀκαρπίστων πεδίων
+<lb />Σικελίας Ζεφύρου πνοαῖς
+<lb />ἱππεύσαντος, ἐν οὐρανῷ
+<lb />κάλλιστον κελάδημα.
+</p></sp></div2></div1></body></text></TEI.2>

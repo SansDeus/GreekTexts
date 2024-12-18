@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="726" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />τότε δὴ τότε φαεν-
+<lb />νὰς ἄστρων μετέβασ᾽ ὁδοὺς
+<lb />Ζεὺς καὶ φέγγος ἀελίου
+<lb rend="displayNum" n="730" />λευκόν τε πρόσωπον ἀ-
+<lb />οῦς, τὰ δ᾽ ἕσπερα νῶτ᾽ ἐλαύ-
+<lb />νει θερμᾷ φλογὶ θεοπύρῳ,
+<lb />νεφέλαι δ᾽ ἔνυδροι πρὸς ἄρ-
+<lb />κτον, ξηραί τ᾽ Ἀμμωνίδες ἕ-
+<lb rend="displayNum" n="735" />δραι φθίνουσ᾽ ἀπειρόδροσοι,
+<lb />καλλίστων ὄμβρων Διόθεν στερεῖσαι.
+</p></sp></div2></div1></body></text></TEI.2>

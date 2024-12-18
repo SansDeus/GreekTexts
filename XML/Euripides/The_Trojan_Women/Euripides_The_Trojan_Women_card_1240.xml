@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="lyric" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1240" unit="card" />
+</p></sp></div2>
+<div2 type="iambic" org="uniform" sample="complete">
+<sp>
+<speaker>Ἑκάβη</speaker><p>
+<lb rend="displayNum" n="1240" />οὐκ ἦν ἄρ᾽ ἐν θεοῖσι πλὴν οὑμοὶ πόνοι
+<lb />Τροία τε πόλεων ἔκκριτον μισουμένη,
+<lb />μάτην δ᾽ ἐβουθυτοῦμεν. εἰ δὲ μὴ θεὸς
+<lb />ἔστρεψε τἄνω περιβαλὼν κάτω χθονός,
+<lb />ἀφανεῖς ἂν ὄντες οὐκ ἂν ὑμνήθημεν ἂν
+<lb rend="displayNum" n="1245" />μούσαις ἀοιδὰς δόντες ὑστέρων βροτῶν.
+<lb />χωρεῖτε, θάπτετ᾽ ἀθλίῳ τύμβῳ νεκρόν:
+<lb />ἔχει γὰρ οἷα δεῖ γε νερτέρων στέφη.
+<lb />δοκῶ δὲ τοῖς θανοῦσι διαφέρειν βραχύ,
+<lb />εἰ πλουσίων τις τεύξεται κτερισμάτων:
+<lb rend="displayNum" n="1250" />κενὸν δὲ γαύρωμ᾽ ἐστὶ τῶν ζώντων τόδε.
+</p></sp></div2></div1></body></text></TEI.2>

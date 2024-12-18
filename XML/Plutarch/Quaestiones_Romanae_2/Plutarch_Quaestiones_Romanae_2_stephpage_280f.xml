@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="70" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-280f" n="280f" /> ἀπιστοῖεν αὐτῷ καὶ φυλάττοιντο πρὸς τὸ
+               λοιπόν <milestone unit="tlnum" n="5" /> τὸ δὲ ξύλον ἡμεῖς μὲν στήριγγμα,
+               Ῥωμαῖοι δὲ <q direct="unspecified">φοῦρκαν</q> ὀνομάζουσι: διὸ καὶ <q direct="unspecified">φουρκίφερ</q> ὁ τοῦτο
+               περιενεγκὼν καλεῖται. </p>
+         </div1>
+         <div1 type="section" n="71" org="uniform" sample="complete">
+            <p>
+               <q direct="unspecified">διὰ τί τῶν κυριττόντων βοῶν ὑπὲρ τοῦ φυλάττεσθαι τὸν ἐντυγχάνοντα
+                  χόρτον τῷ: κέρατι <milestone unit="tlnum" n="10" /> προσδέουσιν;᾽</q> ἦ διὰ
+               κόρον καὶ πλησμονὴν ἐξυβρίζουσι καὶ βόες καὶ ἵπποι καὶ ὄνοι καὶ
+               ἄνθρωποι; ὥς που καὶ Σοφοκλῆς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Σοφοκλῆς</foreign>] ναυξκ π. 249</note> πεποίηκε <quote rend="blockquote">
+                  <l> σὺ δὲ σφαδᾴζεις πῶλος ὣς εὐφορβίᾳ, </l>
+                  <l> γαστήρ τε γάρ σου καὶ γνάθος πλήρης.</l> <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πλήρης</foreign>] αδδ. <foreign lang="greek">ἀεί</foreign> ξοβετυς</note>
+               </quote>
+               <milestone unit="tlnum" n="15" /> διὸ καὶ Μάρκον Κράσσον οἱ Ῥωμαῖοι χόρτον
+               ἔχειν ἔφασαν: ἐφυλάττοντο γὰρ αὐτὸν οἱ τοὺς ἄλλους ἐν </p></div1></body></text></TEI.2>

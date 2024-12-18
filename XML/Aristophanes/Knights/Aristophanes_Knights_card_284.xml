@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parodos" org="uniform" sample="complete"><div2 type="trochees" org="uniform" sample="complete"><sp><p><milestone ed="p" n="284" unit="card" /></p></sp></div2></div1>
+<div1 type="Agon" org="uniform" sample="complete">
+<div2 type="proagon" org="uniform" sample="complete">
+<sp><speaker>Κλέων</speaker><p>
+<lb />ἀποθανεῖσθον αὐτίκα μάλα.</p></sp>
+<sp><speaker>Ἀλλαντοπώλης</speaker><p>
+<lb rend="displayNum" n="285" />τριπλάσιον κεκράξομαί σου.</p></sp>
+<sp><speaker>Κλέων</speaker><p>
+<lb />καταβοήσομαι βοῶν σε.</p></sp>
+<sp><speaker>Ἀλλαντοπώλης</speaker><p>
+<lb />κατακεκράξομαί σε κράζων.</p></sp>
+<sp><speaker>Κλέων</speaker><p>
+<lb />διαβαλῶ σ᾽ ἐὰν στρατηγῇς.</p></sp>
+<sp><speaker>Ἀλλαντοπώλης</speaker><p>
+<lb />κυνοκοπήσω σου τὸ νῶτον.</p></sp>
+<sp><speaker>Κλέων</speaker><p>
+<lb rend="displayNum" n="290" />περιελῶ σ᾽ ἀλαζονείαις.</p></sp>
+<sp><speaker>Ἀλλαντοπώλης</speaker><p>
+<lb />ὑποτεμοῦμαι τὰς ὁδούς σου.</p></sp>
+<sp><speaker>Κλέων</speaker><p>
+<lb />βλέψον ἔς μ᾽ ἀσκαρδάμυκτος.</p></sp>
+<sp><speaker>Ἀλλαντοπώλης</speaker><p>
+<lb />ἐν ἀγορᾷ κἀγὼ τέθραμμαι.</p></sp>
+<sp><speaker>Κλέων</speaker><p>
+<lb />διαφορήσω σ᾽ εἴ τι γρύξει.</p></sp>
+<sp><speaker>Ἀλλαντοπώλης</speaker><p>
+<lb rend="displayNum" n="295" />κοπροφορήσω σ᾽ εἰ λαλήσεις.</p></sp>
+<sp><speaker>Κλέων</speaker><p>
+<lb />ὁμολογῶ κλέπτειν: σὺ δ᾽ οὐχί.</p></sp>
+<sp><speaker>Ἀλλαντοπώλης</speaker><p>
+<lb />νὴ τὸν Ἑρμῆν τὸν ἀγοραῖον,
+<lb />κἀπιορκῶ γε βλεπόντων.</p></sp>
+<sp><speaker>Κλέων</speaker><p>
+<lb />ἀλλότρια τοίνυν σοφίζει,
+<lb rend="displayNum" n="300" />καὶ φανῶ σε τοῖς πρυτάνεσιν
+<lb />ἀδεκατεύτους τῶν θεῶν ἱερὰς
+<lb />ἔχοντα κοιλίας.</p></sp></div2></div1></body></text></TEI.2>

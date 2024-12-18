@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="11" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-55b" n="55b" /> ἤ τινα ἐλλέβορον
+                  ἐκπιεῖν τρίψας ἠνάγκασεν, οὔτ᾽ ἐνταῦθα τὸ ἀηδὲς οὔτ᾽ ἐκεῖ τὸ
+                  ἡδὺ ποιούμενος τέλος ἀλλ᾽ ἐφ᾽ ἓν δι᾽ ἀμφοτέρων ἐπὶ τὸ συμφέρον
+                     <milestone unit="tlnum" n="15" /> ἄγων τὸν θεραπευόμενον, οὕτως ὁ φίλος
+                  ἔστι μὲν ὅτε σὺν ἐπαίνῳ καὶ χάριτι μεγαλύνων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μεγαλύνων</foreign>
+                     η: <foreign lang="greek">μεγαλύνων ἀεὶ</foreign></note> καὶ εὐφραίνων
+                  ἄγει πρὸς τὸ καλόν, ὥσπερ οὗτος<milestone unit="tlnum" n="20" /> καὶ
+                     <quote rend="blockquote">Τ̔εῦκρε, φίλη κεφαλή, Τελαμώνιε, κοίρανε λαῶν,
+                     βάλλ᾽ οὕτω᾽</quote>
+                  <note resp="ed" place="unspecified" anchored="yes">ηομερ, <foreign lang="greek">Θ</foreign> 281</note>
+                  <quote rend="blockquote">
+                     <l> πῶς ἂν ἔπειτ᾽ Ὀδυσῆος ἐγὼ θείοιο λαθοίμην;</l>
+                     <note resp="ed" place="unspecified" anchored="yes">ιδ. κ 243</note>
+                  </quote> ὅπου δ᾽ αὖ πάλιν ἐπιστροφῆς δεῖται, λόγῳ δήκτῃ καὶ
+                  παρρησίᾳ κηδεμονικῇ καθαπτόμενος </p></div2></div1></body></text></TEI.2>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="657" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἔνθα φόνιος ἦν δράκων
+<lb />Ἄρεος ὠμόφρων φύλαξ
+<lb />νάματ᾽ ἔνυδρα καὶ ῥέεθρα
+<lb rend="displayNum" n="660" />χλοερὰ δεργμάτων κόραισι
+<lb />πολυπλάνοις ἐπισκοπῶν:
+<lb />ὃν ἐπὶ χέρνιβας μολὼν
+<lb />Κάδμος ὄλεσε μαρμάρῳ:
+<lb />κρᾶτα φόνιον ὀλεσίθηρος
+<lb rend="displayNum" n="665" />ὠλένας δικὼν βολαῖς,
+<lb />δίας ἀμάτορος <add>δ᾽</add>
+<lb rend="displayNum" n="669" />ἐς βαθυσπόρους γύας
+<lb rend="displayNum" n="668" />γαπετεῖς δικὼν ὀδόν-
+<lb rend="displayNum" n="667" />τας <del status="unremarkable">Παλλάδος</del> φραδαῖσιν:
+<lb rend="displayNum" n="670" />ἔνθεν ἐξανῆκε γᾶ
+<lb />πάνοπλον ὄψιν ὑπὲρ ἄκρων
+<lb />ὅρων χθονός: σιδαρόφρων
+<lb />δέ νιν φόνος πάλιν ξυνῆψε γᾷ φίλᾳ.
+<lb />αἵματος δ᾽ ἔδευσε γαῖαν, ἅ νιν εὐηλίοισι
+<lb rend="displayNum" n="675" />δεῖξεν αἰθέρος πνοαῖς.
+</p></sp></div2></div1></body></text></TEI.2>

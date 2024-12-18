@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="7" org="uniform" sample="complete"><div2 type="chapter" n="5" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-706c" n="706c" /> τὸ λῦσαι βαλλάντιον
+                        οὐ πάνυ ῥᾴδιον: ταύταις δὲ ταῖς ἐλευθερίαις <note resp="ed" place="unspecified" anchored="yes">μαλιμ <foreign lang="greek">ταῖς
+                              ἐλευθερίοις</foreign> ϝιδ. σψμβ.</note> λεγομέναις περὶ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">περὶ</foreign> μ</note> ὦτα καὶ ὄμματα φιλομούσοις καὶ
+                        φιλαύλοις μουσομανίαις προῖκα καὶ <milestone unit="tlnum" n="15" />
+                        ἀμισθὶ τῶν ἡδονῶν πάρεστι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πάρεστι</foreign> μ: <foreign lang="greek">γάρ ἐστι</foreign></note> πολλαχόθεν ἀρύτεσθαι καὶ
+                        ἀπολαύειν, ἐν ἀγῶσιν, ἐν θεάτροις, ἐν συμποσίοις, ἑτέρων
+                        χορηγούντων: ὅθεν ἕτοιμον τὸ διαφθαρῆναι τοῖς μὴ βοηθοῦντα καὶ
+                        παιδαγωγοῦντα τὸν λογισμὸν ἔχουσι.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="4" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="20" />
+                  <p>γενομένης οὖν σιωπῆς <q direct="unspecified">τί οὖν</q> ἔφη <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἔφη ὁ
+                           Καλλίστρατος</foreign> αμψοτυς</note>
+                     <q direct="unspecified">ποιοῦντα τὸν λογισμὸν ἢ τί λέγοντα βοηθεῖν ἀξιοῦμεν; οὐ γὰρ
+                        ἀμφωτίδας γε περιθήσει τὰς Ξενοκράτους ἡμῖν οὐδ᾽ ἀναστήσει
+                        μεταξὺ δειπνοῦντας, ἐὰν αἰσθώμεθα λύραν ἁρμοζομένην ἢ κινούμενον
+                        αὐλόν. </q>
+                     <milestone unit="tlnum" n="25" />
+                     </p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1246" unit="card" />
+</p></sp></div2>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb />Μυκηνίδες ὦ φίλαι,
+<lb />τὰ πρῶτα κατὰ Πελασγὸν ἕδος Ἀργείων.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="1249" />τίνα θροεῖς αὐδάν, πότνια; παραμένει
+<lb rend="displayNum" n="1250" />γὰρ ἔτι σοι τόδ᾽ ἐν Δαναϊδῶν πόλει.</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb />στῆθ᾽ αἳ μὲν ὑμῶν τόνδ᾽ ἁμαξήρη τρίβον,
+<lb />αἳ δ᾽ ἐνθάδ᾽ ἄλλον οἶμον ἐς φρουρὰν δόμων.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />τί δέ με τόδε χρέος ἀπύεις;
+<lb />ἔνεπέ μοι, φίλα.</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb rend="displayNum" n="1255" />φόβος ἔχει με μή τις ἐπὶ δώμασι
+<lb />σταθεὶς ἐπὶ φοίνιον αἷμα
+<lb />πήματα πήμασιν ἐξεύρῃ.</p></sp>
+<sp><speaker>Ἡμίχορος</speaker><p>
+<lb />χωρεῖτ᾽, ἐπειγώμεσθ᾽: ἐγὼ μὲν οὖν τρίβον
+<lb />τόνδ᾽ ἐκφυλάξω, τὸν πρὸς ἡλίου βολάς.</p></sp>
+<sp><speaker>Ἡμίχορος</speaker><p>
+<lb rend="displayNum" n="1260" />καὶ μὴν ἐγὼ τόνδ᾽, ὃς πρὸς ἑσπέραν φέρει.</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb />δόχμιά νυν κόρας διάφερ᾽ ὀμμάτων.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ἐκεῖθεν ἐνθάδ᾽, εἶτα παλινσκοπιὰν
+<lb rend="displayNum" n="1265" />ἔχομεν, ὡς θροεῖς.
+</p></sp></div2></div1></body></text></TEI.2>

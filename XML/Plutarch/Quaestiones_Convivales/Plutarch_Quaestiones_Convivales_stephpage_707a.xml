@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="7" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-707a" n="707a" />
+            <div2 type="chapter" n="6" org="uniform" sample="complete">
+               <head> Περὶ τῶν λεγομένων σκιῶν, καὶ εἰ δεῖ βαδίζειν καλούμενον πρὸς
+                  ἑτέρους ὑφ᾽ ἑτέρων ἐπὶ δεῖπνον, καὶ πότε, <milestone unit="tlnum" n="5" /> καὶ παρὰ τίνας.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>τὸν Μενέλαον Ὅμηρος πεποίηκεν αὐτόματον ἑστιῶντι τοὺς ἀριστεῖς
+                     τῷ Ἀγαμέμνονι παραγιγνόμενον: <milestone unit="tlnum" n="10" />
+                     <quote rend="blockquote">ᾔδεε γὰρ κατὰ θυμὸν ἀδελφεὸν ὡς
+                        ἐπονεῖτο:</quote>
+                     <note resp="ed" place="unspecified" anchored="yes">ηομ. β 409</note> καὶ τὴν
+                     ἄγνοιαν οὐ περιεῖδεν αὐτοῦ καταφανῆ γενομένην οὐδ᾽ ἤλεγξε τῷ μὴ
+                     ἐλθεῖν ὥσπερ οἱ φιλομεμφεῖς καὶ δύσκολοι ταῖς τοιαύταις τῶν φίλων
+                     παροράσεσι καὶ ἀγνοίαις ἐπιτίθενται, τῷ ἀμελεῖσθαι <milestone unit="tlnum" n="15" /> μᾶλλον ἢ τῷ τιμᾶσθαι χαίροντες, ὅπως
+                     ἐγκαλεῖν ἔχωσιν. τὸ δὲ τῶν ἐπικλήτων ἔθος, οὓς νῦν σκιὰς
+                     καλοῦσιν, οὐ κεκλημένους αὐτοὺς ἀλλ᾽ ὑπὸ τῶν κεκλημένων ἐπὶ τὸ
+                     δεῖπνον ἀγομένους, ἐζητεῖτο πόθεν ἔσχε τὴν ἀρχήν: ἐδόκει δ᾽ ἀπὸ
+                     Σωκράτους <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Σωκράτους</foreign>] ξφ. πλατ. σψμπ. π. 174 ε σθ.</note>,
+                        <milestone unit="tlnum" n="20" />Ἀριστόδημον ἀναπείσαντος οὐ
+                     κεκλημένον εἰς Ἀγάθωνος </p></div3></div2></div1></body></text></TEI.2>

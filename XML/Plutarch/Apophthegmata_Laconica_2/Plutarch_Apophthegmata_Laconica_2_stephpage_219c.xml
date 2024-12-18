@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><milestone unit="stephpage" id="stephpage-219c" n="219c" />
+         <div1 type="chapter" n="22" org="uniform" sample="complete">
+            <head>Βιαντος</head>
+            <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">βιαντος</foreign>. <foreign lang="greek">Βίας</foreign>] <foreign lang="greek">αναξιβιου</foreign>. <foreign lang="greek">Ἀναξίβιος</foreign> ω</note>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <p>βίας ἐνεδρευθεὶς ὑπὸ Ἰφικράτους τοῦ Ἀθηναίων στρατηγοῦ καὶ
+                  ἐρωτώμενος ὑπὸ τῶν στρατιωτῶν τί δεῖ ποιεῖν, <q direct="unspecified">τί γὰρ ἄλλο</q> ἔφη
+                     <q direct="unspecified">ἢ ὑμᾶς μὲν σῴζεσθαι, <milestone unit="tlnum" n="10" /> ἐμὲ δὲ
+                     μαχόμενον ἀποθανεῖν.</q>
+               </p>
+            </div2>
+         </div1>
+         <div1 type="chapter" n="23" org="uniform" sample="complete">
+            <head>Βρασίδου</head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <p>Βρασίδας ἐν ἰσχάσι συλλαβὼν μῦν καὶ δηχθεὶς ἀφῆκεν: εἶτα πρὸς τοὺς
+                  παρόντας <q direct="unspecified">οὐδὲν οὕτως</q> ἔφη <q direct="unspecified">μικρόν ἐστιν, ὃ οὐ σῴζεται
+                     τολμῶν ἀμύνεσθαι τοὺς ἐπιχειροῦντας. <milestone unit="tlnum" n="15" />
+                  </q>
+               </p>
+            </div2>
+            <div2 type="section" n="2" org="uniform" sample="complete">
+               <p>ἐν δέ τινι μάχῃ διὰ τῆς ἀσπίδος ἀκοντισθεὶς καὶ τὸ δόρυ τοῦ
+                  τραύματος ἐξελκύσας αὐτῷ τούτῳ </p></div2></div1></body></text></TEI.2>

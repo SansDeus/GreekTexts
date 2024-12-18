@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="15" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-295a" n="295a" />
+               <quote rend="blockquote"> τὴν βοτρυοστέφανον μυρίπνουν Μάκυναν ἐραννήν</quote>
+            </p>
+         </div1>
+         <div1 type="section" n="16" org="uniform" sample="complete">
+            <p>
+               <q direct="unspecified">τί τὸ καλούμενον ὑπὸ Μεγαρέων ἀφάβρωμα</q> Νῖσος, ἀφ᾽ οὗ
+               προσηγορεύθη Νίσαια, βασιλεύων ἐκ Βοιωτίας ἔγημεν Ἀβρώτην, Ὀγχήστου
+               θυγατέρα, Μεγαρέως δ᾽ ἀδελφήν, γυναῖκα καὶ τῷ φρονεῖν ὡς <milestone unit="tlnum" n="15" /> ἔοικε περιττὴν καὶ σώφρονα διαφερόντως. ἀποθανούσης
+               δ᾽ αὐτῆς, οἵ τε Μεγαρεῖς ἐπένθησαν ἑκουσίως καὶ ὁ Νῖσος ἀιδίαν τινὰ
+               μνήμην καὶ δόξαν αὐτῆς καταστῆναι βουλόμενος ἐκέλευε <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐκέλευε</foreign>] <foreign lang="greek">ἐκέλευσε</foreign></note> τὰς ἀστὰς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τὰς ἀστὰς</foreign> βρψανυς: <foreign lang="greek">τὰ ὀστᾶ</foreign></note> </p></div1></body></text></TEI.2>

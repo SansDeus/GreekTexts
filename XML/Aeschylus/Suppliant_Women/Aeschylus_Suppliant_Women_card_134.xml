@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="ephymnion" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="134" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="7" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />πλάτα μὲν οὖν  λινορραφής τε
+<lb rend="displayNum" n="135" />δόμος ἅλα στέγων δορὸς
+<lb />ἀχείματόν μ᾽ ἔπεμπε σὺν πνοαῖς:
+<lb />οὐδὲ μέμφομαι:
+<lb />τελευτὰς δ᾽ ἐν χρόνῳ
+<lb />πατήρ μοι παντόπτας
+<lb rend="displayNum" n="140" />πρευμενεῖς κτίσειεν,
+</p></sp></div2></div1></body></text></TEI.2>

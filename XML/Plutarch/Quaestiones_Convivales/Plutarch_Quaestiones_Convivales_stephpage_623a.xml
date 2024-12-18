@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="5" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-623a" n="623a" /> ἄλλο τι τοῖς ἐρωμένοις διδῶσι, καλὸν εἶναι καὶ
+                     κεκοσμημένον ἐκπρεπῶς βούλονται καὶ περιττῶς τὸ δῶρον: μάλιστα δὲ
+                     λόγον κόλακα προσφέροντες ἡδὺν <milestone unit="tlnum" n="25" /> ἐθέλουσι
+                     φαίνεσθαι καὶ γαῦρον καὶ περιττόν, οἷος ὁ ποιητικός ἐστιν. <pb id="v.4.p.31" />
+                  </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>ὁ μέντοι Σόσσιος ἐπαινέσας ἐκείνους, εἶπεν ὡς οὐ χεῖρον ἄν τις
+                        <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">χεῖρον ἀν τις</foreign>] <foreign lang="greek">χειρόμαντις</foreign>
+                        μει</note> ἐπιχειρήσειεν ὁρμηθεὶς ἀφ᾽ ὧν Θεόφραστος εἴρηκε περὶ
+                     μουσικῆς: <q direct="unspecified">καὶ γὰρ ἔναγχος</q> ἔφη <q direct="unspecified">τὸ βιβλίον ἀνέγνων. λέγει
+                        δὲ Θεόφραστος <milestone unit="tlnum" n="5" /> μουσικῆς ἀρχὰς τρεῖς
+                        εἶναι, λύπην, ἡδονήν, ἐνθουσιασμόν, ὡς ἑκάστου τῶν <gap />
+                        <note resp="ed" place="unspecified" anchored="yes">λαξ. 3 ϝδ 2 π <foreign lang="greek">τούτων τῶν παθημάτων</foreign> αν <foreign lang="greek">τῶν παθῶν τούτων</foreign>̣</note> αὐτῶν
+                        παρατρέποντος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">παρατρέποντος</foreign> χ: <foreign lang="greek">παρατρε</foreign> λαξ. 4 ϝδ 7 ε</note> ἐκ τοῦ συνήθους καὶ
+                        παρεγκλίνοντος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καὶ παρεγκλίνοντος</foreign> *: λαξ. 4 ϝδ 7 ε <foreign lang="greek">ἐγκλίναντος</foreign></note> τὴν φωνήν. αἵ τε γὰρ
+                        λῦπαι τὸ γοερὸν καὶ θρηνητικὸν </q></p></div3></div2></div1></body></text></TEI.2>

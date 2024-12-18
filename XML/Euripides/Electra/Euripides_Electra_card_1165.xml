@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1165" unit="card" /></p></sp>
+<sp>
+<speaker>Κλυταιμήστρα</speaker><p>
+<lb rend="displayNum" n="1165" />ὦ τέκνα, πρὸς θεῶν, μὴ κτάνητε μητέρα.
+</p></sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />κλύεις ὑπώροφον βοάν;
+</p></sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Κλυταιμήστρα</speaker><p>
+<lb />ἰώ μοί μοι.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+
+<lb />ᾤμωξα κἀγὼ πρὸς τέκνων χειρουμένης.
+<lb />νέμει τοι δίκαν θεός, ὅταν τύχῃ:
+<lb rend="displayNum" n="1170" />σχέτλια μὲν ἔπαθες, ἀνόσια δ᾽ εἰργάσω,
+<lb />τάλαιν᾽, εὐνέταν.
+</p></sp></div2></div1></body></text></TEI.2>

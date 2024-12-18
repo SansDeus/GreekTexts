@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Exodus" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1320" unit="card" /></p></sp></div2>
+<div2 type="pnigos" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="1320" />κἀπευξαμένους τοῖσι θεοῖσιν
+<lb />διδόναι πλοῦτον τοῖς Ἕλλησιν,
+<lb />κριθάς τε ποιεῖν ἡμᾶς πολλὰς
+<lb />πάντας ὁμοίως οἶνόν τε πολύν,
+<lb />σῦκά τε τρώγειν,
+<lb rend="displayNum" n="1325" />τάς τε γυναῖκας τίκτειν ἡμῖν,
+<lb />καὶ τἀγαθὰ πάνθ᾽ ὅσ᾽ ἀπωλέσαμεν
+<lb />συλλέξασθαι πάλιν ἐξ ἀρχῆς,
+<lb />λῆξαί τ᾽ αἴθωνα σίδηρον.</p></sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+<lb />δεῦρ᾽ ὦ γύναι εἰς ἀγρόν,
+<lb rend="displayNum" n="1330" />χὤπως μετ᾽ ἐμοῦ καλὴ
+<lb />καλῶς κατακείσει.
+<lb />Ὑμὴν Ὑμέναι᾽ ὦ.</p></sp>
+<sp>
+<speaker>Ἡμιχόριον Β</speaker><p>
+<lb />ὦ τρὶς μάκαρ ὡς δικαίως
+<lb />τἀγαθὰ νῦν ἔχεις.</p></sp>
+<sp>
+<speaker>Ἡμιχόριον Α</speaker><p>
+<lb rend="displayNum" n="1335" />Ὑμὴν Ὑμέναι᾽ ὦ.</p></sp>
+<sp>
+<speaker>Ἡμιχόριον Β</speaker><p>
+<lb />Ὑμὴν Ὑμέναι᾽ ὦ.</p></sp>
+<sp>
+<speaker>Ἡμιχόριον Α</speaker><p>
+<lb />τί δράσομεν αὐτήν;</p></sp>
+<sp>
+<speaker>Ἡμιχόριον Β</speaker><p>
+<lb />τί δράσομεν αὐτήν;</p></sp>
+<sp>
+<speaker>Ἡμιχόριον Α</speaker><p>
+<lb />τρυγήσομεν αὐτήν,</p></sp>
+<sp>
+<speaker>Ἡμιχόριον Β</speaker><p>
+<lb />τρυγήσομεν αὐτήν.</p></sp>
+<sp>
+<speaker>Ἡμιχόριον Α</speaker><p>
+<lb />ἀλλ᾽ ἀράμενοι φέρωμεν
+<lb rend="displayNum" n="1340" />οἱ προτεταγμένοι
+<lb />τὸν νυμφίον ὦνδρες.</p></sp>
+<sp>
+<speaker>Ἡμιχόριον Β</speaker><p>
+<lb />Ὑμὴν Ὑμέναι᾽ ὦ,</p></sp>
+<sp>
+<speaker>Ἡμιχόριον Β</speaker><p>
+<lb />Ὑμὴν Ὑμέναι᾽ ὦ,</p></sp>
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+<lb />οἰκήσετε γοῦν καλῶς
+<lb rend="displayNum" n="1345" />οὐ πράγματ᾽ ἔχοντες, ἀλλὰ
+<lb />συκολογοῦντες.</p></sp>
+<sp>
+<speaker>Ἡμιχόριον Β</speaker><p>
+<lb />Ὑμὴν Ὑμέναι᾽ ὦ,</p></sp>
+<sp>
+<speaker>Ἡμιχόριον Α</speaker><p>
+<lb />Ὑμὴν Ὑμέναι᾽ ὦ.</p></sp>
+<sp>
+<speaker>Ἡμιχόριον Β</speaker><p>
+<lb />τοῦ μὲν μέγα καὶ παχύ.</p></sp>
+<sp>
+<speaker>Ἡμιχόριον Α</speaker><p>
+<lb rend="displayNum" n="1350" />τῆς δ᾽ ἡδὺ τὸ σῦκον.</p></sp>
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+<lb />φήσεις γ᾽ ὅταν ἐσθίῃς
+<lb />οἶνόν τε πίῃς πολύν.</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />Ὑμὴν Ὑμέναι᾽ ὦ,
+<lb />Ὑμὴν Ὑμέναι᾽ ὦ.</p></sp>
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+<lb rend="displayNum" n="1355" />ὦ χαίρετε χαίρετ᾽ ἄνδρες,
+<lb />κἂν ξυνέπησθέ μοι
+<lb />πλακοῦντας ἔδεσθε.</p></sp></div2></div1></body></text></TEI.2>

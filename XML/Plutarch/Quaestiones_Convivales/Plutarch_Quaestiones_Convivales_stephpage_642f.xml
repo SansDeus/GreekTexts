@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><div2 type="chapter" n="9" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-642f" n="642f" />
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="10" org="uniform" sample="complete">
+               <head> Πότερον οἱ παλαιοὶ βέλτιον ἐποίουν πρὸς μερίδας ἢ οἱ νῦν ἐκ
+                  κοινοῦ δειπνοῦντες.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>ὅτε τὴν ἐπώνυμον ἀρχὴν ἦρχον οἴκοι, τὰ πλεῖστα τῶν δείπνων
+                     δαῖτες ἦσαν, ἐν ταῖς θυσίαις ἑκάστῳ μερίδος ἀποκληρουμένης: ὅ
+                     τισι μὲν ἤρεσκε <milestone unit="tlnum" n="5" /> θαυμαστῶς, οἱ δ᾽ ὡς
+                     ἀκοινώνητον καὶ ἀνελεύθερον ρο ψέγοντες ᾤοντο δεῖν ἅμα τῷ
+                     καταθέσθαι τὸν στέφανον <milestone unit="tlnum" n="10" /> ἐπὶ τὴν συνήθη
+                     δίαιταν αὖθις μεθαρμόσασθαι </p></div3></div2></div1></body></text></TEI.2>

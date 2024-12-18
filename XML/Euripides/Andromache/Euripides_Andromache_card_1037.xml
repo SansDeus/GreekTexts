@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><milestone ed="p" n="1037" unit="card" /></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>πολλαὶ δ᾽ ἀν᾽ Ἑλλάνων ἀγόρους στοναχὰς</l>
+<l>μέλποντο δυστάνων λεχέων ἄλοχοι,</l>
+<l n="1040">ἐκ δ᾽ ἔλειπον οἴκους</l>
+<l>πρὸς ἄλλον εὐνάτορ᾽. οὐχὶ σοὶ μόνᾳ</l>
+<l>δύσφρονες ἐπέπεσον, οὐ φίλοισι, λῦπαι:</l>
+<l>νόσον Ἑλλὰς ἔτλα, νόσον: διέβα δὲ Φρυγῶν</l>
+<l n="1045">καὶ πρὸς εὐκάρπους γύας</l>
+<l>σκηπτὸς σταλάσσων †Ἅιδα† φόνον.</l>
+</sp></div2></div1></body></text></TEI.2>

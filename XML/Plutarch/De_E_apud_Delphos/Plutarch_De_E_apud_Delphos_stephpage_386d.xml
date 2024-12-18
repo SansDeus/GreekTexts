@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="5" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-386d" n="386d" /> ὡς μάντιν ἐστὶν ἡμῖν καὶ
+                  τὸ εὔχεσθαι κοινὸν <milestone unit="tlnum" n="5" /> ὡς πρὸς θεὸν, οὐχ
+                  ἧττον οἴονται τῆς πευστικῆς τὴν εὐκτικὴν τὸ γράμμα περιέχειν δύναμιν:
+                  <q direct="unspecified">εἰ γὰρ</q> ὤφελον φησὶν ἕκαστος τῶν εὐχομένων. καὶ Ἀρχίλοχος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἀρχίλοχος</foreign>] βεργκιυς 2 π. 402</note>
+                  <quote rend="blockquote"> εἰ γὰρ ὣς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὥς</foreign> ω: <foreign lang="greek">ὡς</foreign></note> ἐμοὶ γένοιτο χεῖρα Νεοβούλης
+                     θιγεῖν. <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">θίγειν</foreign> μει ξοδδ.</note> <milestone unit="tlnum" n="10" />
+                  </quote> καὶ τοῦ <q direct="unspecified">εἴθε</q> τὴν δευτέραν συλλαβὴν παρέλκεσθαί <note resp="ed" place="unspecified" anchored="yes">συππλενδυμ ϝιδ. <foreign lang="greek">τὴν δευτέραν συλλαβὴν ὥσπερ καὶ τὸ 'θὴν᾽</foreign></note> φασιν,
+                  οἷον τὸ Σώφρονος <quote rend="blockquote"> ἃμα τέκνων θην δευομένα:
+                  </quote> καὶ τὸ Ὁμηρικὸν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ὁμηρικόν</foreign>] π 29</note> <quote rend="blockquote"> ὥς θην καὶ σὸν ἐγὼ
+                     λύσω μένος:</quote>
+                  <milestone unit="tlnum" n="15" />ἐν δὲ τῷ <q direct="unspecified">εἰ</q> τὸ εὐκτικὸν καὶ
+                  ἀποχρώντως δηλοῦσθαι.</q>
+            </p>
+         </div1>
+         <div1 type="section" n="6" org="uniform" sample="complete">
+            <p>ταῦτα τοῦ Νικάνδρου διελθόντος, οἶσθα γὰρ </p></div1></body></text></TEI.2>

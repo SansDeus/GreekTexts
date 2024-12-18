@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="8" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-788f" n="788f" /> ὧν τὰ μὲν ἀνίησι
+                  καὶ παραμβλύνει τὰ δ᾽ ὅλως ἀποσβέννυσι καὶ καταψύχει τὸ γῆρας, οὐ
+                  τοσοῦτον τῆς πρακτικῆς ὁρμῆς παραιρούμενον, ὅσον τῶν ἀκρατῶν καὶ
+                  διαπύρων ἀπερύκει παθῶν, ὥστε νήφοντα καὶ καθεστηκότα τὸν λογισμὸν
+                  ἐπάγειν <milestone unit="tlnum" n="10" /> ταῖς φροντίσιν. </p>
+            </div2>
+            <div2 type="section" n="9" org="uniform" sample="complete">
+               <p>οὐ μὴν ἀλλ᾽ ἔστω καὶ δοκείτω διατρεπτικὸς εἶναι λόγος πρὸς τὸν
+                  ἀρχόμενον ἐν πολιαῖς νεανιεύεσθαι λεγόμενος καὶ καθαπτόμενος ἐκ μακρᾶς
+                  οἰκουρίας; ὥσπερ νοσηλείας ἐξανισταμένου καὶ κινουμένου <milestone unit="tlnum" n="15" /> γέροντος ἐπὶ στρατηγίαν ἢ πραγματείαν, <quote rend="blockquote">
+                        <l>μέν᾽ ὦ ταλαίπωρ᾽, ἀτρέμα σοῖς ἐν δεμνίοις:</l> <note resp="ed" place="unspecified" anchored="yes">ευρ. ορ. 258</note>
+                  </quote>
+                  </p></div2></div1></body></text></TEI.2>

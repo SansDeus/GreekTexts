@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-630d" n="630d" />
+                        <quote rend="blockquote">
+                           <l>εἴπ᾽ ἄγε μ᾽ <note resp="ed" place="unspecified" anchored="yes">ιβ.
+                                 *: <foreign lang="greek">εἶπ᾽ ἄγ᾽ ἐμ᾽</foreign></note>, ὦ
+                              πολύαιν᾽ Ὀδυσεῦ （ φησί）, μέγα κῦδος
+                              Ἀχαιῶν, </l>
+                           <note resp="ed" place="unspecified" anchored="yes">ηομ. κ 544</note>
+                           <l>ὅππως <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὅππως</foreign> *: <foreign lang="greek">ὅπως
+                                    δὴ</foreign></note> τούσδ᾽ ἵππους λάβετον.</l>
+                        </quote> ἄχθονται γὰρ τοῖς αὑτοὺς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὐτοὺς</foreign> ιιδεμ</note>
+                        ἐπαινοῦσι καὶ τὰς ἑαυτῶν <milestone unit="tlnum" n="15" /> εὐτυχίας
+                        διεξιοῦσιν, ἂν μὴ κελεύσῃ ἄλλος τις <note resp="ed" place="unspecified" anchored="yes">μαλιμ <foreign lang="greek">τις
+                              ἂλλος</foreign></note> τῶν παρόντων καὶ οἷον βιαζόμενοι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καὶ
+                              οἶον βιαζόμενοι</foreign> *: 7-8 ϝδ 9 ε <foreign lang="greek">ζόμενοι</foreign></note> λέγωσι. ἡδέως γοῦν ἐρωτῶνται περὶ
+                        πρεσβειῶν καὶ περὶ πολιτειῶν εἰ μέγα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἡδέως -
+                              μέγα</foreign> τυρνεβυς: 5-6 ϝδ 9 ε <foreign lang="greek">γοῦν
+                              ἐρωτῶνται</foreign> 4-5 ϝδ 9 ε <foreign lang="greek">πρεσβείων
+                              καὶ</foreign> 5-6 ϝδ 7 ε <foreign lang="greek">πολιτειῶν</foreign>
+                           3-4 ϝδ 5 ε <foreign lang="greek">μέγα</foreign></note> τι καὶ λαμπρὸν
+                        εἰργασμένοι τυγχάνουσιν. ὅθεν ἣκιστα περὶ τούτων οἱ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οἱ</foreign>] <foreign lang="greek">ὡς</foreign> μει</note>
+                        φθονεροὶ καὶ κακοήθεις ἐρωτῶσι, <milestone unit="tlnum" n="20" /> κἂν
+                        ἄλλος τις ἔρηται <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἄλλος τις ἔρηται</foreign> ξοβετυς:
+                              <foreign lang="greek">ἄλλο</foreign> 6 ϝδ 7 ε <foreign lang="greek">ται</foreign></note> τὰ τοιαῦτα, διακρούονται καὶ παρατρέπουσι,
+                        χώραν τῇ διηγήσει μὴ, διδόντες μηδὲ βουλόμενοι λόγου τὸν λέγοντα
+                        κοσμοῦντος </q></p></div3></div2></div1></body></text></TEI.2>

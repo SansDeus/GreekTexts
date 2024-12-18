@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="24" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-406f" n="406f" />Σπαρτιάτας <q direct="unspecified">ὀρεᾶνας</q> δὲ τοὺς ἄνδρας <q direct="unspecified">ὀρεμπότας</q>
+                  δὲ τοὺς ποταμούς: ἀφελὼν δὲ τῶν χρησμῶν ἔπη καὶ γλώσσας καὶ
+                  περιφράσεις καὶ ἀσάφειαν, οὕτω <milestone unit="tlnum" n="20" /> διαλέγεσθαι
+                  παρεσκεύασε τοῖς χρωμένοις ὡς νόμοι τε πόλεσι διαλέγονται καὶ βασιλεῖς
+                  ἐντυγχάνουσι δήμοις καὶ μαθηταὶ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μαθηταὶ</foreign> λεονιξυς: <foreign lang="greek">καθηγηταὶ</foreign></note> διδασκάλων ἀκροῶνται, πρὸς τὸ συνετὸν
+                  καὶ πιθανὸν ἁρμοζόμενος. <milestone unit="tlnum" n="25" />
+               </q>
+            </p>
+         </div1>
+         <div1 type="section" n="25" org="uniform" sample="complete">
+            <p>
+               <q direct="unspecified">εὖ γὰρ εἰδέναι χρὴ τὸν θεόν, ὥς φησι Σοφοκλῆς, <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Σοφοκλῆς</foreign>] ναυξκ. π. 298</note> <pb id="v.3.p.61" />
+                  <quote rend="blockquote">
+                     <l> σοφοῖς μὲν αἰνικτῆρα θεσφάτων ἀεί, </l>
+                     <l> σκαιοῖς δὲ φαῦλον κἀν βραχεῖ διδάσκαλον. </l>
+                  </quote>
+                  </q></p></div1></body></text></TEI.2>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="213" unit="card" /></p></sp></div2>
+</div1>
+<div1 type="episode" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />πολλῶν κακῶν Ἕλλησιν αἰτίαν ἔχει
+<lb />σῆς μητρὸς Ἑλένη σύγγονος δόμοις τε σοῖς.
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb rend="displayNum" n="215" />οἴμοι, γυναῖκες, ἐξέβην θρηνημάτων.
+<lb />ξένοι τινὲς παρ᾽ οἶκον οἵδ᾽ ἐφεστίους
+<lb />εὐνὰς ἔχοντες ἐξανίστανται λόχου:
+<lb />φυγῇ σὺ μὲν κατ᾽ οἶμον, ἐς δόμους δ᾽ ἐγὼ
+<lb />φῶτας κακούργους ἐξαλύξωμεν ποδί.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb rend="displayNum" n="220" />μέν᾽, ὦ τάλαινα: μὴ τρέσῃς ἐμὴν χέρα.
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />ὦ Φοῖβ᾽ Ἄπολλον: προσπίτνω σε μὴ θανεῖν.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />ἄλλους κτάνοιμι μᾶλλον ἐχθίους σέθεν.
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />ἄπελθε, μὴ ψαῦ᾽ ὧν σε μὴ ψαύειν χρεών.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />οὐκ ἔσθ᾽ ὅτου θίγοιμ᾽ ἂν ἐνδικώτερον.
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb rend="displayNum" n="225" />καὶ πῶς ξιφήρης πρὸς δόμοις λοχᾷς ἐμοῖς;
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />μείνασ᾽ ἄκουσον, καὶ τάχ᾽ οὐκ ἄλλως ἐρεῖς.
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />ἕστηκα: πάντως δ᾽ εἰμὶ σή: κρείσσων γὰρ εἶ.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />ἥκω φέρων σοι σοῦ κασιγνήτου λόγους.
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />ὦ φίλτατ᾽, ἆρα ζῶντος ἢ τεθνηκότος;
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb rend="displayNum" n="230" />ζῇ: πρῶτα γάρ σοι τἀγάθ᾽ ἀγγέλλειν θέλω.
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />εὐδαιμονοίης, μισθὸν ἡδίστων λόγων.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />κοινῇ δίδωμι τοῦτο νῷν ἀμφοῖν ἔχειν.
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />ποῦ γῆς ὁ τλήμων τλήμονας φυγὰς ἔχων;
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />οὐχ ἕνα νομίζων φθείρεται πόλεως νόμον.
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb rend="displayNum" n="235" />οὔ που σπανίζων τοῦ καθ᾽ ἡμέραν βίου;
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />ἔχει μέν, ἀσθενὴς δὲ δὴ φεύγων ἀνήρ.
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />λόγον δὲ δὴ τίν᾽ ἦλθες ἐκ κείνου φέρων;
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />εἰ ζῇς, ὅπως τε ζῶσα συμφορᾶς ἔχεις.
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />οὐκοῦν ὁρᾷς μου πρῶτον ὡς ξηρὸν δέμας.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb rend="displayNum" n="240" />λύπαις γε συντετηκός, ὥστε με στένειν.
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />καὶ κρᾶτα πλόκαμόν τ᾽ ἐσκυθισμένον ξυρῷ.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />δάκνει σ᾽ ἀδελφὸς ὅ τε θανὼν ἴσως πατήρ.
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />οἴμοι, τί γάρ μοι τῶνδέ γ᾽ ἐστὶ φίλτερον;
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />φεῦ φεῦ: τί δαὶ σὺ σῷ κασιγνήτῳ, δοκεῖς;
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb rend="displayNum" n="245" />ἀπὼν ἐκεῖνος, οὐ παρὼν ἡμῖν φίλος.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />ἐκ τοῦ δὲ ναίεις ἐνθάδ᾽ ἄστεως ἑκάς;
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />ἐγημάμεσθ᾽, ὦ ξεῖνε, θανάσιμον γάμον.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />ᾤμωξ᾽ ἀδελφὸν σόν. Μυκηναίων τίνι;
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />οὐχ ᾧ πατήρ μ᾽ ἤλπιζεν ἐκδώσειν ποτέ.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb rend="displayNum" n="250" />εἴφ᾽, ὡς ἀκούσας σῷ κασιγνήτῳ λέγω.
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />ἐν τοῖσδ᾽ ἐκείνου τηλορὸς ναίω δόμοις.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />σκαφεύς τις ἢ βουφορβὸς ἄξιος δόμων.
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />πένης ἀνὴρ γενναῖος ἔς τ᾽ ἔμ᾽ εὐσεβής.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />ἡ δ᾽ εὐσέβεια τίς πρόσεστι σῷ πόσει;
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb rend="displayNum" n="255" />οὐπώποτ᾽ εὐνῆς τῆς ἐμῆς ἔτλη θιγεῖν.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />ἅγνευμ᾽ ἔχων τι θεῖον ἤ σ᾽ ἀπαξιῶν;
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />γονέας ὑβρίζειν τοὺς ἐμοὺς οὐκ ἠξίου.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />καὶ πῶς γάμον τοιοῦτον οὐχ ἥσθη λαβών;
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />οὐ κύριον τὸν δόντα μ᾽ ἡγεῖται, ξένε.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb rend="displayNum" n="260" />ξυνῆκ᾽: Ὀρέστῃ μή ποτ᾽ ἐκτείσῃ δίκην.
+</p></sp>
+<sp>
+<speaker>Ἠλέκτρα</speaker><p>
+<lb />τοῦτ᾽ αὐτὸ ταρβῶν, πρὸς δὲ καὶ σώφρων ἔφυ.
+</p></sp></div1></body></text></TEI.2>

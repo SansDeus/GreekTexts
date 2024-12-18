@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="696" unit="card" /></p></sp></div2>
+<div2 type="trochees" org="uniform" sample="complete">
+<sp>
+<speaker>Χορὸς Γυναικῶν</speaker><p>
+<lb />οὐ γὰρ ὑμῶν φροντίσαιμ᾽ ἄν, ἢν ἐμοὶ ζῇ Λαμπιτὼ
+<lb />ἥ τε Θηβαία φίλη παῖς εὐγενὴς Ἰσμηνία.
+<lb />οὐ γὰρ ἔσται δύναμις, οὐδ᾽ ἢν ἑπτάκις σὺ ψηφίσῃ,
+<lb />ὅστις ὦ δύστην᾽ ἀπήχθου πᾶσι καὶ τοῖς γείτοσιν.
+<lb rend="displayNum" n="700" />ὥστε κἀχθὲς θἠκάτῃ ποιοῦσα παιγνίαν ἐγὼ
+<lb />τοῖσι παισὶ τὴν ἑταίραν ἐκάλεσ᾽ ἐκ τῶν γειτόνων,
+<lb />παῖδα χρηστὴν κἀγαπητὴν ἐκ Βοιωτῶν ἔγχελυν:
+<lb />οἱ δὲ πέμψειν οὐκ ἔφασκον διὰ τὰ σὰ ψηφίσματα.
+<lb />κοὐχὶ μὴ παύσησθε τῶν ψηφισμάτων τούτων, πρὶν ἂν
+<lb rend="displayNum" n="705" />τοῦ σκέλους ὑμᾶς λαβών τις ἐκτραχηλίσῃ φέρων.
+</p></sp></div2></div1></body></text></TEI.2>

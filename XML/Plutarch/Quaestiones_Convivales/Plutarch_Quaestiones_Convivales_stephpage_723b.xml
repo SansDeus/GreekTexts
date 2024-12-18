@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-723b" n="723b" /> καὶ αὐτοὶ παρῆμεν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καὶ
+                           αὐτοῖς παρ᾽ ἡμῖν</foreign> μει</note>. ἀπηρμένων δὲ τῶν πρώτων
+                     τραπεζῶν, ἧκέ τις Ἡρώδῃ τῷ ῥήτορι παρὰ γνωρίμου <milestone unit="tlnum" n="5" /> νενικηκότος ἐγκωμίῳ φοίνικα καὶ στέφανόν τινα
+                     τῶν πλεκτῶν κομίζων. ὁ δὲ ταῦτα μὲν δεξιωσάμενος ἀπέπεμψε πάλιν,
+                     ἔφη δ᾽ ἀπορεῖν, τί δήποτε τῶν ἀγώνων στέφανον ἄλλος ἄλλον ἔχει,
+                     τὸν δὲ φοίνικα κοινῇ πάντες. <q direct="unspecified">οὐ γὰρ ἐμὲ γοῦν</q> ἔφη <note resp="ed" place="unspecified" anchored="yes">χ: <foreign lang="greek">ἔφην</foreign></note>
+                     <q direct="unspecified">πείθουσιν <milestone unit="tlnum" n="10" /> οἱ τὴν ἰσότητα τῶν φύλλων,
+                        οἷον ἀντανισταμένων ἀεὶ καὶ συνεκτρεχόντων, ἀγῶνι καὶ ἁμίλλῃ
+                        παραπλήσιόν τι ποιεῖν φάσκοντες, αὐτήν τε τὴν <q direct="unspecified">νίκην</q> παρὰ τὸ
+                           <q direct="unspecified">μὴ εἶκον</q> ὠνομάσθαι: καὶ γὰρ ἄλλα </q></p></div3></div2></div1></body></text></TEI.2>

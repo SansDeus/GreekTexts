@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="lyric" org="uniform" sample="complete"><sp><p><milestone ed="p" n="699" unit="card" />
+</p></sp></div2>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἀταλᾶς ὑπὸ ματρὸς <add>ἄρν᾽</add>
+<lb />Ἀργείων
+<lb rend="displayNum" n="700" />ὀρέων ποτὲ κληδὼν ἐν
+<lb />πολιαῖσι μένει φήμαις
+<lb />εὐαρμόστοις ἐν καλάμοις
+<lb />Πᾶνα μοῦσαν ἡδύθροον
+<lb />πνέοντ᾽, ἀγρῶν ταμίαν,
+<lb rend="displayNum" n="705" />χρυσέαν καλλιπλόκαμον
+<lb />πορεῦσαι. πετρίνοις δ᾽ ἐπι-
+<lb />στὰς κᾶρυξ ἰάχει βάθροις:
+<lb />Ἀγορὰν ἀγοράν, Μυκη-
+<lb />ναῖοι, στείχετε μακαρίων
+<lb rend="displayNum" n="710" />ὀψόμενοι τυράννων
+<lb />φάσματα † δείματα <gap /> χοροὶ δ᾽ Ἀτρει-
+<lb />δᾶν † ἐγέραιρον οἴκους:
+</p></sp></div2></div1></body></text></TEI.2>

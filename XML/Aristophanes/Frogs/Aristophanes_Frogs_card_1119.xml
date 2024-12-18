@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1119" unit="card" /></p></sp></div2></div1>
+<div1 type="Lyric-Scene" org="uniform" sample="complete">
+<sp>
+<speaker>Εὐριπίδης</speaker><p>
+<lb />καὶ μὴν ἐπ᾽ αὐτοὺς τοὺς προλόγους σου τρέψομαι,
+<lb rend="displayNum" n="1120" />ὅπως τὸ πρῶτον τῆς τραγῳδίας μέρος
+<lb />πρώτιστον αὐτοῦ βασανιῶ τοῦ δεξιοῦ.
+<lb />ἀσαφὴς γὰρ ἦν ἐν τῇ φράσει τῶν πραγμάτων.</p></sp>
+<sp>
+<speaker>Διόνυσος</speaker><p>
+<lb />καὶ ποῖον αὐτοῦ βασανιεῖς;</p></sp>
+<sp>
+<speaker>Εὐριπίδης</speaker><p>
+πολλοὺς πάνυ.
+<lb />πρῶτον δέ μοι τὸν ἐξ Ὀρεστείας λέγε.</p></sp>
+<sp>
+<speaker>Διόνυσος</speaker><p>
+<lb rend="displayNum" n="1125" />ἄγε δὴ σιώπα πᾶς ἀνήρ. λέγ᾽ Αἰσχύλε.</p></sp>
+<sp>
+<speaker>Αἰσχύλος</speaker><p>
+<lb /><q direct="unspecified">Ἑρμῆ χθόνιε πατρῷ᾽ ἐποπτεύων κράτη,
+<lb />σωτὴρ γενοῦ μοι σύμμαχός τ᾽ αἰτουμένῳ.
+<lb />ἥκω γὰρ ἐς γῆν τήνδε καὶ κατέρχομαι.</q></p></sp>
+<sp>
+<speaker>Διόνυσος</speaker><p>
+<lb />τούτων ἔχεις ψέγειν τι;</p></sp>
+<sp>
+<speaker>Εὐριπίδης</speaker><p>
+πλεῖν ἢ δώδεκα.</p></sp>
+<sp>
+<speaker>Διόνυσος</speaker><p>
+<lb rend="displayNum" n="1130" />ἀλλ᾽ οὐδὲ πάντα ταῦτά γ᾽ ἔστ᾽ ἀλλ᾽ ἢ τρία.</p></sp>
+<sp>
+<speaker>Εὐριπίδης</speaker><p>
+<lb />ἔχει δ᾽ ἕκαστον εἴκοσίν γ᾽ ἁμαρτίας.</p></sp>
+<sp>
+<speaker>Διόνυσος</speaker><p>
+<lb />Αἰσχύλε παραινῶ σοι σιωπᾶν: εἰ δὲ μή,
+<lb />πρὸς τρισὶν ἰαμβείοισι προσοφείλων φανεῖ.</p></sp>
+<sp>
+<speaker>Αἰσχύλος</speaker><p>
+<lb />ἐγὼ σιωπῶ τῷδ᾽;</p></sp>
+<sp>
+<speaker>Διόνυσος</speaker><p>
+ἐὰν πείθῃ γ᾽ ἐμοί.</p></sp>
+<sp>
+<speaker>Εὐριπίδης</speaker><p>
+<lb rend="displayNum" n="1135" />εὐθὺς γὰρ ἡμάρτηκεν οὐράνιόν γ᾽ ὅσον.</p></sp>
+<sp>
+<speaker>Αἰσχύλος</speaker><p>
+<lb />ὁρᾷς ὅτι ληρεῖς;</p></sp>
+<sp>
+<speaker>Διόνυσος</speaker><p>
+ἀλλ᾽ ὀλίγον γέ μοι μέλει.</p></sp>
+<sp>
+<speaker>Αἰσχύλος</speaker><p>
+<lb />πῶς φῄς μ᾽ ἁμαρτεῖν;</p></sp>
+<sp>
+<speaker>Εὐριπίδης</speaker><p>
+αὖθις ἐξ ἀρχῆς λέγε.</p></sp>
+<sp>
+<speaker>Αἰσχύλος</speaker><p>
+<lb /><q direct="unspecified">Ἑρμῆ χθόνιε πατρῷ᾽ ἐποπτεύων κράτη.</q></p></sp>
+<sp>
+<speaker>Εὐριπίδης</speaker><p>
+<lb />οὔκουν Ὀρέστης τοῦτ᾽ ἐπὶ τῷ τύμβῳ λέγει
+<lb rend="displayNum" n="1140" />τῷ τοῦ πατρὸς τεθνεῶτος;</p></sp>
+<sp>
+<speaker>Αἰσχύλος</speaker><p>
+οὐκ ἄλλως λέγω.</p></sp>
+<sp>
+<speaker>Εὐριπίδης</speaker><p>
+<lb />πότερ᾽ οὖν τὸν Ἑρμῆν, ὡς ὁ πατὴρ ἀπώλετο
+<lb />αὐτοῦ βιαίως ἐκ γυναικείας χερὸς
+<lb />δόλοις λαθραίοις, ταῦτ᾽ <q direct="unspecified">ἐποπτεύειν</q> ἔφη;</p></sp>
+<sp>
+<speaker>Αἰσχύλος</speaker><p>
+<lb />οὐ δῆτ᾽ ἐκεῖνον, ἀλλὰ τὸν Ἐριούνιον
+<lb rend="displayNum" n="1145" />Ἑρμῆν χθόνιον προσεῖπε, κἀδήλου λέγων
+<lb />ὁτιὴ πατρῷον τοῦτο κέκτηται γέρας—</p></sp>
+<sp>
+<speaker>Εὐριπίδης</speaker><p>
+<lb />ἔτι μεῖζον ἐξήμαρτες ἢ 'γὼ 'βουλόμην:
+<lb />εἰ γὰρ πατρῷον τὸ χθόνιον ἔχει γέρας—</p></sp>
+<sp>
+<speaker>Διόνυσος</speaker><p>
+<lb />οὕτω γ᾽ ἂν εἴη πρὸς πατρὸς τυμβωρύχος.</p></sp>
+<sp>
+<speaker>Αἰσχύλος</speaker><p>
+<lb rend="displayNum" n="1150" />Διόνυσε πίνεις οἶνον οὐκ ἀνθοσμίαν.</p></sp>
+<sp>
+<speaker>Διόνυσος</speaker><p>
+<lb />λέγ᾽ ἕτερον αὐτῷ: σὺ δ᾽ ἐπιτήρει τὸ βλάβος.</p></sp>
+<sp>
+<speaker>Αἰσχύλος</speaker><p>
+<lb /><q direct="unspecified">σωτὴρ γενοῦ μοι σύμμαχός τ᾽ αἰτουμένῳ.
+<lb />ἥκω γὰρ ἐς γῆν τήνδε καὶ κατέρχομαι—</q></p></sp>
+<sp>
+<speaker>Εὐριπίδης</speaker><p>
+<lb />δὶς ταὐτὸν ἡμῖν εἶπεν ὁ σοφὸς Αἰσχύλος.</p></sp>
+<sp>
+<speaker>Διόνυσος</speaker><p>
+<lb rend="displayNum" n="1155" />πῶς δίς;</p></sp>
+<sp>
+<speaker>Εὐριπίδης</speaker><p>
+σκόπει τὸ ῥῆμ᾽: ἐγὼ δέ σοι φράσω.
+<lb /><q direct="unspecified">ἥκω γὰρ ἐς γῆν,</q> φησί, <q direct="unspecified">καὶ κατέρχομαι:</q>
+<lb /><q direct="unspecified">ἥκω</q> δὲ ταὐτόν ἐστι τῷ <q direct="unspecified">κατέρχομαι.</q></p></sp></div1></body></text></TEI.2>

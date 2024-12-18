@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="9" org="uniform" sample="complete"><div3 type="section" n="4" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-627e" n="627e" />εἶπον: <q direct="unspecified">ἀλλ᾽
+                        ᾤμην σε μᾶλλον Ὁμήρῳ τἀναντία λέγοντι πιστεύσειν. ὁ γὰρ
+                        Ὀδυσσεὺς μετὰ τὸ ναυάγιον ἐντυγχάνει τῇ Ναυσικάᾳ
+                           <q direct="unspecified">σμερδαλέος</q>
+                        <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">ζ</foreign> 137</note> ὀφθῆναι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὀφθῆναι</foreign>] <foreign lang="greek">αὐτῇσι φάνη</foreign>
+                           ιδεμ</note>, <q direct="unspecified">κεκακωμένος ἅλμῃ,</q> καὶ πρὸς τὰς θεραπαινίδας
+                        φησὶν <milestone unit="tlnum" n="15" />
+                        <quote rend="blockquote">
+                           <l> ἀμφίπολοι, στῆθ᾽ οὕτω <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οὕτως</foreign> μει</note>
+                              ἀπόπροθεν, ὄφρ᾽ ἂν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἂν</foreign>] ομ.
+                                 ηομερυς</note> ἐγὼ αὐτὸς </l>
+                           <note resp="ed" place="unspecified" anchored="yes">ιδ. <foreign lang="greek">ζ</foreign> 218</note>
+                           <l>ἅλμην ὤμοιιν ἀπολούσομαι.</l>
+                        </quote> καταβὰς δ᾽ εἰς τὸν ποταμὸν <quote rend="blockquote">ἐκ
+                           κεφαλῆς ἔσμηχεν ἁλὸς χνόον,</quote>
+                        <note resp="ed" place="unspecified" anchored="yes">ιδ. <foreign lang="greek">ζ</foreign> 226</note>
+                        <milestone unit="tlnum" n="20" /> ὑπερφυῶς τοῦ ποιητοῦ τὸ γιγνόμενον
+                        συνεωρακότος. ὅταν γὰρ ἐκ τῆς θαλάττης ἀναδύντες ἐν τῷ ἡλίῳ
+                        στῶσι, τὸ λεπτότατον καὶ κουφότατον τῆς ὑγρασίας </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-479e" n="479e" /> ὡς ἁγιώτατον καὶ
+               μέγιστον ἱερὸν λαβόντος. </p>
+         </div1>
+         <div1 type="section" n="4" org="uniform" sample="complete">
+            <p>οἶδα γοῦν ἐμαυτὸν ἐν Ῥώμῃ δυεῖν ἀδελφῶν <pb id="v.3.p.246" />
+               ἀναδεξάμενον δίαιταν, ὧν ἅτερος ἐδόκει φιλοσοφεῖν: ἦν δ᾽ ὡς ἔοικεν οὐ
+               μόνον ἀδελφὸς ἀλλὰ καὶ φιλόσοφος ψευδεπίγραφος καὶ ψευδώνυμος: ἐμοῦ γὰρ
+               ἀξιοῦντος αὐτὸν ὡς ἀδελφῷ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀδελφῷ</foreign>] <foreign lang="greek">ἀδελφὸν ἀδελφῷ</foreign> στεγμαννυς</note> καὶ ἰδιώτῃ φιλόσοφον <milestone unit="tlnum" n="5" /> προσφέρεσθαι, <q direct="unspecified">ταῦτ᾽</q> εἶπεν <q direct="unspecified">ὡς πρὸς ἰδιώτην ἀληθῶς,
+                  ἐγὼ δ᾽ οὐ σεμνὸν οὐδὲ μέγα ποιοῦμαι τὸ ἐκ τῶν αὐτῶν μορίων
+                  γεγονέναι</q>
+               <q direct="unspecified">σὺ μέν</q> ἔφην ἐγὼ </p></div1></body></text></TEI.2>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="3" org="uniform" sample="complete"><milestone ed="p" n="437" unit="card" />
+<sp n="*xoro/s">
+<speaker>Χορός</speaker><p>
+<lb />ὁ χρυσαμοιβὸς δ᾽ Ἄρης σωμάτων
+<lb />καὶ ταλαντοῦχος ἐν μάχῃ δορὸς
+<lb rend="displayNum" n="440" />πυρωθὲν ἐξ Ἰλίου
+<lb />φίλοισι πέμπει βαρὺ
+<lb />ψῆγμα δυσδάκρυτον ἀν-
+<lb />τήνορος σποδοῦ γεμί-
+<lb />ζων λέβητας εὐθέτους.
+<lb rend="displayNum" n="445" />στένουσι δ᾽ εὖ λέγοντες ἄν-
+<lb />δρα τὸν μὲν ὡς μάχης ἴδρις,
+<lb />τὸν δ᾽ ἐν φοναῖς καλῶς πεσόντ᾽—
+<lb />ἀλλοτρίας διαὶ γυναι-
+<lb />κός: τάδε σῖγά τις βαΰ-
+<lb rend="displayNum" n="450" />ζει, φθονερὸν δ᾽ ὑπ᾽ ἄλγος ἕρ-
+<lb />πει προδίκοις Ἀτρείδαις.
+<lb />οἱ δ᾽ αὐτοῦ περὶ τεῖχος
+<lb />θήκας Ἰλιάδος γᾶς
+<lb />εὔμορφοι κατέχουσιν:  ἐχ-
+<lb rend="displayNum" n="455" />θρὰ δ᾽ ἔχοντας ἔκρυψεν.</p></sp></div2>
+<div2 type="antistrophe" n="3" org="uniform" sample="complete">
+</div2></div1></body></text></TEI.2>

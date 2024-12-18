@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="2" org="uniform" sample="complete"><div3 type="section" n="4" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-617c" n="617c" /> ἐξαίρετον
+                        ἔχουσα καὶ τοῦτο παρεμφαίνει μὲν ὁ ποιητὴς δι᾽ ὧν ἐπὶ τῆς
+                        Θέτιδός φησιν <quote rend="blockquote">ἡ δ᾽ ἄρα πὰρ Διὶ πατρὶ
+                           καθέζετο, εἶξε δ᾽ Ἀθήνη,</quote>
+                        <note resp="ed" place="unspecified" anchored="yes">ιδ. <foreign lang="greek">Ω</foreign> 100</note> διαρρήδην δ᾽ ὁ Πίνδαρος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Πίνδαρος</foreign>] βεργκ. 1 π. 432</note> λέγει <quote rend="blockquote">
+                           <l> πῦρ πνέοντος ἅτε κεραυνοῦ <milestone unit="tlnum" n="20" />
+                           </l>
+                           <l> ἄγχιστα ἡμένη.</l>
+                        </quote> καίτοι φήσει <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φήσει</foreign> δυεβνερυς: <foreign lang="greek">φησὶ</foreign></note> Τίμων οὐ δεῖν ἀφαιρεῖσθαι
+                        τῶν ἄλλων ἑνὶ προσνέμοντα τὴν τιμήν. ὅπερ αὐτὸς ἔοικε ποιεῖν
+                        μᾶλλον: ἀφαιρεῖται γὰρ ὁ κοινὸν ποιῶν τὸ ἴδιον ἴδιον δὲ τὸ
+                        κατ᾽ ἀξίαν ἑκάστου, καὶ ποιεῖ δρόμου <pb id="v.4.p.16" /> καὶ
+                        σπουδῆς τὸ πρωτεῖον, ἀρετῇ καὶ συγγενείᾳ καὶ ἀρχῇ καὶ τοῖς
+                        τοιούτοις ὀφειλόμενον. καὶ τὸ λυπηρὸς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">λυπηρὸς</foreign> ρ: <foreign lang="greek">λυπηρὸν</foreign></note>
+                        εἶναι τοῖς κεκλημένοις φεύγειν δοκῶν μᾶλλον ἐφέλκεται καθ᾽ αὑτοῦ
+                        λυπεῖ γὰρ ἀποστερῶν τῆς <milestone unit="tlnum" n="5" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

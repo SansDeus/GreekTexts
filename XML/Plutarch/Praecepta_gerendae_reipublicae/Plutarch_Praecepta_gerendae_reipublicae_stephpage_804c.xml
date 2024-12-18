@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="9" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-804c" n="804c" /> πολιτείας ἠθληκότα κομίζειν τὸν λόγον, ὡς
+                  μὴ πολλάκις ἀπαγορεύοντα καὶ σβεννύμενον ὑπερβάλλῃ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὑπερβάλλῃ</foreign>
+                     *: <foreign lang="greek">ὑπερβάλλοι</foreign></note> τις αὐτὸν <milestone unit="tlnum" n="5" />
+                  <quote rend="blockquote">
+                     <l>ἅρπαξ κεκράκτης <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καὶ κράκτης</foreign> μει</note>, κυκλοβόρου
+                        φωνὴν ἔχων.</l>
+                     <note resp="ed" place="unspecified" anchored="yes">αριστ. εθυ. 137</note>
+                  </quote> Κάτων δέ, περὶ ὧν οὐκ ἤλπιζε πείσειν τῷ προκατέχεσθαι
+                  χάρισι καὶ σπουδαῖς τὸν δῆμον ἢ τὴν βουλήν, ἔλεγε τὴν ἡμέραν ὅλην
+                  ἀναστὰς καὶ τὸν καιρὸν οὕτως ἐξέκρουε. περὶ μὲν οὖν τῆς τοῦ λόγου
+                     <milestone unit="tlnum" n="10" /> παρασκευῆς καὶ χρείας ἱκανὰ ταῦτα τῷ
+                  δυναμένῳ τὸ ἀκόλουθον προσεξευρίσκειν. </p>
+            </div2>
+            <div2 type="section" n="10" org="uniform" sample="complete">
+               <p>εἰσβολαὶ δὲ καὶ ὁδοὶ δύο τῆς πολιτείας εἰσίν, ἡ μὲν ταχεῖα καὶ
+                  λαμπρὰ πρὸς δόξαν οὐ </p></div2></div1></body></text></TEI.2>

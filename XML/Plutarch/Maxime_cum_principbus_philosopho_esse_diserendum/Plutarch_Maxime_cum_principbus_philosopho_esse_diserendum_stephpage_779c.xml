@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="4" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-779c" n="779c" /> τοῖς Διονυσίου πράγμασιν ἀλλ᾽ εὗρε Διονύσιον ὥσπερ
+                  βιβλίον παλίμψηστον ἢδη μολυσμῶν ἀνάπλεων καὶ τὴν βαφὴν οὐκ ἀνιέντα
+                  τῆς τυραννίδος, ἐν πολλῷ χρόνῳ δευσοποιὸν οὖσαν καὶ δυσέκπλυτον:
+                  <milestone unit="tlnum" n="20" /> ἀκμαίους <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀκμαίους</foreign> ξοραες: <foreign lang="greek">δρομαίους</foreign></note> δ̓ ὄντας ἔτι δεῖ τῶν χρηστῶν
+                  ἀντιλαμβάνεσθαι λόγων.</p>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

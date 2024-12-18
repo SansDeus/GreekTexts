@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="561" unit="card" /></p></sp></div2>
+</div1>
+<div1 type="episode" org="uniform" sample="complete">
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Ἰώ</speaker><p>
+<lb />τίς γῆ; τί γένος; τίνα φῶ λεύσσειν
+<lb />τόνδε χαλινοῖς  ἐν πετρίνοισιν
+<lb />χειμαζόμενον;
+<lb />τίνος ἀμπλακίας ποινὰς ὀλέκῃ;
+<lb rend="displayNum" n="565" />σήμηνον ὅποι γῆς ἡ μογερὰ πεπλάνημαι.
+</p></sp></div2></div1></body></text></TEI.2>

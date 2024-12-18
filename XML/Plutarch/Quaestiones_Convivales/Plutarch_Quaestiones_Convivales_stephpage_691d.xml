@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="6" org="uniform" sample="complete"><div2 type="chapter" n="6" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-691d" n="691d" /> αὐτὴν καὶ
+                        περιστέλλοντες ἱματίοις ἀγνάπτοις ἐπὶ πολὺν χρόνον ἄπταιστον
+                        διατηροῦσι. θαυμαστὸν οὖν, εἰ συνεκτικὰ τὰ θερμότατα τῶν
+                        ψυχροτάτων ἐστί.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>
+                     <q direct="unspecified">κομιδῇ γ᾽ ἔφην</q>
+                     <q direct="unspecified">εἴπερ ἀληθές ἐστιν: οὐκ <milestone unit="tlnum" n="10" /> ἔχει δ᾽
+                        οὕτως, ἀλλ᾽ αὑτοὺς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὐτοὺς</foreign> μει</note> παραλογιζόμεθα,
+                        θερμὸν εὐθὺς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">εὐθὺ</foreign> ιιδεμ</note> εἶναι τὸ θερμαῖνον
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τὸ θερμαῖνον</foreign> βασιλεενσις: <foreign lang="greek">τὸ
+                              θερμαίνει</foreign> μαλιμ <foreign lang="greek">γ᾽ ὃ
+                              θερμαίνει</foreign></note> ὑπολαμβάνοντες: καὶ ταῦθ᾽ ὁρῶντες
+                        ὅτι ταὐτὸν ἱμάτιον ἐν χειμῶνι θερμαίνειν ἐν δ᾽ ἡλίῳ ψύχειν
+                        γέγονεν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">γέγονεν</foreign> δυεβνερυς: <foreign lang="greek">λέγομεν</foreign></note>: ὥσπερ ἡ τραγικὴ τροφὸς ἐκείνη τὰ
+                        τῆς Νιόβης τέκνα τιθηνεῖται <milestone unit="tlnum" n="15" />
+                        <quote rend="blockquote">
+                           <l> λεπτοσπαθήτων <note resp="ed" place="unspecified" anchored="yes">εμ.
+                                 ς: <foreign lang="greek">λεπτὸς πάθη τῶν</foreign></note>
+                              χλανιδίων ἐρειπίοις </l>
+                           <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 839</note>
+                           <l> θάλπουσα καὶ ψύχουσα.</l>
+                        </quote> Γερμανοὶ μὲν οὖν κρύους πρόβλημα ποιοῦνται τὴν </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="4" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-21b" n="21b" /> πρὸς δ᾽ ἐκεῖνα τὰ
+                  περὶ τοῦ πλούτου <quote rend="blockquote">
+                     <l>δεινὸς γὰρ ἕρπειν πλοῦτος ἔς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἔς</foreign> στοβαευς φλορ. 91,
+                           27: <foreign lang="greek">πρός</foreign></note> τε τἄβατα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τἄβατα καὶ πρὸς τὰ βατὰ</foreign> στεπηανυς: <foreign lang="greek">τὰ βατὰ καὶ πρὸς τ᾽ ἄβατα</foreign></note>
+                     </l>
+                     <note resp="ed" place="unspecified" anchored="yes">ιδ. π. 118</note>
+                     <l>καὶ πρὸς τὰ βατὰ κἄπωθεν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κἄπωθεν ὤν</foreign> σξριπσι:
+                              <foreign lang="greek">καὶ ὁπόθεν</foreign></note> ὤν: πένης δ᾽
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δ᾽</foreign> αδδ. ρ</note> ἀνὴρ <milestone unit="tlnum" n="20" />
+                     </l>
+                     <l>οὐδ᾽ ἐντυχὼν δύναιτ᾽ ἂν ὧν ἐρᾷ τυχεῖν. </l>
+                     <l>καὶ γὰρ δυσειδὲς σῶμα καὶ δυσώνυμον </l>
+                     <l>γλώσσῃ σοφὸν τίθησιν εὔμορφὸν τ᾽ ἰδεῖν</l>
+                  </quote> ἀντιπαραθήσει πολλὰ τῶν Σοφοκλέους, ὧν καὶ ταῦτ᾽ ἐστὶ <pb id="v.1.p.50" />
+                  <quote rend="blockquote">
+                     <l>γένοιτο κἂν ἄπλουτος ἐν τιμαῖς ἀνήρ</l> <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 247</note>
+                  </quote>
+                  <quote rend="blockquote">
+                     <l>οὐδὲν κακίων πτωχός, εἰ καλῶς φρονεῖ</l> <note resp="ed" place="unspecified" anchored="yes">ιδ. π. 247</note>
+                  </quote> καί <milestone unit="tlnum" n="5" />
+                  </p></div2></div1></body></text></TEI.2>

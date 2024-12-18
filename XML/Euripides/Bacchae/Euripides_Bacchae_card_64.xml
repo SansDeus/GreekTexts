@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><milestone ed="p" n="64" unit="card" />
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="lyric" org="uniform" sample="complete">
+<sp n="*xoro/s">
+<speaker>Χορός</speaker><p>
+<lb />Ἀσίας ἀπὸ γᾶς
+<lb rend="displayNum" n="65" />ἱερὸν Τμῶλον ἀμείψασα θοάζω
+<lb />Βρομίῳ πόνον ἡδὺν
+<lb />κάματόν τ᾽ εὐκάματον, Βάκ-
+<lb />χιον εὐαζομένα.
+<lb />τίς ὁδῷ τίς ὁδῷ; τίς;
+<lb />μελάθροις ἔκτοπος ἔστω, στόμα τ᾽ εὔφη-
+<lb rend="displayNum" n="70" />μον ἅπας ἐξοσιούσθω:
+<lb />τὰ νομισθέντα γὰρ αἰεὶ
+<lb />Διόνυσον ὑμνήσω.
+</p></sp></div2></div1></body></text></TEI.2>

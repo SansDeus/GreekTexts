@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-17c" n="17c" /> μυθῶδες αὐτοῖς
+                  πολὺ καὶ τὸ ψεῦδος ὥσπερ τροφαῖς τὸ φαρμακῶδες ἐγκέκραται. καὶ οὔθ᾽
+                  Ὅμηρος οὔτε <pb id="v.1.p.40" /> Πίνδαρος οὔτε Σοφοκλῆς πεπεισμένοι
+                  ταῦτ᾽ ἔχειν οὕτως ἔγραψαν <quote rend="blockquote">
+                     <l>ἔνθεν τὸν ἄπειρον ἐρεύγονται σκότον </l>
+                     <note resp="ed" place="unspecified" anchored="yes">βεργκ. ϝολ. 1 π. 426</note>
+                     <l>βληχροὶ δνοφερᾶς νυκτὸς ποταμοὶ</l>
+                  </quote> καὶ <milestone unit="tlnum" n="5" />
+                  <quote rend="blockquote">
+                     <l>πὰρ δ᾽ ἴσαν Ὠκεανοῦ τε ῥοὰς καὶ Λευκάδα πέτρην</l>
+                     <note resp="ed" place="unspecified" anchored="yes">ηομερ <foreign lang="greek">ω</foreign> 11</note>
+                  </quote> καί <quote rend="blockquote">
+                     <l>στενωπὸς Ἅιδου καὶ παλιρροία βυθοῦ</l>
+                     <note resp="ed" place="unspecified" anchored="yes">ναυξκ π. 246</note>
+                  </quote> ὅσοι μέντοι τὸν θάνατον ὡς οἰκτρὸν ἢ τὴν ἀταφίαν :- πο
+                     <milestone unit="tlnum" n="10" /> ὡς δεινὸν ὀλοφυρόμενοι καὶ δεδιότες
+                  φωνὰς ἐξενηνόχασι καὶ και <quote rend="blockquote">
+                     <l>μή μ᾽ ἄκλαυστον ἄθαπτον ἰὼν ὄπιθεν καταλείπειν</l>
+                     <note resp="ed" place="unspecified" anchored="yes">12 ηομερ. <foreign lang="greek">λ</foreign></note> 72 </quote>
+                  <milestone unit="tlnum" n="15" />
+                  <quote rend="blockquote">
+                     <l> ψυχὴ δ᾽ ἐκ ῥεθέων πταμένη Ἀϊδόσδε βεβήκει, <note resp="ed" place="unspecified" anchored="yes">ιδ. <foreign lang="greek">Π</foreign>
+                           χ 362</note></l></quote></p></div2></div1></body></text></TEI.2>

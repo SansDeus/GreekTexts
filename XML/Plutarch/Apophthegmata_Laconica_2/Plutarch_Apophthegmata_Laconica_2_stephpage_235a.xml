@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" n="69" org="uniform" sample="complete"><div2 type="section" n="51" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-235a" n="235a" />
+                  <quote rend="blockquote">
+                     <l>τὰν Πιτάναν Θρασύβουλος ἐπ᾽ ἀσπίδος ἤλυθεν ἄπνους </l>
+                     <l> ἑπτὰ πρὸς Ἀργείων τραύματα δεξάμενος, </l>
+                     <l> δεικνὺς ἀντία πάντα: τὸν αἱματόεντα δ᾽ ὁ πρέσβυς <milestone unit="tlnum" n="10" />
+                     </l>
+                     <l> θεὶς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">θεὶς - τάδε</foreign>] <foreign lang="greek">παῖδ᾽ - τιθείς</foreign> αντηολ. παλ. ϝιι 229</note> ἐπὶ πυρκαϊὴν Τύννιχος εἶπε τάδε, </l>
+                     <l>δειλοὶ κλαιέσθωσαν ἐγὼ δέ σε τέκνον ἄδακρυς </l>
+                     <l> θάψω, τὸν καὶ ἐμὸν καὶ Λακεδαιμόνιον. </l>
+                  </quote>
+               </p>
+            </div2>
+            <div2 type="section" n="52" org="uniform" sample="complete">
+               <p>Ἀλκιβιάδῃ τῷ Ἀθηναίῳ βαλανέως ἐπὶ πλεῖστον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐπὶ πλεῖστον</foreign>] <foreign lang="greek">ὅτι πλεῖστον</foreign>̣</note> παραχέοντος ὕδωρ,
+                  Λάκων εἶπε <q direct="unspecified">τί τοῦτο ὡς <milestone unit="tlnum" n="15" /> καθαρῷ;
+                     σφόδρα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">σφόδρα</foreign>] <foreign lang="greek">ὡς σφόδρα</foreign></note> δὲ ῥυπαρῷ πλεῖον παράχει.</q>
+               </p>
+            </div2>
+            <div2 type="section" n="53" org="uniform" sample="complete">
+               <p>Φιλίππου τοῦ Μακεδόνος προστάσσοντὸς </p></div2></div1></body></text></TEI.2>

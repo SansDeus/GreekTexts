@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="86" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="4" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />εὖ δ᾽ εἴη Διόθεν παναληθῶς.
+<lb />Διὸς ἵμερος οὐκ εὐθήρατος ἐτύχθη.
+<lb />παντᾷ  τοι φλεγέθει
+<lb />κἀν σκότῳ μελαίνᾳ ξὺν τύχᾳ
+<lb rend="displayNum" n="90" />μερόπεσσι λαοῖς.
+</p></sp></div2></div1></body></text></TEI.2>

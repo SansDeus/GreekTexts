@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="426" unit="card" /></p></sp></div2>
+<div2 type="trochees" org="uniform" sample="complete">
+<sp>
+<speaker>Ἑρμῆς</speaker><p>
+<lb />ὑμέτερον ἐντεῦθεν ἔργον ὦνδρες. ἀλλὰ ταῖς ἄμαις
+<lb />εἰσιόντες ὡς τάχιστα τοὺς λίθους ἀφέλκετε.</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ταῦτα δράσομεν: σὺ δ᾽ ἡμῖν ὦ θεῶν σοφώτατε
+<lb />ἅττα χρὴ ποιεῖν ἐφεστὼς φράζε δημιουργικῶς:
+<lb rend="displayNum" n="430" />τἄλλα δ᾽ εὑρήσεις ὑπουργεῖν ὄντας ἡμᾶς οὐ κακούς.</p></sp></div2></div1></body></text></TEI.2>

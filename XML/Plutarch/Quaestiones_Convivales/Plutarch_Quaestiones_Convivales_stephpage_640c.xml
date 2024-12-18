@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><div2 type="chapter" n="6" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-640c" n="640c" /> δεδεγμέναι καὶ συκαῖ
+                     μορεῶν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μηλεῶν - μορεῶν</foreign> *: <foreign lang="greek">μηλέων
+                           - μορέων</foreign></note> ἐμβολάδας, ἄλλαι τε <milestone unit="tlnum" n="5" /> μίξεις φυτῶν κεκρατημένων ἄχρι καρπογονίας. οἱ
+                     μὲν οὖν ἄλλοι πρὸς τὸν Σώκλαρον ἔπαιζον, ὡς τῶν ποιητικῶν
+                     σφιγγῶν καὶ χιμαιρῶν τερατωδέστερα γένη καὶ θρέμματα βόσκοντα: Κράτων
+                     δὲ προὔβαλεν ἡμῖν διαπορῆσαι περὶ τῆς αἰτίας, δι᾽ ἣν μόνα τῶν
+                        <milestone unit="tlnum" n="10" /> φυτῶν τὰ, ἐλαιώδη δέχεσθαι τὰς
+                     τοιαύτας ἐπιμιξίας οὐ πέφυκεν: οὔτε γὰρ κῶνον οὔτε κυπάριττον ἢ
+                     πίτυν ἢ πεύκην ἐκτρέφουσάν τι τῶν ἑτερογενῶν ὁρᾶσθαι. </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>ὑπολαβὼν δὲ Φίλων ἔφη <q direct="unspecified">λόγος τις ἔστιν, <milestone unit="tlnum" n="15" /> ὧ Κράτων, παρὰ τοῖς σοφοῖς, βεβαιούμενος ὑπὸ τῶν
+                        γεωργικῶν. τὸ γὰρ ἔλαιον εἶναί φασι τοῖς φυτοῖς πολέμιον καὶ
+                        τάχιστ᾽ ἂν ἀπολέσθαι φυτὸν </q></p></div3></div2></div1></body></text></TEI.2>

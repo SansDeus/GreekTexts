@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="10" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-658c" n="658c" />τὴν δὲ σελήνην
+                        ἀδρανεστέρας ἀφιέναι τὰς αὐγάς <quote rend="blockquote">μέλας γὰρ.
+                           αὐταῖς οὐ πεπαίνεται βότρυς</quote>
+                        <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 744</note>
+                        κατὰ τὸν Ἴωνα.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="20" />
+                  <p>λεχθέντων δὲ τούτων, ἐγὼ <q direct="unspecified">τἄλλα μέν</q> ἔφην <q direct="unspecified">εἴρηται καλῶς:
+                        τῇ δὲ ποσότητι καὶ τῷ μᾶλλον καὶ ἧττον τῆς θερμασίας κρίνειν
+                        τὸ σύμπαν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">σύμπαν</foreign>] <foreign lang="greek">συμβὰν</foreign> μαδϝιγιυς προβαβιλιτερ</note> οὐ δεῖ: καὶ γὰρ
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καὶ τῷ μᾶλλον - οὐ δεῖ: καὶ γὰρ</foreign> ω: <foreign lang="greek">καὶ τὸ μᾶλλον κατὰ τὸν τῆς θερμασίας καιρὸν τὸ
+                              σύμπαν: οὐ δεῖ γὰρ</foreign> ξφ. μαξροβ. 7, 16, 20</note> ἥλιον
+                        ὁρῶμεν ἧττον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἤττω</foreign> μει</note> ἐν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐν</foreign>
+                           ηιρσξηιγιυς</note> τῷ χειμῶνι θάλποντα <pb id="v.4.p.134" /> καὶ
+                        μᾶλλον ἐν τῷ θέρει σήποντα τὰ σώματα: τοὐναντίον δ᾽ ὤφειλε
+                        ποιεῖν, εἰ μαλακότητι τῆς θερμασίας αἱ σήψεις ἐγίνοντο: νυνὶ δέ,
+                        ὅτε μᾶλλον ἐντείνει τὸ καῦμα, θᾶσσον διαφθείρει <note resp="ed" place="unspecified" anchored="yes">ηιρσξηιγιυς: <foreign lang="greek">ἐνδιαφθείρει</foreign></note> τὰς σάρκας. <milestone unit="tlnum" n="5" /> οὐκοῦν οὐδ᾽ ἡ σελήνη δι᾽ ἔνδειαν ἀλέας καὶ ἀσθένειαν
+                           </q></p></div3></div2></div1></body></text></TEI.2>

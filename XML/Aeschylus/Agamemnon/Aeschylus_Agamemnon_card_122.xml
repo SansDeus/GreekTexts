@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><milestone ed="p" n="122" unit="card" />
+<sp n="*xoro/s">
+<speaker>Χορός</speaker><p>
+<lb />κεδνὸς δὲ στρατόμαντις ἰδὼν δύο λήμασι δισσοὺς
+<lb />Ἀτρεΐδας μαχίμους ἐδάη λαγοδαίτας
+<lb />πομπούς τ᾽ ἀρχάς:
+<lb rend="displayNum" n="125" />οὕτω δ᾽ εἶπε τερᾴζων:
+<lb /><q direct="unspecified">χρόνῳ μὲν ἀγρεῖ
+<lb />Πριάμου πόλιν ἅδε κέλευθος,
+<lb />πάντα δὲ πύργων
+<lb />κτήνη πρόσθε τὰ δημιοπληθῆ
+<lb rend="displayNum" n="130" />Μοῖρ᾽ ἀλαπάξει πρὸς τὸ βίαιον:
+<lb />οἶον μή τις ἄγα θεόθεν κνεφά-
+<lb />σῃ προτυπὲν στόμιον μέγα Τροίας
+<lb />στρατωθέν.οἴκτῳ γὰρ ἐπί-
+<lb rend="displayNum" n="135" />φθονος Ἄρτεμις ἁγνὰ
+<lb />πτανοῖσιν κυσὶ πατρὸς
+<lb />αὐτότοκον πρὸ λόχου μογερὰν πτάκα θυομένοισιν
+<lb />στυγεῖ δὲ δεῖπνον αἰετῶν.</q>
+<lb />αἴλινον αἴλινον εἰπέ, τὸ δ᾽ εὖ νικάτω.</p></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+</div2></div1></body></text></TEI.2>

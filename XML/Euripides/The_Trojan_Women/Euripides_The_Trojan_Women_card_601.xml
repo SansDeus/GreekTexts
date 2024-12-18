@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="strophe" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="601" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="3" org="uniform" sample="complete">
+<sp><speaker>Ἑκάβη</speaker><p>
+<lb />ὦ πατρίς, ὦ μελέα  <gap /> </p></sp>
+<sp><speaker>Ἀνδρομάχη</speaker><p>
+καταλειπομέναν σε δακρύω,</p></sp>
+<sp><speaker>Ἑκάβη</speaker><p>
+<lb />νῦν τέλος οἰκτρὸν ὁρᾷς.</p></sp>
+<sp><speaker>Ἀνδρομάχη</speaker><p>
+καὶ ἐμὸν δόμον ἔνθ᾽  ἐλοχεύθην.</p></sp>
+<sp><speaker>Ἑκάβη</speaker><p>
+<lb />ὦ τέκν᾽, ἐρημόπολις μάτηρ ἀπολείπεται ὑμῶν,
+<lb />οἷος ἰάλεμος, οἷά τε πένθη
+<lb /><gap desc="*" />
+<lb rend="displayNum" n="605" />δάκρυά τ᾽ ἐκ δακρύων καταλείβεται
+<lb />ἁμετέροισι δόμοις: ὁ θανὼν δ᾽ ἐπι-
+<lb />λάθεται ἀλγέων <del status="unremarkable">ἀδάκρυτος</del>.
+</p></sp></div2></div1></body></text></TEI.2>

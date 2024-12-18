@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="354a" unit="card" /></p></sp></div2>
+<div2 type="ephymn" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="354a" /><add>δωμάτων γὰρ εἱλόμαν</add>
+<lb rend="displayNum" n="355a" /><add>ἀνατροπάς, ὅταν Ἄρης</add>
+<lb rend="displayNum" n="356a" /><add>τιθασὸς ὢν φίλον ἕλῃ.</add>
+<lb rend="displayNum" n="357a" /><add>ἐπὶ τὸν ὧδ᾽ ἱέμεναι</add>
+<lb rend="displayNum" n="358a" /><add>κρατερὸν ὄνθ᾽ ὅμως ἀμαυ-</add>
+<lb rend="displayNum" n="359a" /><add>ροῦμεν ὑφ᾽ αἵματος νέου.</add>
+</p></sp></div2></div1></body></text></TEI.2>

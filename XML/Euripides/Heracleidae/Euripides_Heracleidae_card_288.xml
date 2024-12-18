@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><milestone ed="p" n="288" unit="card" />
+</sp>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker>
+<l>ὥρα προνοεῖν, πρὶν ὅροις πελάσαι</l>
+<l>στρατὸν Ἀργείων:</l>
+<l n="290">μάλα δ᾽ ὀξὺς Ἄρης ὁ Μυκηναίων,</l>
+<l>ἐπὶ τοῖσι δὲ δὴ μᾶλλον ἔτ᾽ ἢ πρίν.</l>
+<l>πᾶσι γὰρ οὗτος κήρυξι νόμος,</l>
+<l>δὶς τόσα πυργοῦν τῶν γιγνομένων.</l>
+<l>πόσα νιν λέξειν βασιλεῦσι δοκεῖς,</l>
+<l n="295">ὡς δείν᾽ ἔπαθεν καὶ παρὰ μικρὸν</l>
+<l>ψυχὴν ἦλθεν διακναῖσαι;</l>
+</sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="7" org="uniform" sample="complete"><div2 type="chapter" n="5" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-704e" n="704e" /> καὶ συνεκινοῦντο κινήσεις
+                     ἀνελευθέρους, πρεπούσας δὲ τοῖς κρούμασιν ἐκείνοις καὶ τοῖς μέλεσιν.
+                     ἐπεὶ δ᾽ ἐπαύσαντο καὶ κατάστασιν αὖθις ὥσπερ ἐκ μανίας ὁ πότος
+                     ἐλάμβανεν, ἐβούλετο μὲν ὁ Λαμπρίας <milestone unit="tlnum" n="25" />
+                     εἰπεῖν τι καὶ παρρησιάσασθαι πρὸς τοὺς νέους <pb id="v.4.p.270" />
+                     ὀρρωδοῦντι δ᾽ ὅμως αὐτῷ μὴ λίαν ἀηδὴς γένηται καὶ λυπηρός,
+                     οὔτως <note resp="ed" place="unspecified" anchored="yes">τυρνεβυς: <foreign lang="greek">οὗτος</foreign></note> ὁ Καλλίστρατος ὥσπερ
+                     ἐνδόσιμον παρέσχε τοιαῦτά τινα διαλεχθείς: </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>
+                     <q direct="unspecified">ἀκρασίας μέν</q> ἔφη <q direct="unspecified">καὶ αὐτὸς ἀπολύω τὸ <milestone unit="tlnum" n="5" /> φιλήκοον καὶ φιλοθέαμον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φιλοθεάμον</foreign> μει</note> οὐ μὴν Ἀριστοξένῳ γε
+                        συμφέρομαι παντάπασι, ταύταις μόναις φάσκοντι </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="354" unit="card" /></p></sp>
+<sp>
+<speaker>Βασιλεύς</speaker><p>
+<lb />ὁρῶ κλάδοισι νεοδρόποις κατάσκιον
+<lb rend="displayNum" n="355" />νεύονθ᾽ ὅμιλον τόνδ᾽ ἀγωνίων θεῶν.
+<lb />εἴη δ᾽ ἄνατον πρᾶγμα τοῦτ᾽ ἀστοξένων.
+<lb />μηδ᾽ ἐξ ἀέλπτων κἀπρομηθήτων πόλει
+<lb />νεῖκος γένηται: τῶν γὰρ οὐ δεῖται πόλις.
+</p></sp></div2></div1></body></text></TEI.2>

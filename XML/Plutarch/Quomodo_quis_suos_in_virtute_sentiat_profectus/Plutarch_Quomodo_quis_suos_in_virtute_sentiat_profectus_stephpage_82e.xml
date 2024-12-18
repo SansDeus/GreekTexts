@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="11" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-82e" n="82e" /> μὴ
+                  τὸ αὐτὸ πάθωσιν, ἑαυτοῦ τὴν ἁμαρτίαν κατειπεῖν, αὐτὸν δέ τινα
+                  μέλλοντα σῴζεσθαι μὴ τολμᾶν <milestone unit="tlnum" n="15" /> ἐλέγχεσθαι
+                  μηδ᾽ ὁμολογεῖν τὴν ἀβελτερίαν καὶ ἀμαθίαν. καὶ μὴν τά γε Βίαντος καὶ
+                  Πύρρωνος οὐ προκοπῆς ἄν τις ἀλλὰ μείζονος ἕξεως σημεῖα θεῖτο καὶ
+                  τελειοτέρας. ὁ μὲν γὰρ τοὺς συνήθεις οἴεσθαι προκόπτειν ὅταν τῶν
+                  λοιδορούντων οὕτως <milestone unit="tlnum" n="20" /> ἀκούωσιν ὡς λεγόντων
+                     <quote rend="blockquote">
+                        <l>ξεῖν, <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">χεῖν᾽</foreign> ηομερ. <foreign lang="greek">ζ</foreign> 187: <foreign lang="greek">ὧ ξέν᾽</foreign></note> ἐπεὶ οὔτε κακῷ οὔτ᾽ ἄφρονι φωτὶ ἔοικας, </l>
+                        <l>οὖλέ τε καὶ μέγα χαῖρε, θεοὶ δέ τοι ὄλβια δοῖεν</l> <note resp="ed" place="unspecified" anchored="yes">ιδ. <foreign lang="greek">ω</foreign> 402</note>
+                  </quote>
+                  </p></div2></div1></body></text></TEI.2>

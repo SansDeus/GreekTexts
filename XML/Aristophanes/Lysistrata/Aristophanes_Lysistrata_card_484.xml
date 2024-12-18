@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Agon" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="484" unit="card" /></p></sp></div2>
+<div2 type="katakeleusmenos" org="uniform" sample="complete">
+<sp><speaker>Χορὸς γερόντων</speaker><p>
+<lb />ἀλλ᾽ ἀνερώτα καὶ μὴ πείθου καὶ πρόσφερε πάντας ἐλέγχους,
+<lb rend="displayNum" n="485" />ὡς αἰσχρὸν ἀκωδώνιστον ἐᾶν τὸ τοιοῦτον πρᾶγμα μεθέντας.
+</p></sp></div2></div1></body></text></TEI.2>

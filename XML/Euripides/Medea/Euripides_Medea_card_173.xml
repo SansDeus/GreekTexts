@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><milestone ed="p" n="173" unit="card" />
+</sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>πῶς ἂν ἐς ὄψιν τὰν ἁμετέραν</l>
+<l>ἔλθοι μύθων τ᾽ αὐδαθέντων</l>
+<l n="175">δέξαιτ᾽ ὀμφάν,</l>
+<l>εἴ πως βαρύθυμον ὀρ-</l>
+<l>γὰν καὶ λῆμα φρενῶν μεθείη;</l>
+<l>μήτοι τό γ᾽ ἐμὸν πρόθυ-</l>
+<l>μον φίλοισιν ἀπέστω.</l>
+<l n="180">ἀλλὰ βᾶσά νιν</l>
+<l n="180b">δεῦρο πόρευσον οἴ-</l>
+<l>κων ἔξω: φίλα καὶ τάδ᾽ αὔδα,</l>
+<l>σπεύσασά τι πρὶν κακῶσαι</l>
+<l n="182b">τοὺς ἔσω:</l>
+<l>πένθος γὰρ μεγάλως τόδ᾽ ὁρμᾶται.</l>
+</sp></div2></div1></body></text></TEI.2>

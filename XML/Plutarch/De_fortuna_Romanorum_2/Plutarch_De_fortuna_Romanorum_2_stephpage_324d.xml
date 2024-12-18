@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="11" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-324d" n="324d" />Μαρσικοῦ πολέμου τὴν Ῥώμην
+               ἐπιφλέγοντος, οἱ Σαρματικοὶ καὶ Βασταρνικοὶ πόλεμοι κατεῖχον Τιγράνην
+                  <milestone unit="tlnum" n="20" /> δὲ Μιθριδάτου λαμπροῦ μὲν ὄντος ὑπόνοια
+               καὶ φθόνος ἐχώριζεν, ἡττωμένῳ δ᾽ ἀνέμιξεν ἑαυτὸν συναπολέσθαι. </p>
+         </div1>
+         <div1 type="section" n="12" org="uniform" sample="complete">
+            <p>τί δ᾽ οὐχὶ καὶ περὶ τὰς μεγίστας συμφορὰς ὤρθου τὴν πόλιν ἡ Τύχη;
+               Κελτῶν μὲν περὶ τὸ <milestone unit="tlnum" n="25" />Καπετώλιον
+               στρατοπεδευόντων καὶ πολιορκούντων τὴν ἀκρόπολιν, <quote rend="blockquote">
+                  νοῦσον ἀνὰ στρατὸν ὦρσε κακήν, ὀλέκοντο δὲ λαοί: <note resp="ed" place="unspecified" anchored="yes">ηομ. α 10</note> <pb id="v.2.p.404" />
+               </quote> τὴν δὲ νυκτερινὴν ἔφοδον αὐτῶν, λεληθότων πάντας ἀνθρώπους, ἡ
+               Τύχη καὶ ταὐτόματον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ταὐτόματον</foreign> *: <foreign lang="greek">τὸ αὐτόματον</foreign></note> ἔκπυστον ἐποίησε γενέσθαι. περὶ ἧς κἀν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κἀν</foreign> * <foreign lang="greek">κἂν</foreign></note> βραχεῖ
+               πλείω διελθεῖν ἴσως οὐκ ἄκαιρόν ἐστι. μετὰ τὴν ἐπ᾽ Ἀλλίᾳ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐπ᾽ Ἀλλίᾳ</foreign> βασιλεενσις: <foreign lang="greek">ἐν παλλίᾳ</foreign></note> ποταμῷ
+                  <milestone unit="tlnum" n="5" />
+               </p></div1></body></text></TEI.2>

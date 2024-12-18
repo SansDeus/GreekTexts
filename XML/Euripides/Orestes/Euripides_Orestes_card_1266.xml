@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1266" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb />ἑλίσσετέ νυν βλέφαρα,
+<lb />κόραισι δίδοτε πάντα διὰ βοστρύχων.</p></sp>
+<sp><speaker>Ἡμίχορος</speaker><p>
+<lb rend="displayNum" n="1269" />ὅδε τις ἐν τρίβῳ <del status="unremarkable">προσέρχεται</del>. τίς ὅδ᾽ ἄρ᾽ ἀμ-
+<lb rend="displayNum" n="1270" />φὶ μέλαθρον πολεῖ σὸν ἀγρότας ἀνήρ;</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb />ἀπωλόμεσθ᾽ ἄρ᾽, ὦ φίλαι: κεκρυμμένους
+<lb />θῆρας ξιφήρεις αὐτίκ᾽ ἐχθροῖσιν φανεῖ.</p></sp>
+<sp><speaker>Ἡμίχορος</speaker><p>
+<lb />ἄφοβος ἔχε: κενός, ὦ φίλα,
+<lb />στίβος ὃν οὐ δοκεῖς.</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb rend="displayNum" n="1275" />τί δέ; τὸ σὸν βέβαιον ἔτι μοι μένει;
+<lb />δὸς ἀγγελίαν ἀγαθάν τιν᾽,
+<lb />εἰ τάδ᾽ ἔρημα τὰ πρόσθ᾽ αὐλᾶς.</p></sp>
+<sp><speaker>Ἡμίχορος</speaker><p>
+<lb />καλῶς τά γ᾽ ἐνθένδ᾽. ἀλλὰ τἀπὶ σοῦ σκόπει:
+<lb />ὡς οὔτις ἡμῖν Δαναϊδῶν πελάζεται.</p></sp>
+<sp><speaker>Ἡμίχορος</speaker><p>
+<lb rend="displayNum" n="1280" />ἐς ταὐτὸν ἥκεις: καὶ γὰρ οὐδὲ τῇδ᾽ ὄχλος.</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb />φέρε νυν ἐν πύλαισιν ἀκοὰν βάλω.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="1284" />τί μέλλεθ᾽ οἱ κατ᾽ οἶκον ἐν ἡσυχίᾳ
+<lb rend="displayNum" n="1285" />σφάγια φοινίσσειν;
+</p></sp></div2></div1></body></text></TEI.2>

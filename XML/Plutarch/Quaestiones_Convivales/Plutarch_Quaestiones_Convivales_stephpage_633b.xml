@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="8" org="uniform" sample="complete"><p><q direct="unspecified"><q direct="unspecified"><milestone unit="stephpage" id="stephpage-633b" n="633b" /> πρῶτον</q> ἔφη
+                           <q direct="unspecified">τὴν κιθάραν δήσῃς.</q> ἀηδῶς δ᾽ ὁ τοῦ <milestone unit="tlnum" n="5" />Λυσιμάχου <note resp="ed" place="unspecified" anchored="yes">εμ.
+                           βασιλεενσις: <foreign lang="greek">λυσίου</foreign></note> παράσιτος,
+                        ἐμβαλόντος αὐτοῦ σκορπίον ξύλινον εἰς τὸ ἱμάτιον, ἐκταραχθεὶς
+                        καὶ ἀναπηδήσας, ὡς ᾔσθετο τὴν παιδιάν, <q direct="unspecified">κἀγώ σε</q> φησὶν
+                           <q direct="unspecified">ἐκφοβῆσαι βούλομαι, ὦ βασιλεῦ: δός μοι τάλαντον.</q>
+                     </q>
+                  </p>
+               </div3>
+               <div3 type="section" n="9" org="uniform" sample="complete">
+                  <p>
+                     <q direct="unspecified">εἰσὶ δὲ καὶ περὶ τὰ σωματικὰ τοιαῦται διαφοραὶ <milestone unit="tlnum" n="10" /> τῶν πολλῶν: οἷον εἰς γρυπότητα καὶ σιμότητα
+                        σκωπτόμενοι γελῶσιν, ὡς ὁ Κασάνδρου φίλος; οὐκ ἠχθέσθη τοῦ
+                        Θεοφράστου πρὸς αὐτὸν εἰπόντος <q direct="unspecified">θαυμάζω σου τοὺς ὀφθαλμοὺς,
+                           ὅτι οὐκ ᾄδουσι, τοῦ μυκτῆρος; αὐτοῖς ἐνδεδωκότος</q> καὶ ὁ
+                           <milestone unit="tlnum" n="15" />Κῦρος ἐκέλευσε τὸν γρυπὸν σιμὸν
+                        ἀγαγέσθαι γύναιον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">σιμὸν ἀγ. γύναιον</foreign> αδδιδι εχ ξψροπ.
+                           8, 4, 21</note>, </q></p></div3></div2></div1></body></text></TEI.2>

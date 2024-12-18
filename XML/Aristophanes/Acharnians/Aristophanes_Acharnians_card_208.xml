@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parodos" org="uniform" sample="complete"><div2 type="trochees" org="uniform" sample="complete"><sp><p><milestone ed="p" n="208" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἐκπέφευγ᾽, οἴχεται φροῦδος. οἴμοι τάλας
+<lb rend="displayNum" n="210" />τῶν ἐτῶν τῶν ἐμῶν:
+<lb />οὐκ ἂν ἐπ᾽ ἐμῆς γε νεότητος, ὅτ᾽ ἐγὼ φέρων ἀνθράκων φορτίον
+<lb rend="displayNum" n="215" />ἠκολούθουν Φαΰλλῳ τρέχων, ὧδε φαύλως ἂν ὁ
+<lb />σπονδοφόρος οὗτος ὑπ᾽ ἐμοῦ τότε διωκόμενος
+<lb />ἐξέφυγεν οὐδ᾽ ἂν ἐλαφρῶς ἂν ἀπεπλίξατο.
+</p></sp></div2></div1></body></text></TEI.2>

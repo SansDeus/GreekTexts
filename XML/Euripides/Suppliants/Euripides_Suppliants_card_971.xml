@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="971" unit="card" /></p></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ὑπολελειμμένα μοι δάκρυα:
+<lb />μέλεα παιδὸς ἐν οἴκοις
+<lb />κεῖται μνήματα, πένθιμοι
+<lb />κουραὶ καὶ στέφανοι κόμας,
+<lb /><add>λοιβαί τε νεκύων φθιμένων,</add>
+<lb rend="displayNum" n="975" />ἀοιδαί θ᾽ ἃς χρυσοκόμας
+<lb />Ἀπόλλων οὐκ ἐνδέχεται:
+<lb />γόοισι δ᾽ ὀρθρευομένα
+<lb />δάκρυσι νοτερὸν ἀεὶ πέπλων
+<lb />πρὸς στέρνῳ πτύχα τέγξω.
+</p></sp></div2></div1></body></text></TEI.2>

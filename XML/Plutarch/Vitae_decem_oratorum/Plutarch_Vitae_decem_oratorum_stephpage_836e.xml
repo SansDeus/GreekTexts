@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" n="3" org="uniform" sample="complete"><div2 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-836e" n="836e" />
+               </p>
+            </div2>
+         </div1>
+         <div1 type="chapter" n="4" org="uniform" sample="complete">
+            <head>Ἰσοκράτης</head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <milestone unit="tlnum" n="5" />
+               <p>Ἰσοκράτης Θεοδώρου μὲν ἦν παῖς τοῦ Ἐρχιέως τῶν μετρίων πολιτῶν, θεράποντας αὐλοποιοὺς κεκτημένου
+καὶ εὐπορήσαντος ἀπὸ τούτων, ὡς καὶ χορηγῆσαι καὶ παιδεῦσαι τοὺς υἱούς: ἦσαν γὰρ
+<milestone unit="tlnum" n="10" /> αὐτῷ καὶ ἄλλοι, Τελέσιππος καὶ Διόμνηστος: ἦν
+δὲ καὶ θυγάτριον: ὅθεν εἰς τοὺς αὐλοὺς
+</p></div2></div1></body></text></TEI.2>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="30" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-242d" n="242d" />
+               <p>ἄλλη πιπρασκομένη, τοῦ κήρυκος πυνθανομένου τί ἐπίσταται,
+                     <q direct="unspecified">ἐλευθέρα</q> εἶπεν <q direct="unspecified">ἦμεν.</q> ὡς δὲ ὁ ὠνησάμενος προσέτασσέ
+                  τινα αὐτῇ οὐχ ἁρμόζοντα ἐλευθέρᾳ, εἰποῦσα <q direct="unspecified">οἰμώξῃ φθονήσας
+                     σεαυτῷ τοιούτου <milestone unit="tlnum" n="25" /> κτήματος</q> ἐξήγαγεν
+                  ἑαυτήν.</p>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

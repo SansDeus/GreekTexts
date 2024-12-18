@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="trochees" org="uniform" sample="complete"><sp><p><milestone ed="p" n="526" unit="card" /></p></sp></div2></div1>
+<div1 type="Agon" org="uniform" sample="complete">
+<div2 type="strophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />νῦν δὴ τὸν ἐκ θἠμετέρου
+<lb />γυμνασίου δεῖ τι λέγειν
+<lb />καινόν, ὅπως φανήσει —</p></sp>
+<sp><speaker>Βδελυκλέων</speaker><p>
+<lb />ἐνεγκάτω μοι δεῦρο τὴν κίστην τις ὡς τάχιστα.
+<lb rend="displayNum" n="530" />ἀτὰρ φανεῖ ποῖός τις ὤν, ἢν ταῦτα παρακελεύῃ;</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />μὴ κατὰ τὸν νεανίαν
+<lb />τονδὶ λέγων. ὁρᾷς γὰρ ὥς
+<lb />σοι μέγας ἐστὶν ἁγὼν
+<lb />καὶ περὶ τῶν ἁπάντων,
+<lb rend="displayNum" n="535" />εἴπερ, ὃ μὴ γένοιθ᾽, οὗτός
+<lb /><add>σ᾽</add> ἐθέλει κρατῆσαι.</p></sp>
+<sp><speaker>Βδελυκλέων</speaker><p>
+<lb />καὶ μὴν ὅσ᾽ ἂν λέξῃ γ᾽ ἁπλῶς μνημόσυνα γράψομαι 'γώ.</p></sp>
+<sp><speaker>Φιλοκλέων</speaker><p>
+<lb />τί γὰρ φάθ᾽ ὑμεῖς, ἢν ὁδί με τῷ λόγῳ κρατήσῃ;</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="540" />οὐκέτι πρεσβυτῶν ὄχλος
+<lb />χρήσιμος ἔστ᾽ οὐδ᾽ ἀκαρῆ:
+<lb />σκωπτόμενοι δ᾽ ἐν ταῖς ὁδοῖς
+<lb />θαλλοφόροι καλούμεθ᾽, ἀντωμοσιῶν
+<lb rend="displayNum" n="545" />κελύφη.</p></sp></div2></div1></body></text></TEI.2>

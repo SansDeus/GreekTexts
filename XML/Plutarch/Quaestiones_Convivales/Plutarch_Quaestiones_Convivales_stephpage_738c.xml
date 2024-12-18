@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="2" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-738c" n="738c" /> ᾗ καὶ τὰ νήπια ταύτην πρώτην ἀφιέναι φωνήν.
+                        ὠνομάσθαι <note resp="ed" place="unspecified" anchored="yes">εμ.
+                           βασιλεενσις: <foreign lang="greek">ὀνομάσαι</foreign></note> δὲ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δὲ</foreign>] ομ. μει</note> καὶ τὸ <q direct="unspecified">ἀίειν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀίειν</foreign> τυρνεβυς: <foreign lang="greek">ἀεὶ
+                                 εἶναι</foreign></note></q> ἐπὶ τῷ φωνῆς αἰσθάνεσθαι
+                           <milestone unit="tlnum" n="15" /> καὶ πολλὰ τῶν ὁμοίων, ὥσπερ καὶ
+                        τὸ <q direct="unspecified">ᾁδειν</q> καὶ τὸ <q direct="unspecified">αὐλεῖν</q> καὶ τὸ <q direct="unspecified">ἀλαλάζειν</q> .
+                        οἶμαι δὲ καὶ τὸ <q direct="unspecified">αἴρειν</q> καὶ τὸ <q direct="unspecified">ἀνοίγειν</q> οὐκ ἀπὸ
+                        τρόπου τῇ τῶν χειλῶν ἀνοίξει καὶ ἄρσει, καθ᾽ ἣν οὗτος
+                        ἐκπίπτει τοῦ στόματος ὁ φθόγγος, ὠνομάσθαι διὸ καὶ <milestone unit="tlnum" n="20" /> τὰ τῶν ἀφώνων γραμμάτων ὀνόματα πλὴν ἑνὸς
+                        ἅπαντα προσχρῆται τῷ ἄλφα καθάπερ φωτὶ τῆς περὶ αὐτὰ
+                        τυφλότητος : τοῦ δὲ πῖ μόνον ἄπεστιν ἡ δύναμις αὕτη: τὸ γὰρ φῖ
+                        καὶ τὸ χῖ τὸ μέν ἐστι πῖ τὸ δὲ κάππα δασυνόμενον.</q>
+                  </p>
+               </div3>
+            </div2>
+            <pb id="v.4.p.364" />
+            <div2 type="chapter" n="3" org="uniform" sample="complete">
+               <head> Κατὰ ποίαν ἀναλογίαν ὁ τῶν φωνηέντων καὶ ἡμιφώνων ἀριθμὸς
+                  συντέτακται <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κατὰ ποίαν - συντέτακται</foreign>] ομ. μει</note>.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="5" />
+                  <p>πρὸς ταῦτα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ταῦτα</foreign>] <foreign lang="greek">γὰρ τὰ</foreign>
+                        ιιδεμ</note> τοῦ Ἑρμείου φήσαντος ἀμφοτέρους </p></div3></div2></div1></body></text></TEI.2>

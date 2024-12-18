@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parodos" org="uniform" sample="complete"><div2 type="antistrophe" org="uniform" sample="complete"><sp><p><milestone ed="p" n="504" unit="card" /></p></sp></div2></div1>
+<div1 type="Choral" org="uniform" sample="complete">
+<sp>
+<speaker>Πραξάγορα</speaker><p>
+<lb />ταυτὶ μὲν ἡμῖν ὦ γυναῖκες εὐτυχῶς
+<lb rend="displayNum" n="505" />τὰ πράγματ᾽ ἐκβέβηκεν ἁβουλεύσαμεν.
+<lb />ἀλλ᾽ ὡς τάχιστα πρίν τιν᾽ ἀνθρώπων ἰδεῖν,
+<lb />ῥιπτεῖτε χλαίνας, ἐμβὰς ἐκποδὼν ἴτω,
+<lb />χάλα συναπτοὺς ἡνίας Λακωνικάς,
+<lb />βακτηρίας ἄφεσθε. καὶ μέντοι σὺ μὲν
+<lb rend="displayNum" n="510" />ταύτας κατευτρέπιζ᾽, ἐγὼ δὲ βούλομαι
+<lb />εἴσω παρερπύσασα πρὶν τὸν ἄνδρα με
+<lb />ἰδεῖν, καταθέσθαι θοἰμάτιον αὐτοῦ πάλιν
+<lb />ὅθενπερ ἔλαβον τἄλλα θ᾽ ἁξηνεγκάμην.</p></sp>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Χορὸς</speaker><p>
+<lb />κεῖται <add>καὶ</add> δὴ πάνθ᾽ ἅπερ εἶπας, σὸν δ᾽ ἔργον τἄλλα διδάσκειν,
+<lb rend="displayNum" n="515" />ὅ τί σοι δρῶσαι ξύμφορον ἡμεῖς δόξομεν ὀρθῶς ὑπακούειν.
+<lb />οὐδεμιᾷ γὰρ δεινοτέρᾳ σου ξυμμείξασ᾽ οἶδα γυναικί.</p></sp>
+<sp>
+<speaker>Πραξάγορα</speaker><p>
+<lb />περιμείνατέ νυν, ἵνα τῆς ἀρχῆς ἣν ἄρτι κεχιεροτόνημαι,
+<lb />ξυμβούλοισιν πάσαις ὑμῖν χρήσωμαι. καὶ γὰρ ἐκεῖ μοι
+<lb />ἐν τῷ θορύβῳ καὶ τοῖς δεινοῖς ἀνδρειόταται γεγένησθε.</p></sp></div2>
+<div2 type="iambics" org="uniform" sample="complete">
+<sp>
+<speaker>Βλέπυρος</speaker><p>
+<lb rend="displayNum" n="520" />αὕτη πόθεν ἥκεις Πραξαγόρα;</p></sp>
+<sp>
+<speaker>Πραξάγορα</speaker><p>
+τί δ᾽ ὦ μέλε
+<lb />σοὶ τοῦθ᾽;</p></sp>
+<sp>
+<speaker>Βλέπυρος</speaker><p>
+ὅ τί μοι τοῦτ᾽ ἔστιν; ὡς εὐηθικῶς.</p></sp>
+<sp>
+<speaker>Πραξάγορα</speaker><p>
+<lb />οὔτοι παρὰ τοῦ μοιχοῦ γε φήσεις.</p></sp>
+<sp>
+<speaker>Βλέπυρος</speaker><p>
+οὐκ ἴσως
+<lb />ἑνός γε.</p></sp>
+<sp>
+<speaker>Πραξάγορα</speaker><p>
+καὶ μὴν βασανίσαι τουτί γέ σοι
+<lb />ἔξεστι.</p></sp>
+<sp>
+<speaker>Βλέπυρος</speaker><p>
+πῶς;</p></sp>
+<sp>
+<speaker>Πραξάγορα</speaker><p>
+εἰ τῆς κεφαλῆς ὄζω μύρου.</p></sp>
+<sp>
+<speaker>Βλέπυρος</speaker><p>
+<lb rend="displayNum" n="525" />τί δ᾽; οὐχὶ βινεῖται γυνὴ κἄνευ μύρου;</p></sp>
+<sp>
+<speaker>Πραξάγορα</speaker><p>
+<lb />οὐ δῆτα τάλαν ἔγωγε.</p></sp>
+<sp>
+<speaker>Βλέπυρος</speaker><p>
+πῶς οὖν ὄρθριον
+<lb />ᾤχου σιωπῇ θοἰμάτιον λαβοῦσά μου;</p></sp>
+<sp>
+<speaker>Πραξάγορα</speaker><p>
+<lb />γυνή μέ τις νύκτωρ ἑταίρα καὶ φίλη
+<lb />μετεπέμψατ᾽ ὠδίνουσα.</p></sp>
+<sp>
+<speaker>Βλέπυρος</speaker><p>
+κᾆτ᾽ οὐκ ἦν ἐμοὶ
+<lb rend="displayNum" n="530" />φράσασαν ἰέναι;</p></sp>
+<sp>
+<speaker>Πραξάγορα</speaker><p>
+τῆς λεχοῦς δ᾽ οὐ φροντίσαι
+<lb />οὕτως ἐχούσης ὦνερ;</p></sp>
+<sp>
+<speaker>Βλέπυρος</speaker><p>
+εἰποῦσάν γέ μοι.
+<lb />ἀλλ᾽ ἔστιν ἐνταῦθά τι κακόν.</p></sp>
+<sp>
+<speaker>Πραξάγορα</speaker><p>
+μὰ τὼ θεὼ
+<lb />ἀλλ᾽ ὥσπερ εἶχον ᾠχόμην: ἐδεῖτο δὲ
+<lb />ἥπερ μεθῆκέ μ᾽ ἐξιέναι πάσῃ τέχνῃ.</p></sp></div2></div1></body></text></TEI.2>

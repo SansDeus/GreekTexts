@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="1" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-500b" n="500b" />
+            <p>Ὅμηρος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ὁμηρος</foreign>] π 446</note> μὲν ἐπιβλέψος τὰ θνητὰ τῶν ζῴων γένη καὶ πρὸς ἄλληλα
+               συγκρίνας κατὰ τοὺς βίους καὶ τὰς διαιτήσεις, ἐξεφώνησεν ὡς οὐδέν ἐστιν
+                  <quote rend="blockquote">
+                  <l> ὀιζυρώτερον ἀνδρός, <milestone unit="tlnum" n="5" />
+                  </l>
+                  <l> πάντων ὅσσα τε γαῖαν ἔπι πνείει τε καὶ ἕρπει </l></quote></p></div1></body></text></TEI.2>

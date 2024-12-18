@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="iambic" org="uniform" sample="complete"><sp><p><milestone ed="p" n="511" unit="card" />
+</p></sp></div2>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="512" />ἀμφί μοι Ἴλιον, ὦ
+<lb />Μοῦσα, καινῶν ὕμνων
+<lb />ἄεισον ἐν δακρύοις ᾠδὰν ἐπικήδειον:
+<lb rend="displayNum" n="515" />νῦν γὰρ μέλος ἐς Τροίαν ἰαχήσω,
+<lb rend="displayNum" n="517" />τετραβάμονος ὡς ὑπ᾽ ἀπήνας
+<lb />Ἀργείων ὀλόμαν τάλαινα δοριάλωτος,
+<lb />ὅτ᾽ ἔλιπον ἵππον οὐράνια
+<lb rend="displayNum" n="520" />βρέμοντα χρυσεοφάλαρον ἔνο-
+<lb />πλον ἐν πύλαις Ἀχαιοί:
+<lb />ἀνὰ δ᾽ ἐβόασεν λεὼς
+<lb />Τρῳάδος ἀπὸ πέτρας σταθείς:
+<lb />Ἴτ᾽, ὦ πεπαυμένοι πόνων,
+<lb rend="displayNum" n="525" />τόδ᾽ ἱερὸν ἀνάγετε ξόανον
+<lb />Ἰλιάδι Διογενεῖ κόρᾳ.
+<lb />τίς οὐκ ἔβα νεανίδων,
+<lb />τίς οὐ γεραιὸς ἐκ δόμων;
+<lb />κεχαρμένοι δ᾽ ἀοιδαῖς
+<lb rend="displayNum" n="530" />δόλιον ἔσχον ἄταν.
+</p></sp></div2></div1></body></text></TEI.2>

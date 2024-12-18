@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="30" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-271f" n="271f" />
+            </p>
+         </div1>
+         <div1 type="section" n="31" org="uniform" sample="complete">
+            <p>
+               <q direct="unspecified">διὰ τί ὁ πολυθρύλητος ᾁδεται Ταλάσιος ἐν τοῖς γάμοις;᾽</q> πότερον
+               ἀπὸ τῆς ταλασίας καὶ γὰρ τὸν τάλαρον τάλασον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τάλασον</foreign> χ:
+                     <foreign lang="greek">τάλαντον</foreign></note> ὀνομάζουσι: καὶ τὴν
+               νύμφην εἰσάγοντες νάκος ὑποστρωννύουσιν: αὐτὴ δ᾽ εἰσφέρει <milestone unit="tlnum" n="15" /> μὲν ἠλακάτην καὶ τὴν ἄτρακτον, ἐρίῳ δὲ τὴν
+               θύραν περιστέφει τοῦ ἀνδρός: ἢ τὸ λεγόμενον ὑπὸ τῶν ἱστορικῶν ἀληθές,
+               ὅτι νεανίας ἦν τις λαμπρὸς ἐν τοῖς πολεμικοῖς καὶ τἄλλα χρηστὸς ὄνομα
+               Ταλάσιος: ἐπεὶ δ᾽ ἥρπαζον οἱ Ῥωμαῖοι τὰς τῶν Σαβίνων <milestone unit="tlnum" n="20" />
+               </p></div1></body></text></TEI.2>

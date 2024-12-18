@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="452" unit="card" />
+</p></sp>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />σὲ τὰν ὠδίνων λοχιᾶν
+<lb />ἀνειλείθυιαν, ἐμὰν
+<lb />Ἀθάναν, ἱκετεύω,
+<lb rend="displayNum" n="455" />Προμηθεῖ Τιτᾶνι λοχευ-
+<lb />θεῖσαν κατ᾽ ἀκροτάτας
+<lb />κορυφᾶς Διός, ὦ μάκαιρα Νίκα,
+<lb />μόλε Πύθιον οἶκον,
+<lb />Ὀλύμπου χρυσέων θαλάμων
+<lb rend="displayNum" n="460" />πταμένα πρὸς ἀγυιάς,
+<lb />Φοιβήιος ἔνθα γᾶς
+<lb />μεσσόμφαλος ἑστία
+<lb />παρὰ χορευομένῳ τρίποδι
+<lb />μαντεύματα κραίνει,
+<lb rend="displayNum" n="465" />σὺ καὶ παῖς ἁ Λατογενής,
+<lb />δύο θεαὶ δύο παρθένοι,
+<lb />κασίγνηται σεμναὶ Φοίβου.
+<lb />ἱκετεύσατε δ᾽, ὦ κόραι,
+<lb />τὸ παλαιὸν Ἐρεχθέως
+<lb rend="displayNum" n="470" />γένος εὐτεκνίας χρονίου καθαροῖς
+<lb />μαντεύμασι κῦρσαι.
+</p></sp></div2></div1></body></text></TEI.2>

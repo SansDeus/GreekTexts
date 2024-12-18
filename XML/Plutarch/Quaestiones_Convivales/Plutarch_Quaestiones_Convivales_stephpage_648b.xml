@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-648b" n="648b" />
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="2" org="uniform" sample="complete">
+               <head> Περὶ τοῦ κιττοῦ πότερον τῇ φύσει θερμὸς ἢ ψυχρός ἐστιν.</head>
+               <milestone unit="tlnum" n="15" />
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>ἐπαινεσάντων δ᾽ ἡμῶν, τὸν Τρύφωνα, μειδιῶν ὁ Ἀμμώνιος οὐκ ἄξιον
+                     ἔφη ποικίλον οὕτω <milestone unit="tlnum" n="20" /> καὶ ἀνθηρὸν λόγον
+                     ὥσπερ στέφανον ἀντιλέγοντα διαλακτίζειν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">διαλακίζειν</foreign> τυρνεβυς</note>: <q direct="unspecified">πλὴν ὅ τε <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὅ
+                           τε</foreign>] <foreign lang="greek">ὅτι</foreign> ρ</note> κιττὸς οὐκ
+                        οἶδ᾽ ὅπως συγκαταπέπλεκται ψυχρότητι συγκατασβεννύναι <pb id="v.4.p.104" /> λεγόμενος τὸν ἄκρατον : ἔστι γὰρ ἔμπυρος καὶ
+                        θερμότερος, καὶ ὅ γε καρπὸς; αὐτοῦ μιγνύμενος εἰς τὸν οἶνον
+                        μεθυστικὸν ποιεῖ καὶ ταρακτικὸν τῷ πυροῦθαι: </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="370" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="370" />ἐλθέ, φάνηθι, τὰν ζάχρυσον προβαλοῦ
+<lb />Πηλεΐδα κατ᾽ ὄμμα πέλ-
+<lb />ταν δοχμίαν πεδαίρων
+<lb />σχιστὰν παρ᾽ ἄντυγα, πώλους ἐρεθί-
+<lb />ζων δίβολόν τ᾽ ἄκοντα πάλ-
+<lb rend="displayNum" n="375" />λων. σὲ γὰρ οὔτις ὑποστὰς
+<lb />Ἀργείας ποτ᾽ ἐν Ἥ-
+<lb />ρας δαπέδοις χορεύσει:
+<lb rend="displayNum" n="377b" />ἀλλά νιν ἅδε γᾶ
+<lb />καπφθίμενον Θρῃκὶ μόρῳ
+<lb rend="displayNum" n="378b" />φίλτατον ἄχθος οἴσει.</p></sp></div2>
+</div1>
+</body></text></TEI.2>

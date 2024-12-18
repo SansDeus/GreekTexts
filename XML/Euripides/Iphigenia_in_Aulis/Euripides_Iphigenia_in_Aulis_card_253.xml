@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="253" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="3" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />Βοιωτῶν δ᾽ ὅπλισμα πόντιον
+<lb />πεντήκοντα νῆας εἰδόμαν
+<lb rend="displayNum" n="255" />σημείοισιν ἐστολισμένας:
+<lb />τοῖς δὲ Κάδμος ἦν
+<lb />χρύσεον δράκοντ᾽ ἔχων
+<lb />ἀμφὶ ναῶν κόρυμβα:
+<lb />Λήιτος δ᾽ ὁ γηγενὴς
+<lb rend="displayNum" n="260" />ἆρχε ναΐου στρατοῦ:
+<lb />Φωκίδος δ᾽ ἀπὸ χθονὸς
+<lb />Λοκρᾶς τε τοῖσδ᾽ ἴσας ἄγων
+<lb />ναῦς <add>ἦλθ᾽</add> Οἰλέως τόκος κλυτὰν
+<lb />Θρονιάδ᾽ ἐκλιπὼν πόλιν.
+</p></sp></div2></div1></body></text></TEI.2>

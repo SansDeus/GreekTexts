@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="407" unit="card" /></p></sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Ἔποψ</speaker><p><lb />καλεῖς δὲ τοῦ κλύειν θέλων;</p></sp>
+<sp>
+<speaker>Χορός</speaker><p><lb />τίνες ποθ᾽ οἵδε καὶ πόθεν;</p></sp>
+<sp>
+<speaker>Ἔποψ</speaker><p><lb />ξείνω σοφῆς ἀφ᾽ Ἑλλάδος.</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="410" />τύχη δὲ ποία κομίζει
+<lb />ποτ᾽ αὐτὼ πρὸς ὄρνιθας
+<lb />ἐλθεῖν;</p></sp>
+<sp>
+<speaker>Ἔποψ</speaker><p>
+ἔρως
+<lb />βίου διαίτης τε καὶ
+<lb />σοῦ ξυνοικεῖν τέ σοι
+<lb rend="displayNum" n="415" />καὶ ξυνεῖναι τὸ πᾶν.</p></sp>
+<sp><speaker>Χορός</speaker><p><lb />τί φῄς;
+<lb />λέγουσι δὴ τίνας λόγους;</p></sp>
+<sp>
+<speaker>Ἔποψ</speaker><p><lb />ἄπιστα καὶ πέρα κλύειν.</p></sp>
+<sp>
+<speaker>Χορός</speaker><p><lb />ὁρᾷ τι κέρδος ἐνθάδ᾽ ἄξιον
+<lb />μονῆς, ὅτῳ πέποιθ᾽
+<lb />ἐμοὶ ξυνὼν
+<lb rend="displayNum" n="420" />κρατεῖν ἂν ἢ τὸν ἐχθρὸν ἢ
+<lb />φίλοισιν ὠφελεῖν ἔχειν;</p></sp>
+<sp>
+<speaker>Ἔποψ</speaker><p><lb />λέγει μέγαν τιν᾽ ὄλβον οὔτε
+<lb />λεκτὸν οὔτε πιστόν: ὡς
+<lb />σὰ γὰρ <add>τὰ</add> πάντα ταῦτα καὶ
+<lb rend="displayNum" n="425" />τὸ τῇδε καὶ τὸ κεῖσε καὶ
+<lb />τὸ δεῦρο προσβιβᾷ λέγων.</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />πότερα μαινόμενος;</p></sp>
+<sp>
+<speaker>Ἔποψ</speaker><p>
+<lb />ἄφατον ὡς φρόνιμος.</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ἔνι σοφόν τι φρενί;</p></sp>
+<sp>
+<speaker>Ἔποψ</speaker><p>
+<lb rend="displayNum" n="430" />πυκνότατον κίναδος,
+<lb />σόφισμα κύρμα τρῖμμα παιπάλημ᾽ ὅλον.</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />λέγειν λέγειν κέλευέ μοι.
+<lb />κλύων γὰρ ὧν σύ μοι λέγεις
+<lb />λόγων ἀνεπτέρωμαι.</p></sp></div2></div1></body></text></TEI.2>

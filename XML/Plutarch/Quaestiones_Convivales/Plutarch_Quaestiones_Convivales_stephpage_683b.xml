@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="7" org="uniform" sample="complete"><div3 type="section" n="6" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-683b" n="683b" /> προαιρετικὸν ἵνα μή με δόξητε πόρρω νυκτῶν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">νυκτῶν</foreign> ηερωερδενυς: <foreign lang="greek">βυκτῶν
+                              οὐσῶν</foreign></note> ὑμῖν ἐπάγοντα φάσματα καὶ εἴδωλα
+                        πεπνυμένα καὶ φρονοῦντα <milestone unit="tlnum" n="10" /> μορμολύττεσθαι
+                        καὶ διαταράττειν. ἕωθεν οὖν, ἐὰν δοκῇ, περὶ τούτων
+                        σκεψώμεθα.</q>
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="8" org="uniform" sample="complete">
+               <head> Διὰ τί τὴν μηλέαν <q direct="unspecified">
+                     <q direct="unspecified">ἀγλαόκαρπον</q> ὁ</q> ποιητὴς εἶπεν, Ἐμπεδοκλῆς δ᾽ <q direct="unspecified">ὑπέρφλοια
+                        <note resp="ed" place="unspecified" anchored="yes">ιν λεμματε προ <foreign lang="greek">ὑπέρφλοια</foreign> δαντ <foreign lang="greek">ὑπερφυᾶ</foreign> μει</note></q> τὰ μῆλα.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="15" />
+                  <p>ἑστιωμένων ἡμῶν ποτ᾽ ἐν Χαιρωνείᾳ καὶ παρατεθείσης παντοδαπῆς
+                     ὀπώρας, ἐπῆλθέ τινι τῶν </p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="4" org="uniform" sample="complete"><div2 type="chapter" n="9" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-899f" n="899f" />
+               <p>οἱ Στωικοὶ τὰς μὲν αἰσθήσεις ἀληθεῖς, τῶν δὲ φαντασιῶν τὰς μὲν ἀληθεῖς τὰς δὲ ψευδεῖς.
+</p>
+               <p>Ἐπίκουρος πᾶσαν αἴσθησιν καὶ πᾶσαν φαντασίαν
+ἀληθῆ, τῶν δὲ δοξῶν τὰς μὲν ἀληθεῖς τὰς δὲ
+<milestone unit="tlnum" n="10" /> ψευδεῖς: καὶ ἡ μὲν αἴσθησις μοναχῶς ψευδοποιεῖται κατὰ,τὰ νοητά, ἡ δὲ φαντασία διχῶς καὶ γὰρ αἰσθητῶν ἔστι φαντασία καὶ νοητῶν. 
+</p>
+               <p>Ἐμπεδοκλῆς Ἡρακλείδης παρὰ τὰς συμμετρίας
+τῶν πόρων τὰς κατὰ μέρος αἰσθήσεις γίνεσθαι, τοῦ
+<milestone unit="tlnum" n="15" />
+οἰκείου τῶν αἰσθητῶν ἑκάστῃ ἁρμόζοντος.</p>
+            </div2>
+            <div2 type="chapter" n="10" org="uniform" sample="complete">
+               <head> Πόσαι εἰσὶν αἱ αἰσθήσεις.</head>
+               </div2></div1></body></text></TEI.2>

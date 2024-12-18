@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><milestone ed="p" n="131" unit="card" />
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />τάδε δοκεῖ, τάδε μεταθέμενος νόει.
+<lb />σφαλερὰ δ᾽ οὐ φιλῶ στρατηγῶν κράτη.
+<lb />τί γὰρ ἄμεινον ἢ
+<lb />ταχυβάταν νεῶν κατόπταν μολεῖν
+<lb rend="displayNum" n="135" />πέλας ὅ τί ποτ᾽ ἄρα δαΐοις
+<lb />πυρὰ κατ᾽ ἀντίπρῳρα ναυστάθμων δαίεται;
+</p></sp></div2></div1></body></text></TEI.2>

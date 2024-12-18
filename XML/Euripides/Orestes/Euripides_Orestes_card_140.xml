@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="140" unit="card" />
+</p></sp>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="140" />σῖγα σῖγα, λεπτὸν ἴχνος ἀρβύλης
+<lb />τίθετε, μὴ κτυπεῖτ᾽.</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb />ἀποπρὸ βᾶτ᾽ ἐκεῖσ᾽, ἀποπρό μοι κοίτας.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ἰδού, πείθομαι.</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb rend="displayNum" n="145" />ἆ ἆ σύριγγος ὅπως πνοὰ
+<lb />λεπτοῦ δόνακος, ὦ φίλα, φώνει μοι.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ἴδ᾽, ἀτρεμαῖον ὡς ὑπόροφον φέρω
+<lb />βοάν.</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+ναί, οὕτως:
+<lb />κάταγε κάταγε, πρόσιθ᾽ ἀτρέμας, ἀτρέμας ἴθι:
+<lb rend="displayNum" n="150" />λόγον ἀπόδος ἐφ᾽ ὅ τι χρέος ἐμόλετέ ποτε.
+<lb />χρόνια γὰρ πεσὼν ὅδ᾽ εὐνάζεται.
+</p></sp></div2></div1></body></text></TEI.2>

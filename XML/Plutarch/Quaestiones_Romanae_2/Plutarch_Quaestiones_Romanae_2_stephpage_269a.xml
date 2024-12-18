@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="21" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-269a" n="269a" /> γὰρ εὐθαρσὴς καὶ γαῦρός ἐστι καὶ τὸ
+               ῥύγχος οὕτως ἔχει κραταιόν, ὥστε δρῦς ἀνατρέπειν, ὅταν κόπτων
+                  <milestone unit="tlnum" n="10" /> πρὸς τὴν ἐντεριώνην ἐξίκηται. </p>
+         </div1>
+         <div1 type="section" n="22" org="uniform" sample="complete">
+            <p>
+               <q direct="unspecified">διὰ τί τὸν Ἰανὸν διπρόσωπον οἴονται γεγονέναι καὶ γράφουσιν οὕτω
+                  καὶ πλάττουσιν</q> πότερον ὅτι τῷ μὲν γένει Ἕλλην ἐκ Περραιβίας
+               ἦν, ὡς ἱστοροῦσιν, διαβὰς δ᾽ εἰς Ἰταλίαν καὶ συνοικήσας τοῖς <milestone unit="tlnum" n="15" /> αὐτόθι βαρβάροις μετέβαλε καὶ γλῶτταν καὶ δίαιταν
+               ἢ μᾶλλον ὅτι τοὺς; περὶ τὴν Ἰταλίαν αὐτὸς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὐτὸς</foreign>]
+                     <foreign lang="greek">ἀνθρώπους</foreign> αβρεσξηιυς</note> ἀγρίοις καὶ
+               ἀνόμοις χρωμένους ἔθεσιν εἰς ἕτερον βίου σχῆμα, πείσας γεωργεῖν καὶ
+               πολιτεύεσθαι, μετέβαλε καὶ μετεκόσμησε; <milestone unit="tlnum" n="20" />
+            </p>
+         </div1>
+         <div1 type="section" n="23" org="uniform" sample="complete">
+            <p>
+               <q direct="unspecified">διὰ τί τὰ πρὸς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πρὸς</foreign>] <foreign lang="greek">περὶ</foreign> ϝιτ.
+                     νυμ. ξ. 12</note> τὰς ταφὰς πιπράσκουσιν </q></p></div1></body></text></TEI.2>

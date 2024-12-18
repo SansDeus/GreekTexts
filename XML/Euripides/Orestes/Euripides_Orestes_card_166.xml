@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="166" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ὁρᾷς; ἐν πέπλοισι κινεῖ δέμας.</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb />σὺ γάρ νιν, ὦ τάλαινα,
+<lb />θωΰξασ᾽ ἔβαλες ἐξ ὕπνου.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />εὕδειν μὲν οὖν ἔδοξα.</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb rend="displayNum" n="170" />οὐκ ἀφ᾽ ἡμῶν, οὐκ ἀπ᾽ οἴκων
+<lb />πάλιν ἀνὰ πόδα σὸν εἱλίξεις
+<lb />μεθεμένα κτύπου;</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ὑπνώσσει.</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+λέγεις εὖ.
+<lb />πότνια, πότνια νύξ,
+<lb rend="displayNum" n="175" />ὑπνοδότειρα τῶν πολυπόνων βροτῶν,
+<lb rend="displayNum" n="178" />ἐρεβόθεν ἴθι, μόλε μόλε κατάπτερος
+<lb />τὸν Ἀγαμεμνόνιον ἐπὶ δόμον.
+<lb rend="displayNum" n="180" />ὑπὸ γὰρ ἀλγέων ὑπό τε συμφορᾶς
+<lb />διοιχόμεθ᾽, οἰχόμεθα. κτύπον ἠγάγετ᾽: οὐχὶ σῖγα
+<lb />σῖγα φυλασσομένα στόματος
+<lb rend="displayNum" n="185" />ἄνα κέλαδον ἀπὸ λέχεος ἥ-
+<lb />συχον ὕπνου χάριν παρέξεις, φίλα;
+</p></sp></div2></div1></body></text></TEI.2>

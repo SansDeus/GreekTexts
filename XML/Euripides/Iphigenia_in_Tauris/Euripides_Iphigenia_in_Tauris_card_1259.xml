@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1259" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />Θέμιν δ᾽ ἐπεὶ γᾶς ἰὼν
+<lb rend="displayNum" n="1260" />παῖδ᾽ ἀπενάσσατο <add>Πυθῶνος</add> ἀπὸ ζαθέων
+<lb />χρηστηρίων, νύχια
+<lb />Χθὼν ἐτεκνώσατο φάσματ᾽ ὀ<add>νείρων</add>,
+<lb />οἳ πολέσιν μερόπων τά τε πρῶτα, τά τ᾽
+<lb rend="displayNum" n="1265" />ἔπειθ᾽, ὅσσα τ᾽ ἔμελλε τυχεῖν,
+<lb />ὕπνου κατὰ δνοφερὰς γᾶς εὐ-
+<lb />νὰς ἔφραζον: Γαῖα δὲ τὰν
+<lb />μαντεῖον ἀφείλετο τι-
+<lb />μὰν Φοῖβον, φθόνῳ θυγατρός.
+<lb rend="displayNum" n="1270" />ταχύπους δ᾽ ἐς Ὄλυμπον ὁρ-
+<lb />μαθεὶς ἄναξ
+<lb />χέρα παιδνὸν ἕλιξεν ἐκ
+<lb />Διὸς θρόνων
+<lb />Πυθίων δόμων χθονίαν ἀφελεῖν μῆ-
+<lb />νιν θεᾶς. <del status="unremarkable">νυχίους τ᾽ ἐνοπὰς.</del>
+<lb />γέλασε δ᾽, ὅτι τέκος ἄφαρ ἔβα
+<lb rend="displayNum" n="1275" />πολύχρυσα θέλων λατρεύματα σχεῖν:
+<lb />ἐπὶ δ᾽ ἔσεισεν κόμαν, παῦσαι νυχίους ἐνοπάς,
+<lb />ἀπὸ δ᾽ ἀλαθοσύναν νυκτωπὸν ἐξεῖλεν βροτῶν,
+<lb rend="displayNum" n="1280" />καὶ τιμὰς πάλιν θῆκε Λοξίᾳ,
+<lb />πολυάνορι δ᾽ ἐν ξενόεντι θρόνῳ θάρση βροτοῖς
+<lb />θεσφάτων ἀοιδαῖς.</p></sp></div2>
+</div1>
+</body></text></TEI.2>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Lyric-Scene" org="uniform" sample="complete"><div2 type="iambics" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1037" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἁνὴρ ἀνηύρηκέν τι ταῖς
+<lb />σπονδαῖσιν ἡδύ, κοὐκ ἔοικεν
+<lb rend="displayNum" n="1039" />οὐδενὶ μεταδώσειν.</p></sp>
+<sp><speaker>Δικαιόπολις</speaker><p>
+<lb />κατάχει σὺ τῆς χορδῆς τὸ μέλι, τὰς σηπίας στάθευε.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ἤκουσας ὀρθιασμάτων;</p></sp>
+<sp><speaker>Δικαιόπολις</speaker><p>
+ὀπτᾶτε τἀγχέλεια.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ἀποκτενεῖς λιμῷ 'μὲ καὶ
+<lb rend="displayNum" n="1045" />τοὺς γείτονας κνίσῃ τε καὶ
+<lb />φωνῇ τοιαῦτα λάσκων.
+</p></sp></div2></div1></body></text></TEI.2>

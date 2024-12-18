@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="990" unit="card" />
+</p></sp></div2>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Εὐάδνη</speaker><p>
+<lb rend="displayNum" n="990" />τί φέγγος, τίν᾽ αἴγλαν
+<lb />ἐδίφρευε τόθ᾽ ἅλιος
+<lb />σελάνα τε κατ᾽ αἰθέρα,
+<lb />†λαμπάδ᾽ ἵν᾽ ὠκυθόαι νύμφαι†,
+<lb />ἱππεύουσι δι᾽ ὀρφναίας,
+<lb rend="displayNum" n="995" />ἁνίκα <add>γάμων</add> γάμων
+<lb />τῶν ἐμῶν πόλις Ἄργους
+<lb />ἀοιδάς, εὐδαιμονίας,
+<lb />ἐπύργωσε καὶ γαμέτα
+<lb />χαλκεοτευχοῦς, αἰαῖ, Καπανέως.
+<lb rend="displayNum" n="1000" />πρός σ᾽ ἔβαν δρομὰς ἐξ ἐμῶν
+<lb />οἴκων ἐκβακχευσαμένα,
+<lb />πυρᾶς φῶς τάφον τε
+<lb />βατεύσουσα τὸν αὐτόν,
+<lb />ἐς Ἅιδαν καταλύσουσ᾽ ἔμμοχθον
+<lb rend="displayNum" n="1005" />βίοτον αἰῶνός τε πόνους:
+<lb />ἥδιστος γάρ τοι θάνατος
+<lb />συνθνῄσκειν θνῄσκουσι φίλοις,
+<lb />εἰ δαίμων τάδε κραίνοι.
+</p></sp></div2></div1></body></text></TEI.2>

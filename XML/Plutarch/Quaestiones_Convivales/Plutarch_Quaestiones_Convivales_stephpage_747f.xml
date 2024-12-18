@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="15" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-747f" n="747f" />
+                     <quote rend="blockquote">
+                        <l>καὶ Θέμιν αἰδοίην ἑλικοβλέφαρὸν τ᾽ Ἀφροδίτην </l> <note resp="ed" place="unspecified" anchored="yes">ηες. τηεογ. 16</note>
+                        <l>Ἥρην <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἡβην</foreign> ηεσιοδυς</note> τε χρυσοστέφανον καλήν τε Διώνην:</l>
+                     </quote> καὶ <quote rend="blockquote">
+                        <l>Ἕλληνος <note resp="ed" place="unspecified" anchored="yes">βασιλεενσις: <foreign lang="greek">ἕλληνες</foreign></note> δ᾽ ἐγένοντο θεμιστοπόλοι βασιλῆες <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">θεμιστοπόλου βασιλῆος</foreign> τζετζες. <foreign lang="greek">φιλοπτολέμου βασιλῆος</foreign> κινκελιυς εχ σξηολ. ϝετ. αδ λψξοπηρ.</note> <note resp="ed" place="unspecified" anchored="yes">ιδ. φραγμ. 27</note>, <milestone unit="tlnum" n="15" />
+                        </l>
+                        <l>Δῶρός τε ,Ξοῦθός τε καὶ Αἴολος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἀίολος</foreign> *: <foreign lang="greek">αἰόλος</foreign></note> ἱππιοχάρμης</l>
+                     </quote> εἰ δὲ μή, τοῖς ἄγαν πεζοῖς καὶ κακομέτροις, ὡς τὰ τοιαῦτα
+                        <quote rend="blockquote">ἐγένοντο τοῦ μὲν Ἡρακλῆς τοῦ δ᾽
+                           Ἴφικλος <note resp="ed" place="unspecified" anchored="yes">ιβ. εμ. ιδεμ ῾εχ σξηολ. αβ 11. <foreign lang="greek">Ξ</foreign> 323᾿: <foreign lang="greek">ἴφιτος</foreign> ξφ. π. 285φ ετ ευδοξ. ϝιολ. ῾εδ. φλαξη.᾿ π. 336</note>:</quote> <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 915</note> καί <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καὶ</foreign> ξοβετυς</note> <milestone unit="tlnum" n="20" />
+                     <quote rend="blockquote">
+                        <l>τῆς δὲ πατὴρ καὶ ἀνὴρ καὶ παῖς βασιλεῖς, καὶ ἀδελφοί, <note resp="ed" place="unspecified" anchored="yes">επιγραμμα δε ολψμπιαδε νον ινϝενι ιν αντηολογιις</note>
+                              </l></quote></p></div3></div2></div1></body></text></TEI.2>

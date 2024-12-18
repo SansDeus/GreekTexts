@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="277" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="4" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />Αἰνιάνων δὲ δωδεκάστολοι
+<lb />νᾶες ἦσαν, ὧν ἄναξ
+<lb />Γουνεὺς ἆρχε: τῶνδε δ᾽ αὖ πέλας
+<lb rend="displayNum" n="280" />Ἤλιδος δυνάστορες,
+<lb />οὓς Ἐπειοὺς ὠνόμαζε πᾶς λεώς:
+<lb />Εὔρυτος δ᾽ ἄνασσε τῶνδε,
+<lb />λευκήρετμον δ᾽ Ἄρη
+<lb />Τάφιον ἦγεν, ὧν Μέγης ἄνασσε,
+<lb rend="displayNum" n="285" />Φυλέως λόχευμα,
+<lb />τὰς Ἐχίνας λιπὼν
+<lb />νήσους ναυβάταις ἀπροσφόρους.
+</p></sp></div2></div1></body></text></TEI.2>

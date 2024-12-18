@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="7" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-680f" n="680f" /> καὶ ἀπανθεῖ
+                        τῶν πτίλων μυδώντων, οὕτως οὐδὲν ἀπέχει καὶ ἀνθρώπου ψαῦσιν
+                        τὴν μὲν ὠφέλιμον εἶναι τὴν δ᾽ ἀπηνῆ καὶ βλαβεράν: τὸ δὲ καὶ
+                           <milestone unit="tlnum" n="5" /> προσβλεφθέντας ἀδικεῖσθαι συμβαίνει
+                        μὲν ὥσπερ εἴρηκα, τῷ δὲ τὴν αἰτίαν ἔχειν δυσθήρατον
+                        ἀπιστεῖται.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>
+                     <q direct="unspecified">καὶ μήν</q> ἔφην ἐγώ <q direct="unspecified">τρόπον τινὰ τῆς αἰτίας αὐτὸς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὐτὸς</foreign> χ: <foreign lang="greek">αὐτοῖς</foreign></note>
+                        ἴχνος τι καὶ τρίβον ἀνεύρηκας, ἐπὶ τὰς ἀπορροὰς <note resp="ed" place="unspecified" anchored="yes">*: <foreign lang="greek">ἀπορροίας</foreign></note>
+                        <milestone unit="tlnum" n="10" /> τῶν σωμάτων ἀφικόμενος: καὶ γὰρ ἡ
+                        ὀσμὴ καὶ ἡ φωνὴ καὶ τὸ ῥεῦμα τῆς ἀναπνοῆς ἀποφοραὶ τινές
+                        εἰσι τῶν ζῴων καὶ μέρη κινοῦντα τὰς αἰσθήσεις, </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" n="82" org="uniform" sample="complete"><div2 type="section" n="11" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-200e" n="200e" /> πόλεως διαπλάσας
+                  καὶ τοῦτο Καρχηδόνα προσειπὼν προύθηκε διαρπάσαι τοῖς παροῦσι: καὶ
+                  πυνθανομένου <milestone unit="tlnum" n="10" /> τοῦ νεανίσκου τὴν αἰτίαν δι᾽
+                  ἣν ἀφῄρηται τὸν ἵππον, <q direct="unspecified">ἐμοῦ γάρ</q> ἔφη <q direct="unspecified">πρότερος Καρχηδόνα
+                     διήρπασας.</q>
+               </p>
+            </div2>
+            <div2 type="section" n="12" org="uniform" sample="complete">
+               <p>Γάιον δὲ Λικίνιον ἰδὼν παρερχόμενον <q direct="unspecified">οἶδα</q> ἔφη <q direct="unspecified">τοῦτον
+                     ἐπιωρκηκότα τὸν ἄνδρα: μηδενὸς δὲ, κατηγοροῦντος, οὐ δύναμαι
+                     κατήγορος αὐτὸς εἶναι <milestone unit="tlnum" n="15" /> καὶ δικαστής.</q>
+               </p>
+            </div2>
+            <div2 type="section" n="13" org="uniform" sample="complete">
+               <p>ἐκπεμφθέντα δ᾽ αὐτὸν ὑπὸ τῆς βουλῆς τρίτον, ὥς φησι Κλειτόμαχος,
+                  <quote rend="blockquote"> ἀνθρώπων ὕβριν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὕβριν</foreign> π. 787α: <foreign lang="greek">πόλεων</foreign></note> τε καὶ εὐνομίην ἐφορῶντα, <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">π</foreign> 487</note>
+                  </quote> πόλεων ἐθνῶν βασιλέων ἐπίσκοπον, ὡς εἰς Ἀλεξάνδρειαν
+                     <milestone unit="tlnum" n="20" />
+                  </p></div2></div1></body></text></TEI.2>

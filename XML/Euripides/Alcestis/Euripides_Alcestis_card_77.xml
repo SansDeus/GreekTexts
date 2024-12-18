@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><milestone ed="p" n="77" unit="card" />
+</sp></div2>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός α</speaker>
+<l>τί ποθ᾽ ἡσυχία πρόσθεν μελάθρων;</l>
+<l>τί σεσίγηται δόμος Ἀδμήτου;</l></sp>
+<sp><speaker>Χορός β</speaker>
+<l>ἀλλ᾽ οὐδὲ φίλων πέλας &lt;ἔστ᾽&gt; οὐδείς,</l>
+<l n="80">ὅστις ἂν εἴποι πότερον φθιμένην</l>
+<l>χρὴ βασίλειαν πενθεῖν ἢ ζῶσ᾽</l>
+<l>ἔτι φῶς λεύσσει Πελίου τόδε παῖς</l>
+<l>Ἄλκηστις, ἐμοὶ πᾶσί τ᾽ ἀρίστη</l>
+<l>δόξασα γυνὴ</l>
+<l n="85">πόσιν εἰς αὑτῆς γεγενῆσθαι.</l>
+</sp></div2></div1></body></text></TEI.2>

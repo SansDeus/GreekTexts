@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parabasis" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="797" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="797" />τοιάδε χρὴ Χαρίτων δαμώματα καλλικόμων
+<lb />τὸν σοφὸν ποιητὴν
+<lb rend="displayNum" n="800" />ὑμνεῖν, ὅταν ἠρινὰ μὲν φωνῇ χελιδὼν
+<lb />ἑζομένη κελαδῇ, χορὸν δὲ μὴ 'χῃ Μόρσιμος
+<lb />μηδὲ Μελάνθιος, οὗ δὴ
+<lb rend="displayNum" n="805" />πικροτάτην ὄπα γηρύσαντος ἤκουσ᾽
+<lb />ἡνίκα τῶν τραγῳδῶν
+<lb />τὸν χορὸν εἶχον ἁδελφός
+<lb />τε και αὐτός, ἄμφω
+<lb rend="displayNum" n="810" />Γοργόνες ὀψοφάγοι βατιδοσκόποι Ἅρπυιαι,
+<lb />γραοσόβαι μιαροὶ τραγομάσχαλοι ἰχθυολῦμαι:
+<lb rend="displayNum" n="815" />ὧν καταχρεμψαμένη μέγα καὶ πλατὺ
+<lb />Μοῦσα θεὰ μετ᾽ ἐμοῦ ξύμπαιζε τὴν ἑορτήν.
+</p></sp></div2></div1></body></text></TEI.2>

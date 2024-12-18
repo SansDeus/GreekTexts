@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 n="10a" type="Book" org="uniform" sample="complete">
+                <head>
+                    <foreign lang="la">Incerta</foreign>
+                </head>
+                <p>
+                    <milestone n="1" unit="chapter" /><milestone n="1" unit="section" /><milestone n="FR10A.1" ed="P" unit="fragment" /><cit><quote>τὸ τελευταῖον πολλαῖς
+                    γενεαῖς ὕστερον ἐκ τῆς Ἰταλίας τὸ τῶν Σικελῶν ἔθνος πανδημεὶ
+                    περαιωθὲν εἰς τὴν Σικελίαν τὴν ὑπὸ τῶν Σικανῶν ἐκλειφθεῖσαν χώραν
+                    κατῴκησαν. ἀεὶ δὲ τῇ πλεονεξίᾳ προβαινόντων τῶν Σικελῶν, καὶ τὴν
+                    ὅμορον πορθούντων, ἐγένοντο πόλεμοι πλεονάκις αὐτοῖς πρὸς τοὺς
+                    Σικανούς, ἕως συνθήκας ποιησάμενοι συμφώνους ὅρους ἔθεντο τῆς
+                    χώρας: περὶ ὧν τὰ κατὰ μέρος ἐν τοῖς οἰκείοις χρόνοις
+                        ἀναγράψομεν.</quote> <bibl default="NO">διοδ. 5.6.3-4.</bibl></cit>
+                    <milestone n="2" unit="chapter" /><milestone n="1" unit="section" /><milestone n="FR10A.2" ed="P" unit="fragment" /><milestone ed="P" unit="para" />Διόδωρος μέντοι διαφορὰν τούτων οἶδεν ἐν οἷς λέγει, Σικανῶν καὶ
+                        Σικελῶν.<bibl default="NO">ευστατηιυς, <title>ξομμενταρψ ον τηε
+                        οδψσσεψ,</title> βοοκ 20, π. 1896.</bibl>
+                    <milestone n="2" unit="section" /><milestone n="FR10A.3" ed="P" unit="fragment" /><milestone ed="P" unit="para" />Διόδωρος δέ που τῶν δεκάτων βιβλίων
+                    εἰπὼν περί τε Σικελῶν καὶ Σικανῶν διαφορὰν οἶδεν, ὡς καὶ
+                    προερρέθη, Σικελοῦ καὶ Σικανοῦ.<bibl default="NO">ευστατηιυς,
+                            <title>ξομμενταρψ ον τηε οδψσσεψ,</title> βοοκ 24, π. 1962.</bibl>
+                    <milestone n="3" unit="chapter" /><milestone n="1" unit="section" /><milestone n="FR10A.4" ed="P" unit="fragment" /><milestone ed="P" unit="para" />Διόδωρος δὲ ὁ Σικελὸς καὶ ὁ Ὀππιανὸς τὴν Νεάπολιν ὑφ᾽
+                    Ἡρακλέους οἰκισθῆναί φασι κτισθῆναι.<bibl default="NO">τζετζες, ον τηε
+                            <title>αλεχανδρα</title> οφ λψξοπηρον, ϝ. 717.</bibl>
+                    <milestone n="4" unit="chapter" /><milestone n="1" unit="section" /><milestone n="FR10A.5" ed="P" unit="fragment" /><milestone ed="P" unit="para" />καὶ τὸ
+                    Παλλάδιον δὲ τῆς Ἀθηνᾶς τοιοῦτον ἦν τρίπηχυ, ξύλινον, ἐξ οὐρανοῦ
+                    καταπεσόν, ὥς φασιν, ἐν Πεσινοῦντι τῆς Φρυγίας, ὅθεν ὁ Διόδωρος
+                    καὶ Δίων τὸν τόπον κληθῆναί φασιν.<bibl default="NO">ευδοξια,
+                            <title>ϝιολαριυμ,</title> 322.</bibl>
+                    <milestone n="5" unit="chapter" /><milestone n="1" unit="section" /><milestone n="FR10A.6" ed="P" unit="fragment" /><milestone ed="P" unit="para" />καὶ
+                    Διόδωρος ἄκραν τινὰ τῶν Ἄλπεων κορυφὴν τοῦ σύμπαντος ὄρους
+                    δοκοῦσαν οὐρανοῦ ῥάχιν ἱστορεῖ παρὰ τῶν ἐγχωρίων καλεῖσθαι.<bibl default="NO">ευστατηιυς, λοξ. ξιτ. βοοκ 1, π. 1390.</bibl></p>
+            </div1></body></text></TEI.2>

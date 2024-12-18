@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="123" unit="card" />
+</p></sp>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />εὐφαμεῖτ᾽, ὦ
+<lb />πόντου δισσὰς συγχωρούσας
+<lb rend="displayNum" n="125" />πέτρας Ἀξείνου ναίοντες.
+<lb />ὦ παῖ τᾶς Λατοῦς,
+<lb />Δίκτυνν᾽ οὐρεία,
+<lb />πρὸς σὰν αὐλάν, εὐστύλων
+<lb />ναῶν χρυσήρεις θριγκούς,
+<lb rend="displayNum" n="130" />πόδα παρθένιον ὅσιον ὁσίας
+<lb />κλῃδούχου δούλα πέμπω,
+<lb />Ἑλλάδος εὐίππου πύργους
+<lb rend="displayNum" n="134" />καὶ τείχη χόρτων τ᾽ εὐδένδρων
+<lb rend="displayNum" n="135" />ἐξαλλάξασ᾽ Εὐρώπαν,
+<lb />πατρῴων οἴκων ἕδρας.
+<lb />ἔμολον: τί νέον; τίνα φροντίδ᾽ ἔχεις;
+<lb />τί με πρὸς ναοὺς ἄγαγες ἄγαγες,
+<lb />ὦ παῖ τοῦ τᾶς Τροίας πύργους
+<lb rend="displayNum" n="140" />ἐλθόντος κλεινᾷ σὺν κώπᾳ
+<lb />χιλιοναύτα
+<lb />μυριοτευχοῦς Ἀτρείδα; <del status="unremarkable">τῶν κλεινῶν;</del>
+</p></sp></div2></div1></body></text></TEI.2>

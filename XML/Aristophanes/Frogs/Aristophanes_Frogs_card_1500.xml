@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="episode" org="uniform" sample="complete"><div2 type="antistrohe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1500" unit="card" /></p></sp></div2></div1>
+<div1 type="Exodus" org="uniform" sample="complete">
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Πλούτων</speaker><p>
+<lb rend="displayNum" n="1500" />ἄγε δὴ χαίρων Αἰσχύλε χώρει,
+<lb />καὶ σῷζε πόλιν τὴν ἡμετέραν
+<lb />γνώμαις ἀγαθαῖς καὶ παίδευσον
+<lb />τοὺς ἀνοήτους: πολλοὶ δ᾽ εἰσίν:
+<lb />καὶ δὸς τουτὶ Κλεοφῶντι φέρων
+<lb rend="displayNum" n="1505" />καὶ τουτὶ τοῖσι πορισταῖς
+<lb />Μύρμηκί θ᾽ ὁμοῦ καὶ Νικομάχῳ,
+<lb />τόδε δ᾽ Ἀρχενόμῳ:
+<lb />καὶ φράζ᾽ αὐτοῖς ταχέως ἥκειν
+<lb />ὡς ἐμὲ δευρὶ καὶ μὴ μέλλειν:
+<lb rend="displayNum" n="1510" />κἂν μὴ ταχέως ἥκωσιν, ἐγὼ
+<lb />νὴ τὸν Ἀπόλλω στίξας αὐτοὺς
+<lb />καὶ συμποδίσας
+<lb />μετ᾽ Ἀδειμάντου τοῦ Λευκολόφου
+<lb />κατὰ γῆς ταχέως ἀποπέμψω.</p></sp></div2>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Αἰσχύλος</speaker><p>
+<lb rend="displayNum" n="1515" />ταῦτα ποιήσω: σὺ δὲ τὸν θᾶκον
+<lb />τὸν ἐμὸν παράδος Σοφοκλεῖ τηρεῖν
+<lb />καὶ διασῴζειν, ἢν ἄρ᾽ ἐγώ ποτε
+<lb />δεῦρ᾽ ἀφίκωμαι. τοῦτον γὰρ ἐγὼ
+<lb />σοφίᾳ κρίνω δεύτερον εἶναι.
+<lb rend="displayNum" n="1520" />μέμνησο δ᾽ ὅπως ὁ πανοῦργος ἀνὴρ
+<lb />καὶ ψευδολόγος καὶ βωμολόχος
+<lb />μηδέποτ᾽ ἐς τὸν θᾶκον τὸν ἐμὸν
+<lb />μηδ᾽ ἄκων ἐγκαθεδεῖται.</p></sp>
+<sp>
+<speaker>Πλούτων</speaker><p>
+<lb />φαίνετε τοίνυν ὑμεῖς τούτῳ
+<lb rend="displayNum" n="1525" />λαμπάδας ἱεράς, χἄμα προπέμπετε
+<lb />τοῖσιν τούτου τοῦτον μέλεσιν
+<lb />καὶ μολπαῖσιν κελαδοῦντες.</p></sp></div2></div1></body></text></TEI.2>

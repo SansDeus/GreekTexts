@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="iambics" org="uniform" sample="complete"><sp><p><milestone ed="p" n="459" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Ἑρμῆς</speaker><p>
+<lb />ὦ εἶα.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="460" />εἶα μάλα.</p></sp>
+<sp><speaker>Ἑρμῆς</speaker><p>
+<lb />ὦ εἶα.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />εἶα ἔτι μάλα.</p></sp>
+<sp><speaker>Ἑρμῆς</speaker><p>
+<lb />ὦ εἶα, ὦ εἶα.</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb />ἀλλ᾽ οὐχ ἕλκουσ᾽ ἅνδρες ὁμοίως.
+<lb rend="displayNum" n="465" />οὐ ξυλλήψεσθ᾽; οἷ᾽ ὀγκύλλεσθ᾽:
+<lb />οἰμώξεσθ᾽ οἱ Βοιωτοί.</p></sp>
+<sp><speaker>Ἑρμῆς</speaker><p>
+<lb />εἶά νυν.</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb />εἶα ὦ.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb /><add>ἀλλ᾽</add> ἄγετε ξυνανέλκετε καὶ σφώ.</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb rend="displayNum" n="470" />οὔκουν ἕλκω κἀξαρτῶμαι
+<lb />κἀπεμπίπτω καὶ σπουδάζω;</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />πῶς οὖν οὐ χωρεῖ τοὔργον;
+</p></sp></div2></div1></body></text></TEI.2>

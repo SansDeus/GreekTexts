@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="189" unit="card" /></p></sp></div2>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Προμηθεύς</speaker><p>
+<lb />οἶδ᾽ ὅτι τραχὺς καὶ  παρ᾽ ἑαυτῷ
+<lb rend="displayNum" n="190" />τὸ δίκαιον ἔχων Ζεύς. ἀλλ᾽ ἔμπας  <del status="unremarkable">ὀίω</del>
+<lb />μαλακογνώμων
+<lb />ἔσται ποθ᾽, ὅταν ταύτῃ ῥαισθῇ:
+<lb />τὴν δ᾽ ἀτέραμνον στορέσας ὀργὴν
+<lb />εἰς ἀρθμὸν ἐμοὶ καὶ φιλότητα
+<lb rend="displayNum" n="195" />σπεύδων σπεύδοντί ποθ᾽  ἥξει.
+</p></sp></div2></div1></body></text></TEI.2>

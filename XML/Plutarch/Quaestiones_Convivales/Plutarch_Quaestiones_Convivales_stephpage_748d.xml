@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="15" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-748d" n="748d" />καὶ γὰρ αὕτη καὶ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὕτη καὶ</foreign>] <foreign lang="greek">καὶ αὕτη</foreign> ω. <foreign lang="greek">αὕτη</foreign> εμπεριυς</note>
+                     πάνδημόν τινα ποιητικὴν προσεταιρισαμένη τῆς δ᾽ οὐρανίας ἐκπεσοῦσ᾽
+                     ἐκείνης <milestone unit="tlnum" n="5" /> τῶν μὲν ἐμπλήκτων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐμπλήκτων</foreign> *: <foreign lang="greek">ἐκπληκτικῶν</foreign> ξφ. π. 139α. 256φ</note> καὶ ἀνοήτων
+                     κρατεῖ θεάτρων, ὥσπερ τύραννος ὑπήκοον ἑαυτῇ πεποιημένη μουσικὴν
+                     ὀλίγου δεῖν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δεῖν</foreign> *: <foreign lang="greek">τινὰ</foreign></note> ἅπασαν <note resp="ed" place="unspecified" anchored="yes">ιβ. <foreign lang="greek">ἅπασαν</foreign> ω: <foreign lang="greek">πᾶσι</foreign></note>, τὴν δὲ παρὰ τοῖς νοῦν ἔχουσι καὶ θείοις <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">θείοις</foreign>] <foreign lang="greek">ἀστείοις</foreign> γραφιυς</note>
+                     ἀνδράσιν ὡς ἀληθῶς τιμὴν ἀπολώλεκε.</p>
+                  <milestone unit="tlnum" n="10" />
+                  <p>ταῦτα σχεδόν, ὦ Σόσσιε Σενεκίων, τελευταῖα τῶν ἐν τοῖς Μουσείοις
+                     τότε παρ᾽ Ἀμμωνίῳ τῷ ἀγαθῷ φιλολογηθέντων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φιλολογοθέτων</foreign> μει</note>.</p>
+               </div3>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

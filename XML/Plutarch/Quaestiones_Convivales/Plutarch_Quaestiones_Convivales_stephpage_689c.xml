@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="6" org="uniform" sample="complete"><div2 type="chapter" n="3" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-689c" n="689c" /> μὲν φάγωσιν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐὰν
+                           ἐμφάγωσιν, οἱ μὲν διψῶντες οὐ βοηθοῦνται</foreign> δοεηνερυς;
+                        μαλιμ <foreign lang="greek">οἱ μὲν διψῶντες ἐὰν φάγωσιν οὐ
+                           βοηθοῦνται</foreign></note> οἱ διψῶντες, οἱ μὲν οὐ βοηθοῦνται,
+                     τῶν πόρων διὰ λεπτότητα τὴν ξηρὰν τροφὴν μὴ δεχομένων, ἀλλ᾽ ἐπιδεῶν
+                     τοῦ οἰκείου διαμενόντων: οἱ δὲ πεινῶντες ἐὰν πίνωσιν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πίασιν</foreign>̣</note>, ἐνδυόμενα τὰ ὑγρὰ <milestone unit="tlnum" n="5" /> τοῖς μείζοσι πόροις καὶ ἀναπληροῦντα τὰς κενότητας αὐτῶν
+                     ἀνίησι τὸ σφοδρὸν ἄγαν τῆς πείνης.</p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>ἐμοὶ δὲ τὸ μὲν συμβαῖνον ἀληθὲς ἐφαίνετο, τῇ δ᾽ ὑποθέσει τῆς
+                     αἰτίας οὐ προσεῖχον. <q direct="unspecified">καὶ γὰρ εἰ τοῖς πόροις τούτοις</q> ἔφην,
+                        <q direct="unspecified">ὧν ἔνιοι περιέχονται <milestone unit="tlnum" n="10" /> καὶ
+                        ἀγαπῶσι, κατατρήσειέ τις τὴν σάρκα, πλαδαρὰν καὶ τρομώδη καὶ
+                        σαθρὰν ποιήσει <note resp="ed" place="unspecified" anchored="yes">βασιλεενσις: <foreign lang="greek">ποιήσας</foreign> μαλιμ <foreign lang="greek">ἂν ποιήσειει</foreign></note>: τό γε μὴ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τό γε
+                              μὴ</foreign>] φορτ. <foreign lang="greek">τὸ δὲ</foreign> ῾αυτ
+                              <foreign lang="greek">τό τε</foreign>᾿ <foreign lang="greek">μὴ</foreign></note> ταὐτὰ <note resp="ed" place="unspecified" anchored="yes">χ: <foreign lang="greek">ταῦτα</foreign></note> τοῦ
+                        σώματος μόρια τὸ ποτὸν προσδέχεσθαι καὶ τὸ </q></p></div3></div2></div1></body></text></TEI.2>

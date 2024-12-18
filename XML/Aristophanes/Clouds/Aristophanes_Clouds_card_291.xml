@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parodos" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="291" unit="card" /></p></sp></div2>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Σωκράτης</speaker><p><lb />ὦ μέγα σεμναὶ Νεφέλαι φανερῶς ἠκούσατέ μου καλέσαντος.
+<lb />ᾔσθου φωνῆς ἅμα καὶ βροντῆς μυκησαμένης θεοσέπτου;</p></sp>
+<sp>
+<speaker>Στρεψιάδης</speaker><p><lb />καὶ σέβομαί γ᾽ ὦ πολυτίμητοι καὶ βούλομαι ἀνταποπαρδεῖν
+<lb />πρὸς τὰς βροντάς: οὕτως αὐτὰς τετρεμαίνω καὶ πεφόβημαι:
+<lb rend="displayNum" n="295" />κεἰ θέμις ἐστίν, νυνί γ᾽ ἤδη, κεἰ μὴ θέμις ἐστί, χεσείω.</p></sp></div2>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Σωκράτης</speaker><p>
+<lb />οὐ μὴ σκώψει μηδὲ ποιήσεις ἅπερ οἱ τρυγοδαίμονες οὗτοι,
+<lb />ἀλλ᾽ εὐφήμει: μέγα γάρ τι θεῶν κινεῖται σμῆνος ἀοιδαῖς.</p></sp></div2></div1></body></text></TEI.2>

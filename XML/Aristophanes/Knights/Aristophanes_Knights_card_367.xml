@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Agon" org="uniform" sample="complete"><div2 type="epirrheme" org="uniform" sample="complete"><sp><p><milestone ed="p" n="367" unit="card" /></p></sp></div2>
+<div2 type="pnigos" org="uniform" sample="complete">
+<sp><speaker>Κλέων</speaker><p>
+<lb />οἷόν σε δήσω <add>'ν</add> τῷ ξύλῳ.</p></sp>
+<sp><speaker>Ἀλλαντοπώλης</speaker><p>
+<lb />διώξομαί σε δειλίας.</p></sp>
+<sp><speaker>Κλέων</speaker><p>
+<lb />ἡ βύρσα σου θρανεύσεται.</p></sp>
+<sp><speaker>Ἀλλαντοπώλης</speaker><p>
+<lb rend="displayNum" n="370" />δερῶ σε θύλακον κλοπῆς.</p></sp>
+<sp><speaker>Κλέων</speaker><p>
+<lb />διαπατταλευθήσει χαμαί.</p></sp>
+<sp><speaker>Ἀλλαντοπώλης</speaker><p>
+<lb />περικόμματ᾽ ἔκ σου σκευάσω.</p></sp>
+<sp><speaker>Κλέων</speaker><p>
+<lb />τὰς βλεφαρίδας σου παρατιλῶ.</p></sp>
+<sp><speaker>Ἀλλαντοπώλης</speaker><p>
+<lb />τὸν πρηγορεῶνά σοὐκτεμῶ.</p></sp>
+<sp><speaker>Δημοσθένης</speaker><p>
+<lb rend="displayNum" n="375" />καὶ νὴ Δί᾽ ἐμβαλόντες αὐτῷ
+<lb />πάτταλον μαγειρικῶς
+<lb />ἐς τὸ στόμ᾽, εἶτα δ᾽ ἔνδοθεν
+<lb />τὴν γλῶτταν ἐξείραντες αὐτοῦ
+<lb />σκεψόμεσθ᾽ εὖ κἀνδρικῶς
+<lb rend="displayNum" n="380" />κεχηνότος
+<lb />τὸν πρωκτὸν εἰ χαλαζᾷ.</p></sp></div2></div1></body></text></TEI.2>

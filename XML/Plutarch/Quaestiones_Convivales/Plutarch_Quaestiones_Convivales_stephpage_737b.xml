@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-737b" n="737b" /> τραγῳδοῦ γυναικὸς
+                     οὐ προσδεξαμένης αὐτὸν ἐν τῷ συγκαθεύδειν, ὑπογύου τοῦ ἀγῶνος
+                     ὄντος: ἐπεὶ δὲ <milestone unit="tlnum" n="10" /> νικήσας εἰσῆλθε πρὸς
+                     αὐτήν, ἀσπασαμένης καὶ εἰπούσης <quote rend="blockquote">Ἀγαμέμνονος
+                        παῖ, νῦν ἐκεῖν᾽ ἔξεστί σοι.</quote>
+                     <note resp="ed" place="unspecified" anchored="yes">σοπη. ελεξτ. 2</note>
+                  </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <p>ἐκ δὲ τούτου πολλὰ καὶ τῶν ἀκαίρων ἐνίοις ἐπῄει λέγειν, ὡς οὐκ
+                     ἄχρηστον εἰδέναι καὶ φυλάττεσθαι: <milestone unit="tlnum" n="15" /> οἷον
+                     Πομπηίῳ Μάγνῳ φασὶν ἀπὸ τῆς μεγάλης ἐπανήκοντι στρατείας <note resp="ed" place="unspecified" anchored="yes">ρ: <foreign lang="greek">στρατιᾶς</foreign></note> τὸν διδάσκαλον τῆς θυγατρὸς ἀπόδειξιν
+                     διδόντα, βιβλίου κομισθέντος ἐνδοῦναι τῇ παιδὶ τοιαύτην ἀρχήν,
+                        <quote rend="blockquote">ἤλυθες ἐκ πολέμου: ὡς ὤφελες αὐτόθ᾽
+                        ὀλέσθαι. </quote>
+                     <milestone unit="tlnum" n="20" />Κασσίῳ δὲ Λογγίνῳ λόγου προσπεσόντος
+                     ἀδεσπότου, </p></div3></div2></div1></body></text></TEI.2>

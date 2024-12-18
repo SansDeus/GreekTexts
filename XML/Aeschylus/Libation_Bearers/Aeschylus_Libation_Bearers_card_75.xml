@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="75" unit="card" /></p></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="75" />ἐμοὶ δ᾽ —ἀνάγκαν γὰρ ἀμφίπτολιν
+<lb />θεοὶ προσήνεγκαν: （ἐκ γὰρ οἴκων
+<lb />πατρῴων δούλιόν <add>μ᾽</add> ἐσᾶγον αἶσαν）—
+<lb />δίκαια καὶ μὴ δίκαια ἀρχὰς πρέπον
+<lb rend="displayNum" n="80" />βίᾳ φρενῶν αἰνέσαι
+<lb />πικρὸν  στύγος κρατούσῃ.
+<lb />δακρύω δ᾽ ὑφ᾽ εἱμάτων
+<lb />ματαίοισι δεσποτᾶν
+<lb rend="displayNum" n="83b" />τύχαις, κρυφαίοις πένθεσιν παχνουμένη.
+</p></sp></div2></div1></body></text></TEI.2>

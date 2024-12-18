@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-651f" n="651f" /> αὐτοῦ τοῦ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὐτοῦ τοῦ</foreign>] <foreign lang="greek">αὐτοὶ τοῦ</foreign>̣</note> χρίσματος ἐν τῷ
+                        συγκαθεύδειν, κἂν μὴ θίγωσι μηδὲ προσάψωνται τῶν γυναικῶν, διὰ
+                        θερμότητα καὶ μανότητα τοῦ σώματος ἕλκοντος <note resp="ed" place="unspecified" anchored="yes">ποστ <foreign lang="greek">ἕλκοντος</foreign> ιν ϝδ π νυλλα εστ λαξ. σεδ ιν ε 3-4 λιττ.
+                           συππλετ <foreign lang="greek">τῶν ἀνδρῶν ἀπὸ πυκνοῦ καὶ ψυχροῦ
+                              τοῦ τῶν γυναικῶν</foreign> ω</note>.</q>
+                     <gap />
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="5" org="uniform" sample="complete">
+               <head>Εἰ ψυχρότερος τῇ δυνάμει ὁ οἶνος.</head>
+               <milestone unit="tlnum" n="15" />
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>
+                     <q direct="unspecified">οὐ μὴν ἀλλὰ τὸ μὲν περὶ τῶν γυναικῶν</q> ἔφη <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἔφη</foreign> χ:
+                           <foreign lang="greek">ἔφην</foreign></note>
+                     <q direct="unspecified">καὶ πρὸς τοὐναντίον ἀνδρικῶς ἐπικεχείρηται <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οὐ μὴν ἀλλὰ
+                              - ἐπικεχείρηται</foreign>] ηαεξ εχ φινε συπεριορις θυαεστιονις ιν
+                           ηυιυς πρινξιπιο ξολλοξαϝιτ ω</note>. <pb id="v.4.p.114" /> τὸν δ᾽ οἶνον
+                        ἐπιθυμῶ μαθεῖν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μαθεῖν</foreign>] <foreign lang="greek">μαθεῖν</foreign> 11 ε σολυς</note>, ὁπόθεν ὑπόνοιαν </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><milestone ed="p" n="371" unit="card" /></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>εἰρήνα μὲν ἐμοί γ᾽ ἀρέ-</l>
+<l>σκει: σοὶ δ᾽, ὦ κακόφρων ἄναξ,</l>
+<l>λέγω, εἰ πόλιν ἥξεις,</l>
+<l>οὐχ οὕτως ἃ δοκεῖς κυρή-</l>
+<l n="375">σεις: οὐ σοὶ μόνῳ ἔγχος οὐδ᾽</l>
+<l>ἰτέα κατάχαλκος.</l>
+<l>ἀλλ᾽, ὦ πολέμων ἐρα-</l>
+<l>στά, μή μοι δορὶ συνταρά-</l>
+<l>ξῃς τὰν εὖ χαρίτων ἔχου-</l>
+<l n="380">σαν πόλιν, ἀλλ᾽ ἀνάσχου.</l>
+</sp></div2></div1></body></text></TEI.2>

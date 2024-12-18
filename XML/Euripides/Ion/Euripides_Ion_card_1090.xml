@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1090" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="1090" />ὁρᾶθ᾽ ὅσοι δυσκελάδοι-
+<lb />σιν κατὰ μοῦσαν ἰόντες ἀείδεθ᾽ ὕμνοις
+<lb />ἁμέτερα λέχεα καὶ γάμους
+<lb />Κύπριδος ἀθέμιτας ἀνοσίους, ὅσον
+<lb />εὐσεβίᾳ κρατοῦμεν
+<lb rend="displayNum" n="1095" />ἄδικον ἄροτον ἀνδρῶν.
+<lb />παλίμφαμος ἀοιδὰ
+<lb />καὶ μοῦσ᾽ εἰς ἄνδρας ἴτω
+<lb />δυσκέλαδος ἀμφὶ λέκτρων.
+<lb />δείκνυσι γὰρ ὁ Διὸς ἐκ
+<lb rend="displayNum" n="1100" />παίδων ἀμνημοσύναν,
+<lb />οὐ κοινὰν τεκέων τύχαν
+<lb />οἴκοισι φυτεύσας
+<lb />δεσποίνᾳ: πρὸς δ᾽ Ἀφροδί-
+<lb />ταν ἄλλαν θέμενος χάριν
+<lb rend="displayNum" n="1105" />νόθου παιδὸς ἔκυρσεν.
+</p></sp></div2></div1></body></text></TEI.2>

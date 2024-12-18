@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="13" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-742b" n="742b" />
+                        φιλογραμματούντων ὥσπερ ὑμεῖς καὶ φιλοσοφούντων.</q></p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>ὁ μὲν οὖν Σῶσπις ἔφη κυριώτερον εἶναι τὸν τοῦ προκεκλημένου
+                     λόγον, ὥσπερ νόμον: <q direct="unspecified">ἐκεῖνος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐκεῖνος</foreign> μ: <foreign lang="greek">ἐκείνοις</foreign></note> <milestone unit="tlnum" n="5" /> γάρ, ἐφ᾽
+                        οἷς διαγωνιοῦνται, κατήγγειλεν <note resp="ed" place="unspecified" anchored="yes">ιδεμ: <foreign lang="greek">κατήγγειλαν</foreign></note>: οἱ δὲ δεξάμενοι καὶ ὑπακούσαντες
+                        οὐκέτι κύριοι προστιθέντες. ἡ δὲ πρόκλησις οὐ περὶ φόνου καὶ
+                        θανάτου γέγονεν, ἀλλὰ περὶ νίκης καὶ ἣττης: καὶ μάλα δικαίως.
+                        ἔδει γὰρ τὴν γυναῖκα τοῦ κρείττονος εἶναι, <milestone unit="tlnum" n="10" /> κρείττων δ᾽᾽ ὁ νικῶν, ἀποθνήσκειν δὲ πολλάκις συμβαίνει
+                        κἀγαθοῖς <note resp="ed" place="unspecified" anchored="yes">*: <foreign lang="greek">καὶ ἀγαθοῖς</foreign></note> ὑπὸ κακῶν, ὡς ὕστερον Ἀχιλλεὺς </q></p></div3></div2></div1></body></text></TEI.2>

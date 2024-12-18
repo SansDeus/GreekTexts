@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="15" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-110c" n="110c" />
+                                                  <quote rend="blockquote">
+                                                  <l>οἳ θάνον οὐ τὸ ζῆν θέμενοι καλὸν οὐδὲ
+                                                                       τὸ </l> <note resp="ed" place="unspecified" anchored="yes">βεργκ. 3 π. 516</note>
+                                                  <l>θνῄσκειν, </l>
+                                                  <l>ἀλλὰ τὸ ταῦτα καλῶς ἀμφότερ᾽
+                                                  ἐκτελέσαι</l>
+                                                  </quote> πάνυ δὲ καλῶς καὶ ὁ Εὐριπίδης <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Εὐριπίδης</foreign>] συππλ. 1109</note>
+                                                  ἐπὶ τῶν τὰς μακρὰς <milestone unit="tlnum" n="15" /> νοσηλείας ὑπομενόντων φησὶ <quote rend="blockquote">
+                                                  <l> μισῶ δ᾽ ὅσοι χρῄζουσιν ἐκτείνειν βίον, </l>
+                                                  <l>βρωτοῖσι καὶ ποτοῖσι καὶ μαγεύμασι </l>
+                                                  <l> παρεκτρέποντες ὀχετὸν ὥστε μὴ θανεῖν. </l>
+                                                  <l>οὓς χρῆν, ἐπειδὰν μηδὲν ὠφελῶσι γῆν,
+                                                  <milestone unit="tlnum" n="20" />
+                                                  </l>
+                                                  <l>θανόντας ἔρρειν κἀκποδὼν εἶναι
+                                                  νέοις.</l>
+                                                  </quote>
+                                                  </p></div2></div1></body></text></TEI.2>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" n="15" org="uniform" sample="complete"><div2 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-217f" n="217f" />Ἀντίοχος ἐφορεύων
+                  ὡς ἤκουσεν ὅτι Μεσσηνίοις Φίλιππος τὴν χώραν ἔδωκεν, ἠρώτησεν εἰ
+                  καὶ δύναμιν αὐτοῖς παρέσχετο ὥστε μαχομένους περὶ τῆς <milestone unit="tlnum" n="20" /> χώρας κρατεῖν</p>
+            </div2>
+         </div1>
+         <div1 type="chapter" n="16" org="uniform" sample="complete">
+            <head>Ἄρεως</head>
+            <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αρεως.
+                  Ἀρευς</foreign> ξοβετυς: <foreign lang="greek">αρηγεως.
+               ἀρηγεύς</foreign></note>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <p>Ἄρευς, ἐπαινούντων τινῶν οὐκ ἰδίας ἀλλά τινας τῶν ἀλλοτρίων
+                  γυναικῶν, <q direct="unspecified">μὰ τοὺς θεοὺς</q>
+                  <pb id="v.2.p.127" /> εἶπε <q direct="unspecified">περὶ τῶν καλῶν κἀγαθῶν γυναικῶν οὐδένα δεῖ
+                     λόγον εἰκῆ λέγεσθαι, ἀγνοεῖσθαι δ᾽ αὐτὰς τὸ παράπαν, ὁποῖαι
+                     τυγχάνουσι, πλὴν μόνοις τοῖς συμβιοῦσι. <milestone unit="tlnum" n="5" />
+                  </q>
+               </p>
+            </div2>
+            <div2 type="section" n="2" org="uniform" sample="complete">
+               <p>διὰ Σελινοῦντος δέ ποτε τῆς Σικελίας πορευόμενος ἰδὼν ἐπὶ μνήματος;
+                  ἐλεγεῖον ἐπιγεγραμμένον <quote rend="blockquote">
+                     <l> σβεννύντας ποτὲ τούσδε τυραννίδα χάλκεος Ἄρης </l>
+                     <l> εἷλε: Σελινοῦντος δ᾽ ἀμφὶ πύλαις ἔθανον </l>
+                  </quote> , <q direct="unspecified">δικαίως</q> ἔφη <q direct="unspecified">ἀπεθάνετε τυραννίδα καιομένην
+                     ἀποσβεννύναι <milestone unit="tlnum" n="10" /> ἐπιχειρήσαντες: τοὐναντίον
+                     γὰρ ἔδει ὅλην αὐτὴν ἀφεῖναι κατακαῆναι.</q>
+               </p>
+            </div2>
+         </div1>
+         <div1 type="chapter" n="17" org="uniform" sample="complete">
+            <head>Ἀρίστωνος</head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               </div2></div1></body></text></TEI.2>

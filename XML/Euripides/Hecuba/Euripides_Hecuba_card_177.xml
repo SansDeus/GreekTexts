@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" org="uniform" sample="complete"><sp><p><milestone ed="p" n="177" unit="card" /></p></sp></div2>
+<div2 type="mesode" org="uniform" sample="complete">
+<sp><speaker>Πολυξένη</speaker><p>
+<lb />ἰώ:
+<lb />μᾶτερ μᾶτερ τί βοᾷς; τί νέον
+<lb />καρύξασ᾽ οἴκων μ᾽ ὥστ᾽ ὄρνιν
+<lb />θάμβει τῷδ᾽ ἐξέπταξας;</p></sp>
+<sp><speaker>Ἑκάβη</speaker><p>
+<lb rend="displayNum" n="180" />οἴμοι τέκνον.</p></sp>
+<sp><speaker>Πολυξένη</speaker><p>
+<lb />τί με δυσφημεῖς; φροίμιά μοι κακά.</p></sp>
+<sp><speaker>Ἑκάβη</speaker><p>
+<lb />αἰαῖ σᾶς ψυχᾶς.</p></sp>
+<sp><speaker>Πολυξένη</speaker><p>
+<lb />ἐξαύδα: μὴ κρύψῃς δαρόν.
+<lb />δειμαίνω δειμαίνω, μᾶτερ,
+<lb rend="displayNum" n="185" />τί ποτ᾽ ἀναστένεις  <gap /> </p></sp>
+<sp><speaker>Ἑκάβη</speaker><p>
+<lb /><del status="unremarkable">ὦ</del> τέκνον τέκνον μελέας ματρὸς  <gap /> </p></sp>
+<sp><speaker>Πολυξένη</speaker><p>
+<lb />τί <add>δὲ</add> τόδ᾽ ἀγγελεῖς;</p></sp>
+<sp><speaker>Ἑκάβη</speaker><p>
+<lb />σφάξαι σ᾽ Ἀργείων κοινὰ
+<lb />συντείνει πρὸς τύμβον γνώμα
+<lb rend="displayNum" n="190" />Πηλείᾳ γέννᾳ.</p></sp>
+<sp><speaker>Πολυξένη</speaker><p>
+<lb />οἴμοι μᾶτερ, πῶς φθέγγῃ
+<lb />ἀμέγαρτα κακῶν; μάνυσόν μοι,
+<lb />μάνυσον, μᾶτερ.</p></sp>
+<sp><speaker>Ἑκάβη</speaker><p>
+<lb />αὐδῶ, παῖ, δυσφήμους φήμας:
+<lb rend="displayNum" n="195" />ἀγγέλλουσ᾽ Ἀργείων δόξαι
+<lb />ψήφῳ τᾶς σᾶς περί μοι ψυχᾶς.
+</p></sp></div2></div1></body></text></TEI.2>

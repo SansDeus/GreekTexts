@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="4" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-614b" n="614b" /> ἀνὰ χεῖρα πραγμάτων λαβεῖν ἔστι,
+                        πολλὰ μὲν εἰς <milestone unit="tlnum" n="25" /> φιλοσοφίαν παραδείγματα
+                        πολλὰ δ᾽ εἰς εὐσέβειαν ἐχούσας, ἀνδρικῶν τε πράξεων καὶ
+                        μεγαλοθύμων ἐνίας δὲ χρηστῶν καὶ φιλανθρώπων ζῆλον <pb id="v.4.p.7" /> ἐπαγούσας: αἷς ἤν τις ἀνυπόπτως χρώμενος διαπαιδαγωγῇ τοὺς
+                        πίνοντας, οὐ τὰ ἐλάχιστα τῶν κακῶν ἀφαιρήσει τῆς μέθης. οἱ μὲν
+                        οὖν τὰ βούγλωσσα καταμιγνύντες εἰς τὸν οἶνον καὶ τοῖς
+                        ἀποβρέγμασι τῶν περιστερεώνων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">περιστερεώνων</foreign> ιυνιυς:
+                              <foreign lang="greek">ἀριστερέων</foreign></note>
+                        <milestone unit="tlnum" n="5" /> καὶ ἀδιάντων τὰ ἐδάφη ῥαίνοντες, ὡς
+                        τούτων τινὰ τοῖς ἑστιωμένοις εὐθυμίαν καὶ φιλοφροσύνην
+                        ἐνδιδόντων, ἀπομιμούμενοι τὴν Ὁμηρικὴν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ομηρικὴν</foreign>] <foreign lang="greek">δ</foreign> 220</note>
+                        Ἑλένην ὑποφαρμάττουσαν τὸν ἄκρατον, οὐ συνορῶσιν ὅτι </q></p></div3></div2></div1></body></text></TEI.2>

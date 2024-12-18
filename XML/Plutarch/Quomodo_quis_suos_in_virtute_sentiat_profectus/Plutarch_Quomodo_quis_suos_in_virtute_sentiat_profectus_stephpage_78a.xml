@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="5" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-78a" n="78a" /> λέγειν πρὸς ἑαυτὸν οἷον
+                  ἐπιπλήττοντα καὶ κακίζοντα <q direct="unspecified">τί φῄς, ὦ Διόγενες; τοῦτον μὲν εὐωχεῖ
+                     τὰ σὰ <milestone unit="tlnum" n="5" /> λείμματα, σὺ δ᾽ ὁ γενναῖος ὅτι
+                     μὴ μεθύεις ἐκεῖ κατακείμενος ἐν ἁπαλοῖς καὶ ἀνθίνοις στρώμασιν καὶ
+                     θρηνεῖς σεαυτόν;</q> ὅταν οὖν οἱ τοιοῦτοι κατασπασμοὶ γένωνται μὴ
+                  πολλάκις, αἵ τε πρὸς αὐτοὺς ἐξερείσεις <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐξερείσεις</foreign> η: <foreign lang="greek">ἐξαιρήσεις</foreign></note> καὶ ἀνακρούσεις τοῦ φρονήματος
+                     <milestone unit="tlnum" n="10" /> ὥσπερ ἐκ τροπῆς ταχεῖαι παρῶσι καὶ
+                  διαλύωσι ῥᾳδίως τὸν ἄλυν καὶ τὴν ἀδημονίαν, ἔν τινι βεβαίῳ τὴν
+                  προκοπὴν εἶναι δεῖ νομίζειν. </p>
+            </div2>
+            <div2 type="section" n="6" org="uniform" sample="complete">
+               <p>ἐπεὶ δ᾽ οὐ μόνον ἐξ αὑτῶν τὰ κατασείοντα καὶ στρέφοντα πρὸς;
+                  τοὐναντίον ὑπ᾽ ἀσθενείας ἐπιγίγνεται <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐπιγίγνεται</foreign> ιυνιυς: <foreign lang="greek">ἐπιτείνεται</foreign></note> <milestone unit="tlnum" n="15" />
+                  </p></div2></div1></body></text></TEI.2>

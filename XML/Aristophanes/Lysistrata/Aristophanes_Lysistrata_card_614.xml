@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="614" unit="card" /></p></sp></div1>
+<div1 type="Choral" org="uniform" sample="complete">
+<div2 type="trochees" org="uniform" sample="complete">
+<sp>
+<speaker>Χορὸς γερόντων</speaker><p>
+<lb />οὐκέτ᾽ ἔργον ἐγκαθεύδειν ὅστις ἔστ᾽ ἐλεύθερος,
+<lb rend="displayNum" n="615" />ἀλλ᾽ ἐπαποδυώμεθ᾽ ἄνδρες τουτῳὶ τῷ πράγματι.
+<lb />ἤδη γὰρ ὄζειν ταδὶ πλειόνων καὶ μειζόνων</p></sp></div2>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορὸς γερόντων</speaker><p>
+<lb />πραγμάτων μοι δοκεῖ,
+<lb />καὶ μάλιστ᾽ ὀσφραίνομαι τῆς Ἱππίου τυραννίδος:
+<lb rend="displayNum" n="620" />καὶ πάνυ δέδοικα μὴ τῶν Λακώνων τινὲς
+<lb />δεῦρο συνεληλυθότες ἄνδρες ἐς Κλεισθένους
+<lb />τὰς θεοῖς ἐχθρὰς γυναῖκας ἐξεπαίρωσιν δόλῳ
+<lb />καταλαβεῖν τὰ χρήμαθ᾽ ἡμῶν τόν τε μισθόν,
+<lb rend="displayNum" n="625" />ἔνθεν ἔζων ἐγώ.</p></sp></div2></div1></body></text></TEI.2>

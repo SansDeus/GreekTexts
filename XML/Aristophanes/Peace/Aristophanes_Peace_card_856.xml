@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Lyric-Scene" org="uniform" sample="complete"><sp><p><milestone ed="p" n="856" unit="card" /></p></sp>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />εὐδαιμονικῶς γ᾽ ὁ πρεσβύτης,
+<lb />ὅσα γ᾽ ὧδ᾽ ἰδεῖν,
+<lb />τὰ νῦν τάδε πράττει.</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb />τί δῆτ᾽ ἐπειδὰν νυμφίον μ᾽ ὁρᾶτε λαμπρὸν ὄντα;</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="860" />ζηλωτὸς ἔσει, γέρον,
+<lb />αὖθις νέος ὢν πάλιν,
+<lb />μύρῳ κατάλειπτος.</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb />οἶμαι. τί δῆθ᾽ ὅταν ξυνὼν τῶν τιτθίων ἔχωμαι;</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />εὐδαιμονέστερος φανεῖ τῶν Καρκίνου στροβίλων.</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb rend="displayNum" n="865" />οὔκουν δικαίως; ὅστις εἰς
+<lb rend="displayNum" n="865b" />ὄχημα κανθάρου 'πιβὰς
+<lb />ἔσωσα τοὺς Ἕλληνας, ὥστ᾽
+<lb rend="displayNum" n="866b" />ἐν τοῖς ἀγροῖσιν αὐτοὺς
+<lb />ἅπαντας ὄντας ἀσφαλῶς
+<lb rend="displayNum" n="867b" />βινεῖν τε καὶ καθεύδειν.
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><milestone ed="p" n="984" unit="card" /></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>καὶ σ᾽ ἐν ἀφύκτοισι χερῶν εἷλε θεὰ δεσμοῖς.</l>
+<l n="985">τόλμα δ᾽: οὐ γὰρ ἀνάξεις ποτ᾽ ἔνερθεν</l>
+<l>κλαίων τοὺς φθιμένους ἄνω.</l>
+<l>καὶ θεῶν σκότιοι φθίνουσι</l>
+<l n="990">παῖδες ἐν θανάτῳ.</l>
+<l>φίλα μὲν ὅτ᾽ ἦν μεθ᾽ ἡμῶν,</l>
+<l>φίλα δὲ θανοῦσ᾽ ἔτ᾽ ἔσται,</l>
+<l>γενναιοτάταν δὲ πασᾶν</l>
+<l>ἐζεύξω κλισίαις ἄκοιτιν.</l>
+</sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="epode" org="uniform" sample="complete"><milestone ed="p" n="475" unit="card" />
+<sp n="*xoro/s">
+<speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="475" />πυρὸς δ᾽ ὑπ᾽ εὐαγγέλου
+<lb />πόλιν διήκει θοὰ
+<lb />βάξις: εἰ δ᾽ ἐτήτυμος,
+<lb />τίς οἶδεν, ἤ τι θεῖόν ἐστί πῃ ψύθος.—
+<lb />τίς ὧδε παιδνὸς ἢ φρενῶν κεκομμένος,
+<lb rend="displayNum" n="480" />φλογὸς παραγγέλμασιν
+<lb />νέοις πυρωθέντα καρδίαν ἔπειτ᾽
+<lb />ἀλλαγᾷ λόγου καμεῖν;—
+<lb /><del status="unremarkable">ἐν</del> γυναικὸς αἰχμᾷ πρέπει
+<lb />πρὸ τοῦ φανέντος χάριν ξυναινέσαι.—
+<lb rend="displayNum" n="485" />πιθανὸς ἄγαν ὁ θῆλυς ὅρος ἐπινέμεται
+<lb />ταχύπορος: ἀλλὰ ταχύμορον
+<lb />γυναικογήρυτον ὄλλυται κλέος.—</p></sp></div2>
+</div1>
+</body></text></TEI.2>

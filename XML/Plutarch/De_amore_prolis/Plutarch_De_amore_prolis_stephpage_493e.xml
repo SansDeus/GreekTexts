@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-493e" n="493e" /> ὁδὸν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὁδὸν</foreign>] δελ. στεγμαννυς</note> ὑφ᾽
+               ἡνίᾳ καὶ χαλινῷ βαδίζοντα δείκνυσιν εὐθεῖαν. <milestone unit="tlnum" n="15" /> ὁ δὲ δεσπότης ἐν ἀνθρώπῳ καὶ αὐτοκρατὴς λόγος ἄλλας ἄλλοτε
+               παρεκβάσεις καὶ καινοτομίας ἀνευρίσκων οὐδὲν ἴχνος ἐμφανὲς οὐδ᾽ ἐναργὲς
+               ἀπολέλοιπε τῆς φύσεως. </p>
+         </div1>
+         <div1 type="section" n="2" org="uniform" sample="complete">
+            <p>ὅρα περὶ τοὺς γάμους ὅσον ἐστὶν ἐν τοῖς <milestone unit="tlnum" n="20" />
+               ζῴοις τὸ κατὰ φύσιν. πρῶτον οὐκ ἀναμένει νόμους ἀγαμίου <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀγαμίου καὶ ὀψιγαμίου</foreign> δοεηνερυς: <foreign lang="greek">ἀγάμου καὶ ὀψιγάμου</foreign></note> καὶ ὀψιγαμίου,
+               καθάπερ οἱ Λυκούργου πολῖται καὶ Σόλωνος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καὶ Σόλωνος</foreign>] δελ. ιδεμ</note> οὐδ᾽ ἀτιμίας ἀτέκνων δέδοικεν,
+               οὐδὲ τιμὰς διώκει τρίπαιδας, <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τριπαιδίας</foreign> ιδεμ</note> ὡς Ῥωμαίων πολλοὶ <pb id="v.3.p.280" />
+               γαμοῦσι καὶ γεννῶσιν, οὐχ ἳνα κληρονόμους ἔχωσιν </p></div1></body></text></TEI.2>

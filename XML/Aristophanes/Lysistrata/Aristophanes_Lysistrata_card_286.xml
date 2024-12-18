@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parodos" org="uniform" sample="complete"><div2 type="tetrameters" org="uniform" sample="complete"><sp><p><milestone ed="p" n="286" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορὸς γερόντων</speaker><p>
+<lb />ἀλλ᾽ αὐτὸ γάρ μοι τῆς ὁδοῦ
+<lb />λοιπόν ἐστι χωρίον
+<lb />τὸ πρὸς πόλιν τὸ σιμόν, οἷ σπουδὴν ἔχω:
+<lb />χὤπως ποτ᾽ ἐξαμπρεύσομεν
+<lb rend="displayNum" n="290" />τοῦτ᾽ ἄνευ κανθηλίου.
+<lb />ὡς ἐμοῦ γε τὼ ξύλω τὸν ὦμον ἐξιπώκατον:
+<lb />ἀλλ᾽ ὅμως βαδιστέον,
+<lb />καὶ τὸ πῦρ φυσητέον,
+<lb />μή μ᾽ ἀποσβεσθὲν λάθῃ πρὸς τῇ τελευτῇ τῆς ὁδοῦ.
+<lb />φῦ φῦ.
+<lb rend="displayNum" n="295" />ἰοὺ ἰοὺ τοῦ καπνοῦ.</p></sp></div2></div1></body></text></TEI.2>

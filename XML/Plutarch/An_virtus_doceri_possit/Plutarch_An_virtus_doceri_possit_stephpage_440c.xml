@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-440c" n="440c" /> οὐδ᾽ ὄνησίς ἐστιν.
+               εἰ δ᾽ ἡγεμὼν αὕτη καὶ κόσμος οὖσα πασῶν καὶ τάξις εἰς τὸ χρήσιμον
+               ἕκαστον καθίστησιν, αὐτίκα τίς δείπνου χάρις, ἠσκημένων καὶ μεμαθηκότων
+               παίδων <quote rend="blockquote"> δαιτρεῦσαί <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δαιτρεῦσαι κἑ</foreign>] ηομ. ο 322</note> τε καὶ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τε καὶ</foreign> ηομερυς: <foreign lang="greek">και</foreign></note> ὀπτῆσαι καὶ οἰνοχοῆσαι , </quote>
+               <milestone unit="tlnum" n="20" /> εἰ μὴ διάθεσις μηδὲ τάξις εἴη περὶ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">περὶ</foreign> ω: <foreign lang="greek">πρὸς</foreign></note> τοὺς
+               διακονοῦντας;</p>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

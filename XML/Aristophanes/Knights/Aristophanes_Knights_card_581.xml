@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parabasis" org="uniform" sample="complete"><div2 type="epirrheme" org="uniform" sample="complete"><sp><p><milestone ed="p" n="581" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />Ὦ πολιοῦχε Παλλάς, ὦ
+<lb />τῆς ἱερωτάτης ἁπασῶν
+<lb />πολέμῳ τε καὶ ποιηταῖς
+<lb />δυνάμει θ᾽ ὑπερφερούσης
+<lb rend="displayNum" n="585" />μεδέουσα χώρας,
+<lb />δεῦρ᾽ ἀφικοῦ λαβοῦσα τὴν
+<lb />ἐν στρατιαῖς τε καὶ μάχαις
+<lb />ἡμετέραν ξυνεργὸν
+<lb />Νίκην, ἣ χορικῶν ἐστιν ἑταίρα
+<lb rend="displayNum" n="590" />τοῖς τ᾽ ἐχθροῖσι μεθ᾽ ἡμῶν στασιάζει.
+<lb />νῦν οὖν δεῦρο φάνηθι: δεῖ
+<lb />γὰρ τοῖς ἀνδράσι τοῖσδε πάσῃ
+<lb />τέχνῃ πορίσαι σε νίκην
+<lb />εἴπερ ποτὲ καὶ νῦν.</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="111" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-290e" n="290e" />
+            </p>
+         </div1>
+         <div1 type="section" n="112" org="uniform" sample="complete">
+            <p>
+               <q direct="unspecified">διὰ τίνα δ᾽ αἰτίαν οὐδὲ κιττοῦ θιγεῖν ἐφίετο <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐφεῖτο</foreign> *: <foreign lang="greek">ἐφίετο</foreign></note> τῷ ἱερεῖ τοῦ Διός,
+                  οὐδ᾽ ὁδὸν διελθεῖν ἀναδενδράδος ἄνωθεν διατεταμένης;᾽</q> ἦ τοῦτο μὲν
+               ὅμοιόν ἐστι τῷ μὴ <q direct="unspecified">ἐσθίειν ἐπὶ δίφρου</q> <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐπί δίφρου</foreign> π. 354 β: <foreign lang="greek">ἀπὸ δίφρου</foreign></note>
+               <q direct="unspecified">μηδ᾽ ἐπὶ χοίνικος καθῆσθαι</q>
+               <q direct="unspecified">μηδὲ σάρον ὑπερβαίνειν</q> οὐ ταῦτα τῶν <milestone unit="tlnum" n="15" />Πυθαγορικῶν δεδιότων καὶ φυλαττομένων, ἀλλ᾽ ἕτερα τούτοις ἀπαγορευόντων;
+               καὶ γὰρ τὸ ὑπ᾽ ἄμπελον ὑποπορεύεσθαι τὴν ἀναφορὰν ἐπὶ τὸν οἶνον
+               εἶχεν, ὡς οὐ θεμιτὸν τῷ ἱερεῖ μεθύσκεσθαι. τῶν γὰρ μεθυσκομένων ὑπὲρ
+               κεφαλῆς ὁ οἶνός ἐστι καὶ <milestone unit="tlnum" n="20" /> πιέζονται καὶ
+               ταπεινοῦνται, δέον ὑπερτέρους εἶναι </p></div1></body></text></TEI.2>

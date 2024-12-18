@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-599c" n="599c" />
+                                                  γιγνόμενον κενῶς καὶ ἀνοήτως: ὅπου δ᾽
+                                                  αὐτὰ τὰ <milestone unit="tlnum" n="15" />
+                                                  πράγματα δίδωσιν ὑπὸ τοῦ λόγου ψηλαφηθέντα
+                                                  καὶ ἀνακαλυφθέντα πρὸς ἑαυτὸν εἰπεῖν
+                                                  <quote rend="blockquote"> οὐδὲν πέπονθας
+                                                                 δεινόν, ἂν μὴ προσποιῇ: </quote> <note resp="ed" place="unspecified" anchored="yes">κοξκ. 3 π. 52</note> κομιδῇ
+                                                  γελοῖόν ἐστι, μὴ τῆς σαρκὸς πυνθάνεσθαι τί
+                                                  πέπονθε, μηδὲ τῆς ψυχῆς εἰ διὰ τὸ σύμπτωμα
+                                                  <milestone unit="tlnum" n="20" /> τοῦτο χείρων
+                                                  γέγονεν, ἀλλὰ τοῖς ἔξωθεν συναχθομένοις
+                                                  καὶ συναγανακτοῦσι διδασκάλοις χρῆσθαι τῆς
+                                                  λύπης. <pb id="v.3.p.551" />
+                                                  </p>
+                                             </div1>
+                                             <div1 type="section" n="2" org="uniform" sample="complete">
+                                                  <p>ὅθεν αὐτοὶ καθ᾽ αὑτοὺς γιγνόμενοι τῶν
+                                                  συμπτωμάτων ὥσπερ φορτίων ἑκάστου τὸν
+                                                  σταθμὸν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">σταθμὸν</foreign> ω: <foreign lang="greek">θυμὸν</foreign></note> ἐξετάζωμεν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐξετάζωμεν</foreign> ω: <foreign lang="greek">ἐξετάζομεν</foreign></note>, τὸ μὲν γὰρ: σῶμα
+                                                  πιέζεται τῷ τοῦ βαρύνοντος </p></div1></body></text></TEI.2>

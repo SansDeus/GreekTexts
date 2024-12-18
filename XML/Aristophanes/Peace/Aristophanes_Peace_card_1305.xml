@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Episode" org="uniform" sample="complete"><div2 type="elegiacs" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1305" unit="card" /></p></sp></div2></div1>
+<div1 type="Exodus" org="uniform" sample="complete">
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+<lb rend="displayNum" n="1305" />ὑμῶν τὸ λοιπὸν ἔργον ἤδη 'νταῦθα τῶν μενόντων
+<lb />φλᾶν ταῦτα πάντα καὶ σποδεῖν, καὶ μὴ κενὰς παρέλκειν.
+<lb />ἀλλ᾽ ἀνδρικῶς ἐμβάλλετε
+<lb />καὶ σμώχετ᾽ ἀμφοῖν τοῖν γνάθοιν: οὐδὲν γὰρ ὦ πόνηροι
+<lb rend="displayNum" n="1310" />λευκῶν ὀδόντων ἔργον ἐστ᾽, ἢν μή τι καὶ μασῶνται.</p></sp></div2>
+<div2 type="trochees" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ἡμῖν μελήσει ταῦτά γ᾽: εὖ ποιεῖς δὲ καὶ σὺ φράζων.</p></sp>
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+<lb />ἀλλ᾽ ὦ πρὸ τοῦ πεινῶντες ἐμβάλλεσθε τῶν λαγῴων:
+<lb />ὡς οὐχὶ πᾶσαν ἡμέραν
+<lb />πλακοῦσιν ἔστιν ἐντυχεῖν πλανωμένοις ἐρήμοις.
+<lb rend="displayNum" n="1315" />πρὸς ταῦτα βρύκετ᾽ ἢ τάχ᾽ ἡμῖν φημι μεταμελήσειν.
+</p></sp></div2></div1></body></text></TEI.2>

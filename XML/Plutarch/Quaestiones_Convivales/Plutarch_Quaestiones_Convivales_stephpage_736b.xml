@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><div2 type="chapter" n="10" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-736b" n="736b" /> πνεύματος ἀμαυροῦσθαι
+                        τὸ μαντικόν, ὥσπερ κάτοπτρον ὁμίχλης ἀναπιμπλάμενον. οὐδὲν οὖν
+                        τρανὸν <milestone unit="tlnum" n="20" /> οὐδ᾽ ἔναρθρον οὐδ᾽ εὔσημον
+                        ἐν ταῖς φαντασίαις ἀποδίδωσι, μέχρι οὗ παχὺ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">παχὺ</foreign>
+                           χ: <foreign lang="greek">τραχὺ</foreign></note> καὶ ἀλαμπὲς καὶ
+                        συνεσταλμένον ἐστίν.</q>
+                  </p>
+               </div3>
+            </div2>
+         </div1>
+         <pb id="v.4.p.357" />
+         <div1 type="book" n="1" org="uniform" sample="complete">
+            <div2 type="chapter" n="0" org="uniform" sample="complete">
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>τὸ ἔνατον τῶν Συμποσιακῶν, ὦ Σόσσιε Σενεκίων, <milestone unit="tlnum" n="5" />
+                     </p></div3></div2></div1></body></text></TEI.2>

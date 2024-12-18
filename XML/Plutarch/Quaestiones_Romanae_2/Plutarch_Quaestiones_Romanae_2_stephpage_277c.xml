@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="52" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-277c" n="277c" /> γεγράφθαι φησὶ
+               μηδένα χρηστὸν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">χρηστὸν</foreign> πολυς: <foreign lang="greek">ἄχρηστον</foreign></note> ποιεῖν βοηθείας χάριν τοῖς λακωνίζουσι τῶν
+               Τεγεατῶν, ὅπερ εἶναι <milestone unit="tlnum" n="5" /> μηδένα ἀποκτιννύναι.
+            </p>
+         </div1>
+         <div1 type="section" n="53" org="uniform" sample="complete">
+            <p>
+               <q direct="unspecified">διὰ τί τοῖς Καπιτωλίοις <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Καπετωλίοις</foreign> *: <foreign lang="greek">καπιτωλίοις</foreign></note> θέας ἄγοντες ἔτι νῦν κηρύττουσι
+                  Σαρδιανοὺς ὠνίους, καὶ γέρων τις ἐπὶ χλευασμῷ προάγεται παιδικὸν
+                  ἐναψάμενος περιδέραιον, ὃ καλοῦσι βοῦλλαν;᾽</q> ἦ ὅτι Ῥωμύλῳ πολὺν
+                  <milestone unit="tlnum" n="10" /> χρόνον ἐπολέμησαν οἱ λεγόμενοι Οὐήιοι
+               Τυρρηνῶν, καὶ ταύτην πόλιν ἐσχάτην εἷλε, καὶ πολλοὺς αἰχμαλώτους
+               ἀπεκήρυξε μετὰ τοῦ βασιλέως ἐπισκώπτων </p></div1></body></text></TEI.2>

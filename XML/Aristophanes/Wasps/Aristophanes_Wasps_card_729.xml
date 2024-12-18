@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Agon" org="uniform" sample="complete"><div2 type="sphragis" org="uniform" sample="complete"><sp><p><milestone ed="p" n="729" unit="card" /></p></sp></div2></div1>
+<div1 type="Choral" org="uniform" sample="complete">
+<div2 type="strophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />πιθοῦ πιθοῦ λόγοισι, μηδ᾽ ἄφρων γένῃ
+<lb rend="displayNum" n="730" />μηδ᾽ ἀτενὴς ἄγαν ἀτεράμων τ᾽ ἀνήρ.
+<lb />εἴθ᾽ ὤφελέν μοι κηδεμὼν ἢ ξυγγενὴς
+<lb />εἶναί τις ὅστις τοιαῦτ᾽ ἐνουθέτει.
+<lb />σοὶ δὲ νῦν τις θεῶν παρὼν ἐμφανὴς
+<lb />ξυλλαμβάνει τοῦ πράγματος,
+<lb rend="displayNum" n="735" />καὶ δῆλός ἐστιν εὖ ποιῶν:
+<lb />σὺ δὲ παρὼν δέχου.</p></sp></div2>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Βδελυκλέων</speaker><p>
+<lb />καὶ μὴν θρέψω γ᾽ αὐτὸν παρέχων
+<lb />ὅσα πρεσβύτῃ ξύμφορα, χόνδρον
+<lb />λείχειν, χλαῖναν μαλακήν, σισύραν,
+<lb />πόρνην, ἥτις τὸ πέος τρίψει
+<lb rend="displayNum" n="740" />καὶ τὴν ὀσφῦν.
+<lb />ἀλλ᾽ ὅτι σιγᾷ κοὐδὲν γρύζει,
+<lb />τοῦτ᾽ οὐ δύναταί με προσέσθαι.</p></sp></div2></div1></body></text></TEI.2>

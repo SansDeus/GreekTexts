@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Lyric-Scene" org="uniform" sample="complete"><sp><p><milestone ed="p" n="616" unit="card" /></p></sp>
+<div2 type="strophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />νῦν ἄρ᾽ ἄξιόν γε πᾶσίν ἐστιν ἐπολολύξαι.
+<lb />ὦ καλὰ λέγων πολὺ δ᾽ ἀμείνον᾽ ἔτι τῶν λόγων
+<lb />ἐργασάμεν᾽, εἴθ᾽ ἐπέλθοις
+<lb />ἅπαντά μοι σαφῶς:
+<lb rend="displayNum" n="620" />ὡς ἐγώ μοι δοκῶ
+<lb />κἂν μακρὰν ὁδὸν διελθεῖν
+<lb />ὥστ᾽ ἀκοῦσαι. πρὸς τάδ᾽ ὦ βέλτιστε
+<lb />θαρρήσας λέγ᾽, ὡς, ἅπαντες
+<lb rend="displayNum" n="623b" />ἡδόμεσθά σοι.</p></sp></div2></div1></body></text></TEI.2>

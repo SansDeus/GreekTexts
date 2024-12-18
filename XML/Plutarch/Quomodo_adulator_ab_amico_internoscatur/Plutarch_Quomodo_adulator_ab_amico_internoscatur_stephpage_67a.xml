@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="26" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-67a" n="67a" /> ἔχων ἰδίας
+                  πρόφασιν ὀργῆς ἐπαρρησιάζετο πρὸς αὐτὸν ὑπὲρ τῆς Ἑλλάδος, ἐκεῖνος
+                  δὲ δι᾽ αὑτὸν ἐδόκει μάλιστα χαλεπαίνειν. αὐτός γε μὴν ὁ Ἀχιλλεύς,
+                  καίπερ οὐ γλυκύθυμος ὢν οὐδ᾽ ἀγανόφρων ἀλλὰ <milestone unit="tlnum" n="20" />
+                  <quote rend="blockquote">
+                     <l> δεινὸς ἀνήρ, οἷος καὶ ἀναίτιον αἰτιάασθαι </l> <note resp="ed" place="unspecified" anchored="yes">ιδ. <foreign lang="greek">Λ</foreign> 652. ν 775</note>
+                  </quote>παρεῖχε τῷ Πατρόκλῳ σιωπῇ καταφέρειν αὐτοῦ πολλὰ τοιαῦτα
+                     <quote rend="blockquote">
+                        <l> νηλεές, οὐκ ἄρα σοί γε πατὴρ ἦν ἱππότα Πηλεὺς </l> <note resp="ed" place="unspecified" anchored="yes">ιδ. <foreign lang="greek">Π</foreign> 33</note>
+                     <l> οὐδὲ Θέτις μήτηρ: γλαυκὴ δέ σε τίκτε θάλασσα <milestone unit="tlnum" n="25" />
+                     </l>
+                     <l> πέτραι τ᾽ ἠλίβατοι, ὅτι τοι νόος ἐστὶν ἀπηνής </l>
+                  </quote>
+                  </p></div2></div1></body></text></TEI.2>

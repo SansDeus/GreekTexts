@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Episode" org="uniform" sample="complete"><div2 type="iambics" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1298" unit="card" /></p></sp></div2>
+<div2 type="elegiacs" org="uniform" sample="complete">
+<sp>
+<speaker>Παῖς <add>Κλεωνύμου</add></speaker><p>
+<lb />ἀσπίδι μὲν Σαΐων τις ἀγάλλεται, ἣν παρὰ θάμνῳ
+<lb />ἔντος ἀμώμητον κάλλιπον οὐκ ἐθέλων.</p></sp>
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+<lb rend="displayNum" n="1300" />εἰπέ μοι ὦ πόσθων, ἐς τὸν σαυτοῦ πατέρ᾽ ᾁδεις;</p></sp>
+<sp>
+<speaker>Παῖς <add>Κλεωνύμου</add></speaker><p>
+<lb />ψυχὴν δ᾽ ἐξεσάωσα—</p></sp>
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+κατῄσχυνας δὲ τοκῆας.</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb />ἀλλ᾽ εἰσίωμεν. εὖ γὰρ οἶδ᾽ ἐγὼ σαφῶς
+<lb />ὅτι ταῦθ᾽ ὅσ᾽ ᾖσας ἄρτι περὶ τῆς ἀσπίδος
+<lb />οὐ μὴ 'πιλάθῃ ποτ᾽ ὢν ἐκείνου τοῦ πατρός.
+</p></sp></div2></div1></body></text></TEI.2>

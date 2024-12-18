@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="214" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />τὰν Πηνειοῦ σεμνὰν χώραν,
+<lb rend="displayNum" n="215" />κρηπῖδ᾽ Οὐλύμπου καλλίσταν,
+<lb />ὄλβῳ βρίθειν φάμαν ἤκουσ᾽
+<lb />εὐθαλεῖ τ᾽ εὐκαρπείᾳ:
+<lb />τάδε δεύτερά μοι μετὰ τὰν ἱερὰν
+<lb />Θησέως ζαθέαν ἐλθεῖν χώραν.
+<lb rend="displayNum" n="220" />καὶ τὰν Αἰτναίαν Ἡφαίστου
+<lb />Φοινίκας ἀντήρη χώραν,
+<lb />Σικελῶν ὀρέων ματέρ᾽, ἀκούω
+<lb />καρύσσεσθαι στεφάνοις ἀρετᾶς.
+<lb />τάν τ᾽ ἀγχιστεύουσαν γᾶν
+<lb rend="displayNum" n="225" />† Ἰονίῳ ναύται πόντῳ, †
+<lb />ἃν ὑγραίνει καλλιστεύων
+<lb />ὁ ξανθὰν χαίταν πυρσαίνων
+<lb />Κρᾶθις ζαθέαις πηγαῖσι τρέφων
+<lb />εὔανδρόν τ᾽ ὀλβίζων γᾶν.
+</p></sp></div2></div1></body></text></TEI.2>

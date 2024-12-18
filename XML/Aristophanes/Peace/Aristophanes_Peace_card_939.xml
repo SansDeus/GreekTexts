@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Lyric-Scene" org="uniform" sample="complete"><sp><p><milestone ed="p" n="939" unit="card" /></p></sp>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ὡς πάνθ᾽ ὅσ᾽ ἂν θεὸς θέλῃ χἠ τύχη κατορθοῖ,
+<lb rend="displayNum" n="940" />χωρεῖ κατὰ νοῦν, ἕτερον δ᾽ ἑτέρῳ
+<lb />τούτων κατὰ καιρὸν ἀπαντᾷ.</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb />ὡς ταῦτα δῆλά γ᾽ ἔσθ᾽: ὁ γὰρ βωμὸς θύρασι καὶ δή.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ἐπείγετέ νυν ἐν ὅσῳ
+<lb />σοβαρὰ θεόθεν κατέχει
+<lb rend="displayNum" n="945" />πολέμου μετάτροπος αὔρα.
+<lb />νῦν γὰρ δαίμων φανερῶς
+<lb />εἰς ἀγαθὰ μεταβιβάζει.</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb />τὸ κανοῦν πάρεστ᾽ ὀλὰς ἔχον καὶ στέμμα καὶ μάχαιραν,
+<lb />καὶ πῦρ γε τουτί, κοὐδὲν ἴσχει πλὴν τὸ πρόβατον ὑμᾶς.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="950" />οὔκουν ἁμιλλήσεσθον; ὡς
+<lb />ἢν Χαῖρις ὑμᾶς ἴδῃ,
+<lb />πρόσεισιν αὐλήσων ἄκλητος,
+<lb />κᾆτα τοῦτ᾽ εὖ οἶδ᾽ ὅτι
+<lb />φυσῶντι καὶ πονουμένῳ
+<lb rend="displayNum" n="955" />προσδώσετε δήπου.
+</p></sp></div2></div1></body></text></TEI.2>

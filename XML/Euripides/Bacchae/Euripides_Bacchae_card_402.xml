@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="402" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἱκοίμαν ποτὶ Κύπρον,
+<lb />νᾶσον τᾶς Ἀφροδίτας,
+<lb />ἵν᾽ οἱ θελξίφρονες νέμον-
+<lb rend="displayNum" n="405" />ται θνατοῖσιν Ἔρωτες,
+<lb />Πάφον θ᾽ ἃν ἑκατόστομοι
+<lb />βαρβάρου ποταμοῦ ῥοαὶ
+<lb />καρπίζουσιν ἄνομβροι.
+<lb />οὗ δ᾽ ἁ καλλιστευομένα
+<lb rend="displayNum" n="410" />Πιερία μούσειος ἕδρα,
+<lb />σεμνὰ κλιτὺς Ὀλύμπου,
+<lb />ἐκεῖσ᾽ ἄγε με, Βρόμιε Βρόμιε,
+<lb />πρόβακχ᾽ εὔιε δαῖμον.
+<lb />ἐκεῖ Χάριτες,
+<lb rend="displayNum" n="415" />ἐκεῖ δὲ Πόθος: ἐκεῖ δὲ βάκ-
+<lb />χαις θέμις ὀργιάζειν.
+</p></sp></div2></div1></body></text></TEI.2>

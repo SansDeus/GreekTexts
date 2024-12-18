@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="806" unit="card" /></p></sp></div2>
+<div2 type="ephymn" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />τὸ δὲ  καλῶς κτίμενον  ὦ μέγα ναίων
+<lb />στόμιον, εὖ δὸς ἀνιδεῖν δόμον ἀνδρός,
+<lb />καί νιν ἐλευθερίας <add>φῶς</add>
+<lb />λαμπρὸν  ἰδεῖν φιλίοις
+<lb rend="displayNum" n="810" />ὄμμασιν <add>ἐκ</add>  δνοφερᾶς καλύπτρας.
+</p></sp></div2></div1></body></text></TEI.2>

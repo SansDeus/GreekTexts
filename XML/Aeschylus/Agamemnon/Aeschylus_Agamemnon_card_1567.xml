@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1567" unit="card" /></p></sp></div2>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Κλυταιμήστρα</speaker><p>
+<lb />ἐς τόνδ᾽ ἐνέβης ξὺν ἀληθείᾳ
+<lb />χρησμόν.  ἐγὼ δ᾽ οὖν
+<lb />ἐθέλω δαίμονι τῷ Πλεισθενιδῶν
+<lb rend="displayNum" n="1570" />ὅρκους θεμένη τάδε μὲν στέργειν,
+<lb />δύστλητά περ ὄνθ᾽: ὃ δὲ λοιπόν, ἰόντ᾽
+<lb />ἐκ τῶνδε δόμων ἄλλην γενεὰν
+<lb />τρίβειν θανάτοις αὐθένταισι.
+<lb />κτεάνων τε μέρος
+<lb />βαιὸν ἐχούσῃ πᾶν ἀπόχρη μοι
+<lb rend="displayNum" n="1575" />μανίας μελάθρων
+<lb />ἀλληλοφόνους ἀφελούσῃ.
+</p></sp></div2></div1></body></text></TEI.2>

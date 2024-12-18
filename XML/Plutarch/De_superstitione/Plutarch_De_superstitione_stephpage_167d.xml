@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="5" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-167d" n="167d" /> ὡς λέοντας καὶ ἐλάφους καὶ τῷ Ἡρακλεῖ
+               δήπου μανέντι τοὺς υἱοὺς ἐλυσιτέλει μήτ᾽ ἰδεῖν μήτ᾽ <milestone unit="tlnum" n="10" /> αἰσθέσθαι παρόντας ἢ χρῆσθαι τοῖς φιλτάτοις ὡς
+               πολεμίοις. </p>
+         </div1>
+         <div1 type="section" n="6" org="uniform" sample="complete">
+            <p>τί οὖν; οὐ δοκεῖ σοι καὶ τὸ τῶν ἀθέων πρὸς τοὺς δεισιδαίμονας πάθος
+               ἔχειν τοιαύτην διαφοράν; οἱ μὲν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μὲν</foreign> πφλυγκιυς: <foreign lang="greek">μὲν οὖν</foreign></note> οὐχ ὁρῶσι τοὺς θεοὺς τὸ παράπαν, οἱ δὲ
+                  <milestone unit="tlnum" n="15" /> κακοὺς ὑπάρχειν νομίζουσιν οἱ μὲν
+               παρορῶσιν, οἱ δὲ δοξάζουσι φοβερὸν τὸ εὐμενὲς καὶ τυραννικὸν τὸ πατρικὸν
+               καὶ βλαβερὸν τὸ κηδεμονικὸν καὶ τὸ ἄμικτον ἄγριον εἶναι καὶ θηριῶδες.
+               εἶτα χαλκοτύποις μὲν πείθονται καὶ λιθοξόοις καὶ κηροπλάσταις <milestone unit="tlnum" n="20" /> ἀνθρωπόμορφα τῶν θεῶν τὰ εἴδη ποιοῦσι, καὶ
+                  </p></div1></body></text></TEI.2>

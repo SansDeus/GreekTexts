@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="6" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-653d" n="653d" /> αὐτῷ περαίνειν,
+                     ἀλλὰ τοὺς νέους ἀνιστάντα μετὰ δεῖπνον εἰς περίπατον ἐπὶ
+                     σωφρονισμῷ διαλέγεσθαι καὶ ἀνακρούειν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καὶ ἀνακρούσει</foreign> ρ</note>
+                     ἀπὸ τῶν ἐπιθυμιῶν, ὡς ἀεὶ μὲν ἐπισφαλοῦς εἰς βλάβην τοῦ
+                     πράγματος ὄντος, κάκιστα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κάκιστα</foreign> ς: <foreign lang="greek">μάλιστα</foreign></note>
+                     <pb id="v.4.p.119" /> δὲ τοὺς παρὰ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">παρὰ</foreign> τυρνεβυς: <foreign lang="greek">περὶ</foreign></note> πότον καὶ ἐδωδὴν χρωμένους
+                     αὐτῷ διατιθέντος. <q direct="unspecified">εἰ δὲ δὴ καὶ προηγουμένως</q> εἶπεν
+                        <q direct="unspecified">ἐζητεῖτο περὶ τούτου, πότερον οὐδ᾽ ὅλως ἐσκέφθαι καλῶς εἶχε
+                        τὸν φιλόσοφον περὶ συνουσίας καιροῦ <milestone unit="tlnum" n="5" />
+                        καὶ ὥρας, ἢ βέλτιον μὲν ἐν καιρῷ καὶ μετὰ λογισμοῦ τὰ τοιαῦτα
+                        πράττειν, τὸν δὲ καιρὸν ἄλλως </q></p></div3></div2></div1></body></text></TEI.2>

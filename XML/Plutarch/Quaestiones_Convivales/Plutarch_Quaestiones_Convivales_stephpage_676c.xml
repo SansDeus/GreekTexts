@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="3" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-676c" n="676c" /> οἰκοῦντες: ἐκ δὲ
+                     τῆς περὶ Βίενναν Γαλατίας ὁ πισσίτης οἶνος κατακομίζεται,
+                     διαφερόντως; τιμώμενος ὑπὸ Ῥωμαίων, οὐ γὰρ μόνον εὐωδίαν τινὰ τὰ
+                     τοιαῦτα προσδίδωσιν, ἀλλὰ καὶ τὸν οἶνον εὔποτον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">εὔποτον</foreign>
+                        ω: <foreign lang="greek">ἐμποιεῖ</foreign>（<foreign lang="greek">ν</foreign>）</note>
+                     <milestone unit="tlnum" n="5" /> παρίστησι ταχέως ἐξαιροῦντα <note resp="ed" place="unspecified" anchored="yes">ιβ. <foreign lang="greek">ἐξαιροῦντα</foreign> μαδϝιγιυς: <foreign lang="greek">ἐξαιρῶν</foreign></note> τῇ θερμότητι τοῦ οἴνου τὸ νεαρὸν καὶ
+                     ὑδατῶδες. </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>ὡς δὲ ταῦτ᾽ ἐρρήθη, τῶν ῥητόρων ὁ μάλιστα δοκῶν ἀναγνώσμασιν
+                     ἐντυγχάνειν ἐλευθερίοις <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἐλευθέριος</foreign> ρ</note>
+                     <q direct="unspecified">ὦ πρὸς θεῶν</q> εἶπεν, <q direct="unspecified">οὐ γὰρ ἐχθὲς ἡ πίτυς ἐνταῦθα
+                           <milestone unit="tlnum" n="10" /> καὶ πρῴην στέμμα γέγονε τῶν
+                        Ἰσθμίων, πρότερον δὲ τοῖς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δὲ τοῖς</foreign>] <foreign lang="greek">αὐτοῖς</foreign> μει</note> σελίνοις ἐστέφοντο; καὶ
+                        τοῦτ᾽ ἔστι μὲν ἐν τῇ κωμῳδίᾳ φιλαργύρου τινὸς ἀκοῦσαι
+                        λέγοντος </q></p></div3></div2></div1></body></text></TEI.2>

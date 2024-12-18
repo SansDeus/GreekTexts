@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><milestone ed="p" n="608" unit="card" />
+</sp>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>οὔτινά φημι θεῶν ἄτερ ὄλβιον, οὐ βαρύποτμον,</l>
+<l>ἄνδρα γενέσθαι:</l>
+<l n="610">οὐδὲ τὸν αὐτὸν ἀεὶ 'μβεβάναι δόμον</l>
+<l>εὐτυχίᾳ: παρὰ δ᾽ ἄλλαν ἄλλα</l>
+<l>μοῖρα διώκει.</l>
+<l>τὸν μὲν ἀφ᾽ ὑψηλῶν βραχὺν ᾤκισε,</l>
+<l>τὸν δ᾽ †ἀλήταν† εὐδαίμονα τεύχει.</l>
+<l n="615">μόρσιμα δ᾽ οὔτι φυγεῖν θέμις, οὐ σοφί-</l>
+<l>ᾳ τις ἀπώσεται, ἀλλὰ μάταν</l>
+ <l>ὁ πρόθυμος ἀεὶ πόνον ἕξει.</l>
+</sp></div2></div1></body></text></TEI.2>

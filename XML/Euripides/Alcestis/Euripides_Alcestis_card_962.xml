@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><milestone ed="p" n="962" unit="card" />
+</sp></div2>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>ἐγὼ καὶ διὰ μούσας</l>
+<l>καὶ μετάρσιος ᾖξα, καὶ</l>
+<l>πλείστων ἁψάμενος λόγων</l>
+<l n="965">κρεῖσσον οὐδὲν Ἀνάγκας</l>
+<l>ηὗρον οὐδέ τι φάρμακον</l>
+<l>Θρῄσσαις ἐν σανίσιν, τὰς</l>
+<l>Ὀρφεία κατέγραψεν</l>
+<l>γῆρυς, οὐδ᾽ ὅσα Φοῖβος Ἀ-</l>
+<l n="970">σκληπιάδαις ἔδωκε</l>
+<l>φάρμακα πολυπόνοις</l>
+<l>ἀντιτεμὼν βροτοῖσιν.</l>
+</sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="184" unit="card" />
+</p></sp></div2>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb /> — οὐκ ἐν ταῖς ζαθέαις Ἀθά-
+<lb rend="displayNum" n="185" />ναις εὐκίονες ἦσαν αὐ-
+<lb />λαὶ θεῶν μόνον, οὐδ᾽ ἀγυι-
+<lb />άτιδες θεραπεῖαι:
+<lb />ἀλλὰ καὶ παρὰ Λοξίᾳ
+<lb />τῷ Λατοῦς διδύμων προσώ-
+<lb />πων καλλιβλέφαρον φῶς.
+<lb rend="displayNum" n="190" /> — ἰδοὺ τάνδ᾽, ἄθρησον,
+<lb />Λερναῖον ὕδραν ἐναίρει
+<lb />χρυσέαις ἅρπαις ὁ Διὸς παῖς:
+<lb />φίλα, πρόσιδ᾽ ὄσσοις.
+</p></sp></div2></div1></body></text></TEI.2>

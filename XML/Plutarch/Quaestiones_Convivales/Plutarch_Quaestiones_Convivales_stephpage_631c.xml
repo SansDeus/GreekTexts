@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-631c" n="631c" /> τοιαύτας ἐρωτήσεις
+                        προφέρονται, ὧν ταῖς ἀποκρίσεσιν οὐ ψόγος ἀλλ᾽ ἔπαινος, οὐδὲ
+                        μῖσος ἢ νέμεσις <milestone unit="tlnum" n="25" /> ἀλλ᾽ εὔνοια καὶ
+                        χάρις ἕπεται παρὰ τῶν ἀκουσάντων. ταῦτα μὲν οὖν τὰ περὶ τὰς
+                        ἐρωτήσεις. </q>
+                  </p>
+               </div3>
+               <div3 type="section" n="4" org="uniform" sample="complete">
+                  <pb id="v.4.p.56" />
+                  <p>
+                     <q direct="unspecified">σκώμματος δὲ τῷ μὴ δυναμένῳ μετ᾽ εὐλαβείας καὶ τέχνης κατὰ
+                        καιρὸν ἅπτεσθαι παντάπασιν ἀφεκτέον ὥσπερ γὰρ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">γὰρ</foreign>]
+                           ομ. μει</note> οἱ ἐν ὀλισθηρῷ τόπῳ, κἂν θίγωσιν ἐκ παραδρομῆς
+                        μόνον, ἀνατρέπουσιν, οὕτως ἐν <milestone unit="tlnum" n="5" /> οἴνῳ
+                        πρὸς πᾶσαν ἀφορμὴν λόγου μὴ κατὰ σχῆμα γιγνομένην ἐπισφαλῶς
+                        ἔχομεν. τοῖς δὲ σκώμμασιν ἔστιν ὅτε μᾶλλον ἢ ταῖς λοιδορίαις
+                        ἐκκινούμεθα, τὸ μὲν ὑπ᾽ ὀργῆς πολλάκις ἀβουλήτως ὁρῶντες
+                        γιγνόμενον, τὸ δ᾽ ὡς οὐκ ἀναγκαῖον ἀλλ᾽ ἔργον ὕβρεως καὶ
+                        κακοηθείας <milestone unit="tlnum" n="10" /> προβαλλόμενοι: καὶ καθόλου
+                        διαλέγεσθαι τοῖς <gap />
+                        <note resp="ed" place="unspecified" anchored="yes">λαξ. 6-7 ϝδ ε. <foreign lang="greek">τοῖς διαλέγεσθαι δεινοῖς</foreign> ω. <foreign lang="greek">τοῖς διαλέγεσθαι δυναμένοις</foreign>̣</note> νοις
+                        μᾶλλον ἢ τοῖς <gap />
+                        <note resp="ed" place="unspecified" anchored="yes">λαξ. 3-4 σολι ϝδ π. φορτ.
+                              <foreign lang="greek">τοῖς ἄλλως φλυαροῦσι</foreign></note>
+                        φλυαροῦσι χαλεπαίνομεν </q></p></div3></div2></div1></body></text></TEI.2>

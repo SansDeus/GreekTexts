@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><milestone ed="p" n="439" unit="card" /></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>βέβακε δ᾽ ὅρκων χάρις, οὐδ᾽ ἔτ᾽ αἰδὼς</l>
+<l n="440">Ἑλλάδι τᾷ μεγάλᾳ μένει, αἰθερία δ᾽ ἀνέ-</l>
+<l>πτα. σοὶ δ᾽ οὔτε πατρὸς δόμοι,</l>
+<l>δύστανε, μεθορμίσα-</l>
+<l>σθαι μόχθων πάρα, σῶν τε λέκτρων</l>
+<l>ἄλλα βασίλεια κρείσ-</l>
+<l n="445">σων δόμοισιν ἐπέστα.</l>
+</sp></div2></div1></body></text></TEI.2>

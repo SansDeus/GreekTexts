@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><milestone ed="p" n="151" unit="card" /></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>ἢ πόσιν, τὸν Ἐρεχθειδᾶν</l>
+<l>ἀρχαγόν, τὸν εὐπατρίδαν,</l>
+<l>ποιμαίνει τις ἐν οἴκοις κρυ-</l>
+<l>πτὰ κοίτα λεχέων σῶν;</l>
+<l n="155">ἢ ναυβάτας τις ἔπλευ-</l>
+<l>σεν Κρήτας ἔξορμος ἀνὴρ</l>
+<l>λιμένα τὸν εὐξεινότατον ναύταις</l>
+<l>φήμαν πέμπων βασιλείᾳ,</l>
+<l>λύπᾳ δ᾽ ὑπὲρ παθέων</l>
+<l n="160">εὐναία δέδεται ψυχά;</l>
+</sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parodos" org="uniform" sample="complete"><div2 type="strophe" org="uniform" sample="complete"><sp><p><milestone ed="p" n="455" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="455" />μόνοις γὰρ ἡμῖν ἥλιος
+<lb />καὶ φέγγος ἱλαρόν ἐστιν,
+<lb />ὅσοι μεμυήμεθ᾽ εὐ-
+<lb rend="displayNum" n="457b" />σεβῆ τε διήγομεν
+<lb />τρόπον περὶ τοὺς ξένους
+<lb />καὶ τοὺς ἰδιώτας.</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><milestone ed="p" n="86" unit="card" />
+</sp></div2>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός α</speaker>
+<l>κλύει τις ἢ στεναγμὸν ἢ</l>
+<l>χειρῶν κτύπον κατὰ στέγας</l>
+<l>ἢ γόον ὡς πεπραγμένων;</l></sp>
+<sp><speaker>Χορός β</speaker>
+<l>οὐ μὰν οὐδέ τις ἀμφιπόλων</l>
+<l n="90">στατίζεται ἀμφὶ πύλας.</l>
+<l>εἰ γὰρ μετακοίμιος ἄτας,</l>
+<l>ὦ Παιάν, φανείης.</l>
+</sp></div2></div1></body></text></TEI.2>

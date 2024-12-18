@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="32" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-71f" n="71f" /> ὀφθεὶς μόνον ἐν τῇ διατριβῇ καὶ
+                  ἀποβλέψας πρὸς αὐτὸν ἐτρέψατο καὶ μετέθηκεν. ἐλαφροῦ δὲ καὶ
+                     <milestone unit="tlnum" n="5" /> φαύλου τὸ ἦθος ἀνθρώπου λόγῳ παρρησίας
+                  ἁπτομένῳ περίεστι προσακοῦσαι τὸ <quote rend="blockquote">
+                     <l> ἄλλων ἰατρὸς αὐτὸς ἕλκεσιν βρύων</l><note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 545</note>
+                  </quote>
+               </p>
+            </div2>
+            <div2 type="section" n="33" org="uniform" sample="complete">
+               <p>οὐ μὴν ἀλλ᾽ ἐπεὶ φαύλους γε ὄντας αὐτοὺς ἑτέροις τε τοιούτοις
+                  ὁμιλοῦντας ἐξάγει τὸ πράγματα <milestone unit="tlnum" n="10" /> πολλάκις
+                  εἰς τὸ νουθετεῖν, ἐπιεικέστατος ἂν εἴη τρόπος ὁ συνεμπλέκων καὶ
+                  συμπεριλαμβάνων ἁμηγέπη τῷ ἐγκλήματι τὸν παρρησιαζόμενον: ἐφ᾽ ᾧ
+                  λέλεκται καὶ τὸ <quote rend="blockquote">
+                     <l>Τυδείδη, τί παθόντε λελάσμεθα θούριδος ἀλκῆς;᾽</l>
+                  </quote>
+                  <milestone unit="tlnum" n="15" />
+                  </p></div2></div1></body></text></TEI.2>

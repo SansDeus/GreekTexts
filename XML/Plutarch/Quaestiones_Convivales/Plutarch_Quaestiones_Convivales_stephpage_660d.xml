@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="4" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-660d" n="660d" />
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="5" />
+                  <p>τῆς οὖν τετάρτης τῶν συμποτικῶν ζητημάτων δεκάδος ἡμῖν πρῶτον
+                     ἔσται τὸ περὶ τῆς: ποικίλης τροφῆς ζητηθέν. Ἐλαφηβολίων γὰρ
+                     ὄντων, εἰς Ὑάμπολιν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὑιάμπολιν</foreign> ῾<foreign lang="greek">ἰαμπολιν</foreign> ἐ μει</note> ἐπὶ τὴν ἑορτὴν ἀφικνουμένους
+                     ἡμᾶς εἱστία Φίλων ὁ ἰατρὸς ἐκ παρασκευῆς τινος, ὡς <milestone unit="tlnum" n="10" /> ἐφαίνετο, νεανικῆς <note resp="ed" place="unspecified" anchored="yes">εμ. ρ: <foreign lang="greek">νεανικῶς</foreign></note>. ἰδὼν δὲ τῶν παιδίων τῶν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τῶν
+                           παιδίων τῶν</foreign> ω: <foreign lang="greek">τὸ
+                        παιδίον</foreign></note> ἅμα τῷ Φιλίνῳ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Φιλίνῳ</foreign>
+                        αμψοτυς: <foreign lang="greek">φίλωνι</foreign></note> τὸ νέον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τὸ
+                           νέον</foreign> ρ: <foreign lang="greek">τὸν νέον</foreign></note>
+                     ἄρτῳ χρώμενον ἄλλου δὲ μηδενὸς δεόμενον, <q direct="unspecified">ὦ Ἡράκλεις</q> ἔφη
+                        <q direct="unspecified">τοῦτ᾽ ἄρ᾽ ἦν τὸ λεγόμενον <quote rend="blockquote">ἐν δὲ λίθοις
+                           ἐμάχοντο, λίθον δ᾽ οὐκ ἦν ἀνελέσθαι:</quote>
+                        <note resp="ed" place="unspecified" anchored="yes">ξφ. ατηεν. π. 457
+                           β</note>
+                     </q>
+                     <milestone unit="tlnum" n="15" />
+                     </p></div3></div2></div1></body></text></TEI.2>

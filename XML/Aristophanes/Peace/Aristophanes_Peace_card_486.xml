@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="486" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Ἑρμῆς</speaker><p>
+<lb />ὦ εἶα.</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb />εἶα μάλα.</p></sp>
+<sp><speaker>Ἑρμῆς</speaker><p>
+<lb />ὦ εἶα.</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb />εἶα νὴ Δία.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="490" />μικρόν γε κινοῦμεν.</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb />οὔκουν δεινὸν  <gap /> 
+<lb />τοὺς μὲν τείνειν τοὺς δ᾽ ἀντισπᾶν;
+<lb />πληγὰς λήψεσθ᾽ ὦργεῖοι.</p></sp>
+<sp><speaker>Ἑρμῆς</speaker><p>
+<lb />εἶά νυν.</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb rend="displayNum" n="495" />εἶα ὦ.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ὡς κακόνοι τινές εἰσιν ἐν ἡμῖν.</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb />ὑμεῖς μὲν γοῦν οἱ κιττῶντες
+<lb />τῆς εἰρήνης σπᾶτ᾽ ἀνδρείως.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ἀλλ᾽ εἴσ᾽ οἳ κωλύουσιν.</p></sp></div2></div1></body></text></TEI.2>

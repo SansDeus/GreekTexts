@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-677e" n="677e" /> ἀρχαϊκῶς <q direct="unspecified">ὥρους</q> λέγεσθαι, τὸ δὲ
+                        <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δὲ</foreign> τυρνεβυς</note> ζα μέγεθος εἰωθέναι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">εἰωθέναι</foreign> ρ: <foreign lang="greek">εἴωθεν</foreign></note>
+                     σημαίνειν: ὅθεν τὸν πολυετῆ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πολυετῆ</foreign>] <foreign lang="greek">πολυτελῆ</foreign> μει</note> καὶ <milestone unit="tlnum" n="10" /> οἶνον ὑπὸ τοῦ Ἀχιλλέως ζωρὸν ὠνομάσθαι. </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>ἐγὼ δ᾽ ἀνεμίμνησκον αὐτούς, ὅτι τῷ <q direct="unspecified">ζωρότερον</q> τὸ θερμὸν
+                     ἔνιοι σημαίνεσθαι λέγουσι τῷ δὲ θερμοτέρῳ τὸ τάχιον: ὥσπερ ἡμεῖς
+                     ἐγκελευόμεθα πολλάκις τοῖς διακονοῦσι θερμότερον ἅπτεσθαι τῆς
+                        <milestone unit="tlnum" n="15" /> διακονίας. ἀλλὰ μειρακιώδη τὴν
+                     φιλοτιμίαν αὐτῶν ἀπέφαινον, δεδιότων ὁμολογεῖν ἀκρατότερον εἰρῆσθαι
+                        </p></div3></div2></div1></body></text></TEI.2>

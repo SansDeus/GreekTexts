@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parodos" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="347" unit="card" /></p></sp></div2></div1>
+<div1 type="Lyric-Scene" org="uniform" sample="complete">
+<sp>
+<speaker>Δικαιόπολις</speaker><p>
+<lb />ἐμέλλετ᾽ ἄρα πάντως ἀνήσειν τῆς βοῆς,
+<lb />ὀλίγου τ᾽ ἀπέθανον ἄνθρακες Παρνήθιοι,
+<lb />καὶ ταῦτα διὰ τὴν ἀτοπίαν τῶν δημοτῶν.
+<lb rend="displayNum" n="350" />ὑπὸ τοῦ δέους δὲ τῆς μαρίλης μοι συχνὴν
+<lb />ὁ λάρκος ἐνετίλησεν ὥσπερ σηπία.
+<lb />δεινὸν γὰρ οὕτως ὀμφακίαν πεφυκέναι
+<lb />τὸν θυμὸν ἀνδρῶν ὥστε βάλλειν καὶ βοᾶν
+<lb />ἐθέλειν τ᾽ ἀκοῦσαι μηδὲν ἴσον ἴσῳ φέρον,
+<lb rend="displayNum" n="355" />ἐμοῦ 'θέλοντος ὑπὲρ ἐπιξήνου λέγειν
+<lb />ὑπὲρ Λακεδαιμονίων ἅπανθ᾽ ὅσ᾽ ἂν λέγω:
+<lb />καίτοι φιλῶ γε τὴν ἐμὴν ψυχὴν ἐγώ.
+</p></sp></div1></body></text></TEI.2>

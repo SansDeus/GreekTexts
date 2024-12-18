@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="6" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-654b" n="654b" /> ἡ δὲ μετὰ τὸ δεῖπνον ὁρμὴ πρὸς τὴν
+                     συνουσίαν <milestone unit="tlnum" n="20" /> οὐκ ἀκίνδυνος: ἄδηλον γὰρ
+                     εἰ, τῆς τροφῆς μὴ κρατηθείσης, ἀπεψία δέξαιτο τὸν ἐκ τῆς συνουσίας
+                     ἄραδον <note resp="ed" place="unspecified" anchored="yes">εμ. δοεηνερυς:
+                           <foreign lang="greek">ἄραβον</foreign></note> καὶ παλμόν, ὥστε
+                     διττὴν τὴν βλάβην γενέσθαι. <pb id="v.4.p.121" />
+                  </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <p>ὑπολαβὼν δ᾽ Ὀλύμπιχος <q direct="unspecified">ἐμοὶ μέν</q> ἔφη <q direct="unspecified">τὸ τοῦ Πυθαγορικοῦ
+                        Κλεινίου λίαν ἀρέσκει: λέγεται γὰρ ἐρωτηθείς, ὁπηνίκα δεῖ
+                        μάλιστα γυναικὶ προσιέναι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">προσεῖναι</foreign> μει</note>:
+                           <q direct="unspecified">ὅταν</q> φάναι <q direct="unspecified">μάλιστα τυγχάνῃς βλαβῆναι <milestone unit="tlnum" n="5" /> βουλόμενος.</q> καὶ γὰρ ὃ Ζώπυρος εἴρηκε
+                        νῦν, ἔχει τινὰ λόγον: καὶ τὸν ἕτερον καιρὸν ἄλλας ἀκαιρίας
+                        ἔχοντα πρὸς τὸ πρᾶγμα καὶ δυσχερείας ὁρῶ. καθάπερ οὖν Θαλῆς ὁ
+                        σοφὸς ὑπὸ τῆς μητρὸς ἐνοχλούμενος </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="444" unit="card" />
+</p></sp>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />αὔρα, ποντιὰς αὔρα,
+<lb rend="displayNum" n="445" />ἅτε ποντοπόρους κομί-
+<lb />ζεις θοὰς ἀκάτους ἐπ᾽ οἶδμα λίμνας,
+<lb />ποῖ με τὰν μελέαν πορεύ-
+<lb />σεις; τῷ δουλόσυνος πρὸς οἶ-
+<lb />κον κτηθεῖσ᾽ ἀφίξομαι; ἢ
+<lb rend="displayNum" n="450" />Δωρίδος ὅρμον αἴας;
+<lb />ἢ Φθιάδος, ἔνθα τὸν
+<lb />καλλίστων ὑδάτων πατέρα
+<lb rend="displayNum" n="454" />φασὶν Ἀπιδανὸν πεδία λιπαίνειν;
+</p></sp></div2></div1></body></text></TEI.2>

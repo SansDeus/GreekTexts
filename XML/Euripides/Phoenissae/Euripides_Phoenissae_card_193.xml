@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="lyric" org="uniform" sample="complete"><milestone ed="p" n="193" unit="card" /></div2>
+<div2 type="iambic" org="uniform" sample="complete">
+<sp>
+<speaker>Παιδαγωγός</speaker><p>
+<lb />ὦ τέκνον, ἔσβα δῶμα καὶ κατὰ στέγας
+<lb />ἐν παρθενῶσι μίμνε σοῖς, ἐπεὶ πόθου
+<lb rend="displayNum" n="195" />ἐς τέρψιν ἦλθες ὧν ἔχρῃζες εἰσιδεῖν.
+<lb />ὄχλος γάρ, ὡς ταραγμὸς εἰσῆλθεν πόλιν,
+<lb />χωρεῖ γυναικῶν πρὸς δόμους τυραννικούς,
+<lb />φιλόψογον δὲ χρῆμα θηλειῶν ἔφυ,
+<lb />σμικράς τ᾽ ἀφορμὰς ἢν λάβωσι τῶν λόγων,
+<lb rend="displayNum" n="200" />πλείους ἐπεσφέρουσιν: ἡδονὴ δέ τις
+<lb />γυναιξὶ μηδὲν ὑγιὲς ἀλλήλας λέγειν.
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="5" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1038" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="6" org="uniform" sample="complete">
+<sp><speaker>Ξέρξης</speaker><p>
+<lb />δίαινε δίαινε πῆμα:   πρὸς δόμους δ᾽  ἴθι.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />αἰαῖ αἰαῖ, δύα  δύα.</p></sp>
+<sp><speaker>Ξέρξης</speaker><p>
+<lb rend="displayNum" n="1040" />βόα νυν  ἀντίδουπά  μοι.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />δόσιν κακὰν κακῶν  κακοῖς.</p></sp>
+<sp><speaker>Ξέρξης</speaker><p>
+<lb />ἴυζε μέλος ὁμοῦ  τιθείς.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ὀτοτοτοτοῖ.
+<lb />βαρεῖά γ᾽ ἅδε  συμφορά.
+<lb rend="displayNum" n="1045" />οἲ μάλα καὶ τόδ᾽  ἀλγῶ.
+</p></sp></div2></div1></body></text></TEI.2>

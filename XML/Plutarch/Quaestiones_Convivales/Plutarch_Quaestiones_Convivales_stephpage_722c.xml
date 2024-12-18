@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><div2 type="chapter" n="3" org="uniform" sample="complete"><div3 type="section" n="4" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-722c" n="722c" /> σῶμα τῆς,φωνῆς: καὶ οὐσίαν
+                        ἐμπαρέχων ἑαυτόν, <milestone unit="tlnum" n="15" /> ἐὰν μὲν σταθερός,
+                        εὐθύπορα καὶ λεῖα καὶ συνεχῆ τὰ τῶν ψόφων μόρια καὶ κινήματα
+                        πόρρωθεν διαδίδωσι: νηνεμία γὰρ ἠχῶδες καὶ γαλήνη, καὶ
+                        τοὐναντίον, ὡς Σιμωνίδης <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Σιμωνίδης</foreign>] βεργκ. 3 π.
+                           408</note> φησίν, <quote rend="blockquote">
+                           <l>οὐδὲ γὰρ ἐννοσίφυλλος ἀήτα τότ᾽ ὦρτ᾽ ἀνέμων, <milestone unit="tlnum" n="20" />
+                           </l>
+                           <l>ἅ τις κατεκώλυε κιδναμένα <note resp="ed" place="unspecified" anchored="yes">ω: <foreign lang="greek">σκιδνάμενα</foreign> ϝελ
+                                    <foreign lang="greek">σκιδναμένα</foreign> λιβρι. <foreign lang="greek">κιδναμεναν</foreign> σξηνειδεωινυς</note> μελιαδέα
+                              γᾶρυν </l>
+                           <l>ἀραρεῖν ἀκοαῖσι βροτῶν.</l>
+                        </quote> πολλάκις μὲν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μὲν</foreign>] δελ. ρ</note> γὰρ οὐδὲ τὸ
+                        σχῆμα τῆς φωνῆς ὁ τοῦ ἀέρος σάλος ἔναρθρον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἔναρθρος</foreign> μει</note> ἐᾷ πρὸς τὴν αἴσθησιν
+                        ἐξικνεῖσθαι καὶ διαμεμορφωμένον, ἀεὶ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αἰεὶ</foreign>
+                           ιιδεμ</note> μέντοι τι τοῦ <pb id="v.4.p.319" /> πλήθους φέρει <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φέρει</foreign>] <foreign lang="greek">ἀφαιρεῖ</foreign> ϝελ
+                              <foreign lang="greek">φθείρει</foreign> ω</note> καὶ τοῦ μεγέθους.
+                        ἡ μὲν οὖν νὺξ αὐτὴ καθ᾽ ἑαυτὴν οὐδὲν ἔχει κινητικὸν ἀέρος:
+                        ἡ δ᾽ ἡμέρα μέγα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μέγα</foreign>] <foreign lang="greek">μετὰ</foreign> μει</note>, τὸν ἣλιον, ὥσπερ αὐτὸς ὁ
+                        Ἀναξαγόρας εἴρηκεν.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="5" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="5" />
+                  </div3></div2></div1></body></text></TEI.2>

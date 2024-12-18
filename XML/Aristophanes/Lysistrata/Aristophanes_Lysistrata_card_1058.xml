@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1058" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἑστιᾶν δὲ μέλλομεν ξένους
+<lb />τινὰς Καρυστίους, ἄν-
+<lb rend="displayNum" n="1060" />δρας καλούς τε κἀγαθούς.
+<lb />κἄστιν <add>ἔτ᾽</add> ἔτνος τι: καὶ δελφάκιον ἦν τί μοι,
+<lb />καὶ τοῦτο τέθυχ᾽, ὡς τὰ κρέ᾽ ἔδεσθ᾽ ἁπαλὰ καὶ καλά.
+<lb />ἥκετ᾽ οὖν εἰς ἐμοῦ τήμερον: πρῲ δὲ χρὴ
+<lb />τοῦτο δρᾶν λελουμένους αὔ-
+<lb rend="displayNum" n="1065" />τούς τε καὶ τὰ παιδί᾽, εἶτ᾽ εἴσω βαδίζειν,
+<lb />μηδ᾽ ἐρέσθαι μηδένα,
+<lb />ἀλλὰ χωρεῖν ἄντικρυς
+<lb />ὥσπερ οἴκαδ᾽ εἰς ἑαυτῶν
+<lb rend="displayNum" n="1070" />γεννικῶς, ὡς
+<lb />ἡ θύρα κεκλῄσεται.
+</p></sp></div2></div1></body></text></TEI.2>

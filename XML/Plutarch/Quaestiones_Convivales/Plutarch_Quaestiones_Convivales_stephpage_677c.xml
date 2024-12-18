@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="3" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-677c" n="677c" />Εενοκράτει
+                        συσχολασάντων.</q>
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="4" org="uniform" sample="complete">
+               <head> Περὶ τοῦ <q direct="unspecified">ζωρότερον δὲ κέραιε.<note resp="ed" place="unspecified" anchored="yes">ξφ. ηομ. ι 203</note></q>
+               </head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>γελοῖος ἐδόκει τισὶ τῶν συνδειπνούντων ὁ Ἀχιλλεύς, ἀκρατότερον
+                     ἐγχεῖν τὸν Πάτροκλον κελεύων, <milestone unit="tlnum" n="10" /> εἶτ᾽
+                     αἰτίαν τοιαύτην ἐπιλέγων <quote rend="blockquote">οἱ γὰρ φίλτατοι
+                        ἄνδρες ἐμῷ ὑπέασι μελάθρῳ.</quote>
+                     <note resp="ed" place="unspecified" anchored="yes">ξφ. ηομ. ι 201</note>
+                     Νικήρατος μὲν οὖν ὁ ἑταῖρος ἡμῶν, ὁ Μακεδὼν, ἄντικρυς
+                     ἀπισχυρίζετο <note resp="ed" place="unspecified" anchored="yes">εμ. ρ:
+                           <foreign lang="greek">ἐπισχυρίζεται</foreign></note> μὴ ἄκρατον
+                     ἀλλὰ θερμὸν εἰρῆσθαι τὸ <q direct="unspecified">ζωρόν</q> ἀπὸ τοῦ ζωτικοῦ καὶ τῆς
+                     ζέσεως, ὃ <milestone unit="tlnum" n="15" /> δὴ καὶ λόγον ἔχειν, ἀνδρῶν
+                     ἑταίρων παρόντων, νέον ἐξ ὑπαρχῆς κεράννυσθαι κρατῆρα: καὶ γὰρ
+                     ἡμᾶς, ὅταν τοῖς θεοῖς ἀποσπένδειν μέλλωμεν, νεοκρᾶτα </p></div3></div2></div1></body></text></TEI.2>

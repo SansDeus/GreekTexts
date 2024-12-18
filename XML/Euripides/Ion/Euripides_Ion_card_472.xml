@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="472" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ὑπερβαλλούσας γὰρ ἔχει
+<lb />θνατοῖς εὐδαιμονίας
+<lb />ἀκίνητον ἀφορμάν,
+<lb rend="displayNum" n="475" />τέκνων οἷς ἂν καρποτρόφοι
+<lb />λάμπωσιν ἐν θαλάμοις
+<lb />πατρίοισι νεάνιδες ἧβαι,
+<lb />διαδέκτορα πλοῦτον
+<lb />ὡς ἕξοντες ἐκ πατέρων
+<lb rend="displayNum" n="480" />ἑτέροις ἐπὶ τέκνοις.
+<lb />ἀλκά τε γὰρ ἐν κακοῖς
+<lb />σύν τ᾽ εὐτυχίαις φίλον,
+<lb />δορί τε γᾷ πατρίᾳ φέρει
+<lb />σωτήριον ἀλκάν.
+<lb rend="displayNum" n="485" />ἐμοὶ μὲν πλούτου τε πάρος
+<lb />βασιλικῶν τ᾽ εἶεν θαλάμων
+<lb />τροφαὶ κήδειοι κεδνῶν γε τέκνων.
+<lb />τὸν ἄπαιδα δ᾽ ἀποστυγῶ
+<lb />βίον, ᾧ τε δοκεῖ ψέγω:
+<lb rend="displayNum" n="490" />μετὰ δὲ κτεάνων μετρίων βιοτᾶς
+<lb />εὔπαιδος ἐχοίμαν.
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="trochees" org="uniform" sample="complete"><sp><p><milestone ed="p" n="461" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" org="uniform" sample="complete">
+<sp><speaker>Βδελυκλέων</speaker><p>
+<lb />ἀλλὰ μὰ Δί᾽ οὐ ῥᾳδίως οὕτως ἂν αὐτοὺς διέφυγες,
+<lb />εἴπερ ἔτυχον τῶν μελῶν τῶν Φιλοκλέους βεβρωκότες.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ἆρα δῆτ᾽ οὐκ αὐτὰ δῆλα
+<lb />τοῖς πένησιν, ἡ τυραννὶς
+<lb rend="displayNum" n="465" />†ὡς λάθρᾳ γ᾽ ἐλάνθαν᾽ ὑπιοῦσά με,†
+<lb />εἰ σύ γ᾽ ὦ πόνῳ πόνηρε καὶ κομηταμυνία
+<lb />τῶν νόμων ἡμᾶς ἀπείργεις ὧν ἔθηκεν ἡ πόλις,
+<lb />οὔτε τιν᾽ ἔχων πρόφασιν
+<lb />οὔτε λόγον εὐτράπελον,
+<lb rend="displayNum" n="470" />αὐτὸς ἄρχων μόνος;</p></sp>
+<sp><speaker>Βδελυκλέων</speaker><p>
+<lb />ἔσθ᾽ ὅπως ἄνευ μάχης καὶ τῆς κατοξείας βοῆς
+<lb />ἐς λόγους ἔλθοιμεν ἀλλήλοισι καὶ διαλλαγάς;</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />σοὐς λόγους ὦ μισόδημε καὶ μοναρχίας ἐραστά,
+<lb rend="displayNum" n="475" />καὶ ξυνὼν Βρασίδᾳ καὶ φορῶν κράσπεδα
+<lb />στεμμάτων τήν θ᾽ ὑπήνην ἄκουρον τρέφων;</p></sp></div2></div1></body></text></TEI.2>

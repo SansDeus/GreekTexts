@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" n="20" org="uniform" sample="complete"><div2 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-175c" n="175c" /> περὶ τούτου φράσασαν: ἡ εἶπεν <q direct="unspecified">ᾤμην γὰρ τοιοῦτον
+                     ἅπαντας τοὺς ἄνδρας ὄζειν.</q>
+               </p>
+            </div2>
+            <div2 type="section" n="4" org="uniform" sample="complete">
+               <milestone unit="tlnum" n="5" />
+               <p>πρὸς δὲ Ξενοφάνην τὸν Κολοφώνιον εἰπόντα μόλις οἰκέτας δύο τρέφειν
+                     <q direct="unspecified">ἀλλ᾽ Ὅμηρος</q> εἶπεν, <q direct="unspecified">ὃν σὺ διασύρεις, πλείονας ἢ μυρίους
+                     τρέφει τεθνηκώς</q>
+               </p>
+            </div2>
+            <div2 type="section" n="5" org="uniform" sample="complete">
+               <p>Ἐπίχαρμον δὲ τὸν κωμῳδιοποιόν, <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κωμῳδιοποιόν</foreign> *: <foreign lang="greek">κωμῳδιποιόν</foreign></note> ὅτι τῆς γυναικὸς αὐτοῦ
+                  παρούσης εἶπέ τι τῶν ἀπρεπῶν, <milestone unit="tlnum" n="10" /> ἐζημίωσε.
+               </p>
+            </div2>
+         </div1>
+         <div1 type="chapter" n="21" org="uniform" sample="complete">
+            <head>Διονυσίου τοῦ πρεσβυτέρου</head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <p>Διονύσιος ὁ πρεσβύτερος, κληρουμένων κατὰ </p></div2></div1></body></text></TEI.2>

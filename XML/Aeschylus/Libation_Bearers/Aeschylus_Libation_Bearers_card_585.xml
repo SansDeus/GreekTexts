@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="585" unit="card" />
+</p></sp>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="585" />πολλὰ μὲν γᾶ  τρέφει
+<lb />δεινὰ <del status="unremarkable">καὶ</del>  δειμάτων ἄχη,
+<lb />πόντιαί τ᾽ ἀγκάλαι κνωδάλων
+<lb />ἀνταίων βρύουσι:
+<lb />πλάθουσι <del status="unremarkable">βλαστοῦσι</del> καὶ πεδαίχμιοι
+<lb rend="displayNum" n="590" />λαμπάδες πεδάοροι,
+<lb />πτανά τε καὶ πεδοβά-
+<lb />μονα κἀνεμοέντ᾽ ἂν
+<lb />αἰγίδων φράσαι κότον.
+</p></sp></div2></div1></body></text></TEI.2>

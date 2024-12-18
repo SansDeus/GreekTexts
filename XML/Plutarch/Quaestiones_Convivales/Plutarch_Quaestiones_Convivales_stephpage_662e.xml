@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="4" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-662e" n="662e" />
+                        <quote rend="blockquote">
+                           <l> βοσκόμεθ᾽ ὕλης ἀπὸ παντοδαπῆς, ἐλάτης, πρίνου, κομάρου τε
+                                 <milestone unit="tlnum" n="5" />
+                           </l>
+                           <l> πτόρθους <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πορ́θους</foreign> μει</note> ἁπαλοὺς
+                              ἀποτρώγουσαι, καὶ πρὸς τούτοισιν ἔτ᾽ ἄλλα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τούτοισι
+                                    γε θαλλὸν</foreign> μεινεκιυς </note>
+                              <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἔτ᾽ ἄλλα</foreign> χ: <foreign lang="greek">ἔτ᾽</foreign> 3-4 ϝδ ε</note>
+                           </l>
+                           <l>κύτισὸν τ᾽ ἠδὲ <note resp="ed" place="unspecified" anchored="yes">χ: <foreign lang="greek">κύτισον τ᾽ ἠδεφα</foreign> 6-7
+                                 ϝδ</note> σφάκον εὐώδη καὶ σμίλακα τὴν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τὴν</foreign> χ</note> λύφυλλον, <milestone unit="tlnum" n="10" />
+                           </l>
+                           <l>κότινον, σχῖνον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">σχῖνον</foreign> μαξροβιυς. 7, 5, 9:
+                                    <foreign lang="greek">ἐχῖνον</foreign></note>, μελίαν,
+                              λεύκην <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">λεύκην</foreign> κοξκιυς: <foreign lang="greek">πεύκην</foreign> μαξροβιυς. ομ. πλυτ. λιβρι</note>, ἀρίαν
+                                 <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀρίαν</foreign> λοβεξκιυς: <foreign lang="greek">ἀλίαν</foreign> μαξροβ. ομ. λιβρι. πλυτ.</note>, δρῦν,
+                              κιττόν, ἐρίκην <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐρίκην</foreign> κοξκιυς: <foreign lang="greek">ἐρεικην</foreign></note>, </l>
+                           <l> πρόμαλον, ῥάμνον, φλόμον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φλῶμον</foreign> μει</note>,
+                              ἀνθέρικον, κισθόν, φηγόν, θύμα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">θύμα</foreign> μαξροβιυς</note>, θύμβραν.</l>
+                        </quote> τὰ γὰρ κατηριθμημένα μυρίας δήπου διαφορὰς ἔχει χυμῶν καὶ
+                        ὀδμῶν καὶ δυνάμεων: πλείονα δὲ τῶν <milestone unit="tlnum" n="15" />
+                        εἰρημένων παραλέλειπται. τὸ δὲ δεύτερον Ὅμηρος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ὁμηρος</foreign>] α 50</note>
+                        </q></p></div3></div2></div1></body></text></TEI.2>

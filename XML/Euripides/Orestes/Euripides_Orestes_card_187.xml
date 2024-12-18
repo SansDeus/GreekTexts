@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="187" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />θρόει τίς κακῶν τελευτὰ μένει.</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb />θανεῖν <add>θανεῖν</add>, τί δ᾽ ἄλλο;
+<lb />οὐδὲ γὰρ πόθον ἔχει βορᾶς.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="190" />πρόδηλος ἆρ᾽ ὁ πότμος.</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb />ἐξέθυσ᾽ ὁ Φοῖβος ἡμᾶς
+<lb />μέλεον ἀπόφονον αἷμα δοὺς
+<lb />πατροφόνου ματρός.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />δίκᾳ μέν.</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+καλῶς δ᾽ οὔ.
+<lb rend="displayNum" n="195" />ἔκανες ἔθανες, ὦ
+<lb />τεκομένα με μᾶτερ, ἀπὸ δ᾽ ὤλεσας
+<lb />πατέρα τέκνα τε τάδε σέθεν ἀφ᾽ αἵματος:
+<lb rend="displayNum" n="200" />ὀλόμεθ᾽ ἰσονέκυες, ὀλόμεθα.
+<lb />σύ τε γὰρ ἐν νεκροῖς, τό τ᾽ ἐμὸν οἴχεται
+<lb rend="displayNum" n="204" />βίου τὸ πλέον μέρος ἐν στοναχαῖσί τε καὶ γόοισι
+<lb rend="displayNum" n="205" />δάκρυσί τ᾽ ἐννυχίοις, ἄγαμος
+<lb /><del status="unremarkable">ἐπὶ δ᾽</del> ἄτεκνος ἅτε βίοτον ἁ
+<lb />μέλεος ἐς τὸν αἰὲν ἕλκω χρόνον.</p></sp></div2>
+</div1>
+</body></text></TEI.2>

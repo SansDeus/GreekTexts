@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="5" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-679e" n="679e" />
+                        <q direct="unspecified">φθόνος γὰρ ἔξω θείου χοροῦ ἵσταται <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φθόνος -
+                                 ἵσταται</foreign>] εχ πλατ. πηαεδρ. π. 247α</note>:</q> θεῖος
+                        δέ που καὶ ὁ τῶν φίλων χορὸς εὐγνωμόνως διανεμόμενος ἐν ταῖς
+                        συμπεριφοραῖς.</q>
+                  </p>
+               </div3>
+            </div2>
+            <pb id="v.4.p.197" />
+            <div2 type="chapter" n="6" org="uniform" sample="complete">
+               <head>Τίς αἰτία τῆς ἐν ἀρχῇ στενοχωρίας τῶν δειπνούντων εἶθ᾽ ὕστερον
+                  εὐρυχωρίας.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  </div3></div2></div1></body></text></TEI.2>

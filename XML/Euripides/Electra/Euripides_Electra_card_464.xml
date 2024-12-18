@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="464" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἐν δὲ μέσῳ κατέλαμπε σάκει φαέθων
+<lb rend="displayNum" n="465" />κύκλος ἀελίοιο
+<lb />ἵπποις ἂμ πτεροέσσαις
+<lb />ἄστρων τ᾽ αἰθέριοι χοροί,
+<lb />Πλειάδες, Ὑάδες, Ἕκτορος
+<lb />ὄμμασι τροπαῖοι:
+<lb rend="displayNum" n="470" />ἐπὶ δὲ χρυσοτύπῳ κράνει
+<lb />Σφίγγες ὄνυξιν ἀοίδιμον
+<lb />ἄγραν φέρουσαι: περιπλεύ-
+<lb />ρῳ δὲ κύτει πύρπνοος ἔ-
+<lb />σπευδε δρόμῳ λέαινα χαλ-
+<lb />αῖς Πειρη-
+<lb rend="displayNum" n="475" />ναῖον ὁρῶσα πῶλον.
+</p></sp></div2></div1></body></text></TEI.2>

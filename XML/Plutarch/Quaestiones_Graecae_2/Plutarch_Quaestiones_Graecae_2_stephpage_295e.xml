@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="19" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-295e" n="295e" />
+                  <quote rend="blockquote"> πῖν᾽ οἶνον τρυγίαν, ἐπεὶ οὐκ Ἀνθηδόνα ναίεις
+                  </quote> ἡ γὰρ ἐν Βοιωτοῖς οὐκ ἔστι πολύοινος;᾽</q> τὴν Καλαύρειαν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Καλαύρειαν</foreign> *: <foreign lang="greek">Καλαυρίαν</foreign></note>
+               Εἰρήνην τὸ παλαιὸν ὠνόμαζον ἀπὸ γυναικὸς <milestone unit="tlnum" n="5" />εἰρήνης, ἣν ἐκ Ποσειδῶνος καὶ Μελανθείας τῆς Ἀλφειοῦ γενέσθαι
+               μυθολογοῦσιν. ὕστερον δὲ τῶν περὶ Ἄνθην <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἀνθην</foreign>] <foreign lang="greek">Ἀνθον</foreign>̣</note> καὶ Ὑπέρην αὐτόθι
+               κατοικούντων, Ἀνθηδονίαν καὶ Ὑπέρειαν ἐκάλουν τὴν νῆσον. εἶχε δ᾽ ὁ
+               χρησμὸς οὕτως, ὡς Ἀριστοτέλης φησί, <milestone unit="tlnum" n="10" />
+               <quote rend="blockquote">
+                  <l> πῖν᾽ οἶνον τρυγίαν, ἐπεὶ οὐκ Ἀνθηδόνα ναίεις </l>
+                  <l> οὐδ᾽ ἱερὰν Ὑπέραν, ὅθι γ᾽ ἄτρυγον οἶνον ἔπινες</l>
+               </quote>
+               </p></div1></body></text></TEI.2>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><milestone ed="p" n="1497" unit="card" />
+<sp>
+<speaker>Κλυταιμήστρα</speaker><p>
+<lb />αὐχεῖς εἶναι τόδε τοὔργον ἐμόν;
+<lb />μηδ᾽ ἐπιλεχθῇς
+<lb />Ἀγαμεμνονίαν εἶναί μ᾽ ἄλοχον.
+<lb rend="displayNum" n="1500" />φανταζόμενος δὲ γυναικὶ νεκροῦ
+<lb />τοῦδ᾽ ὁ παλαιὸς δριμὺς ἀλάστωρ
+<lb />Ἀτρέως χαλεποῦ θοινατῆρος
+<lb />τόνδ᾽ ἀπέτεισεν,
+<lb />τέλεον νεαροῖς ἐπιθύσας.
+</p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+</div2></div1></body></text></TEI.2>

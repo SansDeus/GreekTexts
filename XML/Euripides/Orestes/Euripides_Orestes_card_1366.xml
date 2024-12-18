@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1366" unit="card" /></p></sp></div2>
+</div1>
+<div1 type="episode" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb /><del status="unremarkable">ἀλλὰ κτυπεῖ γὰρ κλῇθρα βασιλείων δόμων,
+<lb />σιγήσατ᾽: ἔξω γάρ τις ἐκβαίνει Φρυγῶν,
+<lb />οὗ πευσόμεσθα τἀν δόμοις ὅπως ἔχει.</del>
+</p></sp>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Φρύξ</speaker><p>
+<lb />Ἀργέϊον ξίφος ἐκ θανάτου πέφευγα
+<lb rend="displayNum" n="1370" />βαρβάροις ἐν εὐμάρι-
+<lb />σιν, κεδρωτὰ παστάδων ὑπὲρ τέραμνα
+<lb />Δωρικάς τε τριγλύφους,
+<lb />φροῦδα φροῦδα, γᾶ γᾶ,
+<lb />βαρβάροισι δρασμοῖς.
+<lb rend="displayNum" n="1375" />αἰαῖ:
+<lb />πᾷ φύγω, ξέναι, πολιὸν αἰθέρ᾽ ἀμ-
+<lb />πτάμενος ἢ πόντον, Ὠκεανὸς ὃν
+<lb />ταυρόκρανος ἀγκάλαις
+<lb />ἑλίσσων κυκλοῖ χθόνα;
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="1380" />τί δ᾽ ἔστιν, Ἑλένης πρόσπολ᾽. Ἰδαῖον κάρα;
+</p></sp>
+<sp>
+<speaker>Φρύξ</speaker><p>
+<lb />Ἴλιον Ἴλιον, ὤμοι μοι,
+<lb />Φρύγιον ἄστυ καὶ καλλίβωλον Ἴ-
+<lb />δας ὄρος ἱερόν, ὥς σ᾽ ὀλόμενον στένω
+<lb /><del status="unremarkable">ἁρμάτειον ἁρμάτειον μέλος</del>
+<lb rend="displayNum" n="1385" />βαρβάρῳ βοᾷ δι᾽ ὀρνιθόγονον
+<lb />ὄμμα κυκνοπτέρου καλλοσύνας, Λήδας
+<lb />σκύμνου, δυσελένας
+<lb />δυσελένας,
+<lb />ξεστῶν περγάμων Ἀπολλωνίων
+<lb />ἐρινύν: ὀττοτοῖ:
+<lb rend="displayNum" n="1390" />ἰαλέμων ἰαλέμων
+<lb />Δαρδανία τλᾶμον Γανυμήδεος
+<lb />ἱπποσύνᾳ, Διὸς εὐνέτα.
+</p></sp></div2></div1></body></text></TEI.2>

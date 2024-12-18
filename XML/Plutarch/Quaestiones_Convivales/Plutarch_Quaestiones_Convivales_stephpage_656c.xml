@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="7" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-656c" n="656c" />
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="8" org="uniform" sample="complete">
+               <head> Διὰ τί τῶν ἀκροθωράκων λεγομένων οἱ σφόδρα μεθύοντες ἧττον
+                  παρακινητικοὶ εἰσιν.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="20" />
+                  <p>
+                     <q direct="unspecified">οὐκοῦν</q> εἶπεν ὁ πατήρ <q direct="unspecified">ἐπεὶ παρακεκινήκαμεν τὸν
+                        Ἀριστοτέλη, καὶ περὶ τῶν ἀκροθωράκων τι καλουμένων ἴδιον
+                        ἐπιχειρήσομεν εἰπεῖν: οὐ γὰρ <pb id="v.4.p.128" /> ἱκανῶς μοι δοκεῖ,
+                        καίπερ ὀξύτατος ὢν ἐν τοῖς τοιούτοις ζητήμασι, διηκριβωκέναι τὴν
+                        αἰτίαν. φησὶ γὰρ οἶμαι τοῦ μὲν νήφοντος εὖ καὶ κατὰ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κατὰ</foreign> δοεηνερυς ξολλ. πλατ. πηαεδρ. π. 262 β. ξφ. αριστοτ.
+                           871, 12. 875, 30.</note> τὰ ὄντα κρίνειν τὸν λογισμόν, τοῦ δ᾽
+                        ἄγαν μεθύοντος ἐκλελυμένην <milestone unit="tlnum" n="5" /> κατέχεσθαι
+                        τὴν αἴσθησιν, τοῦ δ᾽ ἀκροθώρακος ἔτι μὲν ἰσχύειν τὸ φανταστικὸν
+                        ἢδη δὲ τεταράχθαι τὸ λογιστικόν: διὸ καὶ κρίνειν καὶ κακῶς
+                           </q></p></div3></div2></div1></body></text></TEI.2>

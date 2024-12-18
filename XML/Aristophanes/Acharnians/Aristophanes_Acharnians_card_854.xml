@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="strophe" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="854" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="4" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />οὐδ᾽ αὖθις αὖ σε σκώψεται Παύσων ὁ παμπόνηρος
+<lb rend="displayNum" n="855" />Λυσίστρατός τ᾽ ἐν τἀγορᾷ, Χολαργέων ὄνειδος,
+<lb />ὁ περιαλουργὸς τοῖς κακοῖς,
+<lb />ῥιγῶν τε καὶ πεινῶν ἀεὶ
+<lb />πλεῖν ἢ τριάκονθ᾽ ἡμέρας
+<lb />τοῦ μηνὸς ἑκάστου.
+</p></sp></div2></div1></body></text></TEI.2>

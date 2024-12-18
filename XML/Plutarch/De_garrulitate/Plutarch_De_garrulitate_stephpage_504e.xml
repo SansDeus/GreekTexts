@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="5" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-504e" n="504e" />
+                    </p>
+               </div1>
+               <div1 type="section" n="6" org="uniform" sample="complete">
+                    <p>τοῦτο τοίνυν πρῶτον ὑπομιμνήσκωμεν αὐτούς, ὅτι, καθάπερ τὸν
+                         οἶνον ἡδονῆς ἕνεκα καὶ φιλοφροσύνης <milestone unit="tlnum" n="15" /> εὑρημένον οἱ προσβιαζόμενοι πολὺν πίνειν καὶ ἄκρατον ἐνίους
+                         εἰς ἀηδίαν καὶ παροινίαν τρέπουσιν, οὕτω τὸν λόγον ἣδιστον
+                         ὄντα καὶ φιλανθρωπότατον συμβόλαιον οἱ χρώμενοι κακῶς καὶ
+                         προχείρως ἀπάνθρωπον ποιοῦσι καὶ ἄμικτον, οἷς <milestone unit="tlnum" n="20" /> οἴονται χαρίζεσθαι λυποῦντες καὶ ἀφ᾽ ὧν
+                              <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀφ᾽ ὦν</foreign>] ξφ. σψμβολας μεας</note>
+                         θαυμάζεσθαι καταγελώμενοι καὶ δι᾽ ὧν φιλεῖσθαι δυσχεραινόμενοι.
+                              </p></div1></body></text></TEI.2>

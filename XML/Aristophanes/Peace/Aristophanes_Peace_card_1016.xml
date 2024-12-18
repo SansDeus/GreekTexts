@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Lyric-Scene" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1016" unit="card" /></p></sp></div2>
+<div2 type="iambics" org="uniform" sample="complete">
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+<lb />ταῦτ᾽ ὦ πολυτίμητ᾽ εὐχομένοις ἡμῖν δίδου.</p></sp>
+<sp>
+<speaker>Οἰκέτης</speaker><p>
+<lb />λαβὲ τὴν μάχαιραν: εἶθ᾽ ὅπως μαγειρικῶς
+<lb />σφάξεις τὸν οἶν.</p></sp>
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+ἀλλ᾽ οὐ θέμις.</p></sp>
+<sp>
+<speaker>Οἰκέτης</speaker><p>
+τιὴ τί δή;</p></sp>
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+<lb />οὐχ ἥδεται δήπουθεν Εἰρήνη σφαγαῖς,
+<lb rend="displayNum" n="1020" />οὐδ᾽ αἱματοῦται βωμός. ἀλλ᾽ εἴσω φέρων
+<lb />θύσας τὰ μηρἴ ἐξελὼν δεῦρ᾽ ἔκφερε,
+<lb />χοὔτω τὸ πρόβατον τῷ χορηγῷ σῴζεται.
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="0" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-644f" n="644f" />
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>Σιμωνίδης ὁ ποιητής, ὦ Σόσσιε Σενεκίων, <milestone unit="tlnum" n="5" /> ἔν τινι πότῳ ξένον ἰδὼν κατακείμενον σιωπῇ καὶ μηδενὶ
+                     διαλεγόμενον, <q direct="unspecified">ὦ ἄνθρωπ᾽</q> εἶπεν <q direct="unspecified">εἰ μὲν ἠλίθιος εἶ, σοφὸν
+                        πρᾶγμα ποιεῖς εἰ δὲ σοφός, ἠλίθιον.</q>
+                     <q direct="unspecified">ἀμαθίην γὰρ ἄμεινον</q> ὥς φησιν Ἡράκλειτος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἡράκλειτος</foreign>] βψωατερ. π. 42</note>
+                     <q direct="unspecified">κρύπτειν, ἔργον δὲ ἐν ἀνέσει καὶ παρ᾽ οἶνον</q>
+                     <milestone unit="tlnum" n="10" />
+                     </p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="7" org="uniform" sample="complete"><div3 type="section" n="5" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-682c" n="682c" />
+                  <p>
+                     <q direct="unspecified">ἄλλως μέν</q> ἔφην <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἔφην</foreign> ϝυλξοβιυς: <foreign lang="greek">ἔφη</foreign></note>
+                     <q direct="unspecified">οὐ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οὐ</foreign> ω: <foreign lang="greek">καὶ</foreign></note> μάλ᾽
+                        ἱκανῶς: πίνων δ̓ ὡς ὁρᾷς ἐκ τῆς τηλικαύτης κύλικος, οὐκ
+                        ἀτόλμως: <milestone unit="tlnum" n="5" /> λέγω δ᾽ ὅτι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δὲ
+                              ὅτι</foreign> ιδεμ: <foreign lang="greek">διότι</foreign></note>
+                        τὰ μὲν πάθη πάντα, ταῖς ψυχαῖς ἐμμείναντα πολὺν χρόνον, ἕξεις
+                        ἐνεργάζεται πονηράς: αὗται δ᾽, ὅταν ἰσχὺν φύσεως λάβωσιν, ὑπὸ
+                        τῆς τυχούσης κινούμεναι προφάσεως, πολλάκις καὶ ἄκοντας ἐπὶ τὰ
+                        οἰκεῖα καὶ συνήθη καταφέρουσι πάθη. <milestone unit="tlnum" n="10" />
+                        σκόπει δὲ τοὺς δειλοὺς ὅτι καὶ τὰ σῴζοντα φοβοῦνται, καὶ τοὺς
+                        ὀργίλους ὅτι καὶ τοῖς φιλτάτοις δυσκολαίνουσι, <milestone unit="tlnum" n="15" /> καὶ τοὺς ἐρωτικοὺς καὶ ἀκολάστους ὅτι
+                           </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="4" org="uniform" sample="complete"><div2 type="chapter" n="23" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-904c" n="904c" />
+               <head> Περὶ παθῶν σωματικῶν καὶ εἰ συναλγεῖ τούτοις ἡ ψυχή.</head>
+               <p>οἱ Στωικοὶ τὰ μὲν πάθη ἐν τοῖς πεπονθόσι
+τόποις, τὰς δ᾽ αἰσθήσεις ἐν τῷ ἡγεμονικῷ.
+<milestone unit="tlnum" n="5" />
+               </p>
+               <p>Ἐπίκουρος καὶ τὰ πάθη καὶ τὰς αἰσθήσεις ἐν
+τοῖς πεπονθόσι τόποις: τὸ , γὰρ ἡγεμονικὸν ἀπαθές. 
+</p>
+               <p>Στράτων καὶ τὰ πάθη τῆς ψυχῆς καὶ τὰς αἰσθήσεις
+ἐν τῷ ἡγεμονικῷ οὐκ ἐν τοῖς πεπονθόσι τόποις συνίστασθαι. ἐν γὰρ ταύτῃ κεῖσθαι τὴν
+<milestone unit="tlnum" n="10" /> ὑπομονήν, ὥσπερ ἐπὶ τῶν δεινῶν καὶ ἀλγεινῶν καὶ
+ὥσπερ ἐπὶ τῶν ἀνδρείων καὶ δειλῶν.
+</p>
+            </div2>
+         </div1>
+         <div1 type="book" n="5" org="uniform" sample="complete">
+            <div2 type="chapter" n="1" org="uniform" sample="complete">
+               </div2></div1></body></text></TEI.2>

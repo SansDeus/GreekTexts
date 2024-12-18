@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="783" unit="card" />
+</p></sp></div2>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />νῦν παραιτουμένᾳ μοι, πάτερ
+<lb />Ζεῦ θεῶν Ὀλυμπίων,
+<lb rend="displayNum" n="785" />δὸς τύχας τυχεῖν δόμου  κυρίως
+<lb />τὰ σώφρον᾽ εὖ  μαιομένοις ἰδεῖν.
+<lb />διὰ δίκας  πᾶν ἔπος
+<lb />ἔλακον: <add>ὦ</add> Ζεῦ, σύ  νιν φυλάσσοις.
+</p></sp></div2></div1></body></text></TEI.2>

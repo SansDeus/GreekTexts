@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parabasis" org="uniform" sample="complete"><div2 type="epirrhema" met="trochees" org="uniform" sample="complete"><sp><p><milestone ed="p" n="692" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ταῦτα πῶς εἰκότα, γέροντ᾽ ἀπολέσαι πολιὸν ἄνδρα περὶ κλεψύδραν,
+<lb />πολλὰ δὴ ξυμπονήσαντα καὶ θερμὸν ἀπομορξάμενον ἀνδρικὸν ἱδρῶτα δὴ καὶ πολύν,
+<lb />ἄνδρ᾽ ἀγαθὸν ὄντα Μαραθῶνι περὶ τὴν πόλιν;
+<lb />εἶτα Μαραθῶνι μὲν ὅτ᾽ ἦμεν ἐδιώκομεν,
+<lb rend="displayNum" n="700" />νῦν δ᾽ ὑπ᾽ ἀνδρῶν πονηρῶν σφόδρα διωκόμεθα, κᾆτα προσαλισκόμεθα.
+<lb />πρὸς τάδε τίς ἀντερεῖ Μαρψίας;</p></sp></div2></div1></body></text></TEI.2>

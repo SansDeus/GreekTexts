@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="8" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-506c" n="506c" /> ὄργανον ἐπὶ τὸν ὀφθαλμόν, ἀλλ᾽
+                         ὠμοὺς ἐσθίεσθαι μᾶλλον ἢ φράσαι τι τῶν ἀπορρήτων, ὑπερβολὴν
+                         ἐγκρατείας καὶ πίστεως οὐκ ἀπολέλοιπεν.  <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀπολέλοιπεν</foreign> ρ: <foreign lang="greek">ἐκλέλοιπεν</foreign></note> ὅθεν ὁ Πιττακὸς οὐ
+                         κακῶς, τοῦ Αἰγυπτίων βασιλέως <milestone unit="tlnum" n="15" />
+                         πέμψαντος ἱερεῖον αὐτῷ καὶ κελεύσαντος τὸ κάλλιστον καὶ
+                         χείριστον ἐξελεῖν κρέας, ἐξέπεμψεν ἐξελὼν τὴν γλῶτταν ὡς
+                         ὄργανον μὲν ἀγαθῶν ὄργανον δὲ κακῶν. τῶν μεγίστων οὖσαν. </p>
+               </div1>
+               <div1 type="section" n="9" org="uniform" sample="complete">
+                    <p>ἡ δ᾽ Εὐριπίδειος Ἰνὼ παρρησίαν ἄγουσα περὶ <milestone unit="tlnum" n="20" /> αὑτῆς εἰδέναι φησὶ <quote rend="blockquote"> σιγᾶν θ᾽
+                                   ὅπου  <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὅπου</foreign> στοβαευς 89, 9: <foreign lang="greek">ὅποι</foreign></note> δεῖ καὶ λέγειν ἵν᾽ ἀσφαλές. </quote>  <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 486</note> οἱ γὰρ εὐγενοῦς
+                         καὶ βασιλικῆς τῷ ὄντι παιδείας τυχόντες πρῶτον σιγᾶν εἶτα
+                         λαλεῖν μανθάνουσιν. </p></div1></body></text></TEI.2>

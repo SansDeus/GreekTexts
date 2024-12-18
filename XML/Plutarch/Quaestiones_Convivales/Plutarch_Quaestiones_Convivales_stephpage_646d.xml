@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-646d" n="646d" /> οὐδὲν
+                        ἐπιμένοντος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τῶν δ᾽ ἀνθῶν - ἐπιμενόντων</foreign>
+                        τυρνεβυς</note>, πλὴν εἴ τι χρωμένοις ἡμῖν ἐπιτερπὲς ὀσφρέσθαι
+                           <note resp="ed" place="unspecified" anchored="yes">ιδεμ: <foreign lang="greek">ὅσφρεσθαι</foreign>. ξετερυμ <foreign lang="greek">ἀφιέντα</foreign> ετ <foreign lang="greek">ἐνοιγόμενα</foreign>
+                           δελεϝεριμ υτ λιβραριι αδδιταμεντα</note> καὶ ἰδεῖν ἡδὺ παρέχει,
+                        θαυμαστὰς <pb id="v.4.p.99" /> μὲν ὀσμὰς ἀφιέντα, ποικιλίαν δ᾽ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δὲ</foreign>] μαλιμ <foreign lang="greek">δ᾽ ἐν</foreign></note>
+                        ἀμιμήτοις χρώμασι καὶ βαφαῖς ἀνοιγόμενα. διὸ τῶν μὲν φύλλων
+                        ἀποσπωμένων οἷον ἀλγεῖ καὶ δάκνεται τὰ φυτὰ καὶ γίγνεται περὶ
+                        αὐτὰ βλάβη τις ἑλκώδης καὶ ψίλωσις <milestone unit="tlnum" n="5" />
+                        ἀπρεπής: καὶ οὐ μόνης ὡς ἔοικε κατ᾽ Ἐμπεδοκλέα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἐμπεδοκλέα</foreign>] μυλλαξη. 1 π. 13 ϝς. 450, θυι <foreign lang="greek">δάφνης γὰρ χλωρῶν φύλλων ἀπὸ πάμπαν
+                              ἔχεσθε</foreign> ϝερσυμ εφφεξιτ</note>
+                        <q direct="unspecified">τῆς δάφνης τῶν φύλλων ἀπὸ πάμπαν ἔχεσθαι χρή,</q> ἀλλὰ καὶ
+                        τῶν ἄλλων φείδεσθαι δένδρων ἁπάντων </q></p></div3></div2></div1></body></text></TEI.2>

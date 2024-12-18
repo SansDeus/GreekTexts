@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="2" org="uniform" sample="complete"><div3 type="section" n="4" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-617a" n="617a" />εἶπον
+                        <q direct="unspecified">ἑστιῶντας καὶ πολίτας καὶ συνήθεις ἐθιστέον, ὥς φησι Τίμων,
+                        ἀφελῶς καὶ ἀτύφως κατανέμειν <milestone unit="tlnum" n="15" /> αὑτοὺς
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὐτοὺς</foreign> μει</note> εἰς ἣν ἂν τύχωσι χώραν, καλὸν
+                        εἰς φιλίαν ἐφόδιον τὴν εὐκολίαν λαμβάνοντας: ἐν δὲ ξένοις ἢ
+                        ἄρχουσιν ἢ πρεσβυτέροις φιλοσοφοῦντες <note resp="ed" place="unspecified" anchored="yes">βασιλεενσις: <foreign lang="greek">φιλοσοφοῦντας</foreign></note> δέδια μὴ δοκῶμεν τῇ αὐλείῳ
+                        τὸν τῦφον ἀποκλείοντες εἰσάγειν τῇ παραθύρῳ μετὰ πολλῆς
+                        ἀδιαφορίας: ἐν ᾧ καὶ <milestone unit="tlnum" n="20" /> συνηθείᾳ τι
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τι</foreign>] <foreign lang="greek">τινὶ</foreign> μει</note> καὶ
+                        νόμῳ δοτέον. ἢ καὶ προπόσεις καὶ προσαγορεύσεις ἀνέλωμεν, αἷς
+                        πρὸς τοὺς ἐπιτυγχάνοντας οὐδ᾽ ἀκρίτως <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οὐκ εἰκῆ
+                              οὐδ᾽ ἀκρίτως</foreign> συππλετ ρ</note> ἀλλ᾽ ὡς ἐνδέχεται
+                        μάλιστα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μάλιστα</foreign>] αδδ. <foreign lang="greek">ἐμμελέστατα</foreign> ω</note> χρώμενοι τιμῶμεν <pb id="v.4.p.15" />
+                        <quote rend="blockquote">ἕδρῃ τε κρέασὶν τ᾽ ἠδὲ πλείοις
+                           δεπάεσσιν</quote>
+                        <note resp="ed" place="unspecified" anchored="yes">ηομ. μ 311</note> ὥς
+                        φησιν ὁ τῶν Ἑλλήνων βασιλεύς, τὴν τάξιν ἐν </q></p></div3></div2></div1></body></text></TEI.2>

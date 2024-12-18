@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="6" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-23c" n="23c" />
+                  <quote rend="blockquote">
+                     <l>τυφλὸς γάρ, ὦ γυναῖκες, οὐδ᾽ ὁρῶν Ἄρης </l> <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 247</note>
+                     <l>συὸς προσώπῳ πάντα τυρβάζει κακὰ</l>
+                  </quote> τὸν πόλεμον ἔστιν ὑπακοῦσαι, καθάπερ αὖ τὸν χαλκὸν Ὁμήρου <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ὁμήρου</foreign>] η 329</note>
+                  λέγοντος <milestone unit="tlnum" n="15" />
+                  <quote rend="blockquote">
+                     <l>τῶν νῦν αἷμα κελαινὸν ἐύρροον ἀμφὶ Σκάμανδρον </l>
+                     <l>ἐσκέδας1᾿ ὀξὺζ; Ἄρης</l>
+                  </quote> πολλῶν οὖν οὕτω λεγομένων εἰδέναι δεῖ καὶ μνημονεύειν ὅτι
+                  καὶ τῷ τοῦ Διὸς καὶ Ζηνὸς ὀνόματι <milestone unit="tlnum" n="20" />
+                  </p></div2></div1></body></text></TEI.2>

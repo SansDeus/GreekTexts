@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="18" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-48d" n="48d" /> οἷον ἔρευθος ἕλκει καὶ
+                  γάνωμα τὴν δόξαν ἀπὸ τῶν λόγων, τὸν δ᾽ ἐντὸς: εὐρῶτα τῆς ψυχῆς καὶ
+                  ζόφον οὐκ ἐκτεθέρμαγκεν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐκτεθέρμαγκεν</foreign>] <foreign lang="greek">ἐκεθεράπευκεν</foreign> εμπεριυς</note> οὐδ᾽ ἐξέωκε διὰ φιλοσοφίας. <milestone unit="tlnum" n="5" /> εἰ δεῖ τινος οὖν πρὸς ἀκρόασιν ἑτέρου
+                  παραγγέλματος, δεῖ καὶ τοῦ νῦν εἰρημένου μνημονεύοντας ἀσκεῖν ἅμα τῇ
+                  μαθήσει τὴν εὕρεσιν, ἵνα μὴ σοφιστικὴν ἕξιν μηδ᾽ ἱστορικὴν ἀλλ᾽
+                  ἐνδιάθετον καὶ φιλόσοφον λαμβάνωμεν, ἀρχὴν τοῦ καλῶς βιῶναι <milestone unit="tlnum" n="10" /> τὸ καλῶς ἀκοῦσαι νομίζοντες.</p>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

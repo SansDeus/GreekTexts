@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1250" unit="card" />
+</p></sp></div2>
+<div2 type="trochees" org="uniform" sample="complete">
+<sp>
+<speaker>Κρέουσα</speaker><p>
+<lb rend="displayNum" n="1250" />πρόσπολοι, διωκόμεσθα θανασίμους ἐπὶ σφαγάς,
+<lb />Πυθίᾳ ψήφῳ κρατηθεῖσ᾽, ἔκδοτος δὲ γίγνομαι.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ἴσμεν, ὦ τάλαινα, τὰς σὰς συμφοράς, ἵν᾽ εἶ τύχης.
+</p></sp>
+<sp>
+<speaker>Κρέουσα</speaker><p>
+<lb />ποῖ φύγω δῆτ᾽; ἐκ γὰρ οἴκων προύλαβον μόγις πόδα
+<lb />μὴ θανεῖν, κλοπῇ δ᾽ ἀφῖγμαι διαφυγοῦσα πολεμίους.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="1255" />ποῖ δ᾽ ἂν ἄλλοσ᾽ ἢ 'πὶ βωμόν;
+</p></sp>
+<sp>
+<speaker>Κρέουσα</speaker><p>
+καὶ τί μοι πλέον τόδε;
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ἱκέτιν οὐ θέμις φονεύειν.
+</p></sp>
+<sp>
+<speaker>Κρέουσα</speaker><p>
+τῷ νόμῳ δέ γ᾽ ὄλλυμαι.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />χειρία γ᾽ ἁλοῦσα.
+</p></sp>
+<sp>
+<speaker>Κρέουσα</speaker><p>
+καὶ μὴν οἵδ᾽ ἀγωνισταὶ πικροὶ
+<lb />δεῦρ᾽ ἐπείγονται ξιφήρεις.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+ἵζε νυν πυρᾶς ἔπι.
+<lb />κἂν θάνῃς γὰρ ἐνθάδ᾽ οὖσα, τοῖς ἀποκτείνασί σε
+<lb rend="displayNum" n="1260" />προστρόπαιον αἷμα θήσεις: οἰστέον δὲ τὴν τύχην.
+</p></sp>
+</div2></div1></body></text></TEI.2>

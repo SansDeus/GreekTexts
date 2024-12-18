@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Lyric-Scene" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="805" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορὸς Γυναικῶν</speaker><p>
+<lb rend="displayNum" n="805" />κἀγὼ βούλομαι μῦθόν τιν᾽ ὑμῖν ἀντιλέξαι
+<lb />τῷ Μελανίωνι.
+<lb />Τίμων ἦν ἀίδρυτός τις ἀβάτοισιν
+<lb rend="displayNum" n="810" />ἐν σκώλοισι τὸ πρόσωπον περιειργμένος,
+<lb />Ἐρινύων ἀπορρώξ.
+<lb />οὗτος οὖν ὁ Τίμων
+<lb /><gap desc="*" />
+<lb />ᾤχεθ᾽ ὑπὸ μίσους
+<lb rend="displayNum" n="815" />πολλὰ καταρασάμενος ἀνδράσι πονηροῖς.
+<lb />οὕτω 'κεῖνος ὑμῶν ἀντεμίσει
+<lb />τοὺς πονηροὺς ἄνδρας ἀεί,
+<lb rend="displayNum" n="820" />ταῖσι δὲ γυναιξὶν ἦν φίλτατος.</p></sp>
+<sp><speaker>Γυνή</speaker><p>
+<lb />τὴν γνάθον βούλει θένω;</p></sp>
+<sp><speaker>γέρων</speaker><p>
+<lb />μηδαμῶς: †ἔδεισά γε.†</p></sp>
+<sp><speaker>Γυνή</speaker><p>
+<lb />ἀλλὰ κρούσω τῷ σκέλει;</p></sp>
+<sp><speaker>γέρων</speaker><p>
+<lb />τὸν σάκανδρον ἐκφανεῖς.</p></sp>
+<sp><speaker>Χορὸς Γυναικῶν</speaker><p>
+<lb rend="displayNum" n="825" />ἀλλ᾽ ὅμως ἂν οὐκ ἴδοις
+<lb />καίπερ οὔσης γραὸς ὄντ᾽ αὐτὸν
+<lb />κομήτην, ἀλλ᾽ ἀπεψιλωμένον
+<lb />τῷ λύχνῳ.
+</p></sp></div2></div1></body></text></TEI.2>

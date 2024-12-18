@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parabasis" org="uniform" sample="complete"><div2 type="epirrheme" org="uniform" sample="complete"><sp><p><milestone ed="p" n="769" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />τοιάδε κύκνοι,
+<lb rend="displayNum" n="770" />τιὸ τιὸ τιὰ τιὸ τιὸ τιοτίγξ,
+<lb />συμμιγῆ βοὴν ὁμοῦ
+<lb />πτεροῖς κρέκοντες ἴακχον Ἀπόλλω,
+<lb />τιὸ τιὸ τιὸ τιοτίγξ,
+<lb />ὄχθῳ ἐφεζόμενοι παρ᾽ Ἕβρον ποταμόν,
+<lb rend="displayNum" n="775" />τιὸ τιὸ τιὸ τιοτίγξ,
+<lb />διὰ δ᾽ αἰθέριον νέφος ἦλθε βοά:
+<lb />πτῆξε δὲ φῦλά τε ποικίλα θηρῶν,
+<lb />κύματά τ᾽ ἔσβεσε νήνεμος αἴθρη,
+<lb />τοτοτοτοτοτοτοτοτοτίγξ:
+<lb rend="displayNum" n="780" />πᾶς δ᾽ ἐπεκτύπησ᾽ Ὄλυμπος:
+<lb />εἷλε δὲ θάμβος ἄνακτας: Ὀλυμπιάδες δὲ μέλος Χάριτες
+<lb />Μοῦσαί τ᾽ ἐπωλόλυξαν.
+<lb />τιὸ τιὸ τιὸ τιοτίγξ.</p></sp></div2></div1></body></text></TEI.2>

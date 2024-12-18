@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Prologue" org="uniform" sample="complete"><div2 type="iambics" org="uniform" sample="complete"><sp><p><milestone ed="p" n="295" unit="card" /></p></sp></div2></div1>
+<div1 type="Parodos" org="uniform" sample="complete">
+<div2 type="prologue" org="uniform" sample="complete">
+<sp>
+<speaker>Κηρύκαινα</speaker><p>
+<lb rend="displayNum" n="295" />εὐφημία 'στω, εὐφημία 'στω. εὔχεσθε τοῖν
+<lb />Θεσμοφόροιν τῇ Δήμητρι καὶ τῇ Κόρῃ καὶ τῷ
+<lb />Πλούτῳ καὶ τῇ Καλλιγενείᾳ καὶ τῇ Κουροτρόφῳ
+<lb rend="displayNum" n="300" />τῇ Γῇ καὶ τῷ Ἑρμῇ καὶ Χάρισιν ἐκκλησίαν
+<lb />τήνδε καὶ σύνοδον τὴν νῦν κάλλιστα καὶ ἄριστα
+<lb />ποιῆσαι, πολυωφελῶς μὲν πόλει τῇ Ἀθηναίων
+<lb rend="displayNum" n="305" />τυχηρῶς δ᾽ ἡμῖν αὐταῖς. καὶ τὴν δρῶσαν
+<lb />τήν <add>τ᾽</add> ἀγορεύουσαν τὰ βέλτιστα περὶ τὸν δῆμον
+<lb />τὸν Ἀθηναίων καὶ τὸν τῶν γυναικῶν ταύτην
+<lb rend="displayNum" n="310" />νικᾶν. ταῦτ᾽ εὔχεσθε, καὶ ὑμῖν αὐταῖς τἀγαθά.
+<lb />ἰὴ παιὼν ἰὴ παιών. χαίρωμεν.</p></sp></div2></div1></body></text></TEI.2>

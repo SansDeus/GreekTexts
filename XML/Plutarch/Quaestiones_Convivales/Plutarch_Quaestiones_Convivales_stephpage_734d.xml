@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><div2 type="chapter" n="10" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-734d" n="734d" />
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="5" />
+                  <p>προβλήμασιν Ἀριστοτέλους φυσικοῖς ἐντυγχάνων Φλῶρος εἰς Θερμοπύλας
+                     κομισθεῖσιν αὐτός τε πολλῶν ἀποριῶν, ὅπερ εἰώθασι πάσχειν ἐπιεικῶς
+                     αἱ φιλόσοφοι φύσεις, ὑπεπίμπλατο καὶ τοῖς ἑταίροις <milestone unit="tlnum" n="10" /> μετεδίδου, μαρτυρῶν αὐτῷ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὐτῷ</foreign>]
+                           <foreign lang="greek">οὕτω</foreign> δοεηνερυς</note> τῷ
+                     Ἀριστοτέλει λέγοντι τὴν πολυμάθειαν πολλὰς ἀποριῶν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀποριῶν</foreign>
+                        ρ</note> ἀρχὰς ποιεῖν. τὰ μὲν οὖν ἄλλα μεθ᾽ ἡμέραν οὐκ ἄχαριν
+                     ἡμῖν ἐν τοῖς περιπάτοις διατριβὴν παρέσχε: τὸ δὲ λεγόμενον περὶ τῶν
+                     ἐνυπνίων, ὡς ἐστιν ἀβέβαια καὶ ψευδῆ μάλιστα <milestone unit="tlnum" n="15" /> περὶ τοὺς φυλλοχόους; μῆνας, οὐκ οἶδ᾽ ὅπως, ἑτέροις
+                     λόγοις <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἑτέρους λόγους</foreign>̣</note> πραγματευσαμένου τοῦ
+                     Φαβωρίνου <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φαβορίνου</foreign> ϝελ <foreign lang="greek">φαβουρίνου</foreign> μει</note> μετὰ </p></div3></div2></div1></body></text></TEI.2>

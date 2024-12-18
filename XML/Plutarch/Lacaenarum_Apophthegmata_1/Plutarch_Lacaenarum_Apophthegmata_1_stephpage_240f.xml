@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-240f" n="240f" /> ἔφη: ἔδειξε γὰρ οἵου αἵματος ἦν ”:
+καὶ οὐκ ἔφη δεῖν τοὺς ἀγαθοὺς βοᾶν ἀλλ᾽ ἰατρεύεσθαι.
+</p>
+            </div2>
+            <pb id="v.3.p.458" />
+            <div2 type="section" n="2" org="uniform" sample="complete">
+               <p>ὅτε ἄγγελος ἦλθεν ἐκ Κρήτης τὸν Ἀκροτάτου θάνατον ἀπαγγέλλων, <q direct="unspecified">οὐκ ἔμελλεν,</q> ἔφη,
+<q direct="unspecified">πρὸς τοὺς πολεμίους ἥκων ἢ αὐτὸς ὑπ᾽ ἐκείνων
+ἀποθανεῖσθαι ἢ κατακανεῖν<note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κατακανεῖν</foreign> φ.ξ.β.: <foreign lang="greek">κατακαίνειν</foreign>.</note> ἐκείνους; ἥδιον δ᾽ ἀκούειν ὅτι ἀπέθανε καὶ ἑαυτῆς καὶ τῆς πόλεως ἀξίως καὶ τῶν προγόνων, ἢ εἰ ἔζη τὸν ἅπαντα χρόνον κακὸς ὤν.</q>
+               </p>
+            </div2>
+         </div1>
+         <div1 type="chapter" org="uniform" sample="complete">
+            <head><hi rend="uppercase">Δαματρίας</hi></head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <p>Δαματρία τὸν υἱὸν δειλὸν καὶ ἀνάξιον ἑαυτῆς<note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἑαυτοῦ</foreign> ιν σομε μσς.</note>
+ἀκούσασα, παραγενόμενον ἀνεῖλε: τὸ δ᾽ ἐπίγραμμα
+ἐπ᾽ αὐτῆς τόδε,
+<quote rend="blockquote">
+                     <l>τὸν παραβάντα νόμους Δαμάτριον ἔκτανε μάτηρ
+</l>
+                     <l>ἁ Λακεδαιμονία τὸν Λακεδαιμόνιον.</l>
+                  </quote>
+               </p>
+            </div2>
+         </div1>
+         </body></text></TEI.2>

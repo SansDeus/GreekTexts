@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><milestone ed="p" n="527" unit="card" />
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />τίνος ἁ φυλακά; τίς ἀμείβει
+<lb />τὰν ἐμάν; πρῶτα
+<lb />δύεται σημεῖα καὶ ἑπτάποροι
+<lb rend="displayNum" n="530" />Πλειάδες αἰθέριαι: μέσα δ᾽ αἰετὸς οὐρανοῦ ποτᾶται.
+<lb rend="displayNum" n="532" /> — ἔγρεσθε, τί μέλλετε; κοιτᾶν
+<lb />ἔγρεσθε πρὸς φυλακάν.
+<lb />οὐ λεύσσετε μηνάδος αἴγλαν;
+<lb rend="displayNum" n="535" /> — ἀὼς δὴ πέλας, ἀὼς
+<lb />γίγνεται, καί τις προδρόμων
+<lb />ὅδε γ᾽ ἐστὶν ἀστήρ.
+<lb /> — τίς ἐκηρύχθη πρώτην φυλακήν;
+<lb /> — Μυγδόνος υἱόν φασι Κόροιβον.
+<lb rend="displayNum" n="540" /> — τίς γὰρ ἐπ᾽ αὐτῷ;
+ — Κίλικας Παίων
+<lb />στρατὸς ἤγειρεν, Μυσοὶ δ᾽ ἡμᾶς.
+<lb rend="displayNum" n="543" /> — οὐκ οὖν Λυκίους πέμπτην φυλακὴν
+<lb />βάντας ἐγείρειν
+<lb rend="displayNum" n="545" />καιρὸς κλήρου κατὰ μοῖραν;
+</p></sp></div2></div1></body></text></TEI.2>

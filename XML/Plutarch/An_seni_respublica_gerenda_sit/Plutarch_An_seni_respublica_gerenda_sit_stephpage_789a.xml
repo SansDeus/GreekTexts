@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="9" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-789a" n="789a" /> ὁ δὲ τὸν
+                  ἐμβεβιωκότα πολιτικαῖς πράξεσι καὶ διηγωνισμένον οὐκ ἐῶν ἐπὶ τὴν
+                  δᾷδα καὶ τὴν κορωνίδα τοῦ βίου προελθεῖν, ἀλλ᾽ ἀνακαλούμενος καὶ
+                     <milestone unit="tlnum" n="20" /> κελεύων ὥσπερ ἐξ ὁδοῦ μακρᾶς
+                  μεταβαλέσθαι, παντάπασιν ἀγνώμων καὶ μηδὲν ἐκείνῳ προσεοικώς ἐστιν.
+                  ὥσπερ γὰρ ὁ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὁ</foreign>] <foreign lang="greek">ὁ μὲν</foreign> ρ</note> γαμεῖν παρασκευαζόμενον γέροντ᾽ ἐστεφανωμένον καὶ
+                  μυριζόμενον ἀποτρέπων καὶ λέγων τὰ πρὸς τὸν Φιλοκτήτην <milestone unit="tlnum" n="25" />
+                  <quote rend="blockquote">
+                     <l>τίς δ᾽ ἄν σε νύμφη, τίς δὲ παρθένος νέα </l> <note resp="ed" place="unspecified" anchored="yes">κοξκ. 3 π. 609. ναυξκ. π. 841</note>
+                     <l>δέξαιτ᾽ ἄν; εὖ γοῦν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">γοῦν</foreign> μυσγραϝιυς: <foreign lang="greek">γ᾽ οὖν</foreign></note> ὡς γαμεῖν ἔχεις τάλας</l>
+                  </quote>
+                  <pb id="v.5.p.37" />
+                  </p></div2></div1></body></text></TEI.2>

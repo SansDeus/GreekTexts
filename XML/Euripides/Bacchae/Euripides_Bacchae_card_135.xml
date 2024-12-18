@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="135" unit="card" /></p></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="135" />ἡδὺς ἐν ὄρεσιν, ὅταν ἐκ θιάσων δρομαί-
+<lb />ων πέσῃ πεδόσε, νε-
+<lb rend="displayNum" n="138" />βρίδος ἔχων ἱερὸν ἐνδυτόν, ἀγρεύων
+<lb />αἷμα τραγοκτόνον, ὠμοφάγον χάριν, ἱέμε-
+<lb rend="displayNum" n="140" />νος ἐς ὄρεα Φρύγια, Λύδι᾽, ὁ δ᾽ ἔξαρχος Βρόμιος,
+<lb />εὐοἷ.
+<lb />ῥεῖ δὲ γάλακτι πέδον, ῥεῖ δ᾽ οἴνῳ, ῥεῖ δὲ μελισσᾶν
+<lb />νέκταρι.
+<lb />Συρίας δ᾽ ὡς λιβάνου κα-
+<lb rend="displayNum" n="145" />πνὸν ὁ Βακχεὺς ἀνέχων
+<lb />πυρσώδη φλόγα πεύκας
+<lb />ἐκ νάρθηκος ἀίσσει
+<lb />δρόμῳ καὶ χοροῖσιν
+<lb />πλανάτας ἐρεθίζων
+<lb />ἰαχαῖς τ᾽ ἀναπάλλων,
+<lb rend="displayNum" n="150" />τρυφερόν <add>τε</add> πλόκαμον εἰς αἰθέρα ῥίπτων.
+<lb />ἅμα δ᾽ εὐάσμασι τοιάδ᾽ ἐπιβρέμει:
+<lb />Ὦ ἴτε βάκχαι,
+<lb /><del status="unremarkable">ὦ</del> ἴτε βάκχαι,
+<lb />Τμώλου χρυσορόου χλιδᾷ
+<lb rend="displayNum" n="155" />μέλπετε τὸν Διόνυσον
+<lb rend="displayNum" n="157" />βαρυβρόμων ὑπὸ τυμπάνων,
+<lb />εὔια τὸν εὔιον ἀγαλλόμεναι θεὸν
+<lb />ἐν Φρυγίαισι βοαῖς ἐνοπαῖσί τε,
+<lb rend="displayNum" n="160" />λωτὸς ὅταν εὐκέλαδος
+<lb rend="displayNum" n="164" />ἱερὸς ἱερὰ παίγματα βρέμῃ, σύνοχα
+<lb rend="displayNum" n="165" />φοιτάσιν εἰς ὄρος εἰς ὄρος: ἡδομέ-
+<lb />να δ᾽ ἄρα, πῶλος ὅπως ἅμα ματέρι
+<lb rend="displayNum" n="169" />φορβάδι, κῶλον ἄγει ταχύπουν σκιρτήμασι βάκχα.
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-630e" n="630e" />
+                        ἀφορμὰς προέσθαι. καὶ ταῦτ᾽ οὖν ἐρωτῶντες <pb id="v.4.p.54" />
+                        χαρίζεσθαι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">χαρίζονται</foreign> μ. μαλιμ <foreign lang="greek">ἐρωτῶντας ἔστι χαρίζεσθαι</foreign></note> τοῖς
+                        ἀποκρινομένοις, ἃ τοὺς ἐχθροὺς καὶ δυσμενεῖς αἰσθάνονται μὴ
+                        βουλομένους ἀκούειν.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <p>
+                     <q direct="unspecified">καὶ μὴν ὃ γ᾽ Ὀδυσσεὺς τῷ Ἀλκινόῳ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἀλκίνῳ</foreign>̣</note>
+                        <quote rend="blockquote">
+                           <l> σοὶ δ᾽ ἐμὰ κήδεα θυμὸς ἐπετράπετο <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐπετέτραπτο</foreign> μει</note> στονόεντα <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">ι</foreign> 12</note>
+                              <milestone unit="tlnum" n="5" />
+                           </l>
+                           <l>εἴρεσθ᾽, ὄφρ᾽ ἔτι μᾶλλον ὀδυρόμενος στεναχίζω.</l>
+                        </quote> καὶ πρὸς τὸν χορὸν ὁ Οἰδίπους <quote rend="blockquote">
+                           δεινὸν μὲν τὸ πάλαι κείμενον ἤδη κακόν, ὦ ξεῖν᾽, ἐπεγείρειν
+                              <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐπεγείρειν</foreign> χ εχ σοπηοξλε: 3-4 ϝδ 6 ε
+                                 <foreign lang="greek">γειρεν</foreign></note>.</quote>
+                        <note resp="ed" place="unspecified" anchored="yes">σοπη. ο ξ 510</note> ὁ
+                        δ᾽ Εὐριπίδης τοὐναντίον <quote rend="blockquote">ὡς ἡδὺ μεμνῆσθαι
+                              <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μεμνῆσθαι</foreign> *: 4 ϝδ 8 ε; νιηιλ αλιυδ νισι
+                                 <foreign lang="greek">μεμνῆσθαι</foreign> συππλενδυμ εσσε ετ λαξ.
+                              οστενδιτ ετ ϝερβα προχιμα</note> πόνων</quote>
+                        <milestone unit="tlnum" n="10" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

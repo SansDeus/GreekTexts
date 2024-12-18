@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="7" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-168e" n="168e" />
+               <q direct="unspecified">καθάπερ παττάλῳ</q> φησὶν ὁ Βίων <q direct="unspecified">ὅ τι ἂν τύχωσιν αὐτῷ
+                  περιάπτουσι φέρουσαι καὶ περιαρτῶσι </q>
+            </p>
+         </div1>
+         <div1 type="section" n="8" org="uniform" sample="complete">
+            <milestone unit="tlnum" n="10" />
+            <p>τὸν Τιρίβαζόν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Τιρίβαζόν</foreign> η: <foreign lang="greek">τηρίβαζόν</foreign></note> φασιν ὑπὸ τῶν Περσῶν συλλαμβανόμενον σπάσασθαί τε τὸν
+               ἀκινάκην, εὔρωστον ὄντα, καὶ διαμάχεσθαι: μαρτυρομένων δὲ καὶ βοώντων
+               ὅτι συλλαμβάνουσιν αὐτὸν βασιλέως κελεύσαντος, αὐτίκα τὸ ξίφος καταβαλεῖν
+               καὶ τὼ χεῖρε συνδῆσαι <milestone unit="tlnum" n="15" /> παρασχεῖν. ἆρ᾽ οὖν
+               οὐχ ὅμοιόν ἐστι τὸ γιγνόμενον; οἱ μὲν ἄλλοι διαμάχονται συμφοραῖς καὶ
+               διωθοῦνται τὰ πράγματα, φυγὰς ἑαυτοῖς μηχανώμενοι καὶ παρατροπὰς τῶν
+               ἀβουλήτων ὁ δὲ δεισιδαίμων </p></div1></body></text></TEI.2>

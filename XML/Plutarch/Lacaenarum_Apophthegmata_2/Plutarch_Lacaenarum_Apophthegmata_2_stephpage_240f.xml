@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-240f" n="240f" />
+                  </q> ἔφη: <q direct="unspecified">ἔδειξε γὰρ οἵου αἵματος ἦν, καὶ οὐκ ἔφη δεῖν τοὺς
+                     ἀγαθοὺς βοᾶν ἀλλ᾽ ἰατρεύεσθαι</q>.</p>
+            </div2>
+            <div2 type="section" n="2" org="uniform" sample="complete">
+               <p>ὅτε ἄγγελος ἦλθεν ἐκ Κρήτης τὸν Ἀκροτάτου θάνατον ἀπαγγέλλων,
+                     <q direct="unspecified">οὐκ ἔμελλεν</q> ἔφη <q direct="unspecified">πρὸς τοὺς <milestone unit="tlnum" n="25" />
+                     πολεμίους ἥκων ἢ αὐτὸς ὑπ᾽ ἐκείνων ἀποθανεῖσθαι <pb id="v.2.p.193" /> ἢ κατακανεῖν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κατακανεῖν</foreign>] ξοβετυς: <foreign lang="greek">κατακάνειν</foreign></note> ἐκείνους; ἥδιον δ᾽ ἀκούειν ὅτι ἀπέθανε καὶ
+                     ἑαυτῆς καὶ τῆς πόλεως ἀξίως καὶ τῶν προγόνων, ἢ εἰ ἔζη τὸν
+                     ἅπαντα χρόνον κακὸς ὤν.</q>
+               </p>
+            </div2>
+         </div1>
+         <div1 type="chapter" org="uniform" sample="complete">
+            <head>Δαματρίας</head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <p>Δαματρία τὸν υἱὸν δειλὸν καὶ ἀνάξιον ἑαυτῆς <milestone unit="tlnum" n="5" /> ἀκούσασα, παραγενόμενον ἀνεῖλε τὸ δ᾽ ἐπίγραμμα ἐπ᾽ αὐτῆς
+                  τόδε <quote rend="blockquote">
+                     <l> τὸν παραβάντα νόμους Δαμάτριον ἔκτανε μάτηρ, </l> <note resp="ed" place="unspecified" anchored="yes">αντηολ. παλ. ϝιι 433</note>
+                     <l>ἁ Λακεδαιμονία τὸν Λακεδαιμόνιον. </l>
+                  </quote>
+               </p>
+            </div2>
+         </div1>
+         <div1 type="chapter" org="uniform" sample="complete">
+            <head>Λακαινῶν ἀδήλων</head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               </div2></div1></body></text></TEI.2>

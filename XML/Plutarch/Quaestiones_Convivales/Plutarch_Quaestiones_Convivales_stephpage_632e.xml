@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="6" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-632e" n="632e" /> περὶ τοὺς
+                        ἐπαίνους: ᾧ καὶ Σωκράτης ἐχρήσατο, τοῦ Ἀντισθένους τὸ
+                        φιλοποιὸν καὶ συναγωγὸν ἀνθρώπων εἰς εὔνοιαν μαστροπείαν καὶ
+                        συναγωγίαν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καὶ συναγωγίαν</foreign>] δελ. ω</note>
+                        <milestone unit="tlnum" n="20" /> καὶ προαγωγείαν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">προαγωγείαν</foreign> ιδεμ ε χεν. σψμπ. 4, 52: <foreign lang="greek">ἀγωγίαν</foreign> ξετερυμ ποστ <foreign lang="greek">ὀνομάσας</foreign> μαγνα εστ λαξ. 46 ϝδ 53 ε. φορτ. εχξιδιτ λοξυς
+                           θυιδαμ χενοπηοντευς</note> ὀνομάσας. <gap /> Κράτητα δὲ τὸν
+                        φιλόσοφον, εἰς πᾶσαν οἰκίαν εἰσιόντα μετὰ τιμῆς καὶ φιλοφροσύνης
+                        δεχομένων, <q direct="unspecified">θυρεπανοίκτην</q> ἐκάλουν.</q>
+                     <pb id="v.4.p.60" />
+                  </p>
+               </div3>
+               <div3 type="section" n="7" org="uniform" sample="complete">
+                  <p>
+                     <q direct="unspecified">ποιεῖ δ᾽ εὔχαρι σκῶμμα καὶ μέμψις ἐμφαίνουσα χάριν, ὡς Διογένης
+                        περὶ Ἀντισθένους ἔλεγεν </q></p></div3></div2></div1></body></text></TEI.2>

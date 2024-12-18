@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="12" org="uniform" sample="complete"><p><q direct="unspecified"><q direct="unspecified"><milestone unit="casaubonpage" id="casaubonpage-524f" n="524f" /> πένθος ἅμα τόν τε τῶν βίων ὄλβον καὶ τὰς κόμας περιεσπάσθησαν, παντὸς ἔθνους οἱ ἔξω τὴν ἐφ᾽ ὕβρει κουρὰν ἀπεσκυθίσθαι προσηγόρευσαν.</q> <milestone unit="chapter" n="28" /> τοὺς δὲ σύμπαντας Ἴωνας ἐπισκώπτων Καλλίας ἢ Διοκλῆς ἐν Κύκλωψί φησιν
+
+<quote rend="blockquote">
+<lb />τί γὰρ ἡ τρυφερὰ καὶ καλλιτράπεζος Ἰωνία εἴφ᾽ ὅ τι
+<lb /> πράσσει.
+
+</quote>
+ καὶ <hi rend="uppercase">Ἀβυδηνοὶ</hi> Μιλησίων δ᾽ εἰσὶν ἄποικοι ἀνειμένοι τὴν δίαιτὰν εἰσιν καὶ κατεαγότες, ὡς παρίστησιν Ἕρμιππος ἐν Στρατιώταις:
+
+<quote rend="blockquote">
+<lb /> χαῖρ᾽, ὦ διαπόντιον
+<lb /> στράτευμα, τί πράττομεν;
+<lb /> τὰ μὲν πρὸς ὄψιν μαλακῶς
+<lb /> ἔχειν ἀπὸ σώματος,3
+<lb /> </quote></q></p></div1></body></text></TEI.2>

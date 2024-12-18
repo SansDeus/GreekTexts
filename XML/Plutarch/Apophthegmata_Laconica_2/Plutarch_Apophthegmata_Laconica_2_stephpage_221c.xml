@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" n="34" org="uniform" sample="complete"><div2 type="section" n="2" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-221c" n="221c" />
+               <p>Αἰτωλοῦ δέ τινος λέγοντος ὅτι τοῖς ἀνδραγαθεῖν δυναμένοις κρείσσων
+                  τῆς εἰρήνης ὁ πόλεμος, <q direct="unspecified">οὐ μὰ τοὺς θεούς</q> ἔφη <q direct="unspecified">ἀλλὰ τούτοις
+                     κρείσσων ὁ θάνατος τῆς ζωῆς.</q>
+               </p>
+            </div2>
+         </div1>
+         <div1 type="chapter" n="35" org="uniform" sample="complete">
+            <head>Ἠρώνδου</head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <p>
+                  <milestone unit="tlnum" n="5" />Ἡρώνδας, Ἀθήνησιν ἁλόντος; τινὸς γραφὴν
+                  ἀργίας, παρὼν καὶ πυθόμενος ἐκέλευσεν ἐπιδεῖξαι αὑτῷ τὸν τὴν
+                  ἐλευθερίαν δίκην ἡττηθέντα.</p>
+            </div2>
+         </div1>
+         <div1 type="chapter" n="36" org="uniform" sample="complete">
+            <head>Θεαρίδου</head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <p>Θεαρίδας ξίφος ἀκονῶν καὶ ἐρωτώμενος, εἰ ὀξύ ἐστιν, εἶπεν
+                     <q direct="unspecified">ὀξύτερον διαβολῆς.</q>
+               </p>
+            </div2>
+         </div1>
+         <div1 type="chapter" n="37" org="uniform" sample="complete">
+            <head>Θεμιστείου</head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <p>
+                  <milestone unit="tlnum" n="10" />Θεμιστέας <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Θεμιστέας</foreign>] <foreign lang="greek">Μεγιστίην</foreign> ϝοξατ ηεροδ. 7, 221</note> προεῖπε μὲν
+                  Λεωνίδᾳ τῷ βασιλεῖ τὴν </p></div2></div1></body></text></TEI.2>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="778" unit="card" />
+</p></sp>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />τὰ μὲν εὖ, τὰ δὲ δυστυχῆ.
+<lb />πόλει μὲν εὐδοξία
+<lb rend="displayNum" n="780" />καὶ στρατηλάταις δορὸς
+<lb />διπλάζεται τιμά:
+<lb />ἐμοὶ δὲ παίδων μὲν εἰσιδεῖν μέλη
+<lb />πικρόν, καλὸν θέαμα δ᾽, εἴπερ ὄψομαι,
+<lb />τὰν ἄελπτον ἁμέραν
+<lb rend="displayNum" n="785" />ἰδοῦσα, πάντων μέγιστον ἄλγος.
+</p></sp></div2></div1></body></text></TEI.2>

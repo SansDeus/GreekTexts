@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="994" unit="card" /></p></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+<sp><speaker>Ἀντιγόνη</speaker><p>
+<lb />σὺ τοί νιν  οἶσθα διαπερῶν—</p></sp>
+<sp><speaker>Ἰσμήνη</speaker><p>
+<lb rend="displayNum" n="995" />σὺ δ᾽ οὐδὲν ὕστερος μαθών—</p></sp>
+<sp><speaker>Ἀντιγόνη</speaker><p>
+<lb />ἐπεὶ κατῆλθες ἐς πόλιν,</p></sp>
+<sp><speaker>Ἰσμήνη</speaker><p>
+<lb />δορός γε τῷδ᾽ ἀντηρέτας.</p></sp>
+<sp><speaker>Ἀντιγόνη</speaker><p>
+<lb />ὀλοὰ λέγειν.</p></sp>
+<sp><speaker>Ἰσμήνη</speaker><p>
+<lb />ὀλοὰ δ᾽ ὁρᾶν.</p></sp>
+<sp><speaker>Ἀντιγόνη</speaker><p>
+<lb rend="displayNum" n="1000" />ἰὼ  πόνος—</p></sp>
+<sp><speaker>Ἰσμήνη</speaker><p>
+<lb />ἰὼ κακά—</p></sp>
+<sp><speaker>Ἀντιγόνη</speaker><p>
+<lb />δώμασι καὶ χθονί.</p></sp>
+<sp><speaker>Ἰσμήνη</speaker><p>
+<lb />πρὸ πάντων δ᾽ ἐμοί.</p></sp>
+<sp><speaker>Ἀντιγόνη</speaker><p>
+<lb />καὶ τὸ πρόσω γ᾽ ἐμοί.</p></sp>
+<sp><speaker>Ἰσμήνη</speaker><p>
+<lb rend="displayNum" n="1005" />ἰὼ ἰὼ δυστόνων   κακῶν, ἄναξ.</p></sp>
+<sp><speaker>Ἀντιγόνη</speaker><p>
+<lb />ἰὼ πάντων πολυστονώτατοι.</p></sp>
+<sp><speaker>Ἰσμήνη</speaker><p>
+<lb />ἰὼ ἰὼ  δαιμονῶντες ἄτᾳ.</p></sp>
+<sp><speaker>Ἀντιγόνη</speaker><p>
+<lb />ἰὼ ἰώ,  ποῦ σφε θήσομεν χθονός;</p></sp>
+<sp><speaker>Ἰσμήνη</speaker><p>
+<lb />ἰώ, ὅπου <add>'στι</add> τιμιώτατον.</p></sp>
+<sp><speaker>Ἀντιγόνη</speaker><p>
+<lb rend="displayNum" n="1010" />ἰὼ ἰώ, πῆμα πατρὶ πάρευνον.
+</p></sp></div2></div1></body></text></TEI.2>

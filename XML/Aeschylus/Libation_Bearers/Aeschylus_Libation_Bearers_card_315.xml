@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="315" unit="card" />
+</p></sp></div2>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Ὀρέστης</speaker><p>
+<lb rend="displayNum" n="315" />ὦ πάτερ αἰνόπατερ, τί σοι
+<lb />φάμενος ἢ τί ῥέξας
+<lb />τύχοιμ᾽ ἂν ἕκαθεν  οὐρίσας,
+<lb />ἔνθα σ᾽ ἔχουσιν εὐναί,
+<lb />σκότῳ φάος ἀντίμοι-
+<lb rend="displayNum" n="320" />ρον; χάριτες δ᾽ ὁμοίως
+<lb />κέκληνται γόος εὐκλεὴς
+<lb />προσθοδόμοις Ἀτρείδαις.
+</p></sp></div2></div1></body></text></TEI.2>

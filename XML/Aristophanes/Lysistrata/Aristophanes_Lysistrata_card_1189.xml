@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1189" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />στρωμάτων δὲ ποικίλων καὶ
+<lb rend="displayNum" n="1190" />χλανιδίων καὶ ξυστίδων καὶ
+<lb />χρυσίων, ὅσ᾽ ἐστί μοι,
+<lb />οὐ φθόνος ἔνεστί μοι πᾶσι παρέχειν φέρειν
+<lb />τοῖς παισίν, ὁπόταν τε θυγάτηρ τινὶ κανηφορῇ.
+<lb />πᾶσιν ὑμῖν λέγω λαμβάνειν τῶν ἐμῶν
+<lb rend="displayNum" n="1195" />χρημάτων νῦν ἔνδοθεν, καὶ
+<lb />μηδὲν οὕτως εὖ σεσημάν-
+<lb />θαι τὸ μὴ οὐχὶ
+<lb />τοὺς ῥύπους ἀνασπάσαι,
+<lb />χἄττ᾽ <add>ἂν</add> ἔνδον ᾖ φορεῖν.
+<lb rend="displayNum" n="1200" />ὄψεται δ᾽ οὐδὲν σκοπῶν, εἰ
+<lb />μή τις ὑμῶν
+<lb />ὀξύτερον ἐμοῦ βλέπει. </p></sp></div2></div1></body></text></TEI.2>

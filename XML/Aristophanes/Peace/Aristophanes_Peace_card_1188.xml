@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parabasis" org="uniform" sample="complete"><div2 type="antepirrheme" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1188" unit="card" /></p></sp></div2>
+<div2 type="antipnigos" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />πολλὰ γὰρ δή μ᾽ ἠδίκησαν,
+<lb />ὄντες οἴκοι μὲν λέοντες
+<lb rend="displayNum" n="1190" />ἐν μάχῃ δ᾽ ἀλώπεκες.
+</p></sp></div2></div1></body></text></TEI.2>

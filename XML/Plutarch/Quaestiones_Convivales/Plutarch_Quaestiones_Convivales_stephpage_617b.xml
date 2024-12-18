@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="2" org="uniform" sample="complete"><div3 type="section" n="4" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-617b" n="617b" /> πρώτῃ τιμῇ
+                        τιθέμενος. ἐπαινοῦμεν δὲ καὶ τὸν Ἀλκίνουν, ὅτι τὸν ξένον
+                        ἱδρύει παρ᾽ αὑτὸν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὐτόν</foreign> * <foreign lang="greek">αὐτόν</foreign></note>
+                        <milestone unit="tlnum" n="5" />
+                        <quote rend="blockquote">
+                           <l> υἱὸν ἀναστήσας, ἀγαπήνορα Λαοδάμαντα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Λαυδάμαντα</foreign> ιδεμ: <foreign lang="greek">λαομέδοντα</foreign></note>, </l>
+                           <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">η</foreign> 169</note>
+                           <l>ὃς οἱ πλησίον ἷζε, μάλιστα δέ μιν φιλέεσκε <note resp="ed" place="unspecified" anchored="yes">ιδεμ: <foreign lang="greek">φιλέεσκεν</foreign></note>.</l>
+                        </quote> τὸ γὰρ εἰς τὴν τοῦ φιλουμένου χώραν καθίσαι τὸν ἱκέτην
+                        ἐπιδέξιον ἐμμελῶς καὶ φιλάνθρωπον. ἔστι δὲ καὶ παρὰ τοῖς θεοῖς
+                        διάκρισις τῶν τοιούτων <milestone unit="tlnum" n="10" /> ὁ μὲν γὰρ
+                        Ποσειδῶν, καίπερ ὕστατος εἰς τὴν ἐκκλησίαν παραγενόμενος <quote rend="blockquote">ἷζεν ἄρ᾽ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἱζε δ᾽ ἄρ᾽</foreign>
+                              ιδεμ</note> ἐν μέσσοισιν</quote>
+                        <note resp="ed" place="unspecified" anchored="yes">ιδ. <foreign lang="greek">Υ</foreign> 15</note> ὡς ταύτης αὐτῷ τῆς χώρας προσηκούσης.
+                        ἡ δ᾽ Ἀθηνᾶ φαίνεται τὸν πλησίον ἀεὶ τοῦ Διὸς τόπον <milestone unit="tlnum" n="15" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

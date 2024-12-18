@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="epode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="576" unit="card" /></p></sp></div2>
+</div1>
+<div1 type="episode" org="uniform" sample="complete">
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Διόνυσος</speaker><p>
+<lb />ἰώ,
+<lb />κλύετ᾽ ἐμᾶς κλύετ᾽ αὐδᾶς,
+<lb />ἰὼ βάκχαι, ἰὼ βάκχαι.
+</p></sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />τίς ὅδε, τίς <add>ὅδε</add> πόθεν ὁ κέλαδος
+<lb />ἀνά μ᾽ ἐκάλεσεν Εὐίου;
+</p></sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Διόνυσος</speaker><p>
+<lb rend="displayNum" n="580" />ἰὼ ἰώ, πάλιν αὐδῶ,
+<lb />ὁ Σεμέλας, ὁ Διὸς παῖς.
+</p></sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ἰὼ ἰὼ δέσποτα δέσποτα,
+<lb />μόλε νυν ἡμέτερον ἐς
+<lb />θίασον, ὦ Βρόμιε Βρόμιε.
+</p></sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Διόνυσος</speaker><p>
+<lb rend="displayNum" n="585" /><add>σεῖε</add> πέδον χθονὸς Ἔννοσι πότνια.
+</p></sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ἆ ἆ,
+<lb />τάχα τὰ Πενθέως μέλαθρα διατι-
+<lb />νάξεται πεσήμασιν.
+<lb /> — ὁ Διόνυσος ἀνὰ μέλαθρα:
+<lb rend="displayNum" n="590" />σέβετέ νιν.
+ — σέβομεν ὤ.
+<lb /> — εἴδετε λάινα κίοσιν ἔμβολα
+<lb />διάδρομα τάδε; Βρόμιος <add>ὅδ᾽</add> ἀλα-
+<lb />λάζεται στέγας ἔσω.
+</p></sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Διόνυσος</speaker><p>
+<lb />ἅπτε κεραύνιον αἴθοπα λαμπάδα:
+<lb rend="displayNum" n="595" />σύμφλεγε σύμφλεγε δώματα Πενθέος.
+</p></sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ἆ ἆ,
+<lb />πῦρ οὐ λεύσσεις, οὐδ᾽ αὐγάζῃ,
+<lb />Σεμέλας ἱερὸν ἀμφὶ τάφον, ἅν
+<lb />ποτε κεραυνόβολος ἔλιπε φλόγα
+<lb />Δίου βροντᾶς;
+<lb rend="displayNum" n="600" />δίκετε πεδόσε τρομερὰ σώματα
+<lb />δίκετε, Μαινάδες: ὁ γὰρ ἄναξ
+<lb />ἄνω κάτω τιθεὶς ἔπεισι
+<lb />μέλαθρα τάδε Διὸς γόνος.
+</p></sp></div2></div1></body></text></TEI.2>

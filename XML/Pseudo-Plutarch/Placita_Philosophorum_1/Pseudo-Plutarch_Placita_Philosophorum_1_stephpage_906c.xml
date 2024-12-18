@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="10" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-906c" n="906c" />Ἐρασίστρατος διὰ τὰς ἐπισυλλήψεις, ὥσπερ ἐπὶ
+<pb id="v.5.p.356" /> τῶν ἀλόγων ζῴων: ὅταν γὰρ ἡ μήτρα ᾖ κεκαθαρμένη ,
+τότε ἐπισύλληψιν δέχεσθαι.
+</p>
+               <p>οἱ Στωικοὶ παρὰ τοὺς ἐν τῇ μήτρᾳ τόπους ὅταν γὰρ εἰς πρῶτον καὶ δεύτερον ἐμπέσῃ τὸ σπέρμα,
+<milestone unit="tlnum" n="5" />
+τότε γίνεσθαι τὰς ἐπισυλλήψεις καὶ τὰ δίδυμα καὶ
+τὰ τρίδυμα.</p>
+            </div2>
+            <div2 type="chapter" n="11" org="uniform" sample="complete">
+               <head> Πόθεν γίνονται τῶν γονέων αἱ ὁμοιώσεις καὶ τῶν προγόνων.</head>
+               <p>Ἐμπεδοκλῆς ὁμοιότητας γίνεσθαι κατ᾽ ἐπικράτειαν
+<milestone unit="tlnum" n="10" />
+                  </p></div2></div1></body></text></TEI.2>

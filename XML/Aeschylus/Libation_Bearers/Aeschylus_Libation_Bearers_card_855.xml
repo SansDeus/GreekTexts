@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="855" unit="card" />
+</p></sp>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="855" />Ζεῦ Ζεῦ, τί λέγω, πόθεν ἄρξωμαι
+<lb />τάδ᾽ ἐπευχομένη κἀπιθεάζουσ᾽,
+<lb />ὑπὸ δ᾽ εὐνοίας
+<lb />πῶς ἴσον εἰποῦσ᾽ ἀνύσωμαι;
+<lb />νῦν γὰρ μέλλουσι μιανθεῖσαι
+<lb rend="displayNum" n="860" />πειραὶ κοπάνων ἀνδροδαΐκτων
+<lb />ἢ πάνυ θήσειν Ἀγαμεμνονίων
+<lb />οἴκων ὄλεθρον διὰ παντός,
+<lb />ἢ πῦρ καὶ φῶς ἐπ᾽ ἐλευθερίᾳ
+<lb />δαίων ἀρχάς τε πολισσονόμους
+<lb rend="displayNum" n="865" />πατέρων <add>θ᾽</add> ἕξει  μέγαν ὄλβον.
+<lb />τοιάνδε πάλην μόνος ὢν ἔφεδρος
+<lb />δισσοῖς μέλλει θεῖος  Ὀρέστης
+<lb />ἅψειν.  εἴη δ᾽ ἐπὶ νίκῃ.
+</p></sp></div2></div1></body></text></TEI.2>

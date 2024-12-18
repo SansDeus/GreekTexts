@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="608" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb /> — ἀλλὰ τὸν εὐτυχίᾳ λαμπρὸν ἄν τις αἱροῖ
+<lb />μοῖρα πάλιν: τόδε μοι θράσος ἀμφιβαίνει.
+<lb rend="displayNum" n="610" /> — δικαίους δαίμονας σύ γ᾽ ἐννέπεις.
+<lb /> — τίνες γὰρ ἄλλοι νέμουσι συμφοράς;
+<lb /> — διάφορα πολλὰ θεῶν βροτοῖσιν εἰσορῶ.
+<lb /> — φόβῳ γὰρ τῷ πάρος διόλλυσαι:
+<lb />δίκα δίκαν δ᾽ ἐκάλεσε καὶ φόνος φόνον,
+<lb rend="displayNum" n="615" />κακῶν δ᾽ ἀναψυχὰς θεοὶ
+<lb rend="displayNum" n="617" />βροτοῖς νέμουσι, πάντων τέρμ᾽ ἔχοντες αὐτοί.
+</p></sp></div2></div1></body></text></TEI.2>

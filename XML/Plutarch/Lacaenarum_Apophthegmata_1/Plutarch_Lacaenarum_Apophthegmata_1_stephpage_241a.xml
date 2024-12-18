@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><milestone unit="stephpage" id="stephpage-241a" n="241a" />
+         <div1 type="chapter" org="uniform" sample="complete">
+            <head>Λακαινῶν ἀδήλων</head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <p>ἑτέρα Λάκαινα τὸν υἱὸν λιποτακτήσαντα<note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">λιποτακτήσαντα</foreign>, τηε πρεφερρεδ φορμ: <foreign lang="greek">λειποτακτήσαντα</foreign>.</note> ὡς ἀνάξιον τῆς πατρίδος ἀνεῖλεν, εἰποῦσα, <q direct="unspecified">οὐκ ἐμὸν
+τὸ φίτυμα.</q> ἐφ᾽ ἧς τὸ ἐπίγραμμα τόδε,
+<quote rend="blockquote">
+                     <l>ἔρρε κακὸν φίτυμα διὰ σκότος, οὗ διὰ μῖσος
+</l>
+                     <l>Εὐρώτας δειλαῖς μηδ᾽ ἐλάφοισι ῥέοι.
+</l>
+                     <l> ἀχρεῖον σκυλάκευμα, κακὰ μερίς, ἔρρε ποθ᾽ Ἅιδαν,
+</l>
+                     <l> ἔρρε: τὸ μὴ Σπάρτας ἄξιον οὐδ᾽ ἔτεκον.
+</l>
+                  </quote>
+               </p>
+            </div2>
+            <pb id="v.3.p.460" />
+            <div2 type="section" n="2" org="uniform" sample="complete">
+               <p>ἄλλη ἀκούσασα τὸν υἱὸν ἐν παρατάξει πεσόντα ἔφη,
+                <quote rend="blockquote">
+                     <l>δειλοὶ κλαιέσθωσαν ἐγὼ δέ σε, τέκνον, ἄδακρυς</l>
+                     <l> θάπτω<note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">θάπτω</foreign> ς. α. ναβερ ανδ ηαρτμαν: <foreign lang="greek">καὶ ἱλαρὰ θάπτω</foreign>. πανταζιδες ωουλδ ομιτ <foreign lang="greek">καὶ ἐμὸν καὶ</foreign> το αξξομπλιση τηε σαμε ρεσυλτ, βυτ <hi rend="italics">ξφ.</hi> 235 α.</note> τὸν καὶ ἐμὸν καὶ Λακεδαιμόνιον.</l>
+                  </quote> 
+               </p>
+            </div2>
+            <div2 type="section" n="3" org="uniform" sample="complete">
+               <p>ἀκούσασά τις τὸν υἱὸν σεσῳσμένον καὶ πεφευγότα ἐκ τῶν 
+πολεμίων, γράφει αὐτῷ, <q direct="unspecified">κακὰ φάμα τευ κακκέχυται: 
+ἢ ταύταν νῦν<note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">νυν</foreign> ηατζιδακις: <foreign lang="greek">νῦν</foreign>.</note> 
+ἔκνιψαι ἢ μὴ ἔσο.</q>
+               </p>
+            </div2>
+            </div1></body></text></TEI.2>

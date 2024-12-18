@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><milestone ed="p" n="1142" unit="card" /></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>ἐγὼ δὲ σᾷ δυστυχίᾳ</l>
+<l>δάκρυσι διοίσω πότμον</l>
+<l>ἄποτμον: ὦ τάλαινα μᾶ-</l>
+<l n="1145">τερ, ἔτεκες ἀνόνατα: φεῦ:</l>
+<l>μανίω θεοῖσιν.</l>
+<l>ἰὼ ἰώ:</l>
+<l>συζύγιαι Χάριτες, τί τὸν τάλαν᾽ ἐκ πατρίας γᾶς</l>
+<l>οὐδὲν ἄτας αἴτιον</l>
+<l n="1150">πέμπετε τῶνδ᾽ ἀπ᾽ οἴκων;</l>
+</sp></div2></div1></body></text></TEI.2>

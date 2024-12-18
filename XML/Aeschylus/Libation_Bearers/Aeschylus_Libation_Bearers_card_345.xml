@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="345" unit="card" />
+</p></sp></div2>
+<div2 type="strophe" n="3" org="uniform" sample="complete">
+<sp><speaker>Ὀρέστης</speaker><p>
+<lb rend="displayNum" n="345" />εἰ γὰρ ὑπ᾽ Ἰλίῳ
+<lb />πρός τινος Λυκίων, πάτερ,
+<lb />δορίτμητος κατηναρίσθης:
+<lb />λιπὼν ἂν εὔκλειαν ἐν δόμοισι
+<lb />τέκνων τ᾽ ἐν κελεύθοις
+<lb rend="displayNum" n="350" />ἐπιστρεπτὸν αἰῶ
+<lb />κτίσας  πολύχωστον ἂν εἶχες
+<lb />τάφον διαποντίου γᾶς
+<lb />δώμασιν εὐφόρητον,
+</p></sp></div2></div1></body></text></TEI.2>

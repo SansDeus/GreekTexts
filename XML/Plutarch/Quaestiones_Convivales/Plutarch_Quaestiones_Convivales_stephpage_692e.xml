@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="6" org="uniform" sample="complete"><div2 type="chapter" n="7" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-692e" n="692e" /> ὥσπερ ψυχὴν καὶ κεφαλὴν τὸν ἄνθρωπον εἰώθαμεν
+                           <milestone unit="tlnum" n="20" /> ἀπὸ τῶν κυριωτάτων ὑποκορίζεσθαι,
+                        καὶ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καὶ</foreign>] <foreign lang="greek">ἣν καὶ</foreign>
+                           ιδεμ</note> τρυγᾶν λέγομεν τοὺς δρεπομένους τὴν ἀμπελίνην
+                        ὀπώραν, καὶ διατρύγιόν <q direct="unspecified" /> που Ὅμηρος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ὁμηρος</foreign>] <foreign lang="greek">ω</foreign> 342</note>
+                        εἴρηκεν, αὐτὸν δὲ τὸν οἶνον <q direct="unspecified">αἴθοπα</q> καί <q direct="unspecified">ἐρυθρὸν</q>
+                        εἴωθε : καλεῖν: οὐχ ὡς <pb id="v.4.p.235" /> Ἀριστίων ἡμῖν
+                        ὠχριῶντα καὶ χλωρὸν ὑπὸ τῆς πολλῆς καθάρσεως παρέχεται.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>καὶ ὁ Ἀριστίων γελάσας <q direct="unspecified">οὐκ ὠχριῶντ᾽</q> εἶπεν <q direct="unspecified">ὦ τᾶν, οὐδ᾽
+                        ἀναίμον᾽ <note resp="ed" place="unspecified" anchored="yes">ρ: <foreign lang="greek">ἀναίμονα</foreign></note>, ἀλλὰ μειλίχιον καὶ
+                        ἡμερίδην, <milestone unit="tlnum" n="5" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

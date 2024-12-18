@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="6" org="uniform" sample="complete"><div3 type="section" n="4" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-624e" n="624e" /> καὶ νοτερὰ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">νοτερὰ</foreign> ιδεμ: <foreign lang="greek">μανότερα</foreign></note> ὄντα, συντείνει παρὰ φύσιν ἡ τῆς
+                        <milestone unit="tlnum" n="15" /> ξηρότητος δύναμις <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δύναμις</foreign>
+                        ανονψμυς</note>, ἐκτηκομένων τῶν ὑγρῶν. καὶ τὰ ἕλκη τοῖς πικροῖς
+                     ἀπισχναίνουσι φαρμάκοις, ὡς ὁ ποιητής φησιν <quote rend="blockquote">
+                        <l> ἐπὶ δὲ ῥίζαν βάλε πικρὴν </l>
+                        <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">Λ</foreign> 846</note>
+                        <l> χερσὶ διατρίψας ὀδυνήφατον, ἣ οἱ ἁπάσας <milestone unit="tlnum" n="20" />
+                        </l>
+                        <l>ἔσχ᾽ ὀδύνας: τὸ μὲν ἕλκος ἐτέρσετο <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀπάσας -
+                                 ἐτέρσετο</foreign>] ομ. μει</note>, παύσατο <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">παύσαντο</foreign> μει</note> δ᾽ αἷμα.</l>
+                     </quote> τὸ γὰρ τῇ γεύσει πικρὸν τῇ δυνάμει ξηραντικὸν ὀρθῶς
+                     προσηγόρευσε. φαίνεται δὲ καὶ τὰ διαπάσματα τῶν γυμνικῶν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">γυμνικῶν</foreign> σξριπσι ξυμ φαεησιο: <foreign lang="greek">γυναικῶν</foreign> ξφ. π. 954 β</note>, οἷς ἀναρπάζουσι τοὺς
+                     ἱδρῶτας, πικρὰ <pb id="v.4.p.36" /> τῇ γύσει καὶ στυπτικὰ ὄντα
+                     σφοδρότητι τοῦ στρυφνοῦ </p></div3></div2></div1></body></text></TEI.2>

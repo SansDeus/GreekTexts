@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="5" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-740d" n="740d" /> ὅπη τὸ καθ᾽ εἱμαρμένην τῷ κατὰ
+                        τύχην αὖθίς τε τὸ ἐφ᾽ ἡμῖν ἑκατέρῳ καὶ συναμφοτέροις
+                        ἐπιμίγνυσθαι καὶ συμπλέκεσθαι πέφυκε. νῦν δὲ θαυμαστῶς, <milestone unit="tlnum" n="10" /> ἣν ἔχει δύναμιν ἐν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐν</foreign> μαδϝιγιυς</note> τοῖς ἡμετέροις
+                        πράγμασιν ἕκαστον, ὑποδεδήλωκε, τὴν μὲν αἵρεσιν τῶν βίων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τῶν βίων</foreign> ω: <foreign lang="greek">τῷ βίῳ</foreign></note> τῷ
+                        ἐφ᾽ ἡμῖν ἀποδιδούς: ἀρετὴ γὰρ ἀδέσποτον καὶ κακία: τὸ δ᾽ εὖ
+                        βιοῦν τοὺς ὀρθῶς ἑλομένους καὶ τἀναντία τοὺς κακῶς εἱμαρμένης
+                        ἀνάγκῃ συνάπτων. <milestone unit="tlnum" n="15" /> αἱ δὲ τῶν κλήρων
+                        ἀτάκτως διασπειρομένων ἐπιπτώσεις τὴν τύχην παρεισάγουσι καὶ
+                        τροφαῖς καὶ πολιτείαις, ὧν ἕκαστοι λαγχάνουσι, πολλὰ τῶν
+                        ἡμετέρων προκαταλαμβάνουσαν <note resp="ed" place="unspecified" anchored="yes">μ: <foreign lang="greek">προκαταλαμβάνουσιν</foreign></note>. ὅρα δή, μὴ τῶν κατὰ τύχην αἰτίαν
+                        ζητεῖν ἄλογόν ἐστιν: ἂν γὰρ ἔν τινι λόγῳ <milestone unit="tlnum" n="20" /> φαίνηται γεγονὼς ὁ κλῆρος, οὐκέτι γίγνεται κατὰ τύχην
+                        οὐδ᾽ αὐτομάτως ἀλλ᾽ ἔκ τινος εἱμαρμένης καὶ προνοίας. </q>
+                  </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  </div3></div2></div1></body></text></TEI.2>

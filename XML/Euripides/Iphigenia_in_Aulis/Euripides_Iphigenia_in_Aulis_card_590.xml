@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><milestone ed="p" n="590" unit="card" />
+<div1 type="episode" org="uniform" sample="complete">
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός ανδρων Αργειων</speaker><p>
+<lb rend="displayNum" n="590" />ἰὼ ἰώ: μεγάλαι μεγάλων
+<lb />εὐδαιμονίαι: τὴν τοῦ βασιλέως
+<lb />ἴδετ᾽ Ἰφιγένειαν, ἄνασσαν ἐμήν,
+<lb />τὴν Τυνδάρεω τε Κλυταιμήστραν:
+<lb />ὡς ἐκ μεγάλων ἐβλαστήκασ᾽
+<lb rend="displayNum" n="595" />ἐπί τ᾽ εὐμήκεις ἥκουσι τύχας.
+<lb />θεοί γ᾽ οἱ κρείσσους οἵ τ᾽ ὀλβοφόροι
+<lb />τοῖς οὐκ εὐδαίμοσι θνητῶν.
+</p></sp></div2>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />στῶμεν, Χαλκίδος ἔκγονα θρέμματα,
+<lb />τὴν βασίλειαν δεξώμεθ᾽ ὄχων
+<lb rend="displayNum" n="600" />ἄπο μὴ σφαλερῶς ἐπὶ γαῖαν,
+<lb />ἀγανῶς δὲ χεροῖν μαλακῇ ῥώμῃ,
+<lb />μὴ ταρβήσῃ † νεωστί μοι μολὸν
+<lb />κλεινὸν τέκνον Ἀγαμέμνονος,
+<lb />μηδὲ θόρυβον † μηδ᾽ ἔκπληξιν
+<lb rend="displayNum" n="605" />ταῖς Ἀργείαις
+<lb />ξεῖναι ξείναις παρέχωμεν.
+</p></sp>
+</div2></div1></body></text></TEI.2>

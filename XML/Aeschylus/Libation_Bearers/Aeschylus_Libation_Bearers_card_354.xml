@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="354" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />φίλος φίλοισι τοῖς
+<lb rend="displayNum" n="355" />ἐκεῖ καλῶς θανοῦσιν
+<lb />κατὰ χθονὸς ἐμπρέπων
+<lb />σεμνότιμος ἀνάκτωρ,
+<lb />πρόπολός τε τῶν μεγίστων
+<lb />χθονίων ἐκεῖ τυράννων:
+<lb rend="displayNum" n="360" />βασιλεὺς γὰρ ἦσθ᾽, ὄφρ᾽ ἔζης,
+<lb />μόριμον λάχος πιπλάντων
+<lb />χεροῖν πεισίβροτόν  τε βάκτρον.
+</p></sp></div2></div1></body></text></TEI.2>

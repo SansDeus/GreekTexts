@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" n="1" org="uniform" sample="complete"><div2 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-326e" n="326e" /> δυσχεραίνοντος καὶ
+                  ἀγανακτοῦντος, εἰ προῖκα <milestone unit="tlnum" n="5" /> δόξει καὶ παρὰ
+                  τῆς Τύχης λαβεῖν τὴν ἡγεμονίαν, ἣν ὢνιον αἵματος πολλοῦ καὶ
+                  τραυμάτων ἐπαλλήλων κτώμενος <quote rend="blockquote">
+                     <l> πολλὰς μὲν ἀύπνους νύκτας ἴαυεν, </l>
+                     <note resp="ed" place="unspecified" anchored="yes">ηομ. ι 325</note>
+                     <l> ἤματα δ᾽ αἱματόεντα διέπρησσεν πολεμίζων <milestone unit="tlnum" n="10" />
+                     </l>
+                  </quote> πρὸς ἀμάχους δυνάμεις καὶ ἄπειρα φῦλα καὶ ποταμοὺς ἀπεράτους
+                  καὶ πέτρας ἀτοξεύτους, εὐβουλίᾳ καὶ καρτερίᾳ καὶ ἀνδρείᾳ καὶ
+                  σωφροσύνῃ παραταττόμενος</p>
+               <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">παραταττόμενος</foreign> ρ: <foreign lang="greek">παραπεμπόμενος</foreign></note>
+            </div2>
+            <div2 type="section" n="2" org="uniform" sample="complete">
+               <p>
+                  </p></div2></div1></body></text></TEI.2>

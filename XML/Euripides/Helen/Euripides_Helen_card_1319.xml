@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1319" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />δρομαῖον δ᾽ ὅτε πολυπλάνη-
+<lb rend="displayNum" n="1320" />τον μάτηρ ἔπαυσε πόνον,
+<lb />μαστεύουσα † πόνους †
+<lb />θυγατρὸς ἁρπαγὰς δολίους,
+<lb />χιονοθρέμμονάς γ᾽ ἐπέρασ᾽
+<lb />Ἰδαιᾶν Νυμφᾶν σκοπιάς:
+<lb rend="displayNum" n="1325" />ῥίπτει δ᾽ ἐν πένθει
+<lb />πέτρινα κατὰ δρία πολυνιφέα: 
+<lb />βροτοῖσι δ᾽ ἄχλοα πεδία γᾶς
+<lb />οὐ καρπίζουσ᾽ ἀρότοις
+<lb />λαῶν <del status="unremarkable">δὲ</del> φθείρει γενεάν:
+<lb rend="displayNum" n="1330" />ποίμναις δ᾽ οὐχ ἵει θαλερὰς
+<lb />βοσκὰς εὐφύλλων ἑλίκων,
+<lb />πόλεων δ᾽ ἀπέλειπε βίος:
+<lb />οὐδ᾽ ἦσαν θεῶν θυσίαι,
+<lb />βωμοῖς δ᾽ ἄφλεκτοι πέλανοι:
+<lb rend="displayNum" n="1335" />πηγὰς δ᾽ ἀμπαύει δροσερὰς
+<lb />λευκῶν ἐκβάλλειν ὑδάτων
+<lb />πένθει παιδὸς ἀλάστωρ.
+</p></sp></div2></div1></body></text></TEI.2>

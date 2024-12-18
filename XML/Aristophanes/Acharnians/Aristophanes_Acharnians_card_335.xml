@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parodos" org="uniform" sample="complete"><div2 type="trochees" org="uniform" sample="complete"><sp><p><milestone ed="p" n="335" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Δικαιόπολις</speaker><p>
+<lb />ὡς ἀποκτενῶ, κέκραχθ᾽: ἐγὼ γὰρ οὐκ ἀκούσομαι.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="336" />ἀπολεῖς ἄρ᾽ ὁμήλικα τόνδε φιλανθρακέα;</p></sp>
+<sp><speaker>Δικαιόπολις</speaker><p>
+<lb />οὐδ᾽ ἐμοῦ λέγοντος ὑμεῖς ἀρτίως ἠκούσατε.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ἀλλὰ γὰρ νῦν λέγ᾽, εἴ σοι δοκεῖ, τόν τε Λακεδαιμόνιον
+<lb />† αὐτὸν ὅτι τῷ † τρόπῳ σοὐστὶ φίλος:
+<lb rend="displayNum" n="340" />ὡς τόδε τὸ λαρκίδιον οὐ προδώσω ποτέ.</p></sp>
+<sp><speaker>Δικαιόπολις</speaker><p>
+<lb />τοὺς λίθους νύν μοι χαμᾶζε πρῶτον ἐξεράσατε.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />οὑτοιί σοι χαμαί, καὶ σὺ κατάθου πάλιν τὸ ξίφος.</p></sp>
+<sp><speaker>Δικαιόπολις</speaker><p>
+<lb />ἀλλ᾽ ὅπως μὴ ν᾽ τοῖς τρίβωσιν ἐγκάθηνταί που λίθοι.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ἐκσέσεισται χαμᾶζ᾽: οὐχ ὁρᾷς σειόμενον;
+<lb rend="displayNum" n="345" />ἀλλὰ μή μοι πρόφασιν, ἀλλὰ κατάθου τὸ βέλος.
+<lb />ὡς ὅδε γε σειστὸς ἅμα τῇ στροφῇ γίγνεται.</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="23" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-135b" n="135b" /> ἄγεσθαι μεμελετηκότος. οὐ γὰρ ἀσφαλὲς οὐδὲ ῥᾴδιον
+                     <milestone unit="tlnum" n="5" /> οὐδὲ πολιτικὸν οὐδ᾽ ἀνθρωπικὸν ἀλλ᾽
+                  ὀστρέου τινὸς ζωῇ προσεοικὸς ἢ στελέχους τὸ ἀμετάστατον τοῦτο καὶ
+                  κατηναγκασμένον ἐν τροφαῖς καὶ ἀποχαῖς καὶ κινήσεσι καὶ ἡσυχίαις <note resp="ed" place="unspecified" anchored="yes">ποστ <foreign lang="greek">ἡσυχίαις</foreign> σιγναϝιτ ηιατυμ η</note> εἰς
+                  ἐπίσκιόν τινα βίον καὶ σχολαστὴν καὶ μονότροπόν τινα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μονότροπόν τινα</foreign>] <foreign lang="greek">μονότροπον</foreign> η</note> καὶ ἄφιλον καὶ
+                     <milestone unit="tlnum" n="10" /> ἄδοξον ἀπωτάτω πολιτείας καθίσασιν
+                  ἑαυτοὺς καὶ συστείλασιν οὐ <q direct="unspecified">κατά γε τὴν ἐμήν</q> ἔφη <q direct="unspecified">γνώμην</q>
+               </p>
+            </div2>
+            <div2 type="section" n="24" org="uniform" sample="complete">
+               <p>οὐ γὰρ ἀργίας ὤνιον ἡ ὑγίεια καὶ ἀπραξίας, ἅ γε δὴ μέγιστα κακῶν
+                  ταῖς νόσοις πρόσεστι, καὶ οὐδὲν διαφέρει τοῦ τὰ ὄμματα τῷ μὴ
+                  διαβλέπειν <milestone unit="tlnum" n="15" />
+                  </p></div2></div1></body></text></TEI.2>

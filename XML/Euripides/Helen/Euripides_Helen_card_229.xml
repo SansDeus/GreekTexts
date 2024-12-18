@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="229" unit="card" /></p></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+<sp><speaker>Ἑλένη</speaker><p>
+<lb />φεῦ φεῦ, τίς ἢ Φρυγῶν
+<lb rend="displayNum" n="230" />ἢ τίς Ἑλλανίας ἀπὸ χθονὸς 
+<lb />ἔτεμε τὰν δακρυόεσσαν
+<lb />Ἰλίῳ πεύκαν;
+<lb />ἔνθεν ὀλόμενον σκάφος
+<lb />συναρμόσας ὁ Πριαμίδας
+<lb />ἔπλευσε βαρβάρῳ πλάτᾳ
+<lb rend="displayNum" n="235" />τὰν ἐμὰν ἐφ᾽ ἑστίαν,
+<lb />ἐπὶ τὸ δυστυχέστατον
+<lb />κάλλος, ὡς ἕλοι, γάμων
+<lb />ἀμῶν: ἅ τε δόλιος
+<lb />ἁ πολυκτόνος Κύπρις
+<lb />Δαναΐδαις ἄγουσα θάνατον <del status="unremarkable">Πριαμίδαις</del>,
+<lb rend="displayNum" n="240" />ὦ τάλαινα συμφορᾶς.
+<lb />ἁ δὲ χρυσέοις θρόνοις
+<lb />Διὸς ὑπαγκάλισμα σεμνὸν
+<lb />Ἥρα τὸν ὠκύπουν
+<lb />ἔπεμψε Μαιάδος γόνον:
+<lb />ὅς με χλοερὰ δρεπομέναν
+<lb rend="displayNum" n="245" />ἔσω πέπλων ῥόδεα πέταλα,
+<lb />Χαλκίοικον ὡς <del status="unremarkable">Ἀθάναν</del> μόλοιμ᾽,
+<lb />ἀναρπάσας δι᾽ αἰθέρος
+<lb />τάνδε γαῖαν εἰς ἄνολβον
+<lb />ἔριν ἔριν τάλαιναν ἔθετο
+<lb />Πριαμίδαισιν Ἑλλάδος.
+<lb />τὸ δ᾽ ἐμὸν ὄνομα
+<lb rend="displayNum" n="250" />παρὰ Σιμουντίοις ῥοαῖσι
+<lb />μαψίδιον ἔχει φάτιν.
+</p></sp></div2></div1></body></text></TEI.2>

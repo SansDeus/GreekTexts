@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="6" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-653f" n="653f" /> τοσαύτης ἐχομένῳ συγγράμματι, τῇ Πολιτείᾳ,
+                        κατατετάχθαι</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="20" />
+                  <p>πρὸς τοῦτο πληγέντες οἱ νεανίσκοι σιωπῇ κατέκειντο: τῶν δ᾽ ἄλλων
+                     τὸν Ζώπυρον ἀξιούντων τοὺς περὶ τούτου λόγους Ἐπικούρου <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἐπικούρου</foreign>] ϝιδ. υσενερ. π. 117</note> διελθεῖν, ἔφη τῶν
+                     μὲν κατὰ μέρος οὐκ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οὐκ</foreign> ϝυλξοβιυς</note> ἀκριβῶς
+                     μνημονεύειν, οἴεσθαι δὲ τὸν ἄνδρα τὰς ἐκ τῆς συνουσίας πληγὰς
+                        <milestone unit="tlnum" n="25" /> δεδιέναι διὰ τὸν τῶν σωμάτων παλμὸν
+                     εἰς <pb id="v.4.p.120" /> ταραχὴν καὶ σάλον ἐν τῷ τοιούτῳ βαδιζόντων.
+                     καθόλου μὲν γὰρ ἐξ ἕδρας τὰ σώματα μεθιστάναι πλήκτην ὄντα καὶ
+                     κινητικὸν ταραχῆς τὸν ἄκρατον: ἂν δ᾽ οὕτως ἔχοντα τὸν ὄγκον
+                     ἡμῶν γαλήνη μὴ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μὴ</foreign>] ομ. μει</note> παραλάβῃ <milestone unit="tlnum" n="5" /> καὶ ὕπνος, ἀλλ᾽ ἕτεραι διὰ τῶν ἀφροδισίων
+                     κινήσεις, ἐκθλιβομένων καὶ μοχλευομένων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κἀκμοχλευομένων</foreign> υσενερυς</note> τῶν μάλιστα </p></div3></div2></div1></body></text></TEI.2>

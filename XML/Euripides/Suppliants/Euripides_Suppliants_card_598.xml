@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="598" unit="card" />
+</p></sp>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb /> — ὦ μέλεαι μελέων ματέρες λοχαγῶν,
+<lb />ὥς μοι ὑφ᾽ ἥπατι χλωρὸν δεῖμα θάσσει — 
+<lb rend="displayNum" n="600" /> — τίν᾽ αὐδὰν τάνδε προσφέρεις νέαν;
+<lb /> — στράτευμα πᾷ Παλλάδος κριθήσεται;
+<lb /> — διὰ δορὸς εἶπας, ἢ λόγων ξυναλλαγαῖς;
+<lb /> — γένοιτ᾽ ἂν κέρδος: εἰ δ᾽ ἀρείφατοι
+<lb />φόνοι μάχαι στερνοτυπεῖς τ᾽ ἀνὰ πτόλιν
+<lb rend="displayNum" n="605" />κτύποι φανήσονται, τάλαι-
+<lb />να, τίνα λόγον, τίν᾽ ἂν τῶνδ᾽ αἰτία λάβοιμι;
+</p></sp></div2></div1></body></text></TEI.2>

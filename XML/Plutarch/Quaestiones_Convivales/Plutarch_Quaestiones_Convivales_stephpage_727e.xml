@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><div2 type="chapter" n="7" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-727e" n="727e" /> τὰς ὄρνιθας; Γοργίας
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Γοργίας</foreign>] ξφ. αριστ. π. 1406, 15β</note> δ᾽ ὁ σοφιστής,
+                        χελιδόνος ἀφείσης ἐπ᾽ αὐτὸν ἀπόπατον, ἀναβλέψας πρὸς αὐτήν
+                           <milestone unit="tlnum" n="25" />
+                        <q direct="unspecified">οὐ καλὰ ταῦτ᾽</q> εἶπεν <q direct="unspecified">ὦ Φιλομήλα</q> ἢ καὶ τοῦτο <pb id="v.4.p.334" /> κενόν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κενὸν</foreign> μ: <foreign lang="greek">κοινόν</foreign></note> ἐστι; τὴν γὰρ ἀηδόνα, ταῖς
+                        αὐταῖς τραγῳδίαις ἔνοχον οὖσαν, οὐκ ἀπείργουσιν οὐδὲ
+                        ξενηλατοῦσιν</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <p>
+                     <q direct="unspecified">ἴσως</q> ἔφην ἐγὼ <q direct="unspecified">καὶ ταῦτ᾽ ἔχει λόγον, ὦ Σύλλα. σκόπει
+                        δὲ μὴ πρῶτον μέν, ᾧ λόγῳ τὸ <milestone unit="tlnum" n="5" />
+                        γαμψώνυχον οὐ προσίενται, τούτῳ καὶ ἡ χελιδὼν ἀδοξεῖ παρ᾽
+                        αὐτοῖς: σαρκοφάγος γάρ ἐστι καὶ μάλιστα </q></p></div3></div2></div1></body></text></TEI.2>

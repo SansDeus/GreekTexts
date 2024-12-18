@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="54" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-303d" n="303d" /> θεὸν ἀφ᾽ ἑαυτοῦ
+               προσηγόρευσεν. εἰ δὴ τοῦτ᾽ ἀληθές ἐστι, φαίνεται <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φαίνεται</foreign>] φορτ. ξολλοξανδυμ ποστ <foreign lang="greek">πλουτίσαι</foreign></note> οὐχ ἕνα πλουτίσαι,
+               πολλοὺς δὲ σῶσαι δι᾽ ἑνὸς ἡ θεὸς θελήσασα. <milestone unit="tlnum" n="10" />
+            </p>
+         </div1>
+         <div1 type="section" n="55" org="uniform" sample="complete">
+            <p>
+               <q direct="unspecified">διὰ τί τοῖς Σαμίοις, ὅταν τῷ Ἑρμῇ τῷ χαριδότῃ θύωσι, κλέπτειν
+                  ἐφεῖται τῷ βουλομένῳ καὶ λωποδυτεῖν </q> ὅτι κατὰ χρησμὸν ἐκ τῆς
+               νήσου μεταστάντες εἰς Μυκάλην ἀπὸ λῃστείας δέκα ἔτη διεγένοντο: καὶ
+               μετὰ ταῦτα πλεύσαντες αὖθις εἰς τὴν <milestone unit="tlnum" n="15" /> νῆσον,
+               ἐκράτησαν τῶν πολεμίων οἱ Σάμιοι. </p>
+         </div1>
+         <div1 type="section" n="56" org="uniform" sample="complete">
+            <p>
+               <q direct="unspecified">ἀπὸ τίνος Πάναιμα τόπος ἐν τῇ Σαμίων νήσῳ καλεῖται;᾽</q> ἦ ὅτι
+               φεύγουσαι Διόνυσον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Διόνυσον</foreign> ω: <foreign lang="greek">διονύσιον</foreign></note> αἱ Ἀμαζόνες ἐκ τῆς Ἐφεσίων χώρας; εἰς Σάμον
+               διέπλευσαν: </p></div1></body></text></TEI.2>

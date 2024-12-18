@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="492" unit="card" /></p></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ὦ Πανὸς θακήματα καὶ
+<lb />παραυλίζουσα πέτρα
+<lb />μυχώδεσι Μακραῖς,
+<lb rend="displayNum" n="495" />ἵνα χοροὺς στείβουσι ποδοῖν
+<lb />Ἀγλαύρου κόραι τρίγονοι
+<lb />στάδια χλοερὰ πρὸ Παλλάδος
+<lb />ναῶν, συρίγγων
+<lb />ὑπ᾽ αἰόλας ἰαχᾶς
+<lb rend="displayNum" n="500" />ὕμνων, ὅτ᾽ ἀναλίοις
+<lb />συρίζεις, ὦ Πάν,
+<lb />τοῖς σοῖσιν ἐν ἄντροις,
+<lb />ἵνα τεκοῦσά τις Φοίβῳ
+<lb />παρθένος, ὦ μελέα, βρέφος,
+<lb />πτανοῖς ἐξόρισεν θοίναν
+<lb rend="displayNum" n="505" />θηρσί τε φοινίαν δαῖτα, πικρῶν γάμων
+<lb />ὕβριν: οὔτ᾽ ἐπὶ κερκίσιν οὔτε λόγοις
+<lb />φάτιν ἄιον εὐτυχίας μετέχειν
+<lb />θεόθεν τέκνα θνατοῖς.
+</p></sp></div2></div1></body></text></TEI.2>

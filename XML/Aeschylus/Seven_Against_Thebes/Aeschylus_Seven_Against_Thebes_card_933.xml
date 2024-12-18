@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="933" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="4" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ὁμόσποροι δῆτα καὶ πανώλεθροι,
+<lb />διατομαῖς οὐ φίλοις,
+<lb rend="displayNum" n="935" />ἔριδι μαινομένᾳ,
+<lb />νείκεος ἐν τελευτᾷ.
+<lb />πέπαυται δ᾽ ἔχθος, ἐν δὲ γαίᾳ
+<lb />ζόα φονορύτῳ
+<lb />μέμεικται:  κάρτα δ᾽ εἴσ᾽ ὅμαιμοι.
+<lb rend="displayNum" n="940" />πικρὸς λυτὴρ νεικέων ὁ πόντιος
+<lb />ξεῖνος ἐκ πυρὸς συθεὶς
+<lb />θακτὸς  σίδαρος: πικρὸς δὲ χρημάτων
+<lb />κακὸς δατητὰς Ἄρης ἀρὰν  πατρῴ-
+<lb />αν  τιθεὶς ἀλαθῆ.
+</p></sp></div2></div1></body></text></TEI.2>

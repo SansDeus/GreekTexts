@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Lyric-Scene" org="uniform" sample="complete"><div2 type="antistrophe" org="uniform" sample="complete"><sp><p><milestone ed="p" n="952" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Νεᾶνις</speaker><p>
+<lb />δεῦρο δὴ δεῦρο δή,
+<lb />φίλον ἐμόν, δεῦρό μοι
+<lb />πρόσελθε καὶ ξύνευνος
+<lb />τὴν εὐφρόνην ὅπως ἔσει.
+<lb />πάνυ γάρ τις ἔρως με δονεῖ
+<lb rend="displayNum" n="955" />τῶνδε τῶν σῶν βοστρύχων.
+<lb />ἄτοπος δ᾽ ἔγκειταί μοί τις
+<lb />πόθος, ὅς με διακναίσας ἔχει.
+<lb />μέθες, ἱκνοῦμαί σ᾽ Ἔρως,
+<lb />καὶ ποίησον τόνδ᾽ ἐς εὐνὴν
+<lb rend="displayNum" n="959b" />τὴν ἐμὴν ἱκέσθαι.</p></sp></div2></div1></body></text></TEI.2>

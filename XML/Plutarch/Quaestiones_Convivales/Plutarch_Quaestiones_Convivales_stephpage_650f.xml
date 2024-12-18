@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="3" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-650f" n="650f" /> ἰδίων ἀλλὰ κοινῶν ἐπίτασιν
+                     συμπτωμάτων γίγνεσθαι τὴν μέθην τῷ γέροντι: τεκμήριον δὲ τούτου τὸ
+                        <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τὸ</foreign> ς: <foreign lang="greek">τοῦ</foreign></note>
+                     <milestone unit="tlnum" n="20" /> μηδὲν εἶναι γέροντι νέου μεθυσθέντος
+                     ὁμοιότερον. </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="4" org="uniform" sample="complete">
+               <head> Πότερον ψυχρότεραι τῇ κράσει τῶν ἀνδρῶν ἢ θερμότεραὶ εἰσιν αἱ
+                  γυναῖκες.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="25" />
+                  <p>ὁ μὲν οὖν Σύλλας <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Σύλας</foreign> μει</note> ταῦτ᾽ εἶπεν. ὁ
+                     δὲ τακτικὸς Ἀπολλωνίδης ἔφη τὸν μὲν περὶ τῶν γερόντων <pb id="v.4.p.111" /> ἀποδέχεσθαι λόγον: ἐν δὲ ταῖς γυναιξὶν αὐτῷ
+                     δοκεῖν παραλελεῖφθαι τὸ τῆς ψυχρότητος, ᾗ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ᾗ</foreign>]
+                           <foreign lang="greek">ἢ</foreign> μει</note> θερμότατον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">θερμότατον</foreign>] <foreign lang="greek">θερμὸν ὄντα</foreign> ω.
+                        μαλιμ <foreign lang="greek">θερμὸν ὄντα τὸν</foreign></note> ἄκρατον
+                     ἀποσβέννυσθαι καὶ ἀποβάλλειν τὸ </p></div3></div2></div1></body></text></TEI.2>

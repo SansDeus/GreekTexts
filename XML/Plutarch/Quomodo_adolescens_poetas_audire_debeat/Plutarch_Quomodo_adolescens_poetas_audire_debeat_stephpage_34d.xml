@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="13" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-34d" n="34d" /> λόγου
+                  δυνάμεως εἰρῆσθαι νομίζωσι, τὴν δὲ πρὸς τὸν Ἀχιλλέα τὸν ἐν Σκύρῳ
+                  καθήμενον ἐν ταῖς παρθένοις γεγενημένην ἐπίπληξιν ὑπὸ τοῦ Ὀδυσσέως
+                     <quote rend="blockquote">
+                        <l>σὺ δ᾽, ὦ τὸ λαμπρὸν φῶς ἀποσβεννὺς γένους, <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 653</note> <milestone unit="tlnum" n="25" />
+                     </l>
+                     <l>ξαίνεις, ἀρίστου πατρὸς Ἑλλήνων γεγώς;</l>
+                     </quote> καὶ πρὸς τὸν ἄσωτον οἴωνται <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οἴωνται</foreign> η: <foreign lang="greek">οἴονται</foreign></note> λέγεσθαι καὶ πρὸς τὸν
+                  αἰσχροκερδῆ καὶ πρὸς τὸν ἀμελῆ καὶ ἀπαίδευτον <pb id="v.1.p.84" />
+                  <quote rend="blockquote">
+                     <l>πίνεις, ἀρίστου πατρὸς Ἑλλήνων γεγώς,</l>
+                  </quote> ἢ κυβεύεις ἢ ὀρτυγοκοπεῖς ἢ καπηλεύεις ἢ τοκογλυφεῖς, μηδὲν
+                  μέγα φρονῶν μηδ᾽ ἄξιον τῆς εὐγενείας; <quote rend="blockquote">
+                     <l>μὴ πλοῦτον εἴπῃς. οὐχὶ θαυμάζω θεόν <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 294</note> <milestone unit="tlnum" n="5" />
+                        </l></quote></p></div2></div1></body></text></TEI.2>

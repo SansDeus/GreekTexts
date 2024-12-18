@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="6" org="uniform" sample="complete"><div2 type="chapter" n="9" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-696c" n="696c" /> ἀναλοῦται: τούτῳ γὰρ τρέφεσθαι
+                     πέφυκεν. ὕδωρ μὲν οὖν καὶ οἶνος καὶ τὰ λοιπά, πολλοῦ <milestone unit="tlnum" n="5" /> μετέχοντα τοῦ θολεροῦ καὶ γεώδους, ἐμπίπτοντα
+                     τὴν φλόγα διασπᾷ καὶ τῇ τραχύτητι, καὶ τῷ βάρει θλίβει καὶ
+                     κατασβέννυσι: τὸ δ᾽ ἔλαιον, ὅτι μάλιστα εἰλικρινῶς ὑγρόν ἐστι, διὰ
+                     λεπτότητα μεταβάλλει καὶ κρατούμενον ἐκπυροῦται. </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="10" />
+                  <p> μέγιστον δ᾽ αὐτοῦ τῆς ὑγρότητος τεκμήριον ἡ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἡ</foreign>
+                        μ</note> ἐπὶ πλεῖστον ἐξ ὀλιγίστου διανομὴ καὶ χύσις: οὔτε γὰρ
+                     μέλιτος οὔθ᾽ ὕδατος οὔτ᾽ ἄλλου τινὸς ὑγροῦ βραχὺς οὕτως ὀπὸς
+                        <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὀπὸς</foreign>] <foreign lang="greek">ὄγκος</foreign> ω</note>
+                     ἐπίδοσιν λαμβάνει τοιαύτην <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τοσαύτην</foreign>̣</note>, ἀλλ᾽
+                     εὐθὺς ἐπιλείπων καταναλίσκεται <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐπιλειπων καταναλίσκεται</foreign> *:
+                           <foreign lang="greek">ἐπὶ πλεῖστον καὶ ἀναλίσκεται</foreign></note>
+                     διὰ <milestone unit="tlnum" n="15" /> ξηρότητα. τὸ δ᾽ ἔλαιον, ὅλκιμον
+                     πανταχῆ καὶ μαλακόν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μαλακὸν ὂν</foreign> ρ</note>, </p></div3></div2></div1></body></text></TEI.2>

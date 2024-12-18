@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="13" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-35b" n="35b" />
+                  <quote rend="blockquote">
+                     <l> διογενὲς Λαερτιάδη, πολυμήχαν᾽ Ὀδυσσεῦ</l> <note resp="ed" place="unspecified" anchored="yes">ηομερ. β 173</note>
+                  </quote>
+                  <milestone unit="tlnum" n="10" /> καὶ <quote rend="blockquote">
+                     <l>Ἕκτορ υἱὲ Πριάμοιο, Διὶ μῆτιν ἀτάλαντε</l> <note resp="ed" place="unspecified" anchored="yes">ιδ. η 47</note>
+                  </quote> πο καὶ <quote rend="blockquote">
+                     <l>ὦ Ἀχιλεῦ Πηλέος υἱέ, μέγα κῦδος Ἀχαιῶν</l> <note resp="ed" place="unspecified" anchored="yes">ιδ. τ 216</note>
+                  </quote> καὶ <quote rend="blockquote">
+                     <l> δῖε Μενοιτιάδη, τῷ ἐμῷ κεχαρισμένε θυμῷ</l> <note resp="ed" place="unspecified" anchored="yes">ιδ. <foreign lang="greek">Λ</foreign> 608</note>
+                  </quote> ἔπειτα λοιδοροῦσιν οὐδὲν ἐφαπτόμενοι τῶν σωματικῶν, <milestone unit="tlnum" n="15" /> ἀλλὰ τοῖς ἁμαρτήμασι τοὺς ψόγους ἐπιφέροντες
+                     <quote rend="blockquote">
+                        <l>οἰνοβαρές, κυνὸς ὄμματ᾽ ἔχων, κραδίην δ᾽ ἐλάφοιο</l> <note resp="ed" place="unspecified" anchored="yes">ιδ. α 225</note>
+                  </quote> καί </p></div2></div1></body></text></TEI.2>

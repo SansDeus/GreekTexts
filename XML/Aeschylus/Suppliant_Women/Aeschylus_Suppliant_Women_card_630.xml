@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="630" unit="card" />
+</p></sp></div2>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="630" />νῦν ὅτε καί, θεοὶ
+<lb />διογενεῖς, κλύοιτ᾽ εὐ-
+<lb />κταῖα γένει χεούσας:
+<lb />μήποτε πυρίφατον
+<lb />γᾶν Πελασγίαν <del status="unremarkable">πόλιν</del>
+<lb rend="displayNum" n="635" />τὸν ἄκορον βοᾶς,
+<lb />κτίσαι μάχλον Ἄπη,
+<lb />τὸν ἀρότοις θερί-
+<lb />ζοντα βροτοὺς ἐν ἄλλοις,
+<lb />οὕνεκ᾽ ᾤκτισαν ἡμᾶς,
+<lb rend="displayNum" n="640" />ψῆφον δ᾽ εὔφρον᾽ ἔθεντο,
+<lb />αἰδοῦνται δ᾽ ἱκέτας Διός,
+<lb />ποίμναν τάνδ᾽ ἀμέγαρτον:
+</p></sp></div2></div1></body></text></TEI.2>

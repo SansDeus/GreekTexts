@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="517" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἔσθ᾽ ὅπου τὸ δεινὸν εὖ,
+<lb />καὶ φρενῶν ἐπίσκοπον
+<lb />δεῖ μένειν καθήμενον.
+<lb rend="displayNum" n="520" />ξυμφέρει
+<lb />σωφρονεῖν ὑπὸ στένει.
+<lb />τίς δὲ μηδὲν ἐν δέει
+<lb />καρδίαν <add>ἂν</add> ἀνατρέφων
+<lb />ἢ πόλις βροτός θ᾽ ὁμοί-
+<lb rend="displayNum" n="525" />ως ἔτ᾽ ἂν σέβοι δίκαν;
+</p></sp></div2></div1></body></text></TEI.2>

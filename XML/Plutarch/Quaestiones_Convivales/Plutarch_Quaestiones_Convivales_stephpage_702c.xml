@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="7" org="uniform" sample="complete"><div2 type="chapter" n="3" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-702c" n="702c" /> τῆς βελτιώσεως
+                     ἀνατίθησι: πλείων γάρ ἐστι καὶ κρατεῖ μᾶλλον εἰς ἀποδεὲς
+                     κατερχόμενος <note resp="ed" place="unspecified" anchored="yes">ρ: <foreign lang="greek">κατερχόμενον</foreign></note> τὸ ἀγγεῖον. </p>
+               </div3>
+               <div3 type="section" n="4" org="uniform" sample="complete">
+                  <p>
+                     <q direct="unspecified">μήποτ᾽ οὖν</q> ἔφην ἐγώ <q direct="unspecified">καὶ τοὔλαιον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τοὔλαιον</foreign> *: <foreign lang="greek">τὸ
+                           ἔλαιον</foreign></note> ὁ ἀὴρ <milestone unit="tlnum" n="5" />
+                        ὠφελεῖ καὶ βλάπτει τὸν οἶνον ὑπὸ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀπὸ</foreign>
+                           μει</note> τῆς αὐτῆς δυνάμεως. οἴνῳ μὲν γὰρ ὠφέλιμον, ἐλαίῳ
+                        δ᾽ ἀσύμφορον παλαίωσις, ἣν <note resp="ed" place="unspecified" anchored="yes">τυρνεβυς: <foreign lang="greek">ἦν</foreign></note>
+                        ἑκατέρου προσπίπτων ὁ ἀὴρ ἀφαιρεῖ: τὸ γὰρ ψυχόμενον νεαρὸν
+                        διαμένει <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">διαμένει</foreign>] <foreign lang="greek">διαφέρει</foreign> μει</note>, τὸ δ᾽ οὐκ ἔχον διαπνοὴν ὑπὸ
+                        συνεχείας ταχὺ παλαιοῦται καὶ <milestone unit="tlnum" n="10" />
+                        ἀπογηράσκει : λελέχθαι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">λελέχθαι</foreign>] <foreign lang="greek">καὶ
+                              λέλεκται</foreign> ω. <foreign lang="greek">καὶ γὰρ
+                              δοκεῖ</foreign> ῾ϝελ <foreign lang="greek">ἐδόκει</foreign> ξυμ ῤ
+                              <foreign lang="greek">λελέχθαι</foreign>̣</note> πιθανῶς, ὅτι
+                        τοῖς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τοῖς</foreign>] <foreign lang="greek">τοὺς</foreign>
+                           μει. <foreign lang="greek">τοὺς τόπους τοὺς</foreign>̣</note>
+                        ἐπιπολῆς πλησιάζων ὁ ἀὴρ νεαροποιεῖ. διὸ τοῦ μὲν οἴνου τὸ ἄνω
+                        φαυλότατον τοῦ δ᾽ ἐλαίου βέλτιστον ἡ γὰρ παλαίωσις τῷ μὲν τὴν
+                        ἀρίστην τῷ δὲ τὴν κακίστην <milestone unit="tlnum" n="15" /> ἐμποιεῖ
+                        διάθεσιν. </q>
+                  </p>
+               </div3>
+            </div2>
+            </div1></body></text></TEI.2>

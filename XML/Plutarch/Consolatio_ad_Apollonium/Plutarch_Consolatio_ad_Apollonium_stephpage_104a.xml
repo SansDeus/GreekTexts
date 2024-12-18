@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="6" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-104a" n="104a" /> ἐστι βίῳ καὶ πράγμασι ῥᾳδίως:
+                                                  μεθισταμένοις <milestone unit="tlnum" n="10" />
+                                                  πρὸς τοὐναντίον. ἀνθρώπων γὰρ ὄντως θνητὰ
+                                                  μὲν καὶ ἐφήμερα τὰ σώματα, θνηταὶ δὲ
+                                                  τύχαι καὶ πάθη καὶ πάνθ᾽ ἁπλῶς; τὰ κατὰ
+                                                  τὸν βίον, ἅπερ <quote rend="blockquote">
+                                                  <l> οὐκ ἔστι φυγεῖν βροτὸν οὐδ᾽
+                                                                       ὑπαλύξαι</l> <note resp="ed" place="unspecified" anchored="yes">ηομερ. μ 326</note>
+                                                  </quote> τὸ παράπαν ἀλλὰ <milestone unit="tlnum" n="15" />
+                                                  <quote rend="blockquote">
+                                                  <l>Ταρτάρου πυθμὴν πιέζει ς1᾽ ἀφανοῦς
+                                                                       σφυρηλάτοις </l> <note resp="ed" place="unspecified" anchored="yes">βεργκ. 1 π. 450</note>
+                                                  <l> ἀνάγκαις </l>
+                                                  </quote> ὥς φησι Πίνδαρος. ὅθεν ὀρθῶς ὁ
+                                                                       Φαληρεὺς Δημήτριος εἰπόντος Εὐριπίδου <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Εὐριπίδου</foreign>] πηοεν. 558</note>
+                                                  <quote rend="blockquote">
+                                                  <l>ὁ δ᾽ ὄλβος οὐ βέβαιος ἀλλ᾽ ἐφήμερος</l>
+                                                  </quote>
+                                                  <milestone unit="tlnum" n="20" /> καὶ ὅτι <quote rend="blockquote">
+                                                                       <l>μίκρ᾽ ἄττα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μίκρ᾽ ἄττα τὰ</foreign> σξριπσι: <foreign lang="greek">μικρότατα</foreign> ῾<foreign lang="greek">ὡς μικρὰ τὰ</foreign> στοβαευς φλορ. ξϝ 1. ναυξκ. π. 388᾿</note> τὰ σφάλλοντα, καὶ μί᾽ ἡμέρα </l>
+                                                  <l>τὰ μὲν καθεῖλεν ὑψόθεν τὰ δ᾽ ἦρ᾽
+                                                  ἄνω</l>
+                                                  </quote>
+                                                  </p></div2></div1></body></text></TEI.2>

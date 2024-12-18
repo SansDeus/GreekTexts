@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><milestone ed="p" n="1251" unit="card" />
+</sp></div2>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>ἰὼ Γᾶ τε καὶ παμφαὴς</l>
+<l>ἀκτὶς Ἁλίου, κατίδετ᾽ ἴδετε τὰν</l>
+<l>ὀλομέναν γυναῖκα, πρὶν φοινίαν</l>
+<l>τέκνοις προσβαλεῖν χέρ᾽ αὐτοκτόνον:</l>
+<l n="1255">σᾶς γὰρ χρυσέας ἀπὸ γονᾶς</l>
+<l>ἔβλαστεν, θεοῦ δ᾽ αἷμα &lt;χαμαὶ&gt; πίτνειν</l>
+<l>φόβος ὑπ᾽ ἀνέρων.</l>
+<l>ἀλλά νιν, ὦ φάος διογενές, κάτειρ-</l>
+<l>γε κατάπαυσον, ἔξελ᾽ οἴκων τάλαι-</l>
+<l n="1260">ναν φονίαν τ᾽ Ἐρινὺν ὑπαλαστόρων.</l>
+</sp></div2></div1></body></text></TEI.2>

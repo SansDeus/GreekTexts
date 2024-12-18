@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1284" unit="card" />
+</p></sp>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />αἰαῖ αἰαῖ, τρομερὰν φρίκᾳ
+<lb rend="displayNum" n="1285" />τρομερὰν φρέν᾽ ἔχω: διὰ σάρκα δ᾽ ἐμὰν
+<lb />ἔλεος ἔλεος ἔμολε μα-
+<lb />τέρος δειλαίας.
+<lb />δίδυμα τέκεα πότερος ἄρα
+<lb />πότερον αἱμάξει — 
+<lb rend="displayNum" n="1290" />ἰώ μοι πόνων, ἰὼ Ζεῦ, ἰὼ γᾶ — 
+<lb />ὁμογενῆ δέραν, ὁμογενῆ ψυχὰν
+<lb />δι᾽ ἀσπίδων, δι᾽ αἱμάτων;
+<lb rend="displayNum" n="1294" />τάλαιν᾽ ἐγὼ τάλαινα, πό-
+<lb rend="displayNum" n="1295" />τερον ἄρα νέκυν ὀλόμενον ἰαχήσω;
+</p></sp></div2></div1></body></text></TEI.2>

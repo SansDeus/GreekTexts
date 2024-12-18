@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-515f" n="515f" /> τὰς παρόδους τῆς
+               πολυπραγμοσύνης ἔμφραξον, ἑτέρας δ᾽ ἄνοιξον εἰς τὴν ἀνδρωνῖτιν τὴν
+               σεαυτοῦ φερούσας, εἰς τὴν γυναικωνῖτιν, εἰς τὰς τῶν θεραπόντων διαίτας:
+               ἐνταῦθ᾽ ἔχει διατριβὰς οὐκ ἀχρήστους <milestone unit="tlnum" n="20" /> οὐδὲ
+               κακοήθεις ἀλλ᾽ ὠφελίμους καὶ σωτηρίους τὸ φιλοπευθὲς τοῦτο καὶ
+               φιλόπραγμον, ἑκάστου πρὸς ἑαυτὸν λέγοντος <quote rend="blockquote"> πῆ
+                  παρέβην; <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">παρέβην</foreign>] <foreign lang="greek">τραπόμην</foreign> μει ξοδδ. ξφ.
+                     π. 168 β</note> τί δ᾽ ἔρεξα; τί μοι δέον οὐκ ἐτελέσθη; </quote>
+               <milestone unit="tlnum" n="25" />
+            </p>
+         </div1>
+         <div1 type="section" n="2" org="uniform" sample="complete">
+            <p> νῦν δ᾽ ὥσπερ ἐν τῷ μύθῳ τὴν Λάμιαν <pb id="v.3.p.336" /> λέγουσιν οἴκοι
+               μὲν εὕδειν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">εὔδειν</foreign> χ: <foreign lang="greek">ᾁδειν</foreign></note> τυφλήν, ἐν ἀγγείῳ τινὶ </p></div1></body></text></TEI.2>

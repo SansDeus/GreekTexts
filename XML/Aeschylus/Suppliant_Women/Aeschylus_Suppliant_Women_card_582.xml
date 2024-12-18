@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="4" org="uniform" sample="complete"><sp><p><milestone ed="p" n="582" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="4" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />δι᾽ αἰῶνος μακροῦ πάνολβον:
+<lb />ἔνθεν πᾶσα βοᾷ χθών,
+<lb /><q direct="unspecified">φυσιζόου γένος τόδε
+<lb rend="displayNum" n="585" />Ζηνός ἐστιν ἀληθῶς:
+<lb />τίς γὰρ ἂν κατέπαυσεν Ἥ-
+<lb />ρας νόσους ἐπιβούλους;</q>
+<lb />Διὸς τόδ᾽ ἔργον καὶ τόδ᾽ ἂν γένος λέγων
+<lb />ἐξ Ἐπάφου κυρήσαις.
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="6" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-741a" n="741a" />
+                  <p>θορυβησάντων δὲ πάντων, Μενέφυλος ὁ Περιπατητικὸς <milestone unit="tlnum" n="20" /> προσαγορεύσας τὸν Ὕλαν <q direct="unspecified">ὁρᾷς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὁρᾷς</foreign> μ: <foreign lang="greek">ὁρᾶτε</foreign></note></q> εἶπεν
+                        <q direct="unspecified">ὡς οὐκ ἦν τὸ ἐρώτημα χλευασμὸς οὐδ᾽ ὕβρις: ἀλλ᾽ ἀφείς, ὦ
+                           μακάριε, τὸν δυστράπελον Αἴαντα καὶ δυσώνυμον, ὥς φησι Σοφοκλῆς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Σοφοκλῆς</foreign>] ιν αιαξ. ς. 897</note>,
+                        γενοῦ μετὰ τοῦ <pb id="v.4.p.372" /> Ποσειδῶνος, ὃν αὐτὸς εἴωθας
+                        ἱστορεῖν ἡμῖν ἡττώμενον πολλάκις, ἐνταῦθα μὲν ὑπ᾽ Ἀθηνᾶς ἐν
+                        Δελφοῖς δ᾽ ὑπὸ τοῦ Ἀπόλλωνος ἐν Ἄργει δ᾽ ὑπὸ τῆς Ἥρας ἐν
+                        Αἰγίνῃ δ᾽ ὑπὸ τοῦ Διὸς ἐν Νάξῳ δ᾽ ὑπὸ τοῦ <milestone unit="tlnum" n="5" />Διονύσου, πρᾶον δὲ πανταχοῦ καὶ ἀμήνιτον
+                        ὄντα </q></p></div3></div2></div1></body></text></TEI.2>

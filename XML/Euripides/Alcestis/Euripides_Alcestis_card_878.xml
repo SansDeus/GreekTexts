@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><milestone ed="p" n="878" unit="card" /></sp></div2>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Ἄδμητος</speaker>
+<l>ἔμνησας ὅ μου φρένας ἥλκωσεν:</l>
+<l>τί γὰρ ἀνδρὶ κακὸν μεῖζον ἁμαρτεῖν</l>
+<l n="880">πιστῆς ἀλόχου; μή ποτε γήμας</l>
+<l>ὤφελον οἰκεῖν μετὰ τῆσδε δόμους.</l>
+<l>ζηλῶ δ᾽ ἀγάμους ἀτέκνους τε βροτῶν:</l>
+<l>μία γὰρ ψυχή, τῆς ὑπεραλγεῖν</l>
+<l>μέτριον ἄχθος:</l>
+<l n="885">παίδων δὲ νόσους καὶ νυμφιδίους</l>
+<l>εὐνὰς θανάτοις κεραϊζομένας</l>
+<l>οὐ τλητὸν ὁρᾶν, ἐξὸν ἀτέκνους</l>
+<l>ἀγάμους τ᾽ εἶναι διὰ παντός.</l>
+</sp></div2></div1></body></text></TEI.2>

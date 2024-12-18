@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><milestone ed="p" n="543" unit="card" />
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />μάκαρες οἳ μετρίας θεοῦ
+<lb />μετά τε σωφροσύνας μετέ-
+<lb rend="displayNum" n="545" />σχον λέκτρων Ἀφροδίτας,
+<lb />γαλανείᾳ χρησάμενοι
+<lb />μανιάδων οἴστρων, ὅθι δὴ
+<lb />δίδυμ᾽ Ἔρως ὁ χρυσοκόμας
+<lb />τόξ᾽ ἐντείνεται χαρίτων,
+<lb rend="displayNum" n="550" />τὸ μὲν ἐπ᾽ εὐαίωνι πότμῳ,
+<lb />τὸ δ᾽ ἐπὶ συγχύσει βιοτᾶς.
+<lb />ἀπενέπω νιν ἁμετέρων,
+<lb />Κύπρι καλλίστα, θαλάμων.
+<lb />εἴη δέ μοι μετρία μὲν
+<lb rend="displayNum" n="555" />χάρις, πόθοι δ᾽ ὅσιοι,
+<lb />καὶ μετέχοιμι τᾶς Ἀφροδί-
+<lb />τας, πολλὰν δ᾽ ἀποθείμαν.
+</p></sp></div2></div1></body></text></TEI.2>

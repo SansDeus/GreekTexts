@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><div2 type="chapter" n="5" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-639c" n="639c" />
+                        <quote rend="blockquote">
+                           <l>δίδωμι δέ σοι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">σοι</foreign>] <foreign lang="greek">τοι</foreign> ηομερυς</note> τόδ᾽ ἄεθλον <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">Ψ</foreign> 620</note>
+                              <milestone unit="tlnum" n="10" />
+                           </l>
+                           <l>αὔτως <note resp="ed" place="unspecified" anchored="yes">
+                                 <foreign lang="greek">αὔτως</foreign>
+                              </note>: ιδεμ οὐ γὰρ πύξ γε μαχήσεαι οὐδὲ παλαίσεις, </l>
+                           <l>οὐδὲ τ᾽ ἀκοντιστὺν ἐνδύσεαι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐσδύσεαι</foreign>
+                                 ιδεμ</note> οὐδὲ πόδεσσι </l>
+                           <l>θεύσεαι:</l>
+                        </quote> τὸν δὲ πρεσβύτην ἐν τῷ ἀποκρίνεσθαι παραδολεσχοῦντα
+                        γεροντικῶς, ὅτι <milestone unit="tlnum" n="15" />
+                        <quote rend="blockquote">
+                           <l> πὺξ μὲν ἐνίκησα Κλυτομήδεα, Οἴνοπος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἠνοπος</foreign> ηομερυς</note> υἱόν, </l>
+                           <note resp="ed" place="unspecified" anchored="yes">ιβ. 634</note>
+                           <l>Ἀγκαῖον δὲ πάλῃ Πλευρώνιον, </l>
+                           <l>Ἴφικλον δὲ πόδεσσι παρέδραμον:</l>
+                        </quote> αὖθις δὲ τὸν μὲν Ὀδυσσέα τοὺς Φαίακας προκαλούμενον
+                           <milestone unit="tlnum" n="20" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

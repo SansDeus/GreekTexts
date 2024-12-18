@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="11" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-92f" n="92f" /> ἐξ αἰσχροῦ φυόμενον. ἀλλ᾽ ἐπεὶ τυφλοῦται
+                  τὸ φιλοῦν περὶ τὸ φιλούμενον, ὥς φησιν ὁ Πλάτων, <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Πλάτων</foreign>] λεγγ. π. 731 ε</note> καὶ μᾶλλον ἡμῖν οἱ
+                  ἐχθροὶ παρέχουσιν αἴσθησιν ἀσχημονοῦντες, δεῖ μήτε τὸ χαῖρον ἐφ᾽ οἷς
+                  ἁμαρτάνουσιν <milestone unit="tlnum" n="10" /> ἀργὸν εἶναι μήτε τὸ
+                  λυπούμενον ἐφ᾽ οἷς κατορθοῦσιν, ἀλλ᾽ ἐπιλογίζεσθαι δι᾽ ἀμφοτέρων ὅπως
+                  τὰ μὲν φυλαττόμενοι βελτίονες ὦμεν αὐτῶν, τὰ δὲ μιμούμενοι μὴ
+                  χείρονες.</p>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

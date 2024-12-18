@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1301" unit="card" />
+</p></sp>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />Ὀρεία ποτὲ δρομάδι κώ-
+<lb />λῳ μάτηρ θεῶν ἐσύθη ἀν᾽
+<lb />ὑλάεντα νάπη 
+<lb />ποτάμιόν τε χεῦμ᾽ ὑδάτων
+<lb rend="displayNum" n="1305" />βαρύβρομόν τε κῦμ᾽ ἅλιον
+<lb />πόθῳ τᾶς ἀποιχομένας
+<lb />ἀρρήτου κούρας.
+<lb />κρόταλα δὲ βρόμια διαπρύσιον
+<lb />ἱέντα κέλαδον ἀνεβόα,
+<lb rend="displayNum" n="1310" />θηρῶν ὅτε ζυγίους
+<lb />ζευξάσᾳ θεᾷ σατίνας
+<lb />τὰν ἁρπασθεῖσαν κυκλίων
+<lb />χορῶν ἔξω παρθενίων
+<lb />μετὰ κούραν, ἀελλόποδες,
+<lb rend="displayNum" n="1315" />ἃ μὲν τόξοις Ἄρτεμις, ἃ δ᾽
+<lb />ἔγχει Γοργῶπις πάνοπλος,
+<lb /><add>συνείποντο. Ζεὺς δ᾽ ἑδράνων</add>
+<lb />αὐγάζων ἐξ οὐρανίων
+<lb rend="displayNum" n="1318b" />ἄλλαν μοῖραν ἔκραινε.
+</p></sp></div2></div1></body></text></TEI.2>

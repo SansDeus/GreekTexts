@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Agon" org="uniform" sample="complete"><div2 type="pnigos" org="uniform" sample="complete"><sp><p><milestone ed="p" n="631" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />οὐπώποθ᾽ οὕτω καθαρῶς
+<lb />οὐδενὸς ἠκούσαμεν οὐδὲ
+<lb />ξυνετῶς λέγοντος.</p></sp>
+<sp><speaker>Φιλοκλέων</speaker><p>
+<lb />οὔκ, ἀλλ᾽ ἐρήμας ᾤεθ᾽ οὕτω ῥᾳδίως τρυγήσειν.
+<lb rend="displayNum" n="635" />καλῶς γὰρ ᾔδειν ὡς ἐγὼ ταύτῃ κράτιστός εἰμι.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ὡς δ᾽ ἐπὶ πάντ᾽ ἐλήλυθεν
+<lb />κοὐδὲν παρῆλθεν, ὥστ᾽ ἔγωγ᾽
+<lb />ηὐξανόμην ἀκούων,
+<lb />κἀν μακάρων δικάζειν
+<lb rend="displayNum" n="640" />αὐτὸς ἔδοξα νήσοις,
+<lb />ἡδόμενος λέγοντι.</p></sp>
+<sp><speaker>Φιλοκλέων</speaker><p>
+<lb />ὡς οὗτος ἤδη σκορδινᾶται κἄστιν οὐκ ἐν αὑτοῦ.</p></sp>
+<sp><speaker>Βδελυκλέων</speaker><p>
+<lb />ἦ μὴν ἐγώ σε τήμερον σκύτη βλέπειν ποιήσω.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />δεῖ δέ σε παντοίας πλέκειν
+<lb rend="displayNum" n="645" />εἰς ἀπόφυξιν παλάμας.
+<lb />τὴν γὰρ ἐμὴν ὀργὴν πεπᾶναι
+<lb />χαλεπὸν <add>νεανίᾳ</add>
+μὴ πρὸς ἐμοῦ λέγοντι.</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><milestone ed="p" n="846" unit="card" /></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>πῶς οὖν ἱερῶν ποταμῶν</l>
+<l>ἢ πόλις ἢ θεῶν</l>
+<l>πόμπιμός σε χώρα</l>
+<l>τὰν παιδολέτειραν ἕ-</l>
+<l n="850">ξει, τὰν οὐχ ὁσίαν, μετ᾽ ἀστῶν;</l>
+<l>σκέψαι τεκέων πλα-</l>
+<l>γάν, σκέψαι φόνον οἷον αἴρῃ.</l>
+<l>μή, πρὸς γονάτων σε πάν-</l>
+<l>τᾳ πάντως ἱκετεύομεν,</l>
+<l n="855">τέκνα φονεύσῃς.</l>
+</sp></div2></div1></body></text></TEI.2>

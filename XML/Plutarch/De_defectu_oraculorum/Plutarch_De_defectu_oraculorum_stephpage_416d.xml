@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="12" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-416d" n="416d" />
+               </q>
+            </p>
+         </div1>
+         <div1 type="section" n="13" org="uniform" sample="complete">
+            <p>
+               <q direct="unspecified">παράδειγμα δὲ τῷ λόγῳ Ξενοκράτης μὲν ὁ Πλάτωνος; ἑταῖρος ἐποιήσατο
+                  τὸ τῶν τριγώνων, <milestone unit="tlnum" n="10" /> θείῳ μὲν ἀπεικάσας: τὸ
+                  ἰσόπλευρον θνητῷ δὲ τὸ σκαληνὸν τὸ δ᾽ ἰσοσκελὲς δαιμονίῳ: τὸ μὲν
+                  γὰρ ἴσον πάντῃ τὸ δ᾽ ἄνισον πάντῃ , τὸ δὲ πῆ μὲν ἴσον πῆ δ᾽
+                  ἄνισον, ὥσπερ ἡ δαιμόνων φύσις ἔχουσα καὶ πάθος θνητοῦ καὶ θεοῦ
+                  δύναμιν. ἡ δὲ φύσις <milestone unit="tlnum" n="15" /> αἰσθητὰς εἰκόνας
+                  ἐξέθηκε καὶ ὁμοιότητας ὁρωμένας, <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὁρωμένας θεῶν μὲν</foreign> τυρνεβυς:
+                        <foreign lang="greek">ὁρωμένων θεῶν ὡς</foreign></note> θεῶν μὲν
+                  ἥλιον καὶ ἄστρα θνητῶν δὲ σέλα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">σέλα</foreign>] <foreign lang="greek">σελήνην</foreign> ρ</note> καὶ κομήτας </q></p></div1></body></text></TEI.2>

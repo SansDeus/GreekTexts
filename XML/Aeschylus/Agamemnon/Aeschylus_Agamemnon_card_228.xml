@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="5" org="uniform" sample="complete"><milestone ed="p" n="228" unit="card" />
+<sp n="*xoro/s">
+<speaker>Χορός</speaker><p>
+<lb />λιτὰς δὲ καὶ κληδόνας πατρῴους
+<lb />παρ᾽ οὐδὲν αἰῶ τε παρθένειον
+<lb rend="displayNum" n="230" />ἔθεντο φιλόμαχοι βραβῆς.
+<lb />φράσεν δ᾽ ἀόζοις πατὴρ μετ᾽ εὐχὰν
+<lb />δίκαν χιμαίρας ὕπερθε βωμοῦ
+<lb />πέπλοισι περιπετῆ παντὶ θυμῷ προνωπῆ
+<lb rend="displayNum" n="235" />λαβεῖν ἀέρδην, στόματός
+<lb />τε καλλιπρῴρου φυλακᾷ κατασχεῖν
+<lb />φθόγγον ἀραῖον οἴκοις,</p></sp></div2>
+<div2 type="strophe" n="6" org="uniform" sample="complete">
+</div2></div1></body></text></TEI.2>

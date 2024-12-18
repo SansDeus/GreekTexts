@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><milestone ed="p" n="464" unit="card" />
+</sp>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l n="465">οὐδέποτε δίδυμα λέκτρ᾽ ἐπαινέσω βροτῶν</l>
+<l>οὐδ᾽ ἀμφιμάτορας κόρους,</l>
+<l>ἔριν μελάθρων δυσμενεῖς τε λύπας.</l>
+<l>μίαν μοι στεργέτω πόσις γάμοις</l>
+<l n="470">ἀκοινώνητον ἀμὸς εὐνάν.</l>
+</sp></div2></div1></body></text></TEI.2>

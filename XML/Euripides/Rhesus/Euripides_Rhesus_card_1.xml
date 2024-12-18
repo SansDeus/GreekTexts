@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><milestone ed="p" n="1" unit="card" />
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />Βᾶθι πρὸς εὐνὰς τὰς Ἑκτορέους.
+<lb />τίς ὑπασπιστῶν ἄγρυπνος βασιλέως,
+<lb />ἢ τευχοφόρων;
+<lb />δέξαιτο νέων κληδόνα μύθων,
+<lb rend="displayNum" n="5" />οἳ τετράμοιρον νυκτὸς φυλακὴν
+<lb />πάσης στρατιᾶς προκάθηνται.
+<lb />ὄρθου κεφαλὴν πῆχυν ἐρείσας,
+<lb />λῦσον βλεφάρων γοργωπὸν ἕδραν,
+<lb />λεῖπε χαμεύνας φυλλοστρώτους,
+<lb rend="displayNum" n="10" />Ἕκτορ: καιρὸς γὰρ ἀκοῦσαι.
+</p></sp>
+<sp>
+<speaker>Ἕκτωρ</speaker><p>
+<lb />τίς ὅδ᾽; ἦ φίλιος φθόγγος: τίς ἀνήρ;
+<lb />τί τὸ σῆμα; θρόει:
+<lb />τίνες ἐκ νυκτῶν τὰς ἡμετέρας
+<lb />κοίτας πλάθουσ᾽; ἐνέπειν χρή.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="15" />φύλακες στρατιᾶς.
+</p></sp>
+<sp>
+<speaker>Ἕκτωρ</speaker><p>
+τί φέρῃ θορύβῳ;
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />θάρσει.
+</p></sp>
+<sp>
+<speaker>Ἕκτωρ</speaker><p>
+θαρσῶ.
+<lb />μῶν τις λόχος ἐκ νυκτῶν;
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<del status="unremarkable">οὐκ ἔστι.</del>
+</p></sp>
+<sp>
+<speaker>Ἕκτωρ</speaker><p>
+<lb />τί σὺ γὰρ
+<lb />φυλακὰς προλιπὼν κινεῖς στρατιάν,
+<lb />εἰ μή τιν᾽ ἔχων νυκτηγορίαν;
+<lb rend="displayNum" n="20" />οὐκ οἶσθα δορὸς πέλας Ἀργείου
+<lb />νυχίαν ἡμᾶς
+<lb />κοίταν πανόπλους κατέχοντας;
+</p></sp>
+</div2></div1></body></text></TEI.2>

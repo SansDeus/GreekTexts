@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><milestone ed="p" n="103" unit="card" />
+<div2 type="elegiacs" org="uniform" sample="complete">
+<sp>
+<speaker>Ἀνδρομάχη</speaker>
+<l>Ἰλίῳ αἰπεινᾷ Πάρις οὐ γάμον ἀλλά τιν᾽ ἄταν</l>
+<l><milestone ed="P" unit="para" />ἀγάγετ᾽ εὐναίαν εἰς θαλάμους Ἑλέναν.</l>
+<l n="105">ἇς ἕνεκ᾽, ὦ Τροία, δορὶ καὶ πυρὶ δηιάλωτον</l>
+<l><milestone ed="P" unit="para" />εἷλέ σ᾽ ὁ χιλιόναυς Ἑλλάδος ὀξὺς Ἄρης</l>
+<l>καὶ τὸν ἐμὸν μελέας πόσιν Ἕκτορα, τὸν περὶ τείχη</l>
+<l><milestone ed="P" unit="para" />εἵλκυσε διφρεύων παῖς ἁλίας Θέτιδος:</l>
+<l>αὐτὰ δ᾽ ἐκ θαλάμων ἀγόμαν ἐπὶ θῖνα θαλάσσας,</l>
+<l n="110"><milestone ed="P" unit="para" />δουλοσύναν στυγερὰν ἀμφιβαλοῦσα κάρᾳ.</l>
+<l>πολλὰ δὲ δάκρυά μοι κατέβα χροός, ἁνίκ᾽ ἔλειπον</l>
+<l><milestone ed="P" unit="para" />ἄστυ τε καὶ θαλάμους καὶ πόσιν ἐν κονίαις.</l>
+<l>ὤμοι ἐγὼ μελέα, τί μ᾽ ἐχρῆν ἔτι φέγγος ὁρᾶσθαι</l>
+<l><milestone ed="P" unit="para" />Ἑρμιόνας δούλαν; ἇς ὕπο τειρομένα</l>
+<l n="115">πρὸς τόδ᾽ ἄγαλμα θεᾶς ἱκέτις περὶ χεῖρε βαλοῦσα</l>
+<l><milestone ed="P" unit="para" />τάκομαι ὡς πετρίνα πιδακόεσσα λιβάς.</l>
+</sp></div2>
+</div1>
+</body></text></TEI.2>

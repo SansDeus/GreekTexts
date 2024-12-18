@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="5" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-353a" n="353a" /> λέγονται δὲ καὶ τὸν Ἆπιν ἐκ φρέατος
+               ἰδίου ποτίζειν, τοῦ δὲ Νείλου παντάπασιν ἀπείργειν, οὐ μιαρὸν ἡγούμενοι
+                  <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">῾ηγούμενοι</foreign> μαρκλανδυς: <foreign lang="greek">ἡγουμένους</foreign></note> τὸ ὕδωρ διὰ τὸν κροκόδειλον, ὡς ἔνιοι
+               νομίζουσιν οὐδὲν γὰρ οὕτω τίμιον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τίμιον</foreign> ρ: <foreign lang="greek">τιμὴ</foreign></note> Αἰγυπτίοις, ὡς <milestone unit="tlnum" n="15" /> ὁ
+               Νεῖλος ἀλλὰ πιαίνειν δοκεῖ καὶ μάλιστα πολυσαρκίαν ποιεῖν τὸ Νειλῷον
+               ὕδωρ πινόμενον. οὐ βούλονται δὲ τὸν Ἆπιν οὕτως ἔχειν οὐδ᾽ ἑαυτούς,
+               ἀλλ᾽ εὐσταλῆ καὶ κοῦφα ταῖς ψυχαῖς περικεῖσθαι τὰ σώματα καὶ μὴ πιέζειν
+               μηδὲ καταθλίβειν ἰσχύοντι τῷ <milestone unit="tlnum" n="20" /> θνητῷ καὶ
+               βαρύνοντι τὸ θεῖον. </p>
+         </div1>
+         <div1 type="section" n="6" org="uniform" sample="complete">
+            <p>οἶνον δ᾽ οἱ μὲν ἐν Ἡλίου πόλει θεραπεύοντες τὸν θεὸν οὐκ εἰσφέρουσι
+               τὸ παράπαν εἰς τὸ </p></div1></body></text></TEI.2>

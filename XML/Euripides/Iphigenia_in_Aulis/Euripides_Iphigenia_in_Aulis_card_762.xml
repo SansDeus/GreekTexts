@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="762" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />στάσονται δ᾽ ἐπὶ περγάμων
+<lb />Τροίας ἀμφί τε τείχη
+<lb />Τρῶες, ὅταν χάλκασπις Ἄρης
+<lb rend="displayNum" n="765" />πόντιος εὐπρῴροιο πλάτας
+<lb />εἰρεσίᾳ πελάζῃ
+<lb />Σιμουντίοις ὀχετοῖς,
+<lb />τὰν τῶν ἐν αἰθέρι δισσῶν
+<lb />Διοσκούρων Ἑλέναν
+<lb rend="displayNum" n="770" />ἐκ Πριάμου κομίσαι θέλων
+<lb />ἐς γᾶν Ἑλλάδα δοριπόνοις
+<lb />ἀσπίσι καὶ λόγχαις Ἀχαιῶν.
+</p></sp></div2></div1></body></text></TEI.2>

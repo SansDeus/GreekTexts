@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="6" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-654c" n="654c" /> γῆμαι κελευούσης, ὑπεξέφυγε πῶς καὶ
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὑπεξέφυγέ πως καὶ</foreign> ς: <foreign lang="greek">πῶς
+                              ὑπεξέφυγε</foreign>, θυαμ λιβραριι αδνοτατιονεμ εχ μαργινε ιν τεχτυμ
+                           ιλλαταμ πυτο</note> παρήγαγε <milestone unit="tlnum" n="10" /> λέγων
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">λέγων</foreign> ρ: <foreign lang="greek">λόγῳ</foreign></note>
+                        πρὸς ταύτην <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ταύτην</foreign> *: <foreign lang="greek">τὴν</foreign></note> ἐν ἀρχῇ μὲν οὔπω καιρὸς ὦ μῆτερ;</q>
+                     ὕστερον δ᾽ <q direct="unspecified">οὐκέτι καιρὸς ὦ μῆτερ</q> οὕτως ἄρα καὶ πρὸς
+                     ἀφροδίσια κράτιστον ἔσται <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἔσται</foreign>] μαλιμ <foreign lang="greek">ἐστιν</foreign></note> ἔχειν ἕκαστον, ὥστε
+                     κατακλινόμενον λέγειν <q direct="unspecified">οὔπω καιρός</q> ἀνιστάμενον δ᾽ <q direct="unspecified">οὐκέτι
+                        καιρός.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="4" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="15" />
+                  <p>
+                     <q direct="unspecified">Ἀθλητικὰ ταῦτ᾽</q> εἶπεν ὁ Σώκλαρος <q direct="unspecified">ὦ Ὀλύμπιχε, παντάπασιν
+                        ἔτι τῆς κοτταβίσεως ὄζοντα καὶ τῶν κρεοφαγιῶν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κρεοφαγιῶν</foreign> *: <foreign lang="greek">κρεωφαγιῶν</foreign></note> ἐκείνων, οὐκ ἐν δέοντι. νέοι τε γὰρ
+                        πάρεισι γεγαμηκότες, ὑφ᾽ ὧν δεῖ <q direct="unspecified">φιλοτήσια <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φιλοτήσια</foreign>] ξφ. ηομ. <foreign lang="greek">λ</foreign>
+                              246</note> ἔργα</q> τελεῖσθαι: καὶ ἡμᾶς οὔπω παντάπασιν ἡ
+                        Ἀφροδίτη <milestone unit="tlnum" n="20" /> πέφευγεν, ἀλλὰ καὶ
+                        προσευχόμεθα δήπουθεν </q></p></div3></div2></div1></body></text></TEI.2>

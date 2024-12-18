@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="5" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-782b" n="782b" /> ἀρετῆς καὶ ἀσχολίαν
+                  βαρυνόμενος καὶ ζηλοτυπῶν τὸν τρίβωνα καὶ τὴν πήραν, ὅτι τούτοις ἦν
+                  ἀνίκητος <milestone unit="tlnum" n="5" /> καὶ ἀνάλωτος Διογένης, οὐχ ὡς
+                  ἐκεῖνος ὅπλοις καὶ ἵπποις καὶ σαρίσσαις. ἐξῆν οὖν φιλοσοφοῦντα καὶ
+                  τῇ διαθέσει γίγνεσθαι Διογένην καὶ τῇ τύχῃ μένειν Ἀλέξανδρον, καὶ
+                  διὰ τοῦτο γενέσθαι Διογένην μᾶλλον, ὅτι ἦν Ἀλέξανδρος, ὡς πρὸς
+                  τύχην <milestone unit="tlnum" n="10" /> μεγάλην πολὺ πνεῦμα καὶ σάλον
+                  ἔχουσαν ἕρματος πολλοῦ καὶ κυβερνήτου μεγάλου δεόμενον. </p>
+            </div2>
+            <div2 type="section" n="6" org="uniform" sample="complete">
+               <p>ἐν μὲν γὰρ τοῖς ἀσθενέσι καὶ ταπεινοῖς καὶ ἰδιώταις τῷ ἀδυνάτῳ
+                  μιγνύμενον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μιγνόμενον</foreign>] <foreign lang="greek">δεδεμένον</foreign> μελιυς στοβ. 46, 102</note> τὸ ἀνόητον εἰς τὸ ἀναμάρτητον τελευτᾷ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τελευτᾷ</foreign>] ομ. μει. φορτ. ηοξ ομισσο ξορρ. <foreign lang="greek">τὸ ἀνόητον εἴργει τὸ ἀμαρτάνειν</foreign></note>, ὥσπερ ἐν <note resp="ed" place="unspecified" anchored="yes">ιβ. <foreign lang="greek">ἐν</foreign> στοβαευς</note>
+                  ὀνείρασι φαύλοις <milestone unit="tlnum" n="15" /> τις ἀνι <gap /> <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τις ἀνι</foreign> *? λαξ. 7-8 ιν αμβ. 11-12 ιν ϝ<hi rend="superscript">4</hi>. <foreign lang="greek">τοῖς πάθεσι</foreign> στοβαευς. φορτ. <foreign lang="greek">τοῖς ἀνιάτοις πάθεσι</foreign></note> τὴν ψυχὴν
+                  διαταράττει συνεξαναστῆναι </p></div2></div1></body></text></TEI.2>

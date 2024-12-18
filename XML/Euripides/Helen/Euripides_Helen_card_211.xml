@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="211" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />αἰαῖ αἰαῖ:
+<lb />ὦ δαίμονος πολυστόνου
+<lb />μοίρας τε σᾶς, γύναι.
+<lb />αἰὼν δυσαίων
+<lb />τις ἔλαχεν ἔλαχεν, ὅτε σ᾽ ἐτέκετο ματρόθεν
+<lb rend="displayNum" n="215" />χιονόχρως κύκνου πτερῷ
+<lb />Ζεὺς πρέπων δι᾽ αἰθέρος:
+<lb />τί γὰρ ἄπεστί σοι κακῶν;
+<lb />τίνα δὲ βίοτον οὐκ ἔτλας;
+<lb />μάτηρ μὲν οἴχεται,
+<lb rend="displayNum" n="220" />δίδυμά τε Διὸς οὐκ εὐ-
+<lb />δαιμονεῖ τέκεα φίλα,
+<lb />χθόνα δὲ πάτριον οὐχ ὁρᾷς,
+<lb />διὰ δὲ πόλεας ἔρχεται
+<lb />βάξις, ἅ σε βαρβάροισι,
+<lb rend="displayNum" n="225" />πότνια, παραδίδωσι λέχεσιν,
+<lb />ὁ δὲ σὸς ἐν ἁλὶ κύμασί τε λέ-
+<lb />λοιπε βίοτον, οὐδέ ποτ᾽ ἔτι
+<lb />πάτρια μέλαθρα καὶ τὰν
+<lb rend="displayNum" n="228b" />Χαλκίοικον ὀλβιεῖς.
+</p></sp></div2></div1></body></text></TEI.2>

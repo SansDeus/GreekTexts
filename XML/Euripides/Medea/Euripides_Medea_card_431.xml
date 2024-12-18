@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><milestone ed="p" n="431" unit="card" /></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>σὺ δ᾽ ἐκ μὲν οἴκων πατρίων ἔπλευσας</l>
+<l>μαινομένᾳ κραδίᾳ διδύμους ὁρίσασα Πόν-</l>
+<l n="435">του πέτρας: ἐπὶ δὲ ξένᾳ</l>
+<l>ναίεις χθονί, τᾶς ἀνάν-</l>
+<l>δρου κοίτας ὀλέσασα λέκτρον,</l>
+<l>τάλαινα, φυγὰς δὲ χώ-</l>
+<l n="438b">ρας ἄτιμος ἐλαύνῃ.</l>
+</sp></div2></div1></body></text></TEI.2>

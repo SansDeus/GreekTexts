@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><milestone ed="p" n="895" unit="card" /></div2>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Μοῦσα</speaker><p>
+<lb rend="displayNum" n="895" />ἰαλέμῳ αὐθιγενεῖ,
+<lb />τέκνον, σ᾽ ὀλοφύρομαι, ὦ
+<lb />ματρὸς ἄλγος, οἵαν
+<lb />ἔκελσας ὁδὸν ποτὶ Τροίαν:
+<lb />ἦ δυσδαίμονα καὶ μελέαν,
+<lb rend="displayNum" n="900" />ἀπομεμφομένας ἐμοῦ πορευθείς,
+<lb />ἀπὸ δ᾽ ἀντομένου πατρὸς βιαίως.
+<lb />ὤμοι ἐγὼ σέθεν, ὦ φιλία
+<lb />φιλία κεφαλά, τέκνον, ὤμοι.
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="ephymnion" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="425" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="3" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="425" />δρόμων τ᾽ ἄλλων ἀγάλματ᾽
+<lb />εὐτυχῆ διῆλθε: τόν τε
+<lb />πολυδάκρυον ἔπλευσ᾽ ἐς Ἅι-
+<lb />δαν, πόνων τελευτάν,
+<lb />ἵν᾽ ἐκπεραίνει τάλας
+<lb />βίοτον, οὐδ᾽ ἔβα πάλιν.
+<lb rend="displayNum" n="430" />στέγαι δ᾽ ἔρημοι φίλων,
+<lb />τὰν δ᾽ ἀνόστιμον τέκνων
+<lb />Χάρωνος ἐπιμένει πλάτα
+<lb />βίου κέλευθον ἄθεον ἄδι-
+<lb />κον: ἐς δὲ σὰς χέρας βλέπει
+<lb rend="displayNum" n="435" />δώματ᾽ οὐ παρόντος.
+</p></sp></div2></div1></body></text></TEI.2>

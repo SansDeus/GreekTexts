@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1111" unit="card" /></p></sp></div1>
+<div1 type="Choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ὦ Δῆμε καλήν γ᾽ ἔχεις
+<lb />ἀρχήν, ὅτε πάντες ἄνθρωποι
+<lb />δεδίασί σ᾽ ὥσπερ
+<lb />ἄνδρα τύραννον.
+<lb rend="displayNum" n="1115" />ἀλλ᾽ εὐπαράγωγος εἶ,
+<lb />θωπευόμενός τε χαίρεις
+<lb />κἀξαπατώμενος,
+<lb />πρὸς τόν τε λέγοντ᾽ ἀεὶ
+<lb />κέχηνας: ὁ νοῦς δέ σου
+<lb rend="displayNum" n="1120" />παρὼν ἀποδημεῖ.</p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Δῆμος</speaker><p>
+<lb />νοῦς οὐκ ἔνι ταῖς κόμαις
+<lb />ὑμῶν, ὅτε μ᾽ οὐ φρονεῖν
+<lb />νομίζετ᾽: ἐγὼ δ᾽ ἑκὼν
+<lb />ταῦτ᾽ ἠλιθιάζω.
+<lb rend="displayNum" n="1125" />αὐτός τε γὰρ ἥδομαι
+<lb />βρύλλων τὸ καθ᾽ ἡμέραν,
+<lb />κλέπτοντά τε βούλομαι
+<lb />τρέφειν ἕνα προστάτην:
+<lb />τοῦτον δ᾽, ὅταν ᾖ πλέως,
+<lb rend="displayNum" n="1130" />ἄρας ἐπάταξα.</p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />χοὔτω μὲν ἂν εὖ ποιοῖς,
+<lb />εἴ σοι πυκνότης ἔνεστ᾽
+<lb />ἐν τῷ τρόπῳ, ὡς λέγεις,
+<lb />τούτῳ πάνυ πολλή,
+<lb rend="displayNum" n="1135" />εἰ τούσδ᾽ ἐπίτηδες ὥσπερ
+<lb />δημοσίους τρέφεις
+<lb />ἐν τῇ πυκνί, κᾆθ᾽ ὅταν
+<lb />μή σοι τύχῃ ὄψον ὄν,
+<lb />τούτων ὃς ἂν ᾖ παχύς,
+<lb rend="displayNum" n="1140" />θύσας ἐπιδειπνεῖς.</p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Δῆμος</speaker><p>
+<lb />σκέψασθε δέ μ᾽, εἰ σοφῶς
+<lb />αὐτοὺς περιέρχομαι
+<lb />τοὺς οἰομένους φρονεῖν
+<lb />κἄμ᾽ ἐξαπατύλλειν.
+<lb rend="displayNum" n="1145" />τηρῶ γὰρ ἑκάστοτ᾽ αὐτοὺς
+<lb />οὐδὲ δοκῶν ὁρᾶν
+<lb />κλέπτοντας: ἔπειτ᾽ ἀναγκάζω
+<lb />πάλιν ἐξεμεῖν
+<lb />ἅττ᾽ ἂν κεκλόφωσί μου,
+<lb rend="displayNum" n="1150" />κημὸν καταμηλῶν.</p></sp></div2></div1></body></text></TEI.2>

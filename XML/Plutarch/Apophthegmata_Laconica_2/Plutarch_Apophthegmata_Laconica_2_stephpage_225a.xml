@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" n="51" org="uniform" sample="complete"><div2 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-225a" n="225a" /> πρός τινα εἰπόντα
+                     <q direct="unspecified">πλὴν τοῦ βασιλεύειν ἡμῶν οὐδὲν διαφέρεις,</q>
+                  <q direct="unspecified">ἀλλ᾽ οὐκ ἄν</q> ἔφη <q direct="unspecified">εἰ μὴ βελτίων ὑμῶν ἤμην, ἐβασίλευον.</q>
+               </p>
+            </div2>
+            <div2 type="section" n="2" org="uniform" sample="complete">
+               <p>τῆς δὲ γυναικὸς αὐτοῦ Γοργοῦς πυνθανομένης, ὅτε εἰς Θερμοπύλας
+                  ἐξῄει τῷ Πέρσῃ μαχούμενος, <milestone unit="tlnum" n="10" /> εἴ τι
+                  αὐτῇ ἐντέλλεται, ἔφη <q direct="unspecified">ἀγαθοῖς γαμεῖσθαι καὶ ἀγαθά τίκτειν.</q>
+               </p>
+            </div2>
+            <div2 type="section" n="3" org="uniform" sample="complete">
+               <p>λεγόντων δὲ τῶν ἐφόρων ὀλίγους ἄγειν αὐτὸν εἰς Θερμοπύλας, <q direct="unspecified">οὐκ
+                     ἄλλας</q>
+                  <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οὐκ
+                        ἄλλας</foreign>] <foreign lang="greek">οὐκ ὀλίγους</foreign> μ. ς. ϝ
+                        <hi rend="superscript">2</hi>. <foreign lang="greek">οὔκ, ἀλλ᾽
+                        ἅλις</foreign> αν <foreign lang="greek">οὔκ, ἀλλὰ
+                     πολλοὺς</foreign>̣</note> ἔφη <q direct="unspecified">πρὸς ἣν βαδίζομεν πρᾶξιν. <milestone unit="tlnum" n="15" />
+                  </q>
+               </p>
+            </div2>
+            <div2 type="section" n="4" org="uniform" sample="complete">
+               <p>πάλιν δὲ αὐτῶν εἰπόντων <q direct="unspecified">μή τι ἕτερόν διέγνωκας ποιεῖν ἢ τὰς
+                     παρόδους τῶν βαρβάρων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τῶν βαρβάρων</foreign>] δελεϝιτ μαδϝιγιυς</note>
+                     κωλύειν;᾽ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κωλύειν</foreign>] <foreign lang="greek">ἰέναι
+                           κωλύσων</foreign> ιδεμ</note></q>
+                  <q direct="unspecified">τῷ λόγῳ</q> ἔφη <q direct="unspecified">τῷ δ᾽ ἔργῳ ἀποθανούμενος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀποθανούμενος</foreign>] <foreign lang="greek">ἄπειμι
+                           ἀποθανούμενος</foreign>̣</note> ὑπὲρ τῶν Ἑλλήνων.</q>
+               </p>
+            </div2>
+            <div2 type="section" n="5" org="uniform" sample="complete">
+               </div2></div1></body></text></TEI.2>

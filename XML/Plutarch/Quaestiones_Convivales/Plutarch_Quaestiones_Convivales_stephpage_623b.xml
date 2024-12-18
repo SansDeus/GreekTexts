@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="5" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-623b" n="623b" /> ὀλισθηρὸν εἰς ᾠδὴν ἔχουσι: διὸ
+                        καὶ τοὺς ῥήτορας <milestone unit="tlnum" n="10" /> ἐν τοῖς ἐπιλόγοις
+                        καὶ τοὺς ὑποκριτὰς ἐν τοῖς ὀδυρμοῖς ἀτρέμα τῷ μελῳδεῖν
+                        προσάγοντας ὁρῶμεν καὶ παρεντείνοντας τὴν φωνήν. αἵ τε σφοδραὶ
+                        περιχάρειαι τῆς ψυχῆς τῶν μὲν ἐλαφροτέρων τῷ ἤθει καὶ τὸ σῶμα
+                        πᾶν ἐπαίρουσι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τὸ σῶμα συνεπαίρουσι</foreign> ρ</note> καὶ
+                        παρακαλοῦσιν εἰς <milestone unit="tlnum" n="15" /> ἔνρυθμον κίνησιν,
+                        ἐξαλλομένων καὶ κροτούντων εἴπερ ὀρχεῖσθαι μὴ δύνανται <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δύνανται</foreign> *: <foreign lang="greek">δύνωνται</foreign></note>: <quote rend="blockquote">
+                           <l>μανίαι τ᾽ ἀλαλαὶ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀλαλαὶ</foreign>] <foreign lang="greek">ἄλλαι</foreign> μει</note> τ᾽ ὀρινομένων </l>
+                           <note resp="ed" place="unspecified" anchored="yes">βεργκ. 1 π. 450</note>
+                           <l> ῥιψαύχενι <note resp="ed" place="unspecified" anchored="yes">τυρνεβυς <foreign lang="greek">ἐριαύχενι</foreign></note> σὺν
+                              κλόνῳ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">συγκλόνῳ</foreign> μει</note></l>
+                        </quote> κατὰ Πίνδαρον. οἱ δὲ χαρίεντες ἐν τῷ πάθει τούτῳ
+                           <milestone unit="tlnum" n="20" /> γενόμενοι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κινούμενοι</foreign> ω</note> τὴν φωνὴν μόνην εἰς τὸ ᾄδειν
+                        καὶ φθέγγεσθαι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φθέγγονται</foreign> ιδεμ</note> μέτρα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μέτρα</foreign>
+                           ηιρσξηιγιυς: <foreign lang="greek">μέγα</foreign></note> καὶ μέλη
+                        προΐενται. μάλιστα δ᾽ ὁ ἐνθουσιασμὸς </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1025" unit="card" />
+</p></sp>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="1025" />ἀλίμενόν τις ὡς εἰς ἄντλον πεσὼν
+<lb />†λέχριος ἐκπεσῇ φίλας καρδίας,
+<lb />ἀμέρσας βίοτον. τὸ γὰρ ὑπέγγυον
+<lb rend="displayNum" n="1029" />Δίκᾳ καὶ θεοῖσιν οὐ συμπίτνει:
+<lb rend="displayNum" n="1030" />ὀλέθριον ὀλέθριον κακόν.†
+<lb />ψεύσει σ᾽ ὁδοῦ τῆσδ᾽ ἐλπὶς ἥ σ᾽ ἐπήγαγεν
+<lb />θανάσιμον πρὸς Ἅιδαν, ἰὼ τάλας:
+<lb />ἀπολέμῳ δὲ χειρὶ λείψεις βίον.
+</p></sp></div2></div1></body></text></TEI.2>

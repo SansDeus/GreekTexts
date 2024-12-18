@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="219" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />σέ τοι, τὸν παρὰ ναὸν αὐ-
+<lb rend="displayNum" n="220" />δῶ: θέμις γυάλων ὑπερ-
+<lb />βῆναι, λευκῷ ποδί γ᾽ — ;
+</p></sp>
+<sp><speaker>Ἴων</speaker><p>
+<lb />οὐ θέμις, ὦ ξέναι.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />οὐδ᾽ ἂν
+<lb />ἐκ σέθεν ἂν πυθοίμεθ᾽ αὐδάν;</p></sp>
+<sp><speaker>Ἴων</speaker><p>
+<lb />τίνα τήνδε θέλεις;</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ἆρ᾽ ὄντως μέσον ὀμφαλὸν
+<lb />γᾶς Φοίβου κατέχει δόμος;</p></sp>
+<sp><speaker>Ἴων</speaker><p>
+<lb />στέμμασί γ᾽ ἐνδυτόν, ἀμφὶ δὲ Γοργόνες.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="225" />οὕτω καὶ φάτις αὐδᾷ.</p></sp>
+<sp><speaker>Ἴων</speaker><p>
+<lb />εἰ μὲν ἐθύσατε πέλανον πρὸ δόμων
+<lb />καί τι πυθέσθαι χρῄζετε Φοίβου,
+<lb />πάριτ᾽ ἐς θυμέλας: ἐπὶ δ᾽ ἀσφάκτοις
+<lb />μήλοισι δόμων μὴ πάριτ᾽ ἐς μυχόν.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="230" />ἔχω μαθοῦσα: θεοῦ δὲ νόμον
+<lb />οὐ παραβαίνομεν,
+<lb />ἃ δ᾽ ἐκτός, ὄμμα τέρψει.</p></sp>
+<sp><speaker>Ἴων</speaker><p>
+<lb />πάντα θεᾶσθ᾽, ὅ τι καὶ θέμις, ὄμμασι.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />μεθεῖσαν δεσπόται
+<lb />με θεοῦ γύαλα τάδ᾽ εἰσιδεῖν.</p></sp>
+<sp><speaker>Ἴων</speaker><p>
+<lb />δμῳαὶ δὲ τίνων κλῄζεσθε δόμων;</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="235" />Παλλάδι σύνοικα τρόφιμα μέλα-
+<lb rend="displayNum" n="235b" />θρα τῶν ἐμῶν τυράννων:
+<lb />παρούσας δ᾽ ἀμφὶ τᾶσδ᾽ ἐρωτᾷς.
+</p></sp></div2></div1></body></text></TEI.2>

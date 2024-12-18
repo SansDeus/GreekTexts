@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="798" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="3" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ὦ λέκτρων δύο συγγενεῖς
+<lb />εὐναί, θνατογενοῦς τε καὶ
+<lb rend="displayNum" n="800" />Διός, ὃς ἦλθεν ἐς εὐνὰν
+<lb />Νύμφας τᾶς Περσηίδος: ὡς
+<lb />πιστόν μοι τὸ παλαιὸν ἤ-
+<lb />δη λέχος, ὦ Ζεῦ, σὸν ἐπ᾽ οὐκ ἐλπίδι φάνθη,
+<lb rend="displayNum" n="805" />λαμπρὰν δ᾽ ἔδειξ᾽ ὁ χρόνος
+<lb />τὰν Ἡρακλέος ἀλκάν:
+<lb />γᾶς ὃς ἐξέβα θαλάμων
+<lb />Πλούτωνος δῶμα λιπὼν
+<lb />νέρτερον.
+<lb />κρείσσων μοι τύραννος ἔφυς
+<lb rend="displayNum" n="810" />ἢ δυσγένει᾽ ἀνάκτων,
+<lb />ἃ νῦν ἐσορᾶν ἔφανε
+<lb />ξιφηφόρων ἐς ἀγώνων
+<lb />ἅμιλλαν, εἰ τὸ δίκαιον
+<lb />θεοῖς ἔτ᾽ ἀρέσκει.
+</p></sp></div2></div1></body></text></TEI.2>

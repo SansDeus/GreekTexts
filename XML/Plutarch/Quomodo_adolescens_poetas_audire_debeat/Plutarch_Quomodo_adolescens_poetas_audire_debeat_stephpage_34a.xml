@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="12" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-34a" n="34a" />
+                  <quote rend="blockquote">
+                     <l>πρὸς θῆλυ νεύει μᾶλλον ἢ πὶ τἄρρενα; </l> <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 288</note>
+                     <l>ὅπου προσῇ τὸ κάλλος, ἀμφιδέξιος.</l>
+                  </quote> ἦν δὲ βέλτιον εἰπεῖν <quote rend="blockquote">
+                     <l>ὅπου προσῇ τὸ σῶφρον, ἀμφιδέξιος</l>
+                  </quote>
+                  <milestone unit="tlnum" n="15" /> ὡς ἀληθῶς καὶ ἰσόρροπος: δ᾽ δ᾽ ὑφ᾽
+                  ἡδονῆς καὶ ὥρας ὧδε κἀκεῖ μετοιακιζόμενος ἐπαρίστερος καὶ ἀβέβαιος.
+                     <milestone unit="tlnum" n="20" />
+                  <quote rend="blockquote">
+                     <l>φόβος τὰ θεῖα τοῖσι σώφροσιν βροτῶν.</l> <note resp="ed" place="unspecified" anchored="yes">ιδ. π. 695</note>
+                  </quote> καὶ μὴν οὐδαμῶς, ἀλλὰ <quote>
+                     <l>θάρσος τὰ θεῖα τοῖσι σώφροσιν βροτῶν.</l>
+                  </quote> φόβος δὲ τοῖς ἄφροσι καὶ ἀνοήτοις καὶ ἀχαρίστοις </p></div2></div1></body></text></TEI.2>

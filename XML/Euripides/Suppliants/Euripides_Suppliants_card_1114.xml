@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="lyric" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1114" unit="card" />
+</p></sp></div2>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ἰὼ <add>ἰώ:</add>
+<lb />τάδε δὴ παίδων †καὶ δὴ† φθιμένων
+<lb rend="displayNum" n="1115" />ὀστᾶ φέρεται. λάβετ᾽, ἀμφίπολοι,
+<lb />γραίας ἀμενοῦς — οὐ γὰρ ἔνεστιν
+<lb />ῥώμη παίδων ὑπὸ πένθους — 
+<lb />πολλοῦ τε χρόνου ζώσης μέτρα δὴ
+<lb />καταλειβομένης τ᾽ ἄλγεσι πολλοῖς.
+<lb rend="displayNum" n="1120" />τί γὰρ ἂν μεῖζον τοῦδ᾽ ἔτι θνητοῖς
+<lb />πάθος ἐξεύροις
+<lb />ἢ τέκνα θανόντ᾽ ἐσιδέσθαι;
+</p></sp></div2></div1></body></text></TEI.2>

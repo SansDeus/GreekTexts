@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parodos" org="uniform" sample="complete"><div2 type="prelude" org="uniform" sample="complete"><sp><p><milestone ed="p" n="273" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />τί ποτ᾽ οὐ πρὸ θυρῶν φαίνετ᾽ ἄρ᾽ ἡμῖν ὁ γέρων οὐδ᾽ ὑπακούει;
+<lb />μῶν ἀπολώλεκε τὰς
+<lb rend="displayNum" n="275" />ἐμβάδας, ἢ προσέκοψ᾽ ἐν
+<lb rend="displayNum" n="275b" />τῷ σκότῳ τὸν δάκτυλόν που,
+<lb />εἶτ᾽ ἐφλέγμηνεν αὐτοῦ
+<lb rend="displayNum" n="276b" />τὸ σφυρὸν γέροντος ὄντος;
+<lb />καὶ τάχ᾽ ἂν βουβωνιῴη.
+<lb rend="displayNum" n="277b" />ἦ μὴν πολὺ δριμύτατός γ᾽ ἦν τῶν παρ᾽ ἡμῖν,
+<lb />καὶ μόνος οὐκ ἂν ἐπείθετ᾽,
+<lb />ἀλλ᾽ ὁπότ᾽ ἀντιβολοίη
+<lb rend="displayNum" n="279b" />τις, κάτω κύπτων ἂν οὕτω
+<lb rend="displayNum" n="280" /><q direct="unspecified">λίθον ἕψεις,</q> ἔλεγεν.</p></sp></div2></div1></body></text></TEI.2>

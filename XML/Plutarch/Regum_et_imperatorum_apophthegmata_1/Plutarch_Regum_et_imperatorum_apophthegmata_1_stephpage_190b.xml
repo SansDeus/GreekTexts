@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><milestone unit="stephpage" id="stephpage-190b" n="190b" />
+         <div1 type="chapter" n="58" org="uniform" sample="complete">
+            <head>Βρασίδου<note resp="ed" place="unspecified" anchored="yes">προβαβλψ τηε γενιτιϝε οφ αλλ τηεσε δοριξ ναμες σηουλδ ενδ ιν <foreign lang="greek">α</foreign>, βυτ τηε μσς. δο νοτ σηοω ανψ ξονσιστενξψ ορ υνιφορμιτψ ωηιξη μιγητ σερϝε ας α γυιδε.</note></head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <p>Βρασίδας ἐν ἰσχάσι συλλαβὼν μῦν καὶ δηχθεὶς ἀφῆκεν εἶτα πρὸς τοὺς παρόντας, <q direct="unspecified">οὐδὲν
+οὕτως,</q> ἔφη, <q direct="unspecified">μικρόν ἐστιν, ὃ μὴ σῴζεται τολμῶν ἀμύνεσθαι τοὺς ἐπιχειροῦντας.</q> 
+               </p>
+            </div2>
+            <div2 type="section" n="2" org="uniform" sample="complete">
+               <p>ἐν δὲ μάχῃ διὰ τῆς ἀσπίδος ἀκοντισθεὶς καὶ
+τὸ δόρυ τοῦ τραύματος ἐξελκύσας<note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐξελκύσας</foreign> <hi rend="italics">μοραλια</hi> 219 ξ: <foreign lang="greek">ἑλκύσας</foreign>.</note> αὐτῷ τούτῳ τὸν πολέμιον ἀπέκτεινεν ἐπερωτηθεὶς δὲ πῶς ἐτρώθη,
+<q direct="unspecified">προδούσης με τῆς ἀσπίδος,</q> εἶπεν.
+</p>
+            </div2>
+            <div2 type="section" n="3" org="uniform" sample="complete">
+               <p>ἐπειδὴ συνέβη πεσεῖν αὐτὸν ἐλευθεροῦντα
+<pb id="v.3.p.124" /> τοὺς ἐπὶ Θρᾴκης Ἕλληνας, οἱ δὲ πεμφθέντες εἰς Λακεδαίμονα πρέσβεις τῇ μητρὶ προσῆλθον αὐτοῦ,
+</p></div2></div1></body></text></TEI.2>

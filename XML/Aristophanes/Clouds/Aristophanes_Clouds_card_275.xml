@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parodos" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="275" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="275" />ἀέναοι Νεφέλαι
+<lb />ἀρθῶμεν φανεραὶ δροσερὰν φύσιν εὐάγητον,
+<lb />πατρὸς ἀπ᾽ Ὠκεανοῦ βαρυαχέος
+<lb />ὑψηλῶν ὀρέων κορυφὰς ἐπὶ
+<lb rend="displayNum" n="280" />δενδροκόμους, ἵνα
+<lb />τηλεφανεῖς σκοπιὰς ἀφορώμεθα,
+<lb />καρπούς τ᾽ ἀρδομέναν ἱερὰν χθόνα,
+<lb />καὶ ποταμῶν ζαθέων κελαδήματα,
+<lb />καὶ πόντον κελάδοντα βαρύβρομον:
+<lb rend="displayNum" n="285" />ὄμμα γὰρ αἰθέρος ἀκάματον σελαγεῖται
+<lb />μαρμαρέαις ἐν αὐγαῖς.
+<lb />ἀλλ᾽ ἀποσεισάμεναι νέφος ὄμβριον
+<lb />ἀθανάτας ἰδέας ἐπιδώμεθα
+<lb rend="displayNum" n="290" />τηλεσκόπῳ ὄμματι γαῖαν.</p></sp></div2></div1></body></text></TEI.2>

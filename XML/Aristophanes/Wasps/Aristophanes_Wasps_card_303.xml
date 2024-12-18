@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parodos" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="303" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Παίς</speaker><p>
+<lb />ἄγε νυν ὦ πάτερ ἢν μὴ
+<lb />τὸ δικαστήριον ἅρχων
+<lb rend="displayNum" n="305" />καθίσῃ νῦν, πόθεν ὠνησόμεθ᾽
+<lb />ἄριστον; ἔχεις ἐλπίδα
+<lb />χρηστήν τινα νῷν ἢ
+<lb />πόρον Ἕλλας ἱρὸν <add>εὑρεῖν</add>;</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ἀπαπαῖ φεῦ, <add>ἀπαπαῖ φεῦ,</add>
+<lb rend="displayNum" n="310" />μὰ Δί᾽ οὐκ ἔγωγε νῷν οἶδ᾽
+<lb />ὁπόθεν γε δεῖπνον ἔσται.</p></sp>
+<sp><speaker>Παίς</speaker><p>
+<lb />τί με δῆτ᾽ ὦ μελέα μῆτερ ἔτικτες;</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ἵν᾽ ἐμοὶ πράγματα βόσκειν παρέχῃς.</p></sp>
+<sp><speaker>Παίς</speaker><p>
+<lb />ἀνόνητον ἄρ᾽ ὦ θυλάκιόν σ᾽ εἶχον ἄγαλμα.
+<lb rend="displayNum" n="315" />ἒ ἔ. πάρα νῷν στενάζειν.</p></sp></div2></div1></body></text></TEI.2>

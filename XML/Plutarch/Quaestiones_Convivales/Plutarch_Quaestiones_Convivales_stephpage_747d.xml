@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="15" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-747d" n="747d" /> τοῖς κυρίοις
+                     ὀνόμασι δεικτικῶς χρῶνται, τὸν Ἀχιλλέα καὶ τὸν Ὀδυσσέα καὶ τὴν
+                     γῆν καὶ τὸν οὐρανὸν ὀνομάζοντες, ὡς ὑπὸ τῶν πολλῶν λέγονται: πρὸς
+                     δὲ τὰς ἐμφάσεις καὶ τὰς μιμήσεις καὶ ὀνοματοποιίαις χρῶνται καὶ
+                     μεταφοραῖς, <q direct="unspecified">κελαρύζειν</q> καὶ <q direct="unspecified">καχλάζειν </q> <note resp="ed" place="unspecified" anchored="yes">ξφ. ηομ. <foreign lang="greek">Λ</foreign> 813. <foreign lang="greek">Φ</foreign> 261.</note>
+                     <milestone unit="tlnum" n="15" />τὰ κλώμενα τῶν ῥευμάτων λέγοντες, καὶ
+                     τὰ βέλη φέρεσθαι <q direct="unspecified">λιλαιόμενα χροὸς ἆσαι,</q> <note resp="ed" place="unspecified" anchored="yes">ιδ. <foreign lang="greek">ε</foreign> 323. <foreign lang="greek">Λ</foreign> 574. ο 317. <foreign lang="greek">Λ</foreign> 72</note> καὶ τὴν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καὶ τὴν</foreign> μ: <foreign lang="greek">τὴν</foreign></note> ἰσόρροπον
+                     μάχην <q direct="unspecified">ἴσας ὑσμίνη <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὑσμίνη</foreign>] δελ. γραφιυς</note> κεφαλὰς, ἔχειν:</q> πολλὰς δὲ καὶ συνθέσεις
+                     τῶν ὀνομάτων κατὰ μέλη μιμητικῶς σχηματίζουσιν, ὡς Εὐριπίδης
+                        <milestone unit="tlnum" n="20" />
+                     <quote rend="blockquote">ὁ πετόμενος <note resp="ed" place="unspecified" anchored="yes">ιβ. εμ. ναυξκιυς: <foreign lang="greek">πετάμενος</foreign></note> ἱερὸν ἀνὰ Διὸς αἰθέρα
+                        γοργοφόνος,</quote> <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 678</note> καὶ περὶ τοῦ ἵππου Πίνδαρος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Πίνδαρος</foreign>] ολψμπ. 1, 20</note> <quote rend="blockquote">
+                           <l> ὅτε παρ᾽ Ἀλφεῷ <note resp="ed" place="unspecified" anchored="yes">ιδεμ: <foreign lang="greek">ἀλφειῷ</foreign></note> σύτο δέμας </l>
+                           <l>ἀκέντητον ἐν δρόμοισι παρέχων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">παρεχόμενον</foreign> μει</note> </l>
+                     </quote>
+                     </p></div3></div2></div1></body></text></TEI.2>

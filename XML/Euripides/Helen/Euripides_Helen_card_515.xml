@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="dialogue" org="uniform" sample="complete"><milestone ed="p" n="515" unit="card" /></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="515" />ἤκουσα τᾶς θεσπιῳδοῦ κόρας,
+<lb />ἃ χρῄζουσ᾽ ἐφάνη τυράννοις
+<lb />δόμοις, ὡς Μενέλαος οὔ
+<lb />πω μελαμφαὲς οἴχεται
+<lb />δι᾽ ἔρεβος χθονὶ κρυφθείς, 
+<lb rend="displayNum" n="520" />ἀλλ᾽ ἔτι κατ᾽ οἶδμ᾽ ἅλιον
+<lb />τρυχόμενος οὔπω λιμένων
+<lb />ψαύσειεν πατρίας γᾶς,
+<lb />ἀλατείᾳ βιότου
+<lb />ταλαίφρων, ἄφιλος φίλων,
+<lb rend="displayNum" n="525" />παντοδαπᾶς † ἐπὶ γᾶς † πόδα
+<lb />χριμπτόμενος εἰναλίῳ
+<lb />κώπᾳ Τρῳάδος ἐκ γᾶς.
+</p></sp></div2></div1></body></text></TEI.2>

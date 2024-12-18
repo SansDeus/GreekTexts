@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="558" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />διάφοροι δὲ φύσεις βροτῶν,
+<lb />διάφοροι δὲ τρόποι: τὸ δ᾽ ὀρ-
+<lb rend="displayNum" n="560" />θῶς ἐσθλὸν σαφὲς αἰεί:
+<lb />τροφαί θ᾽ αἱ παιδευόμεναι
+<lb />μέγα φέρουσ᾽ ἐς τὰν ἀρετάν:
+<lb />τό τε γὰρ αἰδεῖσθαι σοφία,
+<lb />τάν τ᾽ ἐξαλλάσσουσαν ἔχει
+<lb rend="displayNum" n="565" />χάριν ὑπὸ γνώμας ἐσορᾶν
+<lb />τὸ δέον, ἔνθα δόξα φέρει
+<lb />κλέος ἀγήρατον βιοτᾷ.
+<lb />μέγα τι θηρεύειν ἀρετάν,
+<lb />γυναιξὶ μὲν κατὰ Κύπριν
+<lb rend="displayNum" n="570" />κρυπτάν, ἐν ἀνδράσι δ᾽ αὖ
+<lb />κόσμος ἐνὼν ὁ μυριοπλη-
+<lb />θὴς μείζω πόλιν αὔξει.
+</p></sp></div2></div1></body></text></TEI.2>

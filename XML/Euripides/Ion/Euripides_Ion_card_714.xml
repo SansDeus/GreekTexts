@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="714" unit="card" /></p></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἰὼ δειράδες Παρνασοῦ πέτρας
+<lb rend="displayNum" n="715" />ἔχουσαι σκόπελον οὐράνιόν θ᾽ ἕδραν,
+<lb />ἵνα Βάκχιος ἀμφιπύρους ἀνέχων πεύκας
+<lb />λαιψηρὰ πηδᾷ νυκτιπόλοις ἅμα σὺν Βάκχαις,
+<lb rend="displayNum" n="719" />μή ποτ᾽ εἰς ἐμὰν πόλιν ἵκοιθ᾽ ὁ παῖς,
+<lb rend="displayNum" n="720" />νέαν δ᾽ ἁμέραν ἀπολιπὼν θάνοι.
+<lb />στενομένα γὰρ ἂν πόλις ἔχοι σκῆψιν
+<lb />ξενικὸν ἐσβολὰν  <gap /> 
+<lb /><gap desc="*" />
+<lb />ἁλίσας ὁ πάρος ἀρχαγὸς ὢν
+<lb />Ἐρεχθεὺς ἄναξ.
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="10" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-659a" n="659a" />λοχείαν καὶ
+                        Εἰλείθυιαν, οὐκ οὖσαν ἑτέραν ἢ τὴν σελήνην, ὠνομάσθαι.
+                        Τιμόθεος δ᾽ ἄντικρὺς <quote rend="blockquote">
+                           <l> διὰ κυάνεον πόλον ἄστρων, </l>
+                           <note resp="ed" place="unspecified" anchored="yes">βεργκ. 3 π. 620</note>
+                           <l>διὰ τ᾽ ὠκυτόκοιο σελάνας. </l>
+                        </quote>
+                        <milestone unit="tlnum" n="15" />γίγνεται δὲ καὶ περὶ τὰ ἄψυχα τῶν
+                        σωμάτων ἐπίδηλος ἡ τῆς σελήνης δύναμις: τῶν τε γὰρ ξύλων τὰ
+                        τεμνόμενα ταῖς πανσελήνοις ἀποβάλλουσιν οἱ τέκτονες ὡς ἁπαλὰ καὶ
+                        μυδῶντα ταχέως δι᾽ ὑγρότητα: τοὺς δὲ πυροὺς οἱ γεωργοῦντες
+                        σπεύδουσι <milestone unit="tlnum" n="20" /> φθίνοντος τοῦ μηνὸς ἐκ τῆς
+                        ἅλω συναίρειν, ἵνα παγέντες <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">παγέντες</foreign> μ: <foreign lang="greek">πάντες</foreign></note> τῇ ξηρότητι μᾶλλον πρὸς
+                        τὸν χρόνον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τὸν χρόνον</foreign> ω: 2-3 ϝδ 6 ε <foreign lang="greek">νον</foreign></note> ἀντέχωσιν: οἱ δ᾽ ἀκμῇ τῆς
+                        σελήνης διακομιζόμενοι κόπτονται μάλιστα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τάχιστα</foreign> ω</note>: διὰ τὴν ὑγρότητα μαλακώτεροι
+                           </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="8" org="uniform" sample="complete"><p><quote rend="blockquote"><l><milestone unit="stephpage" id="stephpage-25f" n="25f" />
+                     </l>
+                     <l>μήτε τις Ἀργείων, νῶιν δ᾽ ἐκδῦμεν ὄλεθρον, </l>
+                     <l>ὄφρ᾽ οἶοι Τροίης ἱερὰ κρήδεμνα λύοιμεν</l>
+                  </quote> καὶ <pb id="v.1.p.62" />
+                  <quote rend="blockquote">
+                     <l>οἰκτροτάτην δ᾽ ἤκουσα ὄπα Πριάμοιο θυγατρὸς <note resp="ed" place="unspecified" anchored="yes">ηομερ. <foreign lang="greek">Λ</foreign> 421</note></l>
+                     <l>Κασσάνδρης, τὴν κτεῖνε Κλυταιμνήστρη δολόμητις </l>
+                     <l>ἀμφ᾽ ἐμοὶ</l>
+                  </quote> καὶ <milestone unit="tlnum" n="5" />
+                  <quote rend="blockquote">
+                     <l> παλλακίδι προμιγῆναι, ἵν᾽ ἐχθήρειε γέροντα. <note resp="ed" place="unspecified" anchored="yes">ιδ. ι 452</note> </l>
+                     <l>τῇ πιθόμην καὶ ἔρεξα</l>
+                  </quote> καί <quote rend="blockquote">
+                     <l>Ζεῦ πάτερ, οὔ τις σεῖο θεῶν ὀλοώτερος ἄλλος</l> <note resp="ed" place="unspecified" anchored="yes">ιδ. <foreign lang="greek">Γ</foreign> 365</note>
+                  </quote>
+                  </p></div2></div1></body></text></TEI.2>

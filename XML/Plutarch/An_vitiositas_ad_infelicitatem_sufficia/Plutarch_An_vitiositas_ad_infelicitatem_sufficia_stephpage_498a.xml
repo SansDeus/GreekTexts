@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><milestone unit="stephpage" id="stephpage-498a" n="498a" />
+         <div1 type="section" n="1" org="uniform" sample="complete">
+            <p>
+               <gap /> ὑπομένει <note resp="ed" place="unspecified" anchored="yes">λαξ. αντε <foreign lang="greek">ὑπομένει</foreign> σιγναϝιτ αμψοτυς</note> <quote rend="blockquote"> πεπραμένον τὸ σῶμα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πεπραμένον τὸ σῶμα</foreign> ναυξκ. π. 606: <foreign lang="greek">τὸ σῶμα πεπραμένον</foreign></note> τῆς φερνῆς ἔχων
+               </quote> ὡς Εὐριπίδης φησίν, βραχέα δεδήλωται καὶ ἀβέβαια τῷ δ᾽ οὐ
+               πολλῆς διὰ τέφρας, ἀλλὰ πυρκαϊᾶς τινος <milestone unit="tlnum" n="5" />
+               </p></div1></body></text></TEI.2>

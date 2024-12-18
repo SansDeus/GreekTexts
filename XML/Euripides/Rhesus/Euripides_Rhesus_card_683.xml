@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="lyric" org="uniform" sample="complete"><milestone ed="p" n="683" unit="card" /></div2>
+<div2 type="trochees" org="uniform" sample="complete">
+<sp>
+<speaker>Ὀδυσσεύς</speaker><p>
+<lb />οὔ σε χρὴ εἰδέναι: θανῇ γὰρ σήμερον δράσας κακῶς.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />οὐκ ἐρεῖς ξύνθημα, λόγχην πρὶν διὰ στέρνων μολεῖν;
+</p></sp>
+<sp>
+<speaker>Ὀδυσσεύς</speaker><p>
+<lb rend="displayNum" n="685" />ἵστω. θάρσει.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+πέλας ἴθι. παῖε πᾶς.
+</p></sp>
+<sp>
+<speaker>Ὀδυσσεύς</speaker><p>
+<lb />ἦ σὺ δὴ Ῥῆσον κατέκτας;
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+ἀλλὰ τὸν κτενοῦντα σὲ  <gap /> 
+</p></sp>
+<sp>
+<speaker>Ὀδυσσεύς</speaker><p>
+<lb />ἴσχε πᾶς τις.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+οὐ μὲν οὖν.
+</p></sp>
+<sp>
+<speaker>Ὀδυσσεύς</speaker><p>
+ἆ: φίλιον ἄνδρα μὴ θένῃς.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />καὶ τί δὴ τὸ σῆμα;
+</p></sp>
+<sp>
+<speaker>Ὀδυσσεύς</speaker><p>
+Φοῖβος.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+ἔμαθον: ἴσχε πᾶς δόρυ.
+<lb />οἶσθ᾽ ὅποι βεβᾶσιν ἅνδρες;
+</p></sp>
+<sp>
+<speaker>Ὀδυσσεύς</speaker><p>
+τῇδέ πῃ κατείδομεν.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="690" />ἕρπω πᾶς κατ᾽ ἴχνος αὐτῶν.
+ἢ βοὴν ἐγερτέον;
+<lb />ἀλλὰ συμμάχους ταράσσειν δεινὸν ἐκ νυκτῶν φόβῳ.
+</p></sp></div2>
+</div1>
+</body></text></TEI.2>

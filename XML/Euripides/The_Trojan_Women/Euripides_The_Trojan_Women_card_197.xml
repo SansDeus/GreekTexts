@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="197" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />αἰαῖ αἰαῖ, ποίοις δ᾽ οἴκτοις
+<lb />τὰν σὰν λύμαν ἐξαιάζεις;
+<lb />οὐκ Ἰδαίοις ἱστοῖς κερκίδα
+<lb rend="displayNum" n="200" />δινεύουσ᾽ ἐξαλλάξω.
+<lb />νέατον τεκέων σώματα λεύσσω,
+<lb />νέατον  <gap /> 
+<lb />μόχθους ἕξω κρείσσους,
+<lb />ἢ λέκτροις πλαθεῖσ᾽ Ἑλλάνων  <gap /> 
+<lb />（ἔρροι νὺξ αὕτα καὶ δαίμων.）
+<lb rend="displayNum" n="205" />ἢ Πειρήνας ὑδρευσομένα
+<lb />πρόσπολος οἰκτρὰ σεμνῶν ὑδάτων.
+<lb />τὰν κλεινὰν εἴθ᾽ ἔλθοιμεν
+<lb />Θησέως εὐδαίμονα χώραν.
+<lb rend="displayNum" n="210" />μὴ γὰρ δὴ δίναν γ᾽ Εὐρώτα,
+<lb />τὰν ἐχθίσταν θεράπναν Ἑλένας,
+<lb />ἔνθ᾽ ἀντάσω Μενέλᾳ δούλα,
+<lb />τῷ τᾶς Τροίας πορθητᾷ.
+</p></sp></div2></div1></body></text></TEI.2>

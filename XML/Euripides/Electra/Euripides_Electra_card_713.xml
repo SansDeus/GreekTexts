@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="713" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />θυμέλαι δ᾽ ἐπίτναντο χρυ-
+<lb />σήλατοι,
+<lb />σελαγεῖτο δ᾽ ἀν᾽ ἄστυ πῦρ
+<lb rend="displayNum" n="715" />ἐπιβώμιον Ἀργείων:
+<lb />λωτὸς δὲ φθόγγον κελάδει
+<lb />κάλλιστον, Μουσᾶν θεράπων:
+<lb />μολπαὶ δ᾽ ηὔξοντ᾽ ἐραταί,
+<lb />χρυσέας ἀρνὸς ἐπίλογοι,
+<lb rend="displayNum" n="720" />Θυέστου: κρυφίαις γὰρ εὐ-
+<lb />ναῖς πείσας ἄλοχον φίλαν
+<lb />Ἀτρέως, τέρας ἐκκομί-
+<lb />ζει πρὸς δώματα: νεόμενος δ᾽
+<lb />εἰς ἀγόρους ἀυτεῖ
+<lb />τὰν κερόεσσαν ἔχειν χρυσεόμαλ-
+<lb rend="displayNum" n="725" />λον κατὰ δῶμα ποίμναν.
+</p></sp></div2></div1></body></text></TEI.2>

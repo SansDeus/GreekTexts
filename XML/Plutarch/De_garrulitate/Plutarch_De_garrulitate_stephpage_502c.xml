@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-502c" n="502c" /> οὐδενὸς ἁκούουσιν, ἀεὶ γὰρ λαλοῦσι. καὶ τοῦτ᾽ <milestone unit="tlnum" n="5" /> ἔχει πρῶτον κακὸν ἡ ἀσιγησία, τὴν
+                         ἀνηκοΐαν. κωφότης γὰρ αὐθαίρετός ἐστιν, ἀνθρώπων οἶμαι
+                         μεμφομένων τὴν φύσιν, ὅτι μίαν μὲν γλῶτταν δύο δ᾽ ὦτ᾽ ἔχουσιν.
+                         εἴπερ οὖν ὁ Εὐριπίδης <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Εὐριπίδης</foreign>] ναυξκ. π.
+                              649</note> καλῶς εἶπε πρὸς τὸν ἀσύνετον ἀκροατὴν <milestone unit="tlnum" n="10" />
+                         <quote rend="blockquote">
+                              <l> οὐκ ἂν δυναίμην μὴ στέγοντα πιμπλάναι, </l>
+                              <l> σοφοὺς ἐπαντλῶν ἀνδρὶ μὴ σοφῷ λόγους </l>
+                         </quote> δικαιότερον ἄν τις εἴποι πρὸς τὸν ἀδόλεσχον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀδόλεσχον</foreign> στεγμαννυς: <foreign lang="greek">ἀδόλεσχον μᾶλλον δὲ περὶ τοῦ ἀδολέσχου</foreign></note>
+                         <quote rend="blockquote">
+                              <l> οὐκ ἂν δυναίμην μὴ δεχόμενον πιμπλάναι, </l>
+                              <l> σοφοὺς ἐπαντλῶν ἀνδρὶ μὴ σοφῷ λόγους: </l>
+                         </quote>
+                         <milestone unit="tlnum" n="15" /> μᾶλλον δὲ περιαντλῶν λόγους ἀνθρώπῳ
+                         λαλοῦντι </p></div1></body></text></TEI.2>

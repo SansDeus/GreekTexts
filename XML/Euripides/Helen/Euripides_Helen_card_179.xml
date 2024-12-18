@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="179" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />κυανοειδὲς ἀμφ᾽ ὕδωρ
+<lb rend="displayNum" n="180" />ἔτυχον ἕλικά τ᾽ ἀνὰ χλόαν
+<lb />φοίνικας ἁλίου πέπλους
+<lb />αὐγαῖσιν ἐν χρυσέαις 
+<lb />ἀμφὶ δόνακος ἔρνεσιν
+<lb />θάλπουσα: <add>ποτνίας δ᾽ ἐμᾶς,</add>
+<lb />ἔνθεν οἰκτρὸν ἀνεβόασεν,
+<lb rend="displayNum" n="185" />ὅμαδον ἔκλυον, ἄλυρον ἔλεγον,
+<lb />ὅτι ποτ᾽ ἔλακεν αἰάγμα
+<lb />σι στένουσα, Νύμφα τις
+<lb rend="displayNum" n="187b" />οἷα Ναῒς
+<lb />ὄρεσι φυγάδα νόμον ἱεῖσα
+<lb />γοερόν, ὑπὸ δὲ πέτρινα γύαλα
+<lb rend="displayNum" n="189b" />κλαγγαῖσι
+<lb rend="displayNum" n="190" />Πανὸς ἀναβοᾷ γάμους.
+</p></sp></div2></div1></body></text></TEI.2>

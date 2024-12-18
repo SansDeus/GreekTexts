@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="556" unit="card" /></p></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />πόθι Νύσας ἄρα τᾶς θη-
+<lb />ροτρόφου θυρσοφορεῖς
+<lb />θιάσους, ὦ Διόνυσ᾽, ἢ
+<lb />κορυφαῖς Κωρυκίαις;
+<lb rend="displayNum" n="560" />τάχα δ᾽ ἐν ταῖς πολυδένδρεσ-
+<lb />σιν Ὀλύμπου θαλάμαις, ἔν-
+<lb />θα ποτ᾽ Ὀρφεὺς κιθαρίζων
+<lb />σύναγεν δένδρεα μούσαις,
+<lb />σύναγεν θῆρας ἀγρώτας.
+<lb rend="displayNum" n="565" />μάκαρ ὦ Πιερία,
+<lb />σέβεταί σ᾽ Εὔιος, ἥξει
+<lb />τε χορεύσων ἅμα βακχεύ-
+<lb />μασι, τόν τ᾽ ὠκυρόαν
+<lb />διαβὰς Ἀξιὸν εἱλισ-
+<lb rend="displayNum" n="570" />σομένας Μαινάδας ἄξει,
+<lb />Λυδίαν πατέρα τε, τὸν
+<lb />τᾶς εὐδαιμονίας βροτοῖς
+<lb />ὀλβοδόταν, τὸν ἔκλυον
+<lb />εὔιππον χώραν ὕδασιν
+<lb rend="displayNum" n="575" />καλλίστοισι λιπαίνειν.
+</p></sp></div2></div1></body></text></TEI.2>

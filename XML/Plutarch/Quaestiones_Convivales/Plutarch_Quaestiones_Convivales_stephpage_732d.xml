@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><div2 type="chapter" n="9" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-732d" n="732d" /> ταῦτα πρὸς λόγον οὐθέν ἐστιν: ἂν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐστιν: ἂν</foreign>] <foreign lang="greek">ἐστιᾶν</foreign> ιιδεμ</note> γὰρ αὐτὴν λέγωσι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">λέγουσι</foreign> ιιδεμ</note> δεξάμενοι τὴν ἐπίτασιν καὶ τὴν
+                     σφοδρότητα νῦν γεγονέναι, πρῶτον, ἐν ποσῷ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐν τῷ
+                           πόσῳ</foreign> ιιδεμ</note> γιγνομένης τῆς καινότητος <note resp="ed" place="unspecified" anchored="yes">ιβ. βασιλεενσις: <foreign lang="greek">κενότητος</foreign></note>
+                     <milestone unit="tlnum" n="20" /> οὐκ ἐν ποιῷ, μένει τὸ παράδοξον
+                     ὁμοίως: ἔπειτα τοῦ Σοφοκλέους ἐπὶ τῶν, ὅτι μὴ πρότερον ἦν,
+                     ἀπιστουμένων, εἰ γέγονε νῦν, οὐ φαύλως εἰπόντος <quote rend="blockquote">ἅπαντα τἀγένητα <note resp="ed" place="unspecified" anchored="yes">ναυξκιυς ῾π. 313᾿: <foreign lang="greek">τὰ γένη
+                              τοῦ</foreign></note> πρῶτον ἦλθ᾽ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἡλθ᾽</foreign>
+                           ϝαλξκεναριυς: <foreign lang="greek">ἦλθεν</foreign></note> ἅπαξ </quote>
+                     <milestone unit="tlnum" n="25" />δοκεῖ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δοκεῖ</foreign> ω: <foreign lang="greek">ἐδόκει</foreign></note> καὶ λόγον ἔχειν τὸ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τὸ</foreign>] <foreign lang="greek">τοῦ</foreign> μει</note> μὴ
+                     δρόμῳ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δρόμῳ</foreign> ρ: <foreign lang="greek">δρόμου</foreign></note>, καθάπερ <pb id="v.4.p.347" /> ὕσπληγος μιᾶς
+                     πεσούσης, ἐκδραμεῖν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐκδρομὴν</foreign> μει</note> τὰ πάθη πρὸς
+                     τὴν γένεσιν, ἄλλων δ᾽ ἄλλοις ἀεὶ κατόπιν ἐπιγιγνομένων <note resp="ed" place="unspecified" anchored="yes">ω: <foreign lang="greek">ἐπιγινόμενον</foreign></note>, ἕκαστον ἐν χρόνῳ τινὶ λαβεῖν
+                     τὴν πρώτην </p></div3></div2></div1></body></text></TEI.2>

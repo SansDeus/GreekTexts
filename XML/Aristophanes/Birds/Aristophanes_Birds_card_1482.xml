@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Lyric-Scene" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1482" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἔστι δ᾽ αὗ χώρα πρὸς αὐτῷ
+<lb />τῷ σκότῳ πόρρω τις ἐν
+<lb />τῇ λύχνων ἐρημίᾳ,
+<lb rend="displayNum" n="1485" />ἔνθα τοῖς ἥρωσιν ἄνθρωποι
+<lb />ξυναριστῶσι καὶ ξύν-
+<lb />εισι πλὴν τῆς ἑσπέρας.
+<lb />τηνικαῦτα δ᾽ οὐκέτ᾽ ἦν
+<lb />ἀσφαλὲς ξυντυγχάνειν.
+<lb rend="displayNum" n="1490" />εἰ γὰρ ἐντύχοι τις ἥρῳ
+<lb />τῶν βροτῶν νύκτωρ Ὀρέστῃ,
+<lb />γυμνὸς ἦν πληγεὶς ὑπ᾽ αὐτοῦ
+<lb />πάντα τἀπιδέξια.</p></sp></div2></div1></body></text></TEI.2>

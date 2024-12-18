@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="epode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="568" unit="card" /></p></sp></div2>
+</div1>
+<div1 type="episode" org="uniform" sample="complete">
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />Ἑκάβη, λεύσσεις τήνδ᾽ Ἀνδρομάχην
+<lb />ξενικοῖς ἐπ᾽ ὄχοις πορθμευομένην;
+<lb rend="displayNum" n="570" />παρὰ δ᾽ εἰρεσίᾳ μαστῶν ἕπεται
+<lb />φίλος Ἀστυάναξ, Ἕκτορος ἶνις.
+<lb />ποῖ ποτ᾽ ἀπήνης νώτοισι φέρῃ,
+<lb />δύστανε γύναι, πάρεδρος χαλκέοις
+<lb />Ἕκτορος ὅπλοις σκύλοις τε Φρυγῶν
+<lb />δοριθηράτοις,
+<lb rend="displayNum" n="575" />οἷσιν Ἀχιλλέως παῖς Φθιώτας
+<lb />στέψει ναοὺς ἀπὸ Τροίας;
+</p></sp></div2></div1></body></text></TEI.2>

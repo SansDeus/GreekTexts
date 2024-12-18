@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="9" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-684e" n="684e" /> νὴ Δία
+                        τοὐναντίον ἡ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ᾗ</foreign> λεονιξυς ῾π̓: <foreign lang="greek">ἣ</foreign></note> συκῆ περισπῶσα τὴν τροφὴν ἐξαιρεῖ <note resp="ed" place="unspecified" anchored="yes">δυεβνερυς: <foreign lang="greek">ἐξαίρει</foreign></note> τὸ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τὸ</foreign>]
+                              <foreign lang="greek">τι</foreign> μ</note> τῆς δριμύτητος.</q>
+                  </p>
+               </div3>
+            </div2>
+            <pb id="v.4.p.211" />
+            <div2 type="chapter" n="10" org="uniform" sample="complete">
+               <head> Τίνες οἱ περὶ ἅλα καὶ κύαμον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κύαμον</foreign> ϝυλξοβιυς: <foreign lang="greek">κύμινον</foreign> ξφ. π. 663φ</note>: ἐν ᾧ καὶ διὰ τί
+                  τὸν ἅλα <milestone unit="tlnum" n="5" />
+                  <q direct="unspecified">θεῖον</q> ὁ ποιητὴς εἶπεν.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>ἐζήτει Φλῶρος, ἑστιωμένων ἡμῶν παρ᾽ αὐτῷ, τίνες ἂν εἶεν :
+                        <q direct="unspecified">οἱ περὶ ἅλα καὶ κύαμον</q> ἐν τῇ παροιμίᾳ </p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="4" org="uniform" sample="complete"><div2 type="chapter" n="2" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-665a" n="665a" /> γένεσιν, ἀλλ᾽
+                     ἄρριζον καὶ ἀβλαστές <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀβλαστὲς</foreign> ιδεμ: 6-7 ϝδ 9 ε</note> ἐστι
+                        <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐστι</foreign> ϝυλξοβιυς: <foreign lang="greek">ἔτι</foreign></note>
+                     καὶ ἀπολελυμένον, τῷ καθ᾽ ἑαυτὸ σύστασιν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">σύστασιν</foreign>
+                        εχ. τυρνεβι: <foreign lang="greek">τὴν στάσιν</foreign></note> ἐκ τῆς
+                     γῆς ἔχειν παθούσης τι καὶ μεταβαλούσης. <q direct="unspecified">εἰ δέ γε γλίσχρος </q>
+                     <milestone unit="tlnum" n="20" />ἔφην <q direct="unspecified">ὁ λόγος ὑμῖν δοκεῖ, τοιαῦτά
+                        τοι τὰ πλεῖστα τῶν βρονταῖς καὶ κεραυνοῖς συνεπομένων: διὸ καὶ <pb id="v.4.p.153" /> μάλιστα τοῖς πάθεσι τούτοις δόξα θειότητος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">θειότης</foreign> μει</note> πρόσεστι.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <p>παρὼν δ᾽ ὁ ῥήτωρ Δωρόθεος <q direct="unspecified">ὀρθῶς</q> ἔφη <q direct="unspecified">λέγεις: οὐ γὰρ
+                        μόνον οἱ πολλοὶ καὶ ἰδιῶται τοῦτο <milestone unit="tlnum" n="5" />
+                        πεπόνθασιν, ἀλλὰ καὶ τῶν φιλοσόφων τινές. ἐγὼ γοῦν οἶδα,
+                        κεραυνοῦ παρ᾽ ἡμῖν εἰς οἰκίαν ἐμπεσόντος καὶ πολλὰ θαυμαστὰ
+                        δράσαντος οἶνόν τε γὰρ </q></p></div3></div2></div1></body></text></TEI.2>

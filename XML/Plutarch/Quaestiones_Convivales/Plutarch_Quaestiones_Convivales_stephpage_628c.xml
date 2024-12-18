@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="10" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-628c" n="628c" />
+                     <q direct="unspecified">οὐδέν</q> ἔφη δεινόν <q direct="unspecified" /> ὁ Φιλόπαππος <q direct="unspecified">εἰ ταὐτὸ πεισόμεθα
+                        Δημοκρίτῳ τῷ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τῷ</foreign>] ομ. μει</note> σοφῷ διὰ
+                        φιλολογίαν. καὶ γὰρ ἐκεῖνος ὡς ἔοικε τρώγων σίκυον, ὡς ἐφάνη
+                        μελιτώδης ὁ χυμός, ἠρώτησε τὴν διακονοῦσαν, ὁπόθεν <milestone unit="tlnum" n="10" /> πρίαιτο: τῆς δὲ κῆπόν τινα φραζούσης,
+                        ἐκέλευσεν ἐξαναστὰς ἡγεῖσθαι καὶ δεικνύναι τὸν τόπον: θαυμάζοντος
+                        δὲ τοῦ γυναίου καὶ πυνθανομένου τί βούλεται, <q direct="unspecified">τὴν αἰτίαν</q>
+                        ἔφη <q direct="unspecified">δεῖ με τῆς γλυκύτητος εὑρεῖν, εὑρήσω δὲ τοῦ χωρίου
+                           γενόμενος θεατής: </q>
+                        <milestone unit="tlnum" n="15" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

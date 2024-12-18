@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="14" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-36f" n="36f" />
+                  <quote rend="blockquote">
+                     <l>τὸν φύντα θρηνεῖν εἰς ὅς1᾽ ἔρχεται κακά, <note resp="ed" place="unspecified" anchored="yes">ιδ. π. 395</note> </l>
+                     <l>τὸν δ᾽ αὖ θανόντα καὶ πόνων πεπαυμένον </l>
+                     <l>χαίροντας εὐφημοῦντας ἐκπέμπειν δόμων</l>
+                  </quote> καὶ <pb id="v.1.p.90" />
+                  <quote rend="blockquote">
+                     <l>ἐπεὶ τί δεῖ βροτοῖσι πλὴν δυεῖν μόνον </l> <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 507</note>
+                     <l>Δήμητρος ἀκτῆς πώματὸς θ᾽ ὑδρηχόου;</l>
+                  </quote> καὶ <quote>
+                     <l>ἰὼ τυραννὶ βαρβάρων ἀνδρῶν φίλη</l> <note resp="ed" place="unspecified" anchored="yes">ιδ. π. 696</note>
+                  </quote>
+                  <milestone unit="tlnum" n="5" />
+                  </p></div2></div1></body></text></TEI.2>

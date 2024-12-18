@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="35" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-120d" n="120d" /> καὶ μικρὸν προελθὼν ἐν ἄλλῳ
+                                                  θρήνῳ περὶ ψυχῆς <milestone unit="tlnum" n="20" /> λέγων φησὶν <quote rend="blockquote">
+                                                  <l>ὀλβίᾳ δ᾽ ἅπαντες αἴσᾳ λυσίπονον
+                                                                       τελευτάν.</l> <note resp="ed" place="unspecified" anchored="yes">βεργκ. 1 π. 427</note>
+                                                  <l> καὶ σῶμα μὲν πάντων ἕπεται θανάτῳ
+                                                  περισθενεῖ, </l>
+                                                                       <l>ζωὸν δ᾽ ἔτι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ζωὸν δ᾽ ἔτι</foreign> ϝιτ. ρομ. ξ. 28: <foreign lang="greek">ζῶν δὲ</foreign></note> λείπεται αἰῶνος εἴδωλον:
+                                                  τὸ γάρ </l>
+                                                                       <l> ἐστι μόνον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐστι μόνον</foreign> ιβιδεμ: <foreign lang="greek">μόνον ἐστί</foreign></note> <pb id="v.1.p.295" />
+                                                  </l>
+                                                  <l> ἐκ θεῶν. εὕδει δὲ πρασσόντων μελέων,
+                                                  ἀτὰρ </l>
+                                                  <l> εὑδόντεσσιν ἐν πολλοῖς ὀνείροις </l>
+                                                                       <l> δείκνυσι τερπνῶν ἐφέρποισαν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐφέρποισαν</foreign> βοεξκηιυς: <foreign lang="greek">ἐφέρπουσαν</foreign></note> χαλεπῶν τε
+                                                  κρίσιν.</l>
+                                                  </quote>
+                                                  </p>
+                                                  </div2>
+                                                  <div2 type="section" n="36" org="uniform" sample="complete">
+                                                  <p>ὁ δὲ θεῖος Πλάτων πολλὰ μὲν ἐν τῷ
+                                                                       Περὶ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">περὶ</foreign> ρ: <foreign lang="greek">περί τε</foreign></note> <milestone unit="tlnum" n="5" /> ψυχῆς
+                                                  περὶ τῆς ἀθανασίας αὐτῆς εἴρηκεν, οὐκ
+                                                  ὀλίγα </p></div2></div1></body></text></TEI.2>

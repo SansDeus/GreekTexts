@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="4" org="uniform" sample="complete"><div2 type="chapter" n="2" org="uniform" sample="complete"><div3 type="section" n="4" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-666d" n="666d" />καὶ γὰρ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">γάρ</foreign>] <foreign lang="greek">δὲ</foreign> τηεο</note>
+                        ἄλλως <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἄλλους</foreign> μει</note> τῶν αἰσθητηρίων ἡ
+                        ἀκοὴ παθητικώτατὸν <milestone unit="tlnum" n="10" /> ἐστι, καὶ
+                        μεγίστας οἱ διὰ ψόφου θόρυβοι καὶ φόβοι ταραχὰς ἐπιφέρουσιν ὧν
+                        τῷ καθεύδοντι πρόβλημα τὸ ἀναίσθητόν ἐστιν. οἱ δ᾽ ἐγρηγορότες
+                        καὶ ταῖς προπαθείαις ἀναλίσκονται καί, τοῦ δέους τὸ σῶμα
+                        συνδέοντος ὡς ἀληθῶς καὶ συνάγοντος καὶ <milestone unit="tlnum" n="15" /> πυκνοῦντος, ἰσχυρὰν ποιοῦσι τὴν πληγὴν τῷ
+                        ἀντερείδειν.</q>
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="3" org="uniform" sample="complete">
+               <head> Διὰ τί πλείστους ἐν γάμοις ἐπὶ δεῖπνον καλοῦσιν.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="20" />
+                  <p>ἐν τοῖς Αὐτοβούλου τοῦ υἱοῦ γάμοις συνεώρταζεν ἡμῖν παρὼν ἐκ
+                     Χαιρωνείας ὁ Σόσσιος <pb id="v.4.p.158" /> Σενεκίων: καὶ πολλῶν <gap />
+                     <note resp="ed" place="unspecified" anchored="yes">λαξ. 3 ϝδ 4 π. φορτ.
+                        τρανσπονενδο συππλενδυμ: <foreign lang="greek">ἄλλων τε πολλῶν
+                           λόγων</foreign></note> ἄλλων τε τῇ τόθ᾽ ἑορτῇ μάλα πρεπόντων
+                     παρέσχεν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">παρέσχεν</foreign> ς: 3-4 ϝδ 9 ε. <foreign lang="greek">λόγων παρεσ´χεν</foreign> δυεβνερυς</note> ἀφορμὰς καὶ περὶ τῆς
+                     αἰτίας <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τῆς αἰτίας</foreign> ς: <foreign lang="greek">τη</foreign> 5 ϝδ 8 ε <foreign lang="greek">ας</foreign></note>, δι᾽
+                     ἣν πλεῖστοι τῶν ἄλλων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἄλλων</foreign>] φορτ. <foreign lang="greek">ἀνθρώπων</foreign> ξυμ ρ ι. ε. <foreign lang="greek">ἀνων</foreign></note> ἐπὶ τὰ γαμικὰ </p></div3></div2></div1></body></text></TEI.2>

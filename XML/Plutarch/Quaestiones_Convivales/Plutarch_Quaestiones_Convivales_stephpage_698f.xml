@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="7" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-698f" n="698f" /> γὰρ ἅμα τῷ Πλάτωνι καὶ τὸν
+                        Ὅμηρον, ὃς <milestone unit="tlnum" n="20" /> τοσοῦτον ἀποδεῖ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀποδεῖ</foreign> *: <foreign lang="greek">ἀποδέει</foreign></note> τοῦ τὸ ὑγρὸν ἀπελαύνειν καὶ
+                        ἀποστρέφειν τῆς ἀρτηρίας, ὥστε καὶ τὸ σιτίον ὁμοῦ συνεκβαλεῖν
+                        ἐνταῦθα. <pb id="v.4.p.253" />
+                        <quote rend="blockquote">
+                           <l> φάρυγος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φάρυγγος</foreign> μει</note> ῾ γάρ φησιν᾽
+                              ἐξέσσυτο οἶνος, </l>
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ι</foreign> 373</note>
+                           <l>ψωμοὶ τ᾽ ἀνδρόμεοι:</l>
+                        </quote> χωρὶς εἰ μὴ τὸν Κύκλωπα φήσει τις ὥσπερ ὀφθαλμὸν σχεῖν
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">σχεῖν</foreign> ρ: <foreign lang="greek">ἔχει</foreign></note>
+                        ἕνα καὶ πόρον τροφῆς καὶ φωνῆς τὸν <milestone unit="tlnum" n="5" />
+                        αὐτόν: ἢ τὸν φάρυγγα φήσει στόμαχον εἰρῆσθαι καὶ μὴ βρόγχον,
+                        ὥσπερ ὑπὸ πάντων καὶ πάλαι καὶ νῦν ὠνόμασται. ταῦτα δ᾽ οὐκ
+                        ἀπορίᾳ μαρτύρων, ἀλλ᾽ ὑπὸ τῆς ἀληθείας ἐπηγαγόμην ἐπεὶ
+                        μάρτυρὲς </q></p></div3></div2></div1></body></text></TEI.2>

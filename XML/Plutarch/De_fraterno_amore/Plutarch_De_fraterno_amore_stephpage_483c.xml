@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="10" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-483c" n="483c" />
+               <quote rend="blockquote"> ὦ παῖ κάκιστε, <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">παῖ κάκιστε</foreign>] <foreign lang="greek">παγκάκιστε</foreign> σοπηοξλες</note> διὰ δίκης ἰὼν πατρὶ,</quote>
+               <pb id="v.3.p.255" /> παρρησιαζόμενον ὑπὲρ ἀδελφοῦ δοκοῦντος ἀγνωμονεῖσθαι:
+               καὶ γὰρ αὐτοῖς ἡ τοιαύτη δίκη τοῖς ἐλεγχομένοις ποιεῖ τὴν ἧτταν ἡδίω
+               τῆς νίκης. </p>
+         </div1>
+         <div1 type="section" n="11" org="uniform" sample="complete">
+            <p>ἀποθανόντος γε μὴν πατρὸς ἐμφύεσθαι μᾶλλον <milestone unit="tlnum" n="5" /> ἢ
+               πρότερον ὀρθῶς; ἔχει τῇ εὐνοίᾳ τοὺς ἀδελφούς, εὐθὺς μὲν ἐν τῷ
+               συνδακρύειν καὶ συνάχθεσθαι κοινουμένους; τὸ φιλόστοργον, ὑπονοίας δὲ
+               θεραπόντων καὶ διαβολὰς ἑταίρων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἑταίρων</foreign> ρ: <foreign lang="greek">ἑτέρων</foreign></note> ἑτέροις αὑτοὺς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὑτοὺς</foreign> *: <foreign lang="greek">αὐτοὺς</foreign></note> προσνεμόντων ἀπωθουμένους,
+               καὶ πιστεύοντας τοῖς τ᾽ ἄλλοις ἃ <milestone unit="tlnum" n="10" /> μυθολογοῦσι
+               περὶ τῶν Διοσκόρων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Διοσκόρων</foreign> *: <foreign lang="greek">διοσκούρων</foreign></note> τῆς φιλαδελφίας, καὶ ὅτι ὁ Πολυδεύκης τὸν
+               καταψιθυρίζοντα τἀδελφοῦ πρὸς αὐτὸν κονδύλῳ παίσας ἀπέκτεινεν. </p></div1></body></text></TEI.2>

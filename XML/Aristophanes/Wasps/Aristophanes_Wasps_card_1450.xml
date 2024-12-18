@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Episode" org="uniform" sample="complete"><div2 type="lyric" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1450" unit="card" /></p></sp></div2></div1>
+<div1 type="Choral" org="uniform" sample="complete">
+<div2 type="strophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="1450" />ζηλῶ γε τῆς εὐτυχίας
+<lb />τὸν πρέσβυν οἷ μετέστη
+<lb />ξηρῶν τρόπων καὶ βιοτῆς:
+<lb />ἕτερα δὲ νῦν ἀντιμαθὼν
+<lb />ἦ μέγα τι μεταπεσεῖται
+<lb rend="displayNum" n="1455" />ἐπὶ τὸ τρυφῶν καὶ μαλακόν.
+<lb />τάχα δ᾽ ἂν ἴσως οὐκ ἐθέλοι.
+<lb />τὸ γὰρ ἀποστῆναι χαλεπὸν
+<lb />φύσεος, ἣν ἔχοι τις ἀεί.
+<lb />καίτοι πολλοὶ ταῦτ᾽ ἔπαθον:
+<lb rend="displayNum" n="1460" />ξυνόντες γνώμαις ἑτέρων
+<lb />μετεβάλοντο τοὺς τρόπους.</p></sp></div2></div1></body></text></TEI.2>

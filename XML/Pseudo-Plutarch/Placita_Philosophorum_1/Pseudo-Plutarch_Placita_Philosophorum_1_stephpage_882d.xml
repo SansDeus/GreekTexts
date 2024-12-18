@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="10" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-882d" n="882d" />ἰδέα ἐστὶν οὐσία ἀσώματος, αὐτὴ μὲν μὴ ὑφεστῶσα καθ᾽ αὑτήν, εἰκονίζουσα δὲ τὰς ἀμόρφους;
+ὔλας καὶ αἰτία γινομένη τῆς τούτων δείξεως.
+</p>
+               <p>
+                  <milestone unit="tlnum" n="5" />Σωκράτης καὶ Πλάτων χωριστὰς τῆς ὕλης οὐσίας τὰς ἰδέας ὑπολαμβάνει, ἐν τοῖς νοήμασι καὶ ταῖς: φαντασίαις τοῦ θεοῦ, τουτέστι τοῦ νοῦ, ὑφεστώσας.
+</p>
+               <p>Ἀριστοτέλης δ᾽ εἴδη μὲν ἀπέλιπε καὶ ἰδέας, οὐ
+μὴν κεχωρισμένας τῆς ὕλης, ὃ ἐξ ὧν γεγονὸς τὸ
+<milestone unit="tlnum" n="10" /> ὑπὸ τοῦ θεοῦ.
+</p></div2></div1></body></text></TEI.2>

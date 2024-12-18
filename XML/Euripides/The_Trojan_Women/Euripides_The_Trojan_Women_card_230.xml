@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="230" unit="card" /></p></sp></div2>
+</div1>
+<div1 type="episode" org="uniform" sample="complete">
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="230" />καὶ μὴν Δαναῶν ὅδ᾽ ἀπὸ στρατιᾶς
+<lb />κῆρυξ, νεοχμῶν μύθων ταμίας,
+<lb />στείχει ταχύπουν ἴχνος ἐξανύων.
+<lb />τί φέρει; τί λέγει; δοῦλαι γὰρ δὴ
+<lb />Δωρίδος ἐσμὲν χθονὸς ἤδη.
+</p></sp>
+<sp>
+<speaker>Ταλθύβιος</speaker><p>
+<lb rend="displayNum" n="235" />Ἑκάβη, πυκνὰς γὰρ οἶσθά μ᾽ ἐς Τροίαν ὁδοὺς
+<lb />ἐλθόντα κήρυκ᾽ ἐξ Ἀχαιικοῦ στρατοῦ,
+<lb />ἐγνωσμένος δὲ καὶ πάροιθέ σοι, γύναι,
+<lb />Ταλθύβιος ἥκω καινὸν ἀγγελῶν λόγον.
+</p></sp></div2></div1></body></text></TEI.2>

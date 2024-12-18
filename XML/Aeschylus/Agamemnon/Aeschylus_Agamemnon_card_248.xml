@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="6" org="uniform" sample="complete"><milestone ed="p" n="248" unit="card" />
+<sp n="*xoro/s">
+<speaker>Χορός</speaker><p>
+<lb />τὰ δ᾽ ἔνθεν οὔτ᾽ εἶδον οὔτ᾽ ἐννέπω:
+<lb />τέχναι δὲ Κάλχαντος οὐκ ἄκραντοι.
+<lb rend="displayNum" n="250" />Δίκα δὲ τοῖς μὲν παθοῦσ-
+<lb />ιν μαθεῖν ἐπιρρέπει:
+<lb />τὸ μέλλον <add>δ᾽</add>, ἐπεὶ γένοιτ᾽, ἂν κλύοις: πρὸ χαιρέτω:
+<lb />ἴσον δὲ τῷ προστένειν.
+<lb />τορὸν γὰρ ἥξει σύνορθρον αὐγαῖς.
+<lb rend="displayNum" n="255" />πέλοιτο δ᾽ οὖν τἀπὶ τούτοισιν εὖ πρᾶξις, ὡς
+<lb />θέλει τόδ᾽ ἄγχιστον Ἀ-
+<lb />πίας γαίας μονόφρουρον ἕρκος.</p></sp></div2>
+</div1>
+</body></text></TEI.2>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="882" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ὁρμᾶται μόλις, ἀλλ᾽ ὅμως
+<lb />πιστόν <add>τι</add> τὸ θεῖον
+<lb />σθένος: ἀπευθύνει δὲ βροτῶν
+<lb rend="displayNum" n="885" />τούς τ᾽ ἀγνωμοσύναν τιμῶν-
+<lb />τας καὶ μὴ τὰ θεῶν αὔξον-
+<lb />τας σὺν μαινομένᾳ δόξᾳ.
+<lb />κρυπτεύουσι δὲ ποικίλως
+<lb />δαρὸν χρόνου πόδα καὶ
+<lb rend="displayNum" n="890" />θηρῶσιν τὸν ἄσεπτον. οὐ
+<lb />γὰρ κρεῖσσόν ποτε τῶν νόμων
+<lb />γιγνώσκειν χρὴ καὶ μελετᾶν.
+<lb />κούφα γὰρ δαπάνα νομί-
+<lb />ζειν ἰσχὺν τόδ᾽ ἔχειν,
+<lb />ὅ τι ποτ᾽ ἄρα τὸ δαιμόνιον,
+<lb rend="displayNum" n="895" />τό τ᾽ ἐν χρόνῳ μακρῷ νόμιμον
+<lb />ἀεὶ φύσει τε πεφυκός.
+<lb />τί τὸ σοφόν; ἢ τί τὸ κάλλιον
+<lb />παρὰ θεῶν γέρας ἐν βροτοῖς
+<lb />ἢ χεῖρ᾽ ὑπὲρ κορυφᾶς
+<lb rend="displayNum" n="900" />τῶν ἐχθρῶν κρείσσω κατέχειν;
+<lb />ὅ τι καλὸν φίλον ἀεί.
+ </p></sp></div2></div1></body></text></TEI.2>

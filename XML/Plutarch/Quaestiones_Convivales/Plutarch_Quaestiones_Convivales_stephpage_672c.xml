@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="4" org="uniform" sample="complete"><div2 type="chapter" n="6" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-672c" n="672c" /> θύουσιν, ὡς ἀντίθετον φύσιν μάλιστα
+                        τοῦ μέλιτος πρὸς τὸν οἶνον ἔχοντος, ὅτι δὲ τοῦτο νομίζουσι,
+                        κἀκεῖνο σημεῖον οὐ μικρόν ἐστι, τὸ πολλῶν τιμωριῶν οὐσῶν παρ᾽
+                        αὐτοῖς μίαν εἶναι μάλιστα διαβεβλημένην, <milestone unit="tlnum" n="15" /> τὴν οἴνου τοὺς κολαζομένους ἀπείργουσαν, ὅσον ἂν
+                        τάξῃ χρόνον ὁ κύριος τῆς κολάσεως: τοὺς δ᾽ οὕτω κολα <gap />
+                     </q>
+                     <quote rend="blockquote">λείπει τὰ λοιπὰ τοῦ τετάρτου <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">λαίπει τὰ
+                              λοιπὰ τοῦ τατάρτου</foreign> ξορυμ λξοο σπατιυμ ϝαξυυμ 12 φερε
+                           ϝερσυυμ ϝδ 2 παγιναρυμ ε</note>.</quote>
+                  </p>
+               </div3>
+            </div2>
+            <pb id="v.4.p.175" />
+            <div2 type="chapter" n="7" org="uniform" sample="complete">
+               <head> Διὰ τί τὰς ὁμωνύμους τοῖς πλάνησιν ἡμέρας οὐ κατὰ τὴν ἐκείνων
+                  τάξιν ἀλλ᾽ ἐνηλλαγμένως <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐνηλλαγμένους</foreign> μει</note> ἀριθμοῦσιν:
+                  ἐν ᾧ καὶ περὶ ἡλίου τάξεως.</head>
+               <milestone unit="tlnum" n="5" />
+               <p />
+            </div2>
+            <div2 type="chapter" n="8" org="uniform" sample="complete">
+               <head>Διὰ τί τῶν δακτύλων μάλιστα τῷ παραμέσῳ σφραγῖδας φοροῦσιν.</head>
+               <p />
+            </div2>
+            <div2 type="chapter" n="9" org="uniform" sample="complete">
+               <head>Εἰ δεῖ θεῶν εἰκόνας ἐν ταῖς σφραγῖσιν ἢ σοφῶν <milestone unit="tlnum" n="10" /> ἀνδρῶν φορεῖν.</head>
+               <p />
+            </div2>
+            <div2 type="chapter" n="10" org="uniform" sample="complete">
+               <head>Διὰ τί τὸ μέσον τῆς θρίδακος αἱ γυναῖκες οὐ τρώγουσιν.</head>
+               <p />
+            </div2>
+            <pb id="v.4.p.176" />
+            </div1></body></text></TEI.2>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><milestone ed="p" n="486" unit="card" /></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>ἔδειξεν ἡ Λάκαινα τοῦ στρατηλάτα</l>
+<l>Μενέλα: διὰ γὰρ πυρὸς ἦλθ᾽ ἑτέρῳ λέχει,</l>
+<l>κτείνει δὲ τὰν τάλαιναν Ἰλιάδα κόραν</l>
+<l n="490">παῖδά τε δύσφρονος ἔριδος ὕπερ.</l>
+<l>ἄθεος ἄνομος ἄχαρις ὁ φόνος:</l>
+<l>ἔτι σε, πότνια, μετατροπὰ</l>
+<l>τῶνδ᾽ ἔπεισιν ἔργων.</l>
+</sp></div2></div1></body></text></TEI.2>

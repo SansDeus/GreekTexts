@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="iambic" org="uniform" sample="complete"><sp><p><milestone ed="p" n="955" unit="card" />
+</p></sp></div2>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="955" />οὐκέτ᾽ εὔτεκνος, οὐκέτ᾽ εὔ-
+<lb />παις, οὐδ᾽ εὐτυχίας μέτε-
+<lb />στίν μοι κουροτόκοις ἐν Ἀργείαις:
+<lb />οὐδ᾽ Ἄρτεμις λοχία
+<lb />προσφθέγξαιτ᾽ ἂν τὰς ἀτέκνους.
+<lb rend="displayNum" n="960" />δυσαίων δ᾽ ὁ βίος,
+<lb />πλαγκτὰ δ᾽ ὡσεί τις νεφέλα
+<lb />πνευμάτων ὑπὸ δυσχίμων ἀίσσω.
+</p></sp></div2></div1></body></text></TEI.2>

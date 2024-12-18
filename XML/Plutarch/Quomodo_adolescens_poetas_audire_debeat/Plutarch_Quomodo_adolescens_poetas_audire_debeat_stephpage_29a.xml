@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="10" org="uniform" sample="complete"><p><quote rend="blockquote"><l><milestone unit="stephpage" id="stephpage-29a" n="29a" />
+                     </l>
+                     <l>πρωτίστῳ δίδομεν, εὖτ᾽ ἂν πτολίεθρον ἕλωμεν</l>
+                  </quote>, καὶ πάλιν ὁ Ἀχιλλεὺς <quote rend="blockquote">
+                     <l>αἴ κέ ποθι Ζεὺς </l> <note resp="ed" place="unspecified" anchored="yes">ιδ. α 128</note>
+                     <l>δῷσι πόλιν Τροίην εὐτείχεον ἐξαλαπάξαι</l>
+                  </quote> ὁ δὲ Θερσίτης <milestone unit="tlnum" n="25" />
+                  <quote rend="blockquote">
+                     <l>ὅν κεν ἐγὼ δήσας ἀγάγω ἢ ἄλλος Ἀχαιῶν</l> <note resp="ed" place="unspecified" anchored="yes">ιδ. β 231</note>
+                  </quote> πάλιν τοῦ Ἀγαμέμνονος ἐν τῇ ἐπιπωλήσει τὸν Διομήδην
+                  λοιδορήσαντος ὁ μὲν οὐδὲν ἀντεῖπεν <pb id="v.1.p.70" />
+                  <quote rend="blockquote">
+                     <l>αἰδεσθεὶς: βασιλῆος ἐνιπὴν αἰδοίοιο</l> <note resp="ed" place="unspecified" anchored="yes">ηομερ. <foreign lang="greek">Δ</foreign> 402</note>
+                  </quote>, ὁ δὲ Σθένελος, οὗ μηδεὶς λόγος, <quote rend="blockquote">
+                     <l>Ἀτρείδἠ φησί, μὴ ψεύδε᾽ ἐπιστάμενος σάφα <note resp="ed" place="unspecified" anchored="yes">ιδ. <foreign lang="greek">Δ</foreign> 404</note> εἰπεῖν. <milestone unit="tlnum" n="5" />
+                        </l></quote></p></div2></div1></body></text></TEI.2>

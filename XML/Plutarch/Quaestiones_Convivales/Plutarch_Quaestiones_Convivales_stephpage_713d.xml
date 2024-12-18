@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="7" org="uniform" sample="complete"><div2 type="chapter" n="8" org="uniform" sample="complete"><div3 type="section" n="4" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-713d" n="713d" /> τοῦ θεοῦ κολασθῆναι,
+                        ὅτι φορβειᾷ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φορβαίαι</foreign> ϝελ <foreign lang="greek">φορβαία</foreign> μει</note> καὶ αὐλοῖς ἐπιστομίσας ἑαυτὸν
+                        ἐτόλμησε ψιλῷ μέλει <note resp="ed" place="unspecified" anchored="yes">μ: <foreign lang="greek">μέρει</foreign></note> διαγωνίζεσθαι
+                           <milestone unit="tlnum" n="20" /> πρὸς ᾠδὴν καὶ κιθάραν. μόνον</q>
+                     ἔφην <q direct="unspecified">σκοπῶμεν, ὅπως συμπόταις διὰ λόγου καὶ φιλοσοφίας ἀλλήλους
+                        εὐφραίνειν δυναμένοις μηδὲν ἐπάξομεν τοιοῦτον θύραθεν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">θύραθεν</foreign> ω: <foreign lang="greek">οὐράθεν</foreign></note>, ὃ κώλυμα διαγωγῆς μᾶλλον ἢ διαγωγή
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἡ δ᾽ ἀγωγὴ</foreign> μει</note> τις ἔσται. οὐ γὰρ μόνον
+                        ὅσοι τὴν σωτηρίαν <milestone unit="tlnum" n="25" /> οἴκοι καὶ παρ᾽
+                        αὑτῶν ἔχοντες <pb id="v.4.p.294" />
+                        <quote rend="blockquote">ἄλλην θέλουσιν <note resp="ed" place="unspecified" anchored="yes">χ: <foreign lang="greek">ἐθέλουσιν</foreign></note> εἰσαγώγιμον λαβεῖν,</quote>
+                        <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 678</note> ὡς
+                        Εὐριπίδης εἶπεν, ἀβέλτεροὶ εἰσιν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">εἰσιν</foreign>] δελ. δοεηνερυς</note>, ἀλλὰ καὶ ὅσοι, πολλῆς ἐν
+                        αὐτοῖς εὐφροσύνης καὶ θυμηδίας παρούσης, ἔξωθεν ἐπάγειν τὰ
+                        τέρποντα φιλοτιμοῦνται. <milestone unit="tlnum" n="5" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

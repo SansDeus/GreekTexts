@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1368" unit="card" />
+</p></sp>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Ἀγαύη</speaker><p>
+<lb />χαῖρ᾽, ὦ μέλαθρον, χαῖρ᾽, ὦ πατρία
+<lb />πόλις: ἐκλείπω σ᾽ ἐπὶ δυστυχίᾳ
+<lb rend="displayNum" n="1370" />φυγὰς ἐκ θαλάμων.
+</p></sp>
+<sp>
+<speaker>Κάδμος</speaker><p>
+<lb />στεῖχέ νυν, ὦ παῖ, τὸν Ἀρισταίου  <gap /> 
+<lb /><gap desc="*" />
+</p></sp>
+<sp>
+<speaker>Ἀγαύη</speaker><p>
+<lb />στένομαί σε, πάτερ.
+</p></sp>
+<sp>
+<speaker>Κάδμος</speaker><p>
+κἀγὼ <add>σέ</add>, τέκνον,
+<lb />καὶ σὰς ἐδάκρυσα κασιγνήτας.
+</p></sp>
+<sp>
+<speaker>Ἀγαύη</speaker><p>
+<lb />δεινῶς γὰρ τάνδ᾽ αἰκείαν
+<lb rend="displayNum" n="1375" />Διόνυσος ἄναξ τοὺς σοὺς εἰς
+<lb />οἴκους ἔφερεν.
+</p></sp>
+<sp>
+<speaker>Διόνυσος</speaker><p>
+<lb />καὶ γὰρ ἔπασχον δεινὰ πρὸς ὑμῶν,
+<lb />ἀγέραστον ἔχων ὄνομ᾽ ἐν Θήβαις.
+</p></sp>
+<sp>
+<speaker>Ἀγαύη</speaker><p>
+<lb />χαῖρε, πάτερ, μοι.
+</p></sp>
+<sp>
+<speaker>Κάδμος</speaker><p>
+χαῖρ᾽, ὦ μελέα
+<lb rend="displayNum" n="1380" />θύγατερ. χαλεπῶς <add>δ᾽</add> ἐς τόδ᾽ ἂν ἥκοις.
+</p></sp>
+<sp>
+<speaker>Ἀγαύη</speaker><p>
+<lb />ἄγετ᾽, ὦ πομποί, με κασιγνήτας
+<lb />ἵνα συμφυγάδας ληψόμεθ᾽ οἰκτράς.
+<lb />ἔλθοιμι δ᾽ ὅπου
+<lb />μήτε Κιθαιρὼν <add>ἔμ᾽ ἴδοι</add> μιαρὸς
+<lb rend="displayNum" n="1385" />μήτε Κιθαιρῶν᾽ ὄσσοισιν ἐγώ,
+<lb />μήθ᾽ ὅθι θύρσου μνῆμ᾽ ἀνάκειται:
+<lb />Βάκχαις δ᾽ ἄλλαισι μέλοιεν.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />πολλαὶ μορφαὶ τῶν δαιμονίων,
+<lb />πολλὰ δ᾽ ἀέλπτως κραίνουσι θεοί:
+<lb rend="displayNum" n="1390" />καὶ τὰ δοκηθέντ᾽ οὐκ ἐτελέσθη,
+<lb />τῶν δ᾽ ἀδοκήτων πόρον ηὗρε θεός.
+<lb />τοιόνδ᾽ ἀπέβη τόδε πρᾶγμα.
+</p></sp></div2>
+</div1></body></text>
+</TEI.2>

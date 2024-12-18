@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="2" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-649f" n="649f" /> οὐ γὰρ φθείρει τὸ οἰκεῖον, ἀλλὰ προσίεται καὶ φέφει <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φέρει</foreign>] μαλιμ <foreign lang="greek">τρέφει</foreign></note>, <milestone unit="tlnum" n="5" /> καθάπερ τὸ
+                        θύμον ἡ ξηρὰ γῆ, καίτοι θερμὸν ὄν, τὴν δὲ Βαβυλωνίαν οὕτω
+                        φασὶν ἀέρα πνιγώδη καὶ βαρὺν περιέχειν, ὥστε πολλοὺς τῶν
+                        εὐπόρων, ὅταν ἐμπλήσωσιν ἀσκοὺς ὕδατος, ἐπὶ τούτων καθεύδειν
+                           <milestone unit="tlnum" n="10" /> ἀναψυχομένους. </q>
+                  </p>
+               </div3>
+            </div2>
+            </div1></body></text></TEI.2>

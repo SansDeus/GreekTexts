@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1014" unit="card" />
+</p></sp></div2>
+<div2 type="antistrophe" n="3" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />χαίρετε, χαίρετε δ᾽ αὖθις, ἐπανδιπλάζω,
+<lb rend="displayNum" n="1015" />πάντες οἱ κατὰ πτόλιν,
+<lb />δαίμονές τε καὶ βροτοί,
+<lb />Παλλάδος πόλιν νέμον-
+<lb />τες: μετοικίαν δ᾽ ἐμὴν
+<lb />εὖ σέβοντες οὔτι μέμ-
+<lb rend="displayNum" n="1020" />ψεσθε συμφορὰς βίου.
+</p></sp></div2></div1></body></text></TEI.2>

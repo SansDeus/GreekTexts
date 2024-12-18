@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parabasis" org="uniform" sample="complete"><div2 type="pnigos" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1060" unit="card" /></p></sp></div2>
+<div2 type="strophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="1060" />ὦ πάλαι ποτ᾽ ὄντες ἡμεῖς ἄλκιμοι μὲν ἐν χοροῖς,
+<lb />ἄλκιμοι δ᾽ ἐν μάχαις,
+<lb />καὶ κατ᾽ αὐτὸ δὴ τοῦτο μόνον ἄνδρες ἀλκιμώτατοι:
+<lb />πρίν ποτ᾽ ἦν πρὶν ταῦτα, νῦν δ᾽
+<lb />οἴχεται, κύκνου τ᾽ <add>ἔτι</add> πολιώτεραι δὴ
+<lb rend="displayNum" n="1065" />αἵδ᾽ ἐπανθοῦσιν τρίχες.
+<lb />ἀλλὰ κἀκ τῶν λειψάνων δεῖ
+<lb />τῶνδε ῥώμην νεανικὴν σχεῖν:
+<lb />ὡς ἐγὼ τοὐμὸν νομίζω
+<lb />γῆρας εἶναι κρεῖττον ἢ πολλῶν
+<lb />κικίννους νεανιῶν καὶ
+<lb rend="displayNum" n="1070" />σχῆμα κεὐρυπρωκτίαν.</p></sp></div2></div1></body></text></TEI.2>

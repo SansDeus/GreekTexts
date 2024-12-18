@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="2" org="uniform" sample="complete"><div3 type="section" n="5" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-618b" n="618b" /> χώραν, οὐδ᾽ ὁ
+                        ναυπηγὸς προτάττει τὴν Ἰσθμικὴν πίτυν ἢ τὴν Κρητικὴν
+                        κυπάριττον, ἀλλ᾽ ὡς ὁὲν ἀλλήλοις ἕκαστα συντεθέντα καὶ
+                        συναρμοσθέντα μέλλῃ τὸ κοινὸν ἔργον ἰσχυρὸν καὶ καλὸν καὶ
+                        χρήσιμον παρέχειν, οὕτω κατανέμουσιν. καὶ τὸν θεὸν ὁρᾷς,
+                           <milestone unit="tlnum" n="25" /> ὃν ἀριστοτέχναν <q direct="unspecified" /> ἡμῶν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὑμνῶν</foreign> ρ</note> ὁ Πίνδαρος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Πίνδαρος</foreign>] βεργκ. 1 π. 388</note> προσεῖπεν, οὐ <pb id="v.4.p.18" /> πανταχοῦ τὸ πῦρ ἄνω τάττοντα καὶ κάτω τὴν γῆν,
+                        ἀλλ᾽ ὡς ὀὲν αἱ χρεῖαι τῶν σωμάτων ἀπαιτῶσιν. <quote rend="blockquote">
+                           <l> τοῦτο μὲν ἐν κόγχαισι θαλασσονόμοις βαρυνώτοις, </l>
+                           <note resp="ed" place="unspecified" anchored="yes">μυλλαξη. 1 π. 8 ϝς.
+                              301</note>
+                           <l>ναὶ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ναὶ</foreign>] <foreign lang="greek">καὶ</foreign> χ</note> μὴν κηρύκων τε λιθορρίνων χελύων τε
+                                 <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">χελύων τε</foreign>] <foreign lang="greek">τε
+                                    χελωνῶν</foreign> καρστενυς</note>
+                           </l>
+                        </quote>
+                        <milestone unit="tlnum" n="5" />φησὶν Ἐμπεδοκλῆς, <quote rend="blockquote"> ἔνθ᾽ ὄψει χθόνα χρωτὸς ὑπέρτατα ναιετάουσαν </quote>
+                        </q></p></div3></div2></div1></body></text></TEI.2>

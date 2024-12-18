@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="7" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-633a" n="633a" />
+                        <quote rend="blockquote">ὄξους σπανίζειν δῶμα</quote>
+                        <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 32</note>
+                        ποιήσαντας, ὥσπερ αὐτοὶ παίζοντες ἠπείλησαν <note resp="ed" place="unspecified" anchored="yes">ποστ <foreign lang="greek">ἠπείλησαν</foreign> ρεπονενδυμ λοξυμ δε επαμινονδα π. 633 ε ξενσετ
+                           ω</note>. ἅπτεται γὰρ ταῦτα μᾶλλον ἔχοντα δριμυτέραν χάριν,
+                           <milestone unit="tlnum" n="20" /> ὥστε μὴ προσίστασθαι μηδὲ λυπεῖν
+                        τοὺς ἐπαινουμένους.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="8" org="uniform" sample="complete">
+                  <p>
+                     <q direct="unspecified">δεῖ δὲ τὸν ἐμμελῶς σκώμματι χρησόμενον εἰδέναι καὶ νοσήματος
+                        διαφορὰν πρὸς ἐπιτήδευμα, λέγω δὲ φιλαργυρίας καὶ φιλονεικίας πρὸς
+                        φιλομουσίαν καὶ φιλοθηρίαν: ἐπ᾽ ἐκείνοις μὲν γὰρ ἄχθονται
+                           <milestone unit="tlnum" n="25" /> σκωπτόμενοι, πρὸς ταῦτα δ᾽ ἡδέως
+                        ἔχουσιν. <pb id="v.4.p.61" /> οὐκ ἀηδῶς γοῦν Δημοσθένης ὁ
+                        Μιτυληναῖος, φιλῳδοῦ τινος καὶ φιλοκιθαριστοῦ θύραν κόψας,
+                        ὑπακούσαντος αὐτοῦ καὶ κελεύσαντος εἰσελθεῖν <q direct="unspecified">ἂν </q></q></p></div3></div2></div1></body></text></TEI.2>

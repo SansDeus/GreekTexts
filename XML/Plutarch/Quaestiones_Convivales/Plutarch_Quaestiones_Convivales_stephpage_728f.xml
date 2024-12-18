@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><div2 type="chapter" n="8" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><q direct="unspecified"><milestone unit="stephpage" id="stephpage-728f" n="728f" /> ἀλλ᾽ ὅπερ ἐλάσσω</q>, καὶ ὅλως θεῖον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">θεῖον</foreign> αμψοτυς: <foreign lang="greek">θεὸν</foreign></note> ἡγεῖσθαι τὴν σιωπὴν τοὺς ἄνδρας, ἅτε δὴ
+                        καὶ τῶν θεῶν ἔργοις <milestone unit="tlnum" n="5" /> καὶ πράγμασιν
+                        ἄνευ φωνῆς ἐπιδεικνυμένων ἃ βούλονται τοῖς ξυνετοῖς.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>τοῦ δὲ Λευκίου πράως καὶ ἀφελῶς εἰπόντος, ὡς ὁ μὲν ἀληθὴς ἴσως
+                     λόγος καὶ νῦν ἀπόθετος καὶ ἀπόρρητος εἴη, τοῦ δὲ πιθανοῦ καὶ
+                     εἰκότος οὐ φθόνος <milestone unit="tlnum" n="10" /> ἀποπειρᾶσθαι: πρῶτος
+                     Θέων ὁ γραμματικὸς εἶπεν, ὅτι Τυρρηνὸν μὲν ἀποδεῖξαι Πυθαγόραν
+                        </p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="8" org="uniform" sample="complete"><div3 type="section" n="4" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-626e" n="626e" /> τὸ
+                     ἀμαυρὸν καὶ λεπτὸν οἷον ἀστέρος φῶς αὐγὴν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δυναμένης -
+                           αὐγῆς</foreign> ῾προ <foreign lang="greek">ἀρχῆς</foreign>᾿ μ</note>
+                     διαρκῆ καὶ σύμμετρον ἐξίησιν, ὥστε κοινωνεῖν καὶ συνεργεῖσθαι τὴν
+                     αἴσθησιν. </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="9" org="uniform" sample="complete">
+               <head> Διὰ τί τῷ ποτίμῳ μᾶλλον ὕδατι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὕδατι</foreign>] ιν λεμματε ομ.
+                     μει</note> ἢ τῷ θαλαττίῳ πλύνεται τὰ ἱμάτια.</head>
+               <milestone unit="tlnum" n="15" />
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="20" />
+                  <p>Θέων ὁ γραμματικός, ἑστιωμένων ἡμῶν παρὰ Μεστρίῳ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Μεστρίῳ</foreign> ρ ῾ξολλ. συετ. ϝεσπ. 22. ϝιτ. οτη. ξ. 14᾿: <foreign lang="greek">μετρίῳ</foreign></note> Φλώρῳ, πρὸς Θεμιστοκλέα τὸν
+                     Στωικὸν </p></div3></div2></div1></body></text></TEI.2>

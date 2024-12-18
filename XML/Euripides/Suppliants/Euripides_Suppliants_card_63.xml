@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="63" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ὁσίως οὔχ, ὑπ᾽ ἀνάγκας δὲ προπίπτου-
+<lb />σα προσαιτοῦσ᾽ ἔμολον δε-
+<lb />ξιπύρους θεῶν θυμέλας:
+<lb rend="displayNum" n="65" />ἔχομεν δ᾽ ἔνδικα, καὶ σοί
+<lb />τι πάρεστι σθένος ὥστ᾽ εὐτεκνίᾳ δυσ-
+<lb />τυχίαν τὰν παρ᾽ ἐμοὶ
+<lb />καθελεῖν: οἰκτρὰ δὲ πάσχουσ᾽ ἱκετεύω
+<lb />σὸν ἐμοὶ παῖδα ταλαίνᾳ 'ν χερὶ θεῖναι
+<lb rend="displayNum" n="70" />νέκυν, ἀμφιβαλεῖν λυγρὰ μέλη παιδὸς ἐμοῦ.
+</p></sp></div2></div1></body></text></TEI.2>

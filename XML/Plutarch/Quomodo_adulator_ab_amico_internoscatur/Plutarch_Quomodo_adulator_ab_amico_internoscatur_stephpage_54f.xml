@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="11" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-54f" n="54f" /> αἱ μὲν τῶν φίλων χάριτες
+                  ἐπὶ καλῷ τινι καὶ ὠφελίμῳ <milestone unit="tlnum" n="20" /> τὸ εὐφραῖνον
+                  ὥσπερ ἐπανθοῦν ἔχουσιν, ἔστι δ᾽ ὅτε καὶ παιδιᾷ καὶ τραπέζῃ καὶ
+                  οἴνῳ καὶ νὴ Δία γέλωτι καὶ φλυάρῳ πρὸς ἀλλήλους οἷον ἡδύσμασιν
+                  ἐχρήσαντο τῶν καλῶν καὶ σπουδαίων. πρὸς ὃ δὴ καὶ λέλεκται τὸ
+                     <milestone unit="tlnum" n="25" />
+                  <quote rend="blockquote">
+                     <l> μύθοισιν τέρποντο πρὸς ἀλλήλους ἐνέποντες</l>
+                     <note resp="ed" place="unspecified" anchored="yes">ηομερ. <foreign lang="greek">Λ</foreign> 643</note>
+                  </quote> καὶ τὸ οὐδέ κεν ἄλλο <note resp="ed" place="unspecified" anchored="yes">ιδ. <foreign lang="greek">δ</foreign> 178</note> ἄμμε
+                  διέκρινεν φιλέοντέ τε τερπομένω τε <pb id="v.1.p.133" />
+                  </p></div2></div1></body></text></TEI.2>

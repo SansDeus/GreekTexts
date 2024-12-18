@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="trochees" org="uniform" sample="complete"><sp><p><milestone ed="p" n="707" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />τί ἂν οὖν εἴποι πρὸς ταῦτά τις, ὅτε
+<lb />τοιαῦτα ποιῶν ὅδ᾽ ἀναισχυντεῖ;</p></sp>
+<sp><speaker>Μνησίλοχος</speaker><p>
+<lb />κοὔπω μέντοι γε πέπαυμαι.</p></sp>
+<sp><speaker>Χορός</speaker><p><lb rend="displayNum" n="710" />ἀλλ᾽ οὖν ἥκεις γ᾽ ὅθεν οὐ φαύλως γ᾽
+<lb />ἀποδρὰς λέξεις
+<lb />οἷον δράσας διέδυς ἔργον,
+<lb />λήψει δὲ κακόν.</p></sp>
+<sp><speaker>Μνησίλοχος</speaker><p>
+<lb />τοῦτο μέντοι μὴ γένοιτο μηδαμῶς, ἀπεύχομαι.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="715" />τίς οὖν σοι, τίς ἂν σύμμαχος ἐκ θεῶν
+<lb />ἀθανάτων ἔλθοι ξὺν ἀδίκοις ἔργοις;</p></sp>
+<sp><speaker>Μνησίλοχος</speaker><p>
+<lb />μάτην λαλεῖτε: τὴν δ᾽ ἐγὼ οὐκ ἀφήσω.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ἀλλ᾽ οὐ μὰ τὼ θεὼ τάχ᾽ οὐ χαίρων ἴσως
+<lb rend="displayNum" n="720" />ἐνυβριεῖς λόγους λέξεις τ᾽ ἀνοσίους
+<lb /><add>ἐπ᾽</add> ἀθέοις ἔργοις:
+<lb /><add>καὶ</add> γὰρ ἀνταμειψόμεσθά σ᾽ ὥσπερ εἰκὸς ἀντὶ τῶνδε.
+<lb />τάχα δὲ μεταβαλοῦσ᾽ ἐπὶ κακὸν ἑτερότροπον
+<lb rend="displayNum" n="725" />ἐπέχει τύχη.
+<lb />ἀλλὰ τάσδε μὲν λαβεῖν χρῆν σ᾽ ἐκφέρειν τε τῶν ξύλων,
+<lb />καὶ καταίθειν τὸν πανοῦργον πυρπολεῖν θ᾽ ὅσον τάχος.</p></sp></div2></div1></body></text></TEI.2>

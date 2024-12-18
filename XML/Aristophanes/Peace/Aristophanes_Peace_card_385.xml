@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="trochees" org="uniform" sample="complete"><sp><p><milestone ed="p" n="385" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="385" />μηδαμῶς ὦ δέσποθ᾽ Ἑρμῆ, μηδαμῶς, μηδαμῶς,
+<lb />εἴ τι κεχαρισμένον χοιρίδιον οἶσθα παρ᾽ ἐμοῦ γε κατεδηδοκώς,
+<lb />τοῦτο μὴ φαῦλον νόμιζ᾽ ἐν τῷδε τῷ <add>νῦν</add> πράγματι.</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb />οὐκ ἀκούεις οἷα θωπεύουσί σ᾽ ὦναξ δέσποτα;</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="390" />†μὴ γένῃ παλίγκοτος ἀντιβολοῦσιν ἡμῖν,†
+<lb />ὥστε τήνδε μὴ λαβεῖν:
+<lb />ἀλλὰ χάρισ᾽ ὦ φιλανθρωπότατε καὶ μεγαλοδωρότατε δαιμόνων,
+<lb rend="displayNum" n="395" />εἴ τι Πεισάνδρου βδελύττει τοὺς λόφους καὶ τὰς ὀφρῦς.
+<lb />καί σε θυσίαισιν ἱεραῖσι προσόδοις τε μεγάλαισι
+<lb />διὰ παντὸς ὦ δέσποτ᾽ ἀγαλοῦμεν ἡμεῖς ἀεί.
+</p></sp></div2></div1></body></text></TEI.2>

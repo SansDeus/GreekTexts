@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><milestone ed="p" n="259" unit="card" />
+</sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Ἄλκηστις</speaker>
+<l>ἄγει μ᾽ ἄγει τις: ἄγει μέ τις （οὐχ</l>
+<l n="260">ὁρᾷς;） νεκύων ἐς αὐλάν,</l>
+<l>ὑπ᾽ ὀφρύσι κυαναυγέσι</l>
+<l>βλέπων πτερωτός Ἅιδας.</l>
+<l>τί ῥέξεις; ἄφες. οἵαν ὁδὸν ἁ</l>
+<l n="263b">δειλαιοτάτα προβαίνω.</l>
+</sp></div2></div1></body></text></TEI.2>

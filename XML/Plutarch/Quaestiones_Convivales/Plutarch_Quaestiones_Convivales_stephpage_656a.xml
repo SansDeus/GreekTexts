@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="7" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-656a" n="656a" />
+                     <quote rend="blockquote">τυρῷ καὶ μέλιτι γλυκερῷ καὶ ἡδέι
+                        οἴνῳ:</quote>
+                     <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">ν</foreign> 69</note> τὸν γὰρ οἶνον ἐν ἀρχῇ μὲν εἶναι
+                     γλυκύν, γίγνεσθαι δ᾽ ἡδὺν ὅταν εἰς τὸ αὐστηρὸν τῇ πέψει μεταβάλῃ
+                     παλαιούμενος. </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>Ἀρισταίνετος δ᾽ ὁ Νικαεὺς ἔν τισιν ἐνίοις <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐνίοις</foreign>]
+                           <foreign lang="greek">ἔναγχος</foreign> τυρνεβυς</note>
+                     <milestone unit="tlnum" n="20" /> γράμμασιν ἀνεγνωκὼς ἔφη μνημονεύειν,
+                     ὅτι γλεῦκος μιχθὲν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">γλεῦκος μιχθὴν</foreign> σξριπσι ξυμ αμψοτο:
+                           <foreign lang="greek">γλυκὺς</foreign> ῾πριυς <foreign lang="greek">ν</foreign> ιν ρας. ϝδ̓ <foreign lang="greek">μιχθεῖς</foreign> ξφ.
+                        αριστοτ. π. 872 33β</note> οἴνῳ παύει μέθην: τῶν δ᾽ ἰατρῶν τινας
+                     λέγει <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἔλεγεν</foreign> τυρνεβυς</note> τοὺς πλέον πιόντας κελεύειν
+                     ἐμεῖν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐμεῖν</foreign> ω εχ μαξροβ. 7, 7, 17</note>, εἶθ᾽,
+                     ὅταν μέλλωσι καθεύδειν, ἄρτον εἰς μέλι καταβάψαντας <pb id="v.4.p.127" /> ἐμφαγεῖν ἔδοσαν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἔδοσαν</foreign> σξ. <foreign lang="greek">οἱ
+                           ἰατροί</foreign> μυτατα ξονστρυξτιονε</note>. εἴ τι οὖν αἱ
+                     γλυκύτητες ἀμβλύνουσι τὸν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τὸν</foreign> *</note> ἄκρατον,
+                     εἰκότως ὁ νέος οἶνος οὐ μεθύσκει, πρὶν ἂν ἡ γλυκύτης μεταβάλῃ.
+                  </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <p>σφόδρ᾽ οὖν ἀπεδεξάμεθα τὴν εὑρησιλογίαν <milestone unit="tlnum" n="5" />
+                     </p></div3></div2></div1></body></text></TEI.2>

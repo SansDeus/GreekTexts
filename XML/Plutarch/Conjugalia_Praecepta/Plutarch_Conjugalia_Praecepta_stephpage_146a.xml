@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="48" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-146a" n="146a" /> πρός τινα πλουσίαν <quote rend="blockquote">
+                        <l>κατθάνοισα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κατθάνοισα</foreign> π. 646 φ: <foreign lang="greek">κατθανοῦσα</foreign></note> δὲ κείσεαι, οὐδέ τις μναμοσύνα σέθεν </l>
+                        <l>ἔσεται: οὐ γὰρ πεδέχεις <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πεδέχεις</foreign> ιβιδεμ: <foreign lang="greek">παῖδ᾽ ἔχεις</foreign></note> ῥόδων <milestone unit="tlnum" n="5" />
+                     </l>
+                     <l>τῶν ἐκ Πιερίας</l>
+                  </quote>, πῶς οὐχί σοι μᾶλλον ἐξέσται μέγα φρονεῖν ἐφ᾽ ἑαυτῇ καὶ
+                  λαμπρόν, ἂν μὴ τῶν ῥόδων ἀλλὰ καὶ τῶν καρπῶν μετέχῃς, ὧν αἱ
+                  Μοῦσαι φέρουσι καὶ χαρίζονται τοῖς παιδείαν καὶ φιλοσοφίαν
+                  θαυμάζουσιν;</p>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" n="30" org="uniform" sample="complete"><div2 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-220d" n="220d" />
+               </p>
+            </div2>
+         </div1>
+         <div1 type="chapter" n="31" org="uniform" sample="complete">
+            <head>Ἐυβοίδου</head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <p>Εὐβοίδας ἀκούων τινῶν ἐπαινούντων γυναῖκα ἀλλοτρίαν οὐκ ἀπεδέχετο,
+                  φήσας ὅλως περὶ γυναικείας φύσεως παρὰ τοῖς ἔξω λόγον εἶναι οὐδένα
+                  δεῖ.</p>
+            </div2>
+         </div1>
+         <div1 type="chapter" n="32" org="uniform" sample="complete">
+            <head>Ἐυδαμίδου τοῦ Ἀρχιδάμου</head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <p>Εὐδαμίδας ὁ Ἀρχιδάμου, ἀδελφὸς δὲ Ἄγιδος, <milestone unit="tlnum" n="20" /> ἰδὼν Ξενοκράτην ἐν Ἀκαδημείᾳ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἀκαδημείᾳ</foreign> *: <foreign lang="greek">ἀκαδημίᾳ</foreign></note> πρεσβύτερον ἤδη <pb id="v.2.p.135" /> μετὰ
+                  τῶν γνωρίμων φιλοσοφοῦντα, ἐπύθετο τίς ὁ πρεσβύτης: φαμένου δέ τινος
+                  ὅτι σοφὸς ἀνὴρ καὶ τῶν ζητούντων τὴν ἀρετήν, <q direct="unspecified">καὶ πότε</q> ἔφη
+                     <q direct="unspecified">χρήσεται αὐτῇ, ἐὰν ἄρτι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἄρτι</foreign>] <foreign lang="greek">ἔτι</foreign>̣</note> ζητῇ; <milestone unit="tlnum" n="5" />
+                  </q>
+               </p>
+            </div2>
+            <div2 type="section" n="2" org="uniform" sample="complete">
+               </div2></div1></body></text></TEI.2>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="837" unit="card" />
+</p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἐμὲ παθεῖν τάδε, φεῦ,
+<lb />ἐμὲ παλαιόφρονα κατά τε γᾶς οἰκεῖν,
+<lb />φεῦ, ἀτίετον μύσος.
+<lb rend="displayNum" n="840" />πνέω τοι μένος ἅπαντά τε κότον.
+<lb />οἶ οἶ δᾶ, φεῦ.
+<lb />τίς μ᾽ ὑποδύεται, <add>τίς</add> ὀδύνα πλευράς ;
+<lb />θυμὸν ἄιε, μᾶτερ
+<lb rend="displayNum" n="845" />Νύξ: ἀπὸ γάρ με τι-
+<lb />μᾶν δαναιᾶν θεῶν
+<lb />δυσπάλαμοι παρ᾽ οὐδὲν ἦραν δόλοι.
+</p></sp></div2></div1></body></text></TEI.2>

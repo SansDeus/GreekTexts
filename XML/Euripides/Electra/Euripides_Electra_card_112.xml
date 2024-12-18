@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="112" unit="card" />
+</p></sp>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb />σύντειν᾽ — ὥρα — ποδὸς ὁρμάν: ὤ,
+<lb />ἔμβα, ἔμβα κατακλαίουσα:
+<lb />ἰώ μοί μοι.
+<lb rend="displayNum" n="115" />ἐγενόμαν Ἀγαμέμνονος
+<lb />καί μ᾽ ἔτεκεν Κλυταιμήστρα
+<lb />στυγνὰ Τυνδάρεω κόρα,
+<lb />κικλήσκουσι δέ μ᾽ ἀθλίαν
+<lb />Ἠλέκτραν πολιῆται.
+<lb rend="displayNum" n="120" />φεῦ φεῦ σχετλίων πόνων
+<lb />καὶ στυγερᾶς ζόας.
+<lb />ὦ πάτερ, σὺ δ᾽ ἐν Ἀΐδα
+<lb />κεῖσαι, σᾶς ἀλόχου σφαγαῖς
+<lb />Αἰγίσθου τ᾽, Ἀγάμεμνον.
+</p></sp></div2></div1></body></text></TEI.2>

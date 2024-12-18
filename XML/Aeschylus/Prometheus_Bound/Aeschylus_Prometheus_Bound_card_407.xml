@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="407" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />πρόπασα δ᾽ ἤδη στονόεν λέλακε χώρα,
+<lb />μεγαλοσχήμονά ἀρχαι-
+<lb />οπρεπῆ <add> </add>   στένουσι τὰν σὰν
+<lb rend="displayNum" n="410" />ξυνομαιμόνων τε τιμάν,
+<lb />ὁπόσοι τ᾽ ἔποικον ἁγνᾶς
+<lb />Ἀσίας ἕδος νέμονται,
+<lb />μεγαλοστόνοισι σοῖς πή-
+<lb />μασι συγκάμνουσι θνατοί.
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="10" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-542e" n="542e" />
+            </p>
+         </div1>
+         <div1 type="section" n="11" org="uniform" sample="complete">
+            <p>ταῦτα μὲν οὖν καὶ ἄλλως ἐπίστασθαι καὶ <milestone unit="tlnum" n="10" />
+               παραφυλάττειν τῷ πολιτικῷ προσήκει. τοὺς δ᾽ ἀναγκασθέντας ἐπαινεῖν
+               αὑτοὺς ἐλαφροτέρους παρέχει καὶ τὸ μὴ πάντα προσποιεῖν ἑαυτοῖς, ἀλλ᾽
+               ὥσπερ φορτίου τῆς δόξης τὸ μὲν εἰς τὴν τύχην τὸ δ᾽ εἰς τὸν θεὸν
+               ἀποτίθεσθαι. διὸ καλῶς μὲν ὁ Ἀχιλλεύς <milestone unit="tlnum" n="15" />
+               <quote rend="blockquote"> ἐπεὶ δὴ τόνδ᾽ ἄνδρα θεοὶ δαμάσασθαι ἔδωκαν </quote>
+               <note resp="ed" place="unspecified" anchored="yes">ηομ. χ 379</note> καλῶς δὲ
+               Τιμολέων, ἐν Συρακούσαις Αὐτοματίας βωμὸν ἱδρυσάμενος ἐπὶ ταῖς πράξεσι
+               καὶ τὴν οἰκίαν <q direct="unspecified">ἀγαθῷ δαίμονι</q> καθιερώσας: ἄριστα δὲ Πύθων ὁ
+               Αἴνιος, ἐπειδὴ Κότυν ἀποκτείνας ἧκεν εἰς Ἀθήνας <milestone unit="tlnum" n="20" />
+               </p></div1></body></text></TEI.2>

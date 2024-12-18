@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><milestone ed="p" n="392" unit="card" />
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />κυάνεαι κυάνεαι
+<lb />σύνοδοι θαλάσσας, ἵν᾽ οἶ-
+<lb />στρος ὁ πετόμενος Ἀργόθεν ἄ-
+<lb rend="displayNum" n="395" />ξενον ἐπ᾽ οἶδμα διεπέρασεν — 
+<lb />Ἀσιήτιδα γαῖαν
+<lb />Εὐρώπας διαμείψας.
+<lb rend="displayNum" n="399" />τίνες ποτ᾽ ἄρα τὸν εὔυδρον δονακόχλοα
+<lb rend="displayNum" n="400" />λιπόντες Εὐρώταν ἢ
+<lb />ῥεύματα σεμνὰ Δίρκας
+<lb />ἔβασαν ἔβασαν ἄμεικτον αἶαν, ἔνθα κούρᾳ
+<lb />δίᾳ τέγγει
+<lb rend="displayNum" n="405" />βωμοὺς καὶ περικίονας
+<lb />ναοὺς αἷμα βρότειον;
+</p></sp></div2></div1></body></text></TEI.2>

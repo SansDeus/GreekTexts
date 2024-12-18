@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><milestone ed="p" n="141" unit="card" /></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>οἰκτροτάτα γὰρ ἔμοιγ᾽ ἔμολες, γύναι Ἰλιάς, οἴκους</l>
+<l>δεσποτᾶν ἐμῶν: φόβῳ δ᾽</l>
+<l>ἡσυχίαν ἄγομεν</l>
+<l>（τὸ δὲ σὸν οἴκτῳ φέρουσα τυγχάνω）</l>
+<l n="145">μὴ παῖς τᾶς Διὸς κόρας</l>
+<l>σοί μ᾽ εὖ φρονοῦσαν εἰδῇ.</l>
+</sp></div2></div1></body></text></TEI.2>

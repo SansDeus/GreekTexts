@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="trochees" org="uniform" sample="complete"><sp><p><milestone ed="p" n="862" unit="card" />
+</p></sp></div2>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἆρ᾽ ἐν παννυχίοις χοροῖς
+<lb />θήσω ποτὲ λευκὸν
+<lb />πόδ᾽ ἀναβακχεύουσα, δέραν
+<lb rend="displayNum" n="865" />εἰς αἰθέρα δροσερὸν ῥίπτουσ᾽,
+<lb />ὡς νεβρὸς χλοεραῖς ἐμπαί-
+<lb />ζουσα λείμακος ἡδοναῖς,
+<lb />ἡνίκ᾽ ἂν φοβερὰν φύγῃ
+<lb />θήραν ἔξω φυλακᾶς
+<lb rend="displayNum" n="870" />εὐπλέκτων ὑπὲρ ἀρκύων,
+<lb />θωΰσσων δὲ κυναγέτας
+<lb />συντείνῃ δράμημα κυνῶν:
+<lb />μόχθοις τ᾽ ὠκυδρόμοις τ᾽ ἀέλ-
+<lb />λαις θρῴσκει πεδίον
+<lb />παραποτάμιον, ἡδομένα
+<lb rend="displayNum" n="875" />βροτῶν ἐρημίαις σκιαρο-
+<lb />κόμοιό τ᾽ ἔρνεσιν ὕλας.
+<lb />τί τὸ σοφόν; ἢ τί τὸ κάλλιον
+<lb />παρὰ θεῶν γέρας ἐν βροτοῖς
+<lb />ἢ χεῖρ᾽ ὑπὲρ κορυφᾶς
+<lb rend="displayNum" n="880" />τῶν ἐχθρῶν κρείσσω κατέχειν;
+<lb />ὅ τι καλὸν φίλον ἀεί.
+</p></sp></div2></div1></body></text></TEI.2>

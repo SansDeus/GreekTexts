@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><div2 type="chapter" n="6" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-640e" n="640e" /> τὰ φλοιώδη καὶ νοτερὰ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καὶ
+                              νοτερὰ</foreign> τυρνεβυς: <foreign lang="greek">καινοτερὰ</foreign>
+                           ῾ϝδ̓; μαλιμ <foreign lang="greek">καὶ τὰ νοτερὰ</foreign></note> καὶ
+                        τὰ μαλακὰ τοῖς ὑπὸ τὸν φλοιὸν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φλοιὸν</foreign> *: <foreign lang="greek">φλοιὸν ὄντα</foreign> ορδο ϝερβορυμ εστ: <foreign lang="greek">ὥστε ὥσπερ τὰ φλ. καὶ ν. καὶ τὰ μαλ. τοῖς ὑπὸ
+                              τὸν φλ. μέρεσι προσδεχομένοις</foreign> ῾σξ. <foreign lang="greek">τὸ ἐντεθειμένον</foreign> ῾ξφ. π. 290 φ̓ <foreign lang="greek">περιπτύσσεται</foreign>᾿ <foreign lang="greek">κολλώμενα, οὕτω
+                              καὶ τὸν φλ. περιπτ. κολλ.</foreign></note> μέρεσι προσδεχομένοις
+                        περιπτύσσεσθαι <milestone unit="tlnum" n="5" /> κολλώμενον.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <p>αὐτὸς δὲ Σώκλαρος ἔφη καὶ τὸν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τὸν</foreign> ρ</note> ταῦτα λέγοντα
+                     μὴ κακῶς προσεννοεῖν, ὅτι δεῖ τὸ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τὸ</foreign> χ: <foreign lang="greek">τὸν</foreign></note> δεχόμενον ἑτέραν φύσιν εὔτρεπτον εἶναι,
+                     ἵνα κρατηθὲν ἐξομοιωθῇ καὶ μεταβάλῃ τὴν ἐν ἑαυτῷ τροφὴν πρὸς
+                        <milestone unit="tlnum" n="10" /> τὸ ἐμφυτευόμενον. <q direct="unspecified">καὶ γὰρ τὴν γῆν
+                        προδιαλύομεν καὶ μαλάσσομεν, ἵνα κοπεῖσα μεταβάλῃ δι᾽ εὐπάθειαν
+                        καὶ ἅψηται τῶν ἐμφυτευομένων ἡ γὰρ ἀτενὴς καὶ σκληρὰ
+                        δυσμετάβλητος. ταῦτα δὲ τὰ δένδρα κοῦφα τοῖς ξύλοις ὄντα κρᾶσιν
+                        οὐ ποιεῖ διὰ τὸ μὴ κρατεῖσθαι <milestone unit="tlnum" n="15" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

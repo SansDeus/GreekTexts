@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="13" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-743c" n="743c" />
+                        <quote rend="blockquote">
+                           <l>Ζεῦ πάτερ, οὔ τις σεῖο θεῶν ὀλοώτερος ἄλλος: </l>
+                           <l>ἦ τ᾽ ἐφάμην τίσασθαι Ἀλέξανδρον κακότητος, </l>
+                           <l>νῦν δέ μοι ἐν χείρεσσιν ἄγη <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">χείρεσσ᾽ ἐάγη</foreign> ηομερυς <foreign lang="greek">Γ</foreign> 365</note> ξίφος, ἐκ δέ μοι ἔγχος </l>
+                           <l>ἠίχθη παλάμηφιν ἐτώσιον, οὐδ᾽ ἔβαλόν μιν </l>
+                        </quote>
+                        <milestone unit="tlnum" n="10" />αὐτὸς γὰρ ὁμολογεῖ μηδὲν εἶναι τὸ
+                        διακόψαι τὸ ἀσπίδιον καὶ λαβεῖν ἀπορρυὲν τὸ κράνος, εἰ μὴ βάλοι <note resp="ed" place="unspecified" anchored="yes">προβλεματα αντεα ξοντινυατα δισιυνχιτ ω</note>
+                           <milestone unit="tlnum" n="15" /> μηδ᾽ ἀποκτείνειε τὸν πολέμιον.</q>
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="14" org="uniform" sample="complete">
+               <head> Περὶ τοῦ ἀριθμοῦ τῶν Μουσῶν ὅσα λέγεται μὴ κοινῶς.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>ἐκ τούτου σπονδὰς ἐποιησάμεθα ταῖς Μούσαις, καὶ τῷ Μουσηγέτῃ
+                     Ἀπόλλωνι παιανίσαντες <milestone unit="tlnum" n="20" /> συνῄσαμεν τῷ
+                     Ἐράτωνι πρὸς τὴν λύραν ἐκ τῶν </p></div3></div2></div1></body></text></TEI.2>

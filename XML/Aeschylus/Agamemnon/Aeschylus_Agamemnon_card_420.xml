@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><milestone ed="p" n="420" unit="card" />
+<sp n="*xoro/s">
+<speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="420" /><q direct="unspecified">ὀνειρόφαντοι δὲ πενθήμονες
+<lb />πάρεισι δόξαι φέρου-
+<lb />σαι χάριν ματαίαν.
+<lb />μάταν γάρ, εὖτ᾽ ἂν ἐσθλά τις δοκῶν ὁρᾷ,
+<lb />παραλλάξασα διὰ
+<lb rend="displayNum" n="425" />χερῶν βέβακεν ὄψις οὐ μεθύστερον
+<lb />πτεροῖς ὀπαδοῦσ᾽ ὕπνου κελεύθοις.</q>
+<lb />τὰ μὲν κατ᾽ οἴκους ἐφ᾽ ἑστίας ἄχη
+<lb />τάδ᾽ ἐστὶ καὶ τῶνδ᾽ ὑπερβατώτερα.
+<lb />τὸ πᾶν δ᾽ ἀφ᾽ Ἕλλανος αἴας συνορμένοις
+<lb rend="displayNum" n="430" />πένθει᾽ ἀτλησικάρδιος
+<lb />δόμων ἑκάστου πρέπει.
+<lb />πολλὰ γοῦν θιγγάνει πρὸς ἧπαρ:
+<lb />οὓς μὲν γάρ <add>τις</add> ἔπεμψεν
+<lb />οἶδεν, ἀντὶ δὲ φωτῶν
+<lb rend="displayNum" n="435" />τεύχη καὶ σποδὸς εἰς ἑκά-
+<lb />στου δόμους ἀφικνεῖται.</p></sp></div2>
+<div2 type="strophe" n="3" org="uniform" sample="complete">
+</div2></div1></body></text></TEI.2>

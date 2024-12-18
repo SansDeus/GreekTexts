@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="10" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-628b" n="628b" /> . ἔσχε γὰρ ὁ ἀγὼν
+                     ἐντονωτάτην ἅμιλλαν, <milestone unit="tlnum" n="15" /> ἀγωνοθετοῦντος
+                     ἐνδόξως καὶ μεγαλοπρεπῶς Φιλοπάππου τοῦ βασιλέως ταῖς φυλαῖς ὁμοῦ
+                     πάσαις χορηγοῦντος. ἐτύγχανε δὲ συνεστιώμενος ἡμῖν καὶ τῶν παλαιῶν
+                     τὰ μὲν λέγων τὰ δ᾽ ἀκούων διὰ φιλανθρωπίαν οὐχ ἧττον ἢ
+                     φιλομάθειαν.</p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="20" />
+                  <p>Προεβλήθη δέ τι τοιοῦτον ὑπὸ Μάρκου τοῦ γραμματικοῦ. Νεάνθη <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Νεάνθη</foreign>] ξφ. μυελλερ. 3 π. 10</note> τὸν Κυζικηνὸν ἔφη
+                     λέγειν ἐν τοῖς κατὰ πόλιν μυθικοῖς, ὅτι τῇ Αἰαντίδι φυλῇ <pb id="v.4.p.46" /> γέρας ὑπῆρχε τὸ μὴ κρίνεσθαι τὸν αὐτῆς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὐτῆς</foreign> χ: 5 ϝδ 8 ε</note> χορὸν ἔσχατον: εἰ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">εἰ</foreign> *: λαξ. 3 ϝδ 5 π</note> μὲν οὖν ἔφη πρὸς ἀπόδειξιν
+                        <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πρὸς ἀπόδειξιν</foreign> δοεηνερβυς: <foreign lang="greek">προ</foreign> 8 ϝδ 7 ε <foreign lang="greek">ξιν</foreign></note>
+                     ἱστορίας ὁ ἀνα <note resp="ed" place="unspecified" anchored="yes">λαξ. 8-9
+                        ϝδ 4 ε. φορτ. <foreign lang="greek">ὁ ἀναφέρων</foreign> ῾αυτ <foreign lang="greek">ὁ ἀναγράψας</foreign> ξυμ μυελλερὀ <foreign lang="greek">ἱκανός, ἐῶ: εἰ δὲ</foreign> ξεττ</note> εἰ δὲ τοῦτὸ γ᾽ οὐ
+                     νοθεύει <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">γ᾽ οὐ νοθεύει</foreign> *: <foreign lang="greek">γοῦν
+                           νοθεύει</foreign></note>, προκείσθω τῆς αἰτίας ἐν κοινῷ πᾶσιν ἡ
+                     ζήτησις εἰπόντος δὲ τοῦ <milestone unit="tlnum" n="5" /> ἑταίρου
+                     Μίλωνος <q direct="unspecified">ἂν οὖν ψεῦδος ᾖ τὸ λεγόμενον; </q>
+                     </p></div3></div2></div1></body></text></TEI.2>

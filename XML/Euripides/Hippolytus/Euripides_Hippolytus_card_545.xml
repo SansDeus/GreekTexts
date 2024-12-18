@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><milestone ed="p" n="545" unit="card" /></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l n="545">τὰν μὲν Οἰχαλίᾳ</l>
+<l>πῶλον ἄζυγα λέκτρων, ἄναν-</l>
+<l>δρον τὸ πρὶν καὶ ἄνυμφον, οἴ-</l>
+<l>κων ζεύξασ᾽ ἀπ᾽ Εὐρυτίων</l>
+<l n="550">δρομάδα ναΐδ᾽ ὅπως τε βάκ-</l>
+<l>χαν σὺν αἵματι, σὺν καπνῷ,</l>
+<l>φονίοισι νυμφείοις</l>
+<l>Ἀλκμήνας τόκῳ Κύπρις ἐξέδωκεν:</l>
+<l>ὦ τλάμων ὑμεναίων.</l>
+</sp></div2></div1></body></text></TEI.2>

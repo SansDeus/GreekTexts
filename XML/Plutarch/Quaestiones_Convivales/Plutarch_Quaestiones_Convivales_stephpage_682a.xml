@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="7" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-682a" n="682a" /> τῆς ὄψεως,
+                        ὥσθ᾽ ἧττον ἐπερείδειν τοῖς πάσχουσιν. αὗταί σοι</q> εἶπον
+                        <q direct="unspecified">ὦ Φλῶρε, συμβολαὶ τῆς εὐωχίας ἀπηριθμήσθωσαν.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="4" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="10" />
+                  <p>καὶ ὁ Σώκλαρος <q direct="unspecified">ἂν γ᾽</q> ἔφη <q direct="unspecified">πρότερον ἡμεῖς αὐτὰ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὐτὰς</foreign> ρ</note> δοκιμάσωμεν: ἔστι γὰρ ὅ τι τοῦ
+                        λόγου καταφαίνεται κίβδηλον. εἰ γὰρ ἃ λέγουσι πολλοὶ περὶ τῶν
+                        βασκαινομένων ὡς ἀληθῆ τίθεμεν, οὐκ ἀγνοεῖς δήπουθεν ὅτι καὶ
+                        φίλους καὶ οἰκείους, ἔνιοι δὲ καὶ <milestone unit="tlnum" n="15" />
+                        πατέρας ἔχειν ὀφθαλμὸν βάσκανον ὑπολαμβάνουσιν, ὥστε μὴ
+                        δεικνύναι τὰς γυναῖκας αὐτοῖς τὰ παιδία μηδὲ πολὺν ἐᾶν χρόνον
+                        ὑπὸ τῶν τοιούτων καταβλέπεσθαι: πῶς οὖν ἔτι δόξει φθόνου τὸ
+                        πάθος </q></p></div3></div2></div1></body></text></TEI.2>

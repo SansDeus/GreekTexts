@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><div2 type="chapter" n="0" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-717b" n="717b" /> καὶ
+                     εἰπεῖν συνέτυχεν ἡμῖν, πρῶτα τοῦτο περιέχει τὸ βιβλίον. ἔστι δὲ
+                     τῶν συμποσιακῶν ὄγδοον. <pb id="v.4.p.304" />
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="1" org="uniform" sample="complete">
+               <head> Περὶ ἡμερῶν ἐν αἷς γεγόνασί τινες τῶν ἐπιφανῶν: ἐν ᾧ καὶ
+                  περὶ τῆς λεγομένης ἐκ θεῶν γενέσεως.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="5" />
+                  <p>τῇ ἕκτῃ τοῦ Θαργηλιῶνος ἱσταμένου τὴν Σωκράτους ἀγαγόντες
+                     γενέθλιον, τῇ ἑβδόμῃ τὴν Πλάτωνος ἢγομεν, καὶ τοῦτο πρῶτον
+                     λόγους ἡμῖν παρεῖχε <milestone unit="tlnum" n="10" /> τῇ συντυχίᾳ
+                     πρέποντας, ὧν κατῆρξε Διογενιανὸς ὁ Περγαμηνός. ἔφη γὰρ οὐ φαύλως
+                     εἰπεῖν Ἴωνα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἰωνα</foreign>] ξφ. π. 416 δ</note> περὶ τῆς τύχης
+                     ὅτι πολλὰ τῆς σοφίας διαφέρουσα πλεῖστ᾽ αὐτῇ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὐτῇ</foreign>]
+                        δελεϝεριμ</note> ὅμοια ποιεῖ τοῦτο μέντοι μουσικῶς ἔοικεν
+                     ἀπαυτοματίσαι τὸ μὴ μόνον οὕτω σύνεγγυς, <milestone unit="tlnum" n="15" /> ἀλλὰ καὶ πρότερον τῇ δόξῃ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δόξῃ</foreign>] <foreign lang="greek">τάξει</foreign> μ</note> γεγονέναι τὸν πρεσβύτερον </p></div3></div2></div1></body></text></TEI.2>

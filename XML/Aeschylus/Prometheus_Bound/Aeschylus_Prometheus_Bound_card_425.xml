@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="425" unit="card" /></p></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="425" />†μόνον δὴ  πρόσθεν ἄλλον ἐν πόνοις
+<lb />δαμέντ᾽ ἀδαμαντοδέτοις
+<lb />Τιτᾶνα λύμαις εἰσιδόμαν, θεόν,
+<lb />Ἄτλαντος <del status="unremarkable">αἰὲν</del>;  ὑπέροχον  σθένος κραταιόν,
+<lb /><add>ὃς</add> οὐράνιόν <del status="unremarkable">τε</del> πόλον
+<lb rend="displayNum" n="430" />νώτοις <add>στέγων</add> ὑποστενάζει.†</p></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />βοᾷ δὲ πόντιος κλύδων
+<lb />ξυμπίτνων, στένει βυθός,
+<lb />κελαινὸς δ᾽ Ἄιδος ὑποβρέμει μυχὸς γᾶς,
+<lb />παγαί θ᾽ ἁγνορύτων ποταμῶν
+<lb rend="displayNum" n="435" />στένουσιν ἄλγος οἰκτρόν.
+</p></sp></div2></div1></body></text></TEI.2>

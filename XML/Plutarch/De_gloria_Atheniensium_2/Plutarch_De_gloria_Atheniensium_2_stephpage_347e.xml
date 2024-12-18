@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-347e" n="347e" /> ἐξάγγελοί τινές εἰσι τῶν πράξεων εὔφωνοι καὶ τῷ λόγῳ διὰ τὸ
+               κάλλος καὶ τὴν δύναμιν ἐξικνούμενοι, οἷς εὐαγγέλιον ὀφείλουσιν οἱ
+               πρώτως ἐντυγχάνοντες <milestone unit="tlnum" n="5" /> καὶ ἱστοροῦντες. ἀμέλει
+               δὲ καὶ ἐγκωμιάζονται μνημονευόμενοι καὶ ἀναγιγνωσκόμενοι διὰ τοὺς
+               κατορθώσαντας: οὐ γὰρ οἱ λόγοι ποιοῦσι τὰς πράξεις ἀλλὰ διὰ τὰς πράξεις <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀλλὰ διὰ τὰς πράξεις</foreign> μαδϝιγιυς</note>
+               καὶ ἀκοῆς; ἀξιοῦνται. </p>
+         </div1>
+         <div1 type="section" n="4" org="uniform" sample="complete">
+            <p>καὶ γὰρ ἡ ποιητικὴ χάριν ἔσχε καὶ τιμὴν τῷ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τῷ</foreign></note> <milestone unit="tlnum" n="10" /> τοῖς πεπραγμένοις ἐοικότα λέγειν, ὡς Ὅμηρος ἔφη <quote rend="blockquote"> ἴσκε <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἴσκε</foreign> ηομερυς <foreign lang="greek">τ</foreign> 203: <foreign lang="greek">ἴσχε</foreign></note> ψεύδεα πολλὰ λέγων ἐτύμοισιν ὁμοῖα. </quote>
+               λέγεται δὲ καὶ Μενάνδρῳ τῶν συνήθων τις εἰπεῖν </p></div1></body></text></TEI.2>

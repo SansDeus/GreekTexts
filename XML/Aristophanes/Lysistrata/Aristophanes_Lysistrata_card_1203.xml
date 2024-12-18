@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1203" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="3" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />εἰ δέ τῳ μὴ σῖτος ὑμῶν
+<lb />ἔστι, βόσκει δ᾽ οἰκέτας καὶ
+<lb rend="displayNum" n="1205" />σμικρὰ πολλὰ παιδία,
+<lb />ἔστι παρ᾽ ἐμοῦ λαβεῖν πυρίδια λεπτὰ μέν,
+<lb />ὁ δ᾽ ἄρτος ἀπὸ χοίνικος ἰδεῖν μάλα νεανίας.
+<lb />ὅστις οὖν βούλεται τῶν πενήτων ἴτω
+<lb />εἰς ἐμοῦ σάκκους ἔχων καὶ
+<lb rend="displayNum" n="1210" />κωρύκους, ὡς λήψεται πυ-
+<lb />ρούς: ὁ Μανῆς δ᾽
+<lb />οὑμὸς αὐτοῖς ἐμβαλεῖ.
+<lb />πρός γε μέντοι τὴν θύραν
+<lb />προαγορεύω μὴ βαδίζειν
+<lb />τὴν ἐμήν, ἀλλ᾽
+<lb rend="displayNum" n="1215" />εὐλαβεῖσθαι τὴν κύνα.
+</p></sp></div2></div1></body></text></TEI.2>

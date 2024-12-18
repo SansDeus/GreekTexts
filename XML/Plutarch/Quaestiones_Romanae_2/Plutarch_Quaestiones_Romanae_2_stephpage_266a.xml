@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="7" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-266a" n="266a" /> ὅτι δεῖ καὶ γυναιξὶ
+               κοινὰ τὰ ἀνδρῶν εἶναι καὶ ἀνδράσι τὰ γυναικῶν; μανθάνει γὰρ ὁ λαβὼν
+               τὸ δοθὲν ἀλλότριον ἡγεῖσθαι τὸ μὴ δοθέν, ὥστ᾽ ὀλίγον διδόντες
+               ἀλλήλοις τὸ πᾶν ἀφαιροῦνται. </p>
+         </div1>
+         <div1 type="section" n="8" org="uniform" sample="complete">
+            <p>
+               <q direct="unspecified">διὰ τί δὲ παρὰ γαμβροῦ καὶ παρὰ πενθεροῦ <milestone unit="tlnum" n="25" />
+                  λαβεῖν ἐκείνοις κεκώλυται δῶρον;᾽</q> ἦ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἤ</foreign> δυεβνερυς ηιξ ετ ινφρα:
+                     <foreign lang="greek">ἢ</foreign></note> παρὰ γαμβροῦ μέν, ἵνα μὴ
+               δόξῃ διὰ τοῦ πατρὸς εἰς τὴν γυναῖκα περιχωρεῖν τὸ δῶρον: παρὰ πενθεροῦ
+               δέ, ὅτι τὸν μὴ: διδόντα δίκαιον ἐφάνη μηδὲ λαμβάνειν; <pb id="v.2.p.256" />
+               </p></div1></body></text></TEI.2>

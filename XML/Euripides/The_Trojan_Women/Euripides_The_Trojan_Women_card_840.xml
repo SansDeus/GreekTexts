@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="840" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="840" />Ἔρως Ἔρως, ὃς τὰ Δαρδάνεια μέλαθρά ποτ᾽ ἦλθες
+<lb rend="displayNum" n="842" />οὐρανίδαισι μέλων,
+<lb rend="displayNum" n="844" />ὡς τότε μὲν μεγάλως Τροίαν ἐπύργωσας, θεοῖσι
+<lb rend="displayNum" n="845" />κῆδος ἀναψάμενος. τὸ μὲν οὖν Διὸς
+<lb />οὐκέτ᾽ ὄνειδος ἐρῶ:
+<lb />τὸ τᾶς δὲ λευκοπτέρου
+<lb rend="displayNum" n="849" />φίλιον Ἁμέρας βροτοῖς
+<lb rend="displayNum" n="850" />φέγγος ὀλοὸν εἶδε γαῖαν,
+<lb />εἶδε περγάμων ὄλεθρον,
+<lb />τεκνοποιὸν ἔχουσα τᾶσδε
+<lb rend="displayNum" n="854" />γᾶς πόσιν ἐν θαλάμοις,
+<lb rend="displayNum" n="855" />ὃν ἀστέρων τέθριππος ἔλα-
+<lb />βε χρύσεος ὄχος ἀναρπάσας,
+<lb />ἐλπίδα γᾷ πατρίᾳ μεγάλαν: τὰ θεῶν δὲ
+<lb />φίλτρα φροῦδα Τροίᾳ.
+</p></sp></div2></div1></body></text></TEI.2>

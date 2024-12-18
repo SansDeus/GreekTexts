@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="306" unit="card" />
+</p></sp>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ἀλλ᾽ ὦ μεγάλαι Μοῖραι, Διόθεν
+<lb />τῇδε τελευτᾶν,
+<lb />τὸ δίκαιον μεταβαίνει.
+<lb />ἀντὶ μὲν ἐχθρᾶς γλώσσης ἐχθρὰ
+<lb rend="displayNum" n="310" />γλῶσσα τελείσθω: τοὐφειλόμενον
+<lb />πράσσουσα Δίκη  μέγ᾽ ἀυτεῖ:
+<lb />ἀντὶ δὲ πληγῆς φονίας φονίαν
+<lb />πληγὴν τινέτω.  δράσαντι παθεῖν,
+<lb />τριγέρων μῦθος τάδε φωνεῖ.
+</p></sp></div2></div1></body></text></TEI.2>

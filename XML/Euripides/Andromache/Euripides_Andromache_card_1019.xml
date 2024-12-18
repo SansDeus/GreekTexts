@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><milestone ed="p" n="1019" unit="card" /></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>πλείστους δ᾽ ἐπ᾽ ἀκταῖσιν Σιμοεντίσιν εὐίππους ὄχους</l>
+<l n="1020">ἐζεύξατε καὶ φονίους ἀνδρῶν ἁμίλ-</l>
+<l>λας ἔθετ᾽ ἀστεφάνους:</l>
+<l>ἀπὸ δὲ φθίμενοι βεβᾶσιν</l>
+<l>Ἰλιάδαι βασιλῆες,</l>
+<l n="1025">οὐδ᾽ ἔτι πῦρ ἐπιβώμιον ἐν Τροί-</l>
+<l>ᾳ θεοῖσιν λέλαμ-</l>
+<l>πεν καπνῷ θυώδει.</l>
+</sp></div2></div1></body></text></TEI.2>

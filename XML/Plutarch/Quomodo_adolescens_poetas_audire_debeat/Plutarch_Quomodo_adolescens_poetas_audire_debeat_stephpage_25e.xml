@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="7" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-25e" n="25e" />
+               </p>
+            </div2>
+            <div2 type="section" n="8" org="uniform" sample="complete">
+               <p>οὕτως οὖν τούτων ἐχόντων ἐπάγωμεν τοῖς ποιήμασι τὸν νέον μὴ
+                  τοιαύτας ἔχοντα δόξας περὶ τῶν καλῶν ἐκείνων καὶ μεγάλων ὀνομάτων,
+                  ὡς ἄρα σοφοὶ καὶ δίκαιοι οἱ ἄνδρες ἦσαν, ἄκροι τε βασιλεῖς καὶ
+                  κανόνες ἀρετῆς ἁπάσης καὶ ὀρθότητος. ἐπεὶ <milestone unit="tlnum" n="20" /> βλαβήσεται μεγάλα δοκιμάζων πάντα καὶ τεθηπώς, μὴ δυσχεραίνων δὲ
+                  μηδὲν μηδ᾽ ἀκούων μηδ᾽ ἀποδεχόμενος τοῦ ψέγοντος αὐτοὺς τοιαῦτα
+                  πράττοντας καὶ λέγοντας <quote rend="blockquote">
+                     <l>αἲ γάρ, Ζεῦ τε πάτερ καὶ Ἀθηναίη καὶ Ἄπολλον, <note resp="ed" place="unspecified" anchored="yes">ηομερ. <foreign lang="greek">Π</foreign> 97</note><milestone unit="tlnum" n="25" />
+                     </l>
+                     <l>μήτε τις οὖν Τρώων θάνατον φύγοι, ὅσσοι ἔασι, </l></quote></p></div2></div1></body></text></TEI.2>

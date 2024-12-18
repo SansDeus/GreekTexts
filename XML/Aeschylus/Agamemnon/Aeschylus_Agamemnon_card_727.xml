@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><milestone ed="p" n="727" unit="card" />
+<sp><speaker>Χορός</speaker><p>
+<lb />χρονισθεὶς δ᾽  ἀπέδειξεν ἦ-
+<lb />θος τὸ πρὸς τοκέων: χάριν
+<lb />γὰρ τροφεῦσιν ἀμείβων
+<lb rend="displayNum" n="730" />μηλοφόνοισιν <add>ἐν</add> ἄταις
+<lb />δαῖτ᾽ ἀκέλευστος ἔτευξεν:
+<lb />αἵματι δ᾽ οἶκος ἐφύρθη,
+<lb />ἄμαχον ἄλγος οἰκέταις
+<lb />μέγα σίνος πολυκτόνον.
+<lb rend="displayNum" n="735" />ἐκ θεοῦ δ᾽ ἱερεύς τις ἄ-
+<lb />τας δόμοις προσεθρέφθη.</p></sp></div2>
+<div2 type="strophe" n="3" org="uniform" sample="complete">
+</div2></div1></body></text></TEI.2>

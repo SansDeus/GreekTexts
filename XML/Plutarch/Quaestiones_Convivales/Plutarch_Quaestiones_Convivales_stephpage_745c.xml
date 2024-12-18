@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="14" org="uniform" sample="complete"><div3 type="section" n="4" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-745c" n="745c" /> οὐρανίοις: ὡς
+                           καὶ Πλάτων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Πλάτων</foreign>] ρεπ. π. 617β</note> ᾐνίξατο τοῖς τῶν Μοιρῶν ὀνόμασι τὴν μὲν Ἄτροπον
+                           τὴν δὲ Κλωθὼ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τὴν δὲ Κλωθὼ</foreign>] ινσερυι ποστ <foreign lang="greek">Ἀτροπον</foreign></note> τὴν δὲ Λάχεσιν προσαγορεύσας: ἐπεὶ ταῖς γε τῶν
+                        ὀκτὼ σφαιρῶν περιφοραῖς Σειρῆνας οὐ Μούσας ἰσαρίθμους <milestone unit="tlnum" n="5" /> ἐπέστησεν <note resp="ed" place="unspecified" anchored="yes">χ: <foreign lang="greek">ἐπέστησαν</foreign></note>.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="5" org="uniform" sample="complete">
+                  <p>ὑπολαβὼν δὲ Μενέφυλος ὁ Περιπατητικὸς <q direct="unspecified">τὰ μὲν Δελφῶν</q> εἶπεν
+                     <q direct="unspecified">ἁμωσγέπως <note resp="ed" place="unspecified" anchored="yes">ξοβετυς: <foreign lang="greek">ἄλλως γέ πως</foreign></note> μετέχει πιθανότητος: ὁ δὲ Πλάτων ἄτοπος, ταῖς μὲν
+                        ἀιδίοις καὶ θείαις <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">θείαις</foreign> *: <foreign lang="greek">θείοις</foreign></note> περιφοραῖς ἀντὶ τῶν Μουσῶν τὰς Σειρῆνας
+                           <milestone unit="tlnum" n="10" /> ἐνιδρύων, οὐ πάνυ φιλανθρώπους
+                        οὐδὲ χρηστὰς δαίμονας: τὰς δὲ Μούσας ἢ παραλείπων παντάπασιν ἢ
+                        τοῖς τῶν Μοιρῶν ὀνόμασι προσαγορεύων καὶ καλῶν θυγατέρας
+                        Ἀνάγκης. ἄμουσον γὰρ ἡ Ἀνάγκη μουσικὸν δ᾽ ἡ Πειθώ, καὶ
+                        <quote>Μούσαις <note resp="ed" place="unspecified" anchored="yes">φορτ. <foreign lang="greek">κἀν Μούσαις</foreign></note> φιλοδαμοῦσα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐμφιλοδαμοῦσα</foreign> ω. <foreign lang="greek">ἐμφιληδονοῦσα</foreign> μυλλαξη. 1 π. 62 υτ πλυταρξηι ϝοξαβυλυμ σιτ</note></quote>
+                        <milestone unit="tlnum" n="15" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

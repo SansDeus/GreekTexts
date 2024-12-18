@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="4" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-898e" n="898e" />
+               <p>Πυθαγόρας Πλάτων κατὰ μὲν τὸν ἀνωτάτω λόγον διμερῆ τὴν ψυχήν, τὸ μὲν γὰρ ἔχει λογικὸν τὸ δ᾽
+<milestone unit="tlnum" n="20" /> ἄλογον κατὰ δὲ τὸ προσεχὲς καὶ ἀκριβὲς τριμερῆ,
+τὸ γὰρ ἄλογον διαιροῦσιν εἴς τε τὸ θυμικὸν καὶ τὸ ἐπιθυμητικόν.
+</p>
+               <p>οἱ Στωικοὶ ἐξ ὀκτὼ μερῶν φασι συνεστάναι, πέντε μὲν τῶν αἰσθητικῶν, ὁρατικοῦ ἀκουστικοῦ
+<milestone unit="tlnum" n="25" />
+ὀσφρητικοῦ γευστικοῦ ἁπτικοῦ, ἕκτου δὲ φωνητικοῦ,
+</p></div2></div1></body></text></TEI.2>

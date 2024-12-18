@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="10" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-415c" n="415c" /> ἐκ δὲ δαιμόνων ὀλίγαι μὲν ἐν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐν</foreign> ρ:
+                        <foreign lang="greek">ἔτι</foreign></note> χρόνῳ πολλῷ δι᾽ ἀρετῆς
+                  καθαρθεῖσαι παντάπασι θειότητος μετέσχον: ἐνίαις δὲ συμβαίνει μὴ κρατεῖν
+                  ἑαυτῶν, <milestone unit="tlnum" n="5" /> ἀλλ᾽ ὑφιεμέναις καὶ ἐνδυομέναις
+                     <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐνδυομέναις</foreign> τυρνεβυς: <foreign lang="greek">ἀναλυομέναις</foreign></note> πάλιν σώμασι θνητοῖς ἀλαμπῆ καὶ
+                  ἀμυδρὰν ζωὴν ὥσπερ ἀναθυμίασιν ἴσχειν.</q>
+            </p>
+         </div1>
+         <div1 type="section" n="11" org="uniform" sample="complete">
+            <p>
+               <q direct="unspecified">ὁ δ᾽ Ἡσίοδος οἴεται καὶ περιόδοις τισὶ χρόνων γίγνεσθαι τοῖς δαίμοσι
+                  τὰς τελευτάς: λέγει γὰρ <milestone unit="tlnum" n="10" /> ἐν τῷ τῆς
+                  Ναΐδος προσώπῳ καὶ τὸν χρόνον αἰνιττόμενος <quote rend="blockquote">
+                     <l> ἐννέα τοι ζώει γενεὰς λακέρυζα κορώνη, </l>
+                     <note resp="ed" place="unspecified" anchored="yes">ρζαξη. φρ. 183</note>
+                     <l> ἀνδρῶν ἡβώντων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἡβώντων</foreign>] <foreign lang="greek">γηράντων</foreign> βεργκιυς</note> ἔλαφος δέ τε τετρακόρωνος </l>
+                     <l> τρεῖς δ᾽ ἐλάφους ὁ κόραξ γηράσκεται αὐτὰρ ὁ φοίνιξ <milestone unit="tlnum" n="15" />
+                        </l></quote></q></p></div1></body></text></TEI.2>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-1c" n="1c" /> καὶ κίβδηλον ἐχόντων τὸ γένος σφάλλεσθαι καὶ ταπεινοῦσθαι
+               πέφυκε, καὶ μάλ᾽ ὀρθῶς ὁ λέγων ποιητής <milestone unit="tlnum" n="20" /> φησι
+                  <pb id="v.1.p.2" />
+               <quote rend="blockquote">
+                  <l>δουλοῖ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δουλοῖ</foreign>] ευρ. ηιππ. 424</note> γὰρ ἄνδρα, κἂν
+                     θρασύσπλαγχνός τις ᾖ, </l>
+                  <l>ὅταν συνειδῇ μητρὸς ἢ πατρὸς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μητρὸς ἢ πατρὸς</foreign>
+                        ευριπιδες: <foreign lang="greek">πατρὸς ἢ μητρὸς</foreign></note>
+                     κακά</l>
+               </quote> ὥσπερ ἀμέλει μεγαλαυχίας ἐμπίπλανται καὶ φρυάγματος οἱ γονέων
+               διασήμων. Διόφαντον γοῦν τὸν <milestone unit="tlnum" n="5" />Θεμιστοκλέους
+               πολλάκις λέγουσι φάναι καὶ πρὸς πολλοὺς ὡς ὅ τι ἂν αὐτὸς βούληται,
+               τοῦτο καὶ τῷ δήμῳ συνδοκεῖ τῷ τῶν Ἀθηναίων. ἃ μὲν γὰρ αὐτὸς
+               ἐθέλει, καὶ ἡ μήτηρ: ἃ δ᾽ ἂν ἡ μήτηρ, καὶ Θεμιστοκλῆς </p></div1></body></text></TEI.2>

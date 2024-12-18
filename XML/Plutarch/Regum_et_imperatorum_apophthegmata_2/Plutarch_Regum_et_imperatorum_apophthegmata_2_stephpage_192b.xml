@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" n="68" org="uniform" sample="complete"><div2 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-192b" n="192b" />
+                  </q>
+               </p>
+            </div2>
+            <div2 type="section" n="2" org="uniform" sample="complete">
+               <milestone unit="tlnum" n="5" />
+               <p>πάλιν ἀκούσας φιλοσόφου διαλεχθέντος, ὅτι μόνος ἀγαθὸς στρατηγὸς ὁ
+                  σοφός ἐστιν, <q direct="unspecified">ὁ μὲν λόγος</q> ἔφη <q direct="unspecified">θαυμαστός, ὁ δὲ λέγων οὐ
+                     περισεσάλπισται.</q> <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">περισεσάλπγκται</foreign> στοβ. 54, 65</note>
+               </p>
+            </div2>
+         </div1>
+         <div1 type="chapter" n="69" org="uniform" sample="complete">
+            <head>Ἀντιόχου</head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <p>Ἀντίοχος ἐφορεύων, ὡς ἤκουσεν ὅτι Μεσσηνίοις Φίλιππος τὴν χώραν
+                  ἔδωκεν, ἠρώτησεν εἰ καὶ τὸ <milestone unit="tlnum" n="10" /> κρατεῖν
+                  αὐτοῖς μαχομένοις περὶ τῆς χώρας ἔδωκεν </p>
+            </div2>
+         </div1>
+         <div1 type="chapter" n="70" org="uniform" sample="complete">
+            <head>Ἀνταλκίδου</head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <p>Ἀνταλκίδας πρὸς τὸν Ἀθηναῖον ἀμαθεῖς ἀποκαλοῦντα τοὺς
+                  Λακεδαιμονίους <q direct="unspecified">μόνοι γοῦν</q> εἶπεν <q direct="unspecified">ἡμεῖς; οὐδὲν μεμαθήκαμεν
+                     κακὸν παρ᾽ ὑμῶν </q></p></div2></div1></body></text></TEI.2>

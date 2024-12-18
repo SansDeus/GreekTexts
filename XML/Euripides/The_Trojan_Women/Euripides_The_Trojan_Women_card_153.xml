@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="lyric" org="uniform" sample="complete"><sp><p><milestone ed="p" n="153" unit="card" />
+</p></sp></div2>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Ἡμιχόριον Α</speaker><p>
+<lb />Ἑκάβη, τί θροεῖς; τί δὲ θωΰσσεις;
+<lb />ποῖ λόγος ἥκει; διὰ γὰρ μελάθρων
+<lb rend="displayNum" n="155" />ἄιον οἴκτους οὓς οἰκτίζῃ.
+<lb />διὰ δὲ στέρνων φόβος ἄισσεν
+<lb />Τρῳάσιν, αἳ τῶνδ᾽ οἴκων εἴσω
+<lb />δουλείαν αἰάζουσιν.</p></sp>
+<sp><speaker>Ἑκάβη</speaker><p>
+<lb />ὦ τέκν᾽, Ἀργείων πρὸς ναῦς ἤδη  <gap /> </p></sp>
+<sp><speaker>Ἡμιχόριον Α</speaker><p>
+<lb rend="displayNum" n="160" />κινεῖται κωπήρης χείρ;
+<lb />οἲ ἐγώ, τί θέλουσ᾽, ἦ πού μ᾽ ἤδη
+<lb />ναυσθλώσουσιν πατρίας ἐκ γᾶς;</p></sp>
+<sp><speaker>Ἑκάβη</speaker><p>
+<lb />οὐκ οἶδ᾽, εἰκάζω δ᾽ ἄταν.</p></sp>
+<sp><speaker>Ἡμιχόριον Α</speaker><p>
+<lb />ἰὼ ἰώ.
+<lb rend="displayNum" n="165" />μέλεαι μόχθων ἐπακουσόμεναι
+<lb />Τρῳάδες, ἔξω † κομίζεσθ᾽ † οἴκων:
+<lb />στέλλουσ᾽ Ἀργεῖοι νόστον.</p></sp>
+<sp><speaker>Ἑκάβη</speaker><p>
+<lb />αἶ, αἶ.
+<lb />μή νύν μοι τὰν
+<lb rend="displayNum" n="170" />ἐκβακχεύουσαν Κασάνδραν,
+<lb rend="displayNum" n="172" />αἰσχύναν Ἀργείοισιν,
+<lb rend="displayNum" n="171" />πέμψητ᾽ ἔξω,
+<lb rend="displayNum" n="173" />μαινάδ᾽, ἐπ᾽ ἄλγει δ᾽ ἀλγυνθῶ.
+<lb rend="displayNum" n="173b" />ἰώ.
+<lb />Τροία Τροία δύσταν᾽, ἔρρεις,
+<lb rend="displayNum" n="174b" />δύστανοι δ᾽ οἵ σ᾽ ἐκλείποντες
+<lb rend="displayNum" n="175" />καὶ ζῶντες καὶ δμαθέντες.
+</p></sp></div2></div1></body></text></TEI.2>

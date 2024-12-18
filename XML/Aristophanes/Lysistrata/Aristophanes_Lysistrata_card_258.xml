@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parodos" org="uniform" sample="complete"><sp><p><milestone ed="p" n="258" unit="card" /></p></sp>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορὸς γερόντων</speaker><p>
+<lb />ἦ πόλλ᾽ ἄελπτ᾽ ἔνεστιν ἐν τῷ μακρῷ βίῳ φεῦ,
+<lb />ἐπεὶ τίς ἄν ποτ᾽ ἤλπισ᾽ ὦ Στρυμόδωρ᾽ ἀκοῦσαι
+<lb rend="displayNum" n="260" />γυναῖκας, ἃς ἐβόσκομεν
+<lb />κατ᾽ οἶκον ἐμφανὲς κακόν,
+<lb />κατὰ μὲν ἅγιον ἔχειν βρέτας,
+<lb />κατὰ δ᾽ ἀκρόπολιν ἐμὰν λαβεῖν
+<lb />μοχλοῖς δὲ καὶ κλῄθροισι
+<lb rend="displayNum" n="265" />τὰ προπύλαια πακτοῦν;</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="13" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-742e" n="742e" /> ἀραὶ τοῖς
+                     παραβαίνουσιν, οὐχ ἑνὸς ἀνδρὸς ἀλλὰ πάντων ἀποδεχομένων καὶ
+                     συνομολογούντων: ὥστε ταῦτα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ταύτας</foreign> ω</note> γεγονέναι κυρίως ὁμολογίας, ἐκείνας δὲ
+                     μόνας προκλήσεις. μαρτυρεῖ δ᾽ ὁ Πρίαμος, μετὰ τὰ ὅρκια τοῦ ἀγῶνος
+                     ἀπιὼν, καί, <milestone unit="tlnum" n="20" />
+                     <quote rend="blockquote">
+                        <l>Ζεὺς μέν που τό γε οἶδε καὶ ἀθάνατοι θεοὶ ἄλλοι, </l> <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">Γ</foreign> 308</note>
+                        <l> ὁπποτέρῳ θανάτοιο τέλος πεπρωμένον ἐστίν:</l>
+                     </quote> ᾔδει γὰρ ἐπὶ τούτοις τὰς ὁμολογίας γεγενημένας: </p></div3></div2></div1></body></text></TEI.2>

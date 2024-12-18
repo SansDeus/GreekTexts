@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="lyric" org="uniform" sample="complete"><milestone ed="p" n="827" unit="card" />
+<sp>
+<speaker>Ἰφιγένεια</speaker><p>
+<lb />ὦ φίλτατ᾽, οὐδὲν ἄλλο, φίλτατος γὰρ εἶ,
+<lb />ἔχω σ᾽, Ὀρέστα, τηλύγετον <del status="unremarkable">χθονὸς</del> ἀπὸ πατρίδος
+
+<lb rend="displayNum" n="830" />Ἀργόθεν, ὦ φίλος.
+</p></sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />κἀγώ σε τὴν θανοῦσαν, ὡς δοξάζεται.
+<lb />κατὰ δὲ δάκρυ, κατὰ δὲ γόος ἅμα χαρᾷ
+<lb />τὸ σὸν νοτίζει βλέφαρον, ὡσαύτως δ᾽ ἐμόν.
+</p></sp>
+<sp>
+<speaker>Ἰφιγένεια</speaker><p>
+<lb />τόδ᾽ ἔτι βρέφος
+<lb rend="displayNum" n="835" />ἔλιπον ἀγκάλαισι νεαρὸν τροφοῦ
+<lb />νεαρὸν ἐν δόμοις.
+<lb />ὦ κρεῖσσον ἢ λόγοισιν εὐτυχοῦσά μου
+<lb rend="displayNum" n="839" />ψυχά, τί φῶ; θαυμάτων
+<lb rend="displayNum" n="840" />πέρα καὶ λόγου πρόσω τάδ᾽ ἐπέβα.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />τὸ λοιπὸν εὐτυχοῖμεν ἀλλήλων μέτα.
+</p></sp>
+<sp>
+<speaker>Ἰφιγένεια</speaker><p>
+<lb />ἄτοπον ἁδονὰν ἔλαβον, ὦ φίλαι:
+<lb />δέδοικα δ᾽ ἐκ χερῶν με μὴ πρὸς αἰθέρα
+<lb />ἀμπτάμενος φύγῃ:
+<lb rend="displayNum" n="845" />ἰὼ Κυκλωπὶς ἑστία: ἰὼ πατρίς,
+<lb />Μυκήνα φίλα,
+<lb />χάριν ἔχω ζόας, χάριν ἔχω τροφᾶς,
+<lb />ὅτι μοι συνομαίμονα τόνδε δόμοις
+<lb />ἐξεθρέψω φάος.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb rend="displayNum" n="850" />γένει μὲν εὐτυχοῦμεν, ἐς δὲ συμφοράς,
+<lb />ὦ σύγγον᾽, ἡμῶν δυστυχὴς ἔφυ βίος.
+</p></sp>
+<sp>
+<speaker>Ἰφιγένεια</speaker><p>
+<lb />ἐγᾦδ᾽ ἁ μέλεος, οἶδ᾽, ὅτε φάσγανον
+<lb rend="displayNum" n="854" />δέρᾳ θῆκέ μοι μελεόφρων πατήρ.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb rend="displayNum" n="855" />οἴμοι. δοκῶ γὰρ οὐ παρών σ᾽ ὁρᾶν ἐκεῖ.
+</p></sp>
+<sp>
+<speaker>Ἰφιγένεια</speaker><p>
+<lb />ἀνυμέναιος, <add>ὦ</add> σύγγον᾽, Ἀχιλλέως
+<lb />ἐς κλισίαν λέκτρων
+<lb rend="displayNum" n="859" />δολίαν ὅτ᾽ ἀγόμαν:
+<lb rend="displayNum" n="860" />παρὰ δὲ βωμὸν ἦν δάκρυα καὶ γόοι.
+<lb />φεῦ φεῦ χερνίβων <add>τῶν</add> ἐκεῖ.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb />ᾤμωξα κἀγὼ τόλμαν ἣν ἔτλη πατήρ.
+</p></sp>
+<sp>
+<speaker>Ἰφιγένεια</speaker><p>
+<lb rend="displayNum" n="864" />ἀπάτορ᾽ ἀπάτορα πότμον ἔλαχον.
+<lb rend="displayNum" n="865" />ἄλλα δ᾽ ἐξ ἄλλων κυρεῖ
+<lb rend="displayNum" n="867" />δαίμονος τύχᾳ τινός.
+</p></sp>
+<sp>
+<speaker>Ὀρέστης</speaker><p>
+<lb rend="displayNum" n="866" />εἰ σόν γ᾽ ἀδελφόν, ὦ τάλαιν᾽, ἀπώλεσας.
+</p></sp>
+</div2></div1></body></text></TEI.2>

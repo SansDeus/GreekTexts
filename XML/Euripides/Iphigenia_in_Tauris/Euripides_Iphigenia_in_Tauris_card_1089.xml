@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="iambic" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1089" unit="card" />
+</p></sp></div2>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ὄρνις, ἃ παρὰ πετρίνας
+<lb rend="displayNum" n="1090" />πόντου δειράδας, ἀλκυών,
+<lb />ἔλεγον οἶτον ἀείδεις,
+<lb />εὐξύνετον ξυνετοῖς βοάν,
+<lb />ὅτι πόσιν κελαδεῖς ἀεὶ μολπαῖς,
+<lb />ἐγώ σοι παραβάλλομαι
+<lb rend="displayNum" n="1095" />θρήνους, ἄπτερος ὅρνις,
+<lb />ποθοῦσ᾽ Ἑλλάνων ἀγόρους,
+<lb />ποθοῦσ᾽ Ἄρτεμιν λοχίαν,
+<lb />ἃ παρὰ Κύνθιον ὄχθον οἰ-
+<lb />κεῖ φοίνικά θ᾽ ἁβροκόμαν
+<lb rend="displayNum" n="1100" />δάφναν τ᾽ εὐερνέα καὶ
+<lb />γλαυκᾶς θαλλὸν ἱερὸν ἐλαί-
+<lb />ας, Λατοῦς ὠδῖνα φίλαν,
+<lb />λίμναν θ᾽ εἱλίσσουσαν ὕδωρ
+<lb />κύκλιον, ἔνθα κύκνος μελῳ-
+<lb rend="displayNum" n="1105" />δὸς Μούσας θεραπεύει.
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" org="uniform" sample="complete"><sp><milestone ed="p" n="361" unit="card" /></sp></div2>
+<div2 type="mesode" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>μὴ 'μοὶ μὴ προσδίδου:</l>
+<l>μόνος μόνῳ γέμιζε πορθμίδος σκάφος.</l>
+<l>χαιρέτω μὲν αὖλις ἅδε,</l>
+<l>χαιρέτω δὲ θυμάτων</l>
+<l n="365">ἀποβώμιος ἃν ἀνέχει θυσία</l>
+<l>Κύκλωψ Αἰτναῖος ξενικῶν</l>
+<l>κρεῶν κεχαρμένος βορᾷ.</l>
+</sp></div2></div1></body></text></TEI.2>

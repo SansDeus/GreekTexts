@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="iambics" org="uniform" sample="complete"><sp><p><milestone ed="p" n="571" unit="card" /></p></sp></div2></div1>
+<div1 type="Agon" org="uniform" sample="complete">
+<div2 type="strophe" org="uniform" sample="complete">
+<sp><speaker>Χορὸς</speaker><p>
+<lb />νῦν δὴ δεῖ σε πυκνὴν φρένα καὶ φιλόσοφον ἐγείρειν
+<lb />φροντίδ᾽ ἐπισταμένην
+<lb />ταῖσι φίλαισιν ἀμύνειν.
+<lb />καινὴ γὰρ ἐπ᾽ εὐτυχίαισιν
+<lb />ἔρχεται γλώττης ἐπίνοια πολίτην
+<lb rend="displayNum" n="575" />δῆμον ἐπαγλαϊοῦσα
+<lb />μυρίαισιν ὠφελίαισι βίου: δηλοῦν δ᾽ ὅ τί περ δύνασαι
+<lb />καιρός.
+<lb />δεῖται γάρ τοι σοφοῦ τινος ἐξευρήματος ἡ πόλις ἡμῶν.
+<lb />ἀλλὰ πέραινε μόνον
+<lb />μήτε δεδραμένα μήτ᾽ εἰρημένα πω πρότερον:
+<lb rend="displayNum" n="580" />μισοῦσι γὰρ ἢν τὰ παλαιὰ πολλάκις θεῶνται.</p></sp></div2></div1></body></text></TEI.2>

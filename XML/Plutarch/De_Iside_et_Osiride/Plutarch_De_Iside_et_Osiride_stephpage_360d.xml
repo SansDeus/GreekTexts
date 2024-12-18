@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="24" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-360d" n="360d" />Ἑρμοδότου τινὸς ἐν ποιήμασιν αὐτὸν Ἡλίου
+                  <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἡλίου</foreign>] βεργκ. 3 π. 637</note> παῖδα καὶ θεὸν ἀναγορεύοντος,
+                  <q direct="unspecified">οὐ τοιαῦτά μοι</q> εἶπεν <milestone unit="tlnum" n="25" />
+               <q direct="unspecified">ὁ λασανοφόρος σύνοιδεν</q> εὖ δὲ καὶ Λύσιππος ὁ <pb id="v.2.p.495" />
+               πλάστης Ἀπελλῆν ἐμέμψατο τὸν ζωγράφον, ὅτι τὴν Ἀλεξάνδρου γράφων
+               εἰκόνα κεραυνὸν ἐνεχείρισεν αὐτὸς δὲ λόγχην, ἧς τὴν δόξαν οὐδὲ εἷς
+               ἀφαιρήσεται χρόνος ἀληθινὴν καὶ ἰδίαν οὖσαν. <milestone unit="tlnum" n="5" />
+            </p>
+         </div1>
+         <div1 type="section" n="25" org="uniform" sample="complete">
+            <p>βέλτιον οὖν οἱ τὰ περὶ τὸν Τυφῶνα καὶ Ὄσιριν καὶ Ἶσιν ἱστορούμενα
+               μήτε θεῶν παθήματα μήτ᾽ ἀνθρώπων, ἀλλὰ δαιμόνων μεγάλων εἶναι
+               νομίζοντες, </p></div1></body></text></TEI.2>

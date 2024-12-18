@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="24" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-311f" n="311f" />
+            </p>
+         </div1>
+         <div1 type="section" n="25" org="uniform" sample="complete">
+            <p><hi rend="uppercase">Φώκου</hi> ὄντος ἐκ Ψαμάθης Αἰακῷ καὶ στεργομένου,
+               Τελαμὼν ἦγεν ἐπὶ θήραν: καὶ συὸς ἐπιφανέντος κατὰ τοῦ μισουμένου
+               ἐπαφῆκε τὸ δόρυ καὶ ἐφόνευσεν. ὁ δὲ πατὴρ ἐφυγάδευσεν ὡς Δωρόθεος
+                  <milestone unit="tlnum" n="20" /> ἐν πρώτῳ <title>Μεταμορφώσεων</title>. <hi rend="uppercase">Γάϊος</hi> Μάξιμος ἔχων υἱοὺς Σιμίλιον καὶ Ῥῆσον:
+               τοῦτον ἐγέννησεν ἐξ Ἀμερίας κόνων ὁ Ῥῆσος: <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Κόνων ὁ ῾ρῆσος</foreign>] 'ξορρυπτα᾽ ω</note> οὗτος ἐν κυνηγεσίῳ
+               ἀπέκτεινε τὸν ἀδελφὸν καὶ ὑποστρέψας τὸ σύμπτωμα τύχης εἶπεν οὐ
+               κρίσεως γεγονέναι. ὁ <milestone unit="tlnum" n="25" /> δὲ γνοὺς τἀληθὲς
+               ἐφυγάδευσεν: ὡς Ἀριστοκλῆς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἀριστοκλῆς</foreign>] μυελλερ. 4 π. 330</note> ἐν τρίτῳ Ἰταλικῶν. <pb id="v.2.p.372" />
+               </p></div1></body></text></TEI.2>

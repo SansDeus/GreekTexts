@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><milestone ed="p" n="760" unit="card" /></div2>
+</div1>
+<div1 type="episode" org="uniform" sample="complete">
+<sp>
+<speaker>Δαναός</speaker><p>
+<lb rend="displayNum" n="760" />ἀλλ᾽ ἔστι φήμη τοὺς λύκους κρείσσους κυνῶν
+<lb />εἶναι: βύβλου δὲ καρπὸς οὐ κρατεῖ στάχυν.
+</p></sp>
+<sp>
+<speaker><del status="unremarkable">Χορός</del></speaker><p>
+<lb />ὡς καὶ ματαίων ἀνοσίων τε κνωδάλων
+<lb />ἔχοντας ὀργάς, χρὴ φυλάσσεσθαι τάχος.
+</p></sp>
+<sp>
+<speaker>Δαναός</speaker><p>
+<lb />οὔτοι ταχεῖα ναυτικοῦ στρατοῦ στολή,
+<lb rend="displayNum" n="765" />οὐδ᾽ ὅρμος, οὗ δεῖ πεισμάτων σωτήρια
+<lb />ἐς γῆν ἐνεγκεῖν, οὐδ᾽ ἐν ἀγκυρουχίαις
+<lb />θαρσοῦσι ναῶν ποιμένες παραυτίκα,
+<lb />ἄλλως τε καὶ μολόντες ἀλίμενον χθόνα
+<lb />ἐς νύκτ᾽ ἀποστείχοντος ἡλίου.  φιλεῖ
+<lb rend="displayNum" n="770" />ὠδῖνα τίκτειν νὺξ κυβερνήτῃ σοφῷ.
+<lb />οὕτω γένοιτ᾽ ἂν οὐδ᾽ ἂν ἔκβασις στρατοῦ
+<lb />καλή, πρὶν ὅρμῳ ναῦν θρασυνθῆναι.  σὺ δὲ
+<lb />φρόνει μὲν ὡς ταρβοῦσα μὴ ἀμελεῖν θεῶν:
+<lb /><gap desc="*" />
+<lb />πράξας ἀρωγήν: ἄγγελον δ᾽ οὐ μέμψεται
+<lb rend="displayNum" n="775" />πόλις γέρονθ᾽, ἡβῶντα δ᾽ εὐγλώσσῳ φρενί.
+</p></sp></div1></body></text></TEI.2>

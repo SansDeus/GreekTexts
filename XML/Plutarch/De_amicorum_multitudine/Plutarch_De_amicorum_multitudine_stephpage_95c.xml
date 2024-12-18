@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="5" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-95c" n="95c" /> τε τῶν πράξεων καιροὶ καθάπερ τὰ πνεύματα
+                  τοὺς μὲν φέρουσι τοῖς δ᾽ ἀντιπίπτουσι. </p>
+            </div2>
+            <div2 type="section" n="6" org="uniform" sample="complete">
+               <p>καίτοι κἂν πάντες ἅμα τῶν αὐτῶν οἱ φίλοι <milestone unit="tlnum" n="25" /> δέωνται, χαλεπὸν ἐξαρκέσαι πᾶσι βουλευομένοις ἢ πολιτευομένοις ἢ
+                  φιλοτιμουμένοις ἢ ὑποδεχομένοις. <pb id="v.1.p.231" /> ἂν δ᾽ ἑνὶ καιρῷ
+                  διαφόροις πράγμασι καὶ πάθεσι προστυγχάνοντες ὁμοῦ παρακαλῶσιν ὁ μὲν
+                  πλέων συναποδημεῖν, ὁ δὲ κρινόμενος συνδικεῖν, ὁ δὲ κρίνων συνδικάζειν,
+                  ὁ δὲ πιπράσκων ἢ ἀγοράζων <milestone unit="tlnum" n="5" /> συνδιοικεῖν, ὁ
+                  δὲ γαμῶν συνθύειν, ὁ δὲ θάπτων συμπενθεῖν, <quote rend="blockquote">
+                     <l> πόλις δ᾽ ὁμοῦ μὲν θυμιαμάτων γέμῃ, </l> <note resp="ed" place="unspecified" anchored="yes">σοπη. ορ 4</note>
+                     <l> ὁμοῦ δὲ παιάνων τε καὶ στεναγμάτων</l>
+                  </quote>
+                  </p></div2></div1></body></text></TEI.2>

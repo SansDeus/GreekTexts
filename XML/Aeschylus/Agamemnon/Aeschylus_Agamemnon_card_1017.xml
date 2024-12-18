@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><milestone ed="p" n="1017" unit="card" />
+<sp><speaker>Χορός</speaker><p>
+<lb />τὸ δ᾽ ἐπὶ γᾶν πεσὸν ἅπαξ θανάσιμον
+<lb rend="displayNum" n="1020" />πρόπαρ ἀνδρὸς μέλαν αἷμα τίς ἂν
+<lb />πάλιν ἀγκαλέσαιτ᾽ ἐπαείδων;
+<lb />οὐδὲ τὸν ὀρθοδαῆ
+<lb />τῶν φθιμένων ἀνάγειν
+<lb />Ζεὺς ἀπέπαυσεν ἐπ᾽ εὐλαβείᾳ;
+<lb rend="displayNum" n="1025" />εἰ δὲ μὴ τεταγμένα
+<lb />μοῖρα μοῖραν ἐκ θεῶν
+<lb />εἶργε μὴ πλέον φέρειν,
+<lb />προφθάσασα καρδία
+<lb />γλῶσσαν ἂν τάδ᾽ ἐξέχει.
+<lb rend="displayNum" n="1030" />νῦν δ᾽ ὑπὸ σκότῳ βρέμει
+<lb />θυμαλγής τε καὶ οὐδὲν ἐπελπομέν-
+<lb />α ποτὲ καίριον ἐκτολυπεύσειν
+<lb />ζωπυρουμένας φρενός.</p></sp></div2>
+</div1>
+</body></text></TEI.2>

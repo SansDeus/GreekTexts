@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><milestone ed="p" n="861" unit="card" />
+</sp></div2>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Ἄδμητος</speaker>
+<l>ἰώ,</l>
+<l>στυγναὶ πρόσοδοι, στυγναὶ δ᾽ ὄψεις</l>
+<l>χήρων μελάθρων.</l>
+<l>ἰώ μοί μοι. αἰαῖ &lt;αἰαῖ&gt;.</l>
+<l>ποῖ βῶ; ποῖ στῶ; τί λέγω; τί δὲ μή;</l>
+<l>πῶς ἂν ὀλοίμην;</l>
+<l n="865">ἦ βαρυδαίμονα μήτηρ μ᾽ ἔτεκεν.</l>
+<l>ζηλῶ φθιμένους, κείνων ἔραμαι,</l>
+<l>κεῖν᾽ ἐπιθυμῶ δώματα ναίειν.</l>
+<l>οὔτε γὰρ αὐγὰς χαίρω προσορῶν</l>
+<l>οὔτ᾽ ἐπὶ γαίας πόδα πεζεύων:</l>
+<l n="870">τοῖον ὅμηρόν μ᾽ ἀποσυλήσας</l>
+<l>Ἅιδῃ Θάνατος παρέδωκεν.</l>
+</sp></div2></div1></body></text></TEI.2>

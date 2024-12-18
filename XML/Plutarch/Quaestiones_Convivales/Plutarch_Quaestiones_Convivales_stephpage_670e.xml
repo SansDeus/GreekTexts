@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="4" org="uniform" sample="complete"><div2 type="chapter" n="5" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-670e" n="670e" /> ὡς τὸν ὄνον
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὄνον</foreign> βασιλεενσις: <foreign lang="greek">ὄνον
+                              δὲ</foreign></note> ἀναφήναντα πηγὴν αὐτοῖς ὕδατος τιμῶσιν,
+                        οὕτω καὶ τὴν ὗν σέβεσθαι σπόρου καὶ ἀρότου διδάσκαλον γενομένην
+                        εἰ μή <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">εἰ μὲ</foreign> χ</note>, νὴ Δία, καὶ τοῦ λαγωοῦ
+                        φήσει <note resp="ed" place="unspecified" anchored="yes">εμ. ρ: <foreign lang="greek">φησί</foreign></note> τις ἀπέχεσθαι τοὺς ἄνδρας,
+                        ὡς μυσαρὸν καὶ ἀκάθαρτον δυσχεραίνοντας τὸ ζῷον.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="20" />
+                  <p>
+                     <q direct="unspecified">οὐ δῆτ᾽</q> ἔφη <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οὐ δῆτα ἔφη</foreign> ιδεμ: <foreign lang="greek">ουδ</foreign> 6-8 ϝδ</note> ὁ Λαμπρίας ὑπολαβών
+                        <q direct="unspecified">ἀλλὰ τοῦ μὲν λαγωοῦ φείδονται <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φείδονται</foreign> δοεηνερυς: 2-3
+                           ϝδ 6 ε</note> διὰ τὴν πρὸς τὸν μένον ὑπ᾽ αὐτῶν μυ <gap />
+                        <note resp="ed" place="unspecified" anchored="yes">λαξ. 4 ϝδ 7 ε</note> στα
+                        θηρίον ἐμφερέστατον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">διὰ τὴν πρὸς - ἐμφερέστατον</foreign>]
+                              <foreign lang="greek">διὰ τὴν πρὸς τὸν ὄνον τιμώμενον ὑπ᾽
+                              αὐτῶν μάλιστα θηρίων ἐμφέρειαν</foreign> φρανκιυς</note>. ὁ
+                        γὰρ λαγὼς μεγέθους ἔοικε καὶ πάχους ἐνδεὴς <pb id="v.4.p.170" />
+                        ὄνος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πάχους ἐνδεὴς ὄνος</foreign> δοεηνερυς: <foreign lang="greek">τάχους ἐν δεινοῖς</foreign></note> εἶναι: καὶ γὰρ
+                        ἡ χρόα καὶ τὰ ὦτα καὶ τῶν </q></p></div3></div2></div1></body></text></TEI.2>

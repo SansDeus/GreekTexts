@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="14" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-417e" n="417e" /> καὶ στάσεις ταράττουσιν, ἄχρι οὗ λάβωσι
+                     <milestone unit="tlnum" n="5" /> καὶ τύχωσιν οὖ ἐρῶσιν. ἔνιοι δὲ
+                  τοὐναντίον ἔπαθον, <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἒπαθον</foreign> στεγμαννυς</note> ὥσπερ ἐν Κρήτῃ
+                  χρόνον συχνὸν διάγων ἔγνων ἄτοπόν τινα τελουμένην ἑορτήν, ἐν ᾗ καὶ
+                  εἴδωλον ἀνδρὸς ἀκέφαλον ἀναδεικνύουσι καὶ λέγουσιν ὡς οὗτος ἦν
+                  Μόλος ὁ Μηριόνου πατήρ, νύμφῃ δὲ πρὸς βίαν <milestone unit="tlnum" n="10" /> συγγενόμενος ἀκέφαλος εὑρεθείη.</q>
+            </p>
+         </div1>
+         <div1 type="section" n="15" org="uniform" sample="complete">
+            <p>
+               <q direct="unspecified">καὶ μὴν ὅσας ἔν τε μύθοις καὶ ὕμνοις λέγουσι καὶ ᾁδουσι, τοῦτο
+                  μὲν ἁρπαγὰς τοῦτο δὲ πλάνας </q></p></div1></body></text></TEI.2>

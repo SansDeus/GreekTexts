@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="1" org="uniform" sample="complete"><p><quote rend="blockquote"><l><milestone unit="stephpage" id="stephpage-500c" n="500c" />
+                  </l>
+               </quote> πρωτεῖον οὐκ εὐτυχὲς εἰς κακῶν ὑπεροχὴν ἀποδιδοὺς τῷ ἀνθρώπῳ.
+               ἡμεῖς δ᾽ ὥσπερ ἤδη νικῶντα κακοδαιμονίᾳ τὸν ἄνθρωπον καὶ τῶν ἄλλων
+               ἀθλιώτατον ζῴων ἀνηγορευμένον, αὐτὸν αὑτῷ συγκρίνωμεν, <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">συγκρίνωμεν</foreign> ρ: <foreign lang="greek">συγκρίνομεν</foreign></note> <milestone unit="tlnum" n="10" /> εἰς ἰδίων κακῶν ἀγῶνα σῶμα καὶ ψυχὴν διαιροῦντες
+               οὐκ ἀχρήστως ἀλλὰ καὶ πάνυ δεόντως, ἵνα μάθωμεν πότερον διὰ τὴν τύχην
+               ἢ δι᾽ ἑαυτοὺς ἀθλιώτερον ζῶμεν. νόσος μὲν γὰρ ἐν σώματι φύεται διὰ
+               φύσιν, κακία δὲ καὶ μοχθηρία περὶ ψυχὴν ἔργον <milestone unit="tlnum" n="15" /> ἐστὶ πρῶτον εἶτα πάθος αὐτῆς. <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὐτῆς</foreign> ρ: <foreign lang="greek">αὐτῇ</foreign></note> οὐ μικρὸν δὲ πρὸς εὐθυμίαν ὄφελος,
+               ἂν ἰάσιμον τὸ χεῖρον καὶ κουφότερον καὶ ἄσφυκτον. </p>
+         </div1>
+         <div1 type="section" n="2" org="uniform" sample="complete">
+            <p>ἡ μὲν οὖν Αἰσώπειος ἀλώπηξ περὶ ποικιλίας δικαζομένη πρὸς τὴν
+               πάρδαλιν, ὡς ἐκείνη τὸ σῶμα <milestone unit="tlnum" n="20" />
+               </p></div1></body></text></TEI.2>

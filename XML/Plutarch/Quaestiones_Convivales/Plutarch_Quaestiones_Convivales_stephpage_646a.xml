@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-646a" n="646a" /> τούτῳ δεῖ τὴν θύραν κεκλεῖσθαι:
+                        οὕτως αἱ μὲν περὶ τὴν ἐδωδὴν καὶ πόσιν ἡδοναὶ κεκλημέναι ὑπὸ
+                           <milestone unit="tlnum" n="15" /> τῆς φύσεως ταῖς: ὀρέξεσιν
+                        ἑπόμεναι τόπον ἔχουσι, ταῖς δ᾽ ἄλλαις ἀκλήτοις καὶ σὺν οὐδενὶ
+                        λόγῳ φιληδονίαις <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φιληδονίαις</foreign> εμπεριυς: <foreign lang="greek">φιληδονίας</foreign> σεδ μαλιμ <foreign lang="greek">φιληδονίαις παρούσαις</foreign></note> ἀπηλλάχθαι προσήκει <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀπηλλάχθαι προσήκει</foreign> σξριπσι ξυμ εοδεμ: <foreign lang="greek">ἀπήλλακται</foreign> λαξ. 2 σολυς ϝδ</note>.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>πρὸς ταῦθ᾽ οἱ μὲν ἀήθεις τοῦ Ἀμμωνίου νεανίσκοι διαταραχθέντες
+                     ἡσυχῆ παρελύοντο τοὺς <milestone unit="tlnum" n="20" /> στεφάνους: ἐγὼ δ᾽
+                     εἰδὼς ὅτι γυμνασίας ἕνεκα καὶ ζητήσεως καταβέβληκεν ἐν μέσῳ τὸν
+                     λόγον ὁ Ἀμμώνιος, προσαγορεύσας Τρύφωνα τὸν ἰατρὸν <q direct="unspecified">ὦ τᾶν</q>
+                     εἶπον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">εἶπον</foreign>*</note>
+                     <q direct="unspecified">ἢ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἢ</foreign> λεονιξυς: <foreign lang="greek">εἰ</foreign></note>
+                        καταθέσθαι δίκαιος εἶ μεθ᾽ ἡμῶν τουτονὶ τὸν καλὸν ἄνθεσι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἄνθεσι</foreign> τυρνεβυς: 6 ϝδ ε</note> φλέγοντα τοῖς ῥοδίνοις
+                        στέφανον, <milestone unit="tlnum" n="25" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

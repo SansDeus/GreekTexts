@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="22" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-547e" n="547e" /> κόλακι καὶ παρασίτῳ
+               καὶ δεομένῳ δύσοιστον ἐν χρείᾳ καὶ δυσκαρτέρητον ἑαυτὸν ἐγκωμιάζων
+               πλούσιός τις <milestone unit="tlnum" n="20" /> ἢ σατράπης ἢ βασιλεύς: καὶ
+               <q direct="unspecified">συμβολὰς ταύτας ἀποτίνειν μεγίστας</q> λέγουσιν, ὡς ὁ παρὰ Μενάνδρῳ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Μενάνδρῳ</foreign>] ιδ. ιβ.</note>
+                  <quote rend="blockquote">
+                  <l> σφάττει με, λεπτὸς γίνομ᾽ εὐωχούμενος, </l>
+                     <l>τὰ σκώμμαθ᾽ οἷα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">σκώμμαθ᾽ οἶα</foreign>] <foreign lang="greek">σκωμμάτια</foreign> μεινεκιυς</note> τὰ σοφὰ καὶ στρατηγικά, </l>
+                     <l> οἷος δ᾽ ἀλαζών ἐστιν ἁλιτήριος. <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἁλιτ́ριος</foreign> δυεβνερυς: <foreign lang="greek">ἀλιτήριος</foreign></note> </l>
+               </quote>
+               <milestone unit="tlnum" n="25" /> ταῦτα γὰρ οὐ πρὸς στρατιώτας μόνον οὐδὲ
+               νεοπλούτους εὐπάρυφα καὶ σοβαρὰ διηγήματα περαίνοντας, <pb id="v.3.p.416" />
+               ἀλλὰ καὶ πρὸς σοφιστὰς καὶ φιλοσόφους καὶ στρατηγοὺς ὀγκουμένους ἐφ᾽
+               ἑαυτοῖς καὶ μεγαληγοροῦντας, εἰωθότες πάσχειν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πάσχειν</foreign> ω: <foreign lang="greek">φάσκειν</foreign></note> καὶ λέγειν, ἂν
+               μνημονεύωμεν, </p></div1></body></text></TEI.2>

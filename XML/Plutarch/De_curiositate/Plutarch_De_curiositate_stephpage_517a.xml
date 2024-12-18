@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-517a" n="517a" /> πνεῦμα διαδύεται καὶ διέρπει,
+               βακχεῖα καὶ χοροὺς καὶ παννυχίδας ἐξετάζων καὶ συκοφαντῶν. <milestone unit="tlnum" n="20" />
+            </p>
+         </div1>
+         <div1 type="section" n="4" org="uniform" sample="complete">
+            <p>καὶ καθάπερ τοῦ κωμῳδουμένου Κλέωνος <quote rend="blockquote"> τὼ χεῖρ᾽ ἐν
+                  Αἰτωλοῖς, ὁ νοῦς δ᾽ ἐν Κλωπιδῶν. </quote>
+               <note resp="ed" place="unspecified" anchored="yes">αριστ. εθυ. 79</note> οὕτω τοῦ
+               πολυπράγμονος ὁ νοῦς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">νοῦς δ᾽</foreign> ιδεμ: <foreign lang="greek">δὲ
+                  νοῦς</foreign></note> ἅμ᾽ ἐν πλουσίων οἴκοις ἐστὶν ἐν δωματίοις
+               πενήτων ἐν αὐλαῖς βασιλέων <milestone unit="tlnum" n="25" /> ἐν θαλάμοις
+               νεογάμων : πάντα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πάντα</foreign>] <foreign lang="greek">παντοῖᾳ</foreign>
+                  ρ</note> πράγματα ζητεῖ, τὰ ξένων τὰ ἡγεμόνων: οὐδ᾽ ἀκινδύνως ταῦτα <pb id="v.3.p.339" /> ζητῶν: ἀλλ᾽ οἷον, εἴ τις ἀκονίτου γεύοιτο <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">γεύοιτο</foreign>] αδδιταμεντυμ λιβραριι ϝιδ.</note> πολυπραγμονῶν
+                  </p></div1></body></text></TEI.2>

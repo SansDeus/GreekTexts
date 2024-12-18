@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="7" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><div3 type="section" n="6" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-704b" n="704b" />εἰ δὲ τοῦτο
+                        δόξει μικρόν, ἐκεῖνό γ᾽ οὐ μικρόν, τὸ συστέλλειν καὶ ἀνέχειν
+                        τὴν ὄρεξιν ἔτι παρούσης τῆς ἀπολαύσεως: ἧττον γὰρ ἐπιθυμοῦσι
+                        τῶν ἀπόντων <milestone unit="tlnum" n="10" /> οἱ ἐθισθέντες ἀπέχεσθαι
+                        τῶν παρόντων.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="7" org="uniform" sample="complete">
+                  <p>ὑπολαβὼν δ᾽ ὁ Λεύκιος ἔφη τῆς μάμμης ἀκηκοὼς μνημονεύειν, ὡς
+                     ἱερὸν μὲν ἡ τράπεζα, δεῖ δὲ τῶν ἱερῶν μηδὲν εἶναι κενόν.
+                        <q direct="unspecified">ἐμοὶ δ᾽</q> εἶπεν <q direct="unspecified">ἐδόκει καὶ μίμημα τῆς γῆς ἡ τράπεζ᾽
+                        εἶναι: πρὸς <milestone unit="tlnum" n="15" /> γὰρ τῷ τρέφειν ἡμᾶς
+                        καὶ στρογγύλη καὶ μόνιμός ἐστι καὶ καλῶς ὑπ᾽ ἐνίων <q direct="unspecified">ἑστία</q>
+                        καλεῖται. καθάπερ γὰρ τὴν γῆν ἀεί <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αἰεὶ</foreign> μει</note> τι
+                        χρήσιμον ἔχειν καὶ φέρειν ἡμῖν ἀξιοῦμεν, οὕτως οὐδὲ τὴν
+                        τράπεζαν οἰόμεθα δεῖν κενὴν ὁρᾶν καὶ ἀνερμάτιστον
+                        ἀπολειπομένην.</q>
+                     <pb id="v.4.p.269" />
+                     </p></div3></div2></div1></body></text></TEI.2>

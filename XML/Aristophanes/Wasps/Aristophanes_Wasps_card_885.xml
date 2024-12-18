@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Lyric-Scene" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="885" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="885" />ξυνευχόμεσθα <add>ταὐτά</add> σοι κἀπᾴδομεν
+<lb />νέαισιν ἀρχαῖς ἕνεκα τῶν προλελεγμένων.
+<lb />εὖνοι γάρ ἐσμεν ἐξ οὗ
+<lb />τὸν δῆμον ᾐσθόμεσθά σου
+<lb />φιλοῦντος ὡς οὐδεὶς ἀνὴρ
+<lb rend="displayNum" n="890" />τῶν γε νεωτέρων.
+<lb /><add>ἰήιε Παιάν.</add></p></sp></div2></div1>
+<div1 type="Episode" org="uniform" sample="complete">
+<sp><speaker>Βδελυκλέων</speaker><p>
+<lb />εἴ τις θύρασιν ἡλιαστής, εἰσίτω:
+<lb />ὡς ἡνίκ᾽ ἂν λέγωσιν οὐκ ἐσφρήσομεν.</p></sp>
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+<lb />τίς ἆρ᾽ ὁ φεύγων;</p></sp>
+<sp>
+<speaker>Βδελυκλέων</speaker><p>
+οὗτος.</p></sp>
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+ὅσον ἁλώσεται.</p></sp>
+<sp>
+<speaker>Βδελυκλέων</speaker><p>
+<lb />ἀκούετ᾽ ἤδη τῆς γραφῆς. ἐγράψατο
+<lb rend="displayNum" n="895" />κύων Κυδαθηναιεὺς Λάβητ᾽ Αἰξωνέα
+<lb />τὸν τυρὸν ἀδικεῖν ὅτι μόνος κατήσθιεν
+<lb />τὸν Σικελικόν. τίμημα κλῳὸς σύκινος.</p></sp>
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+<lb />θάνατος μὲν οὖν κύνειος, ἢν ἅπαξ ἁλῷ.</p></sp>
+<sp>
+<speaker>Βδελυκλέων</speaker><p>
+<lb />καὶ μὴν ὁ φεύγων οὑτοσὶ Λάβης πάρα.</p></sp>
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+<lb rend="displayNum" n="900" />ὦ μιαρὸς οὗτος: ὡς δὲ καὶ κλέπτον βλέπει,
+<lb />οἷον σεσηρὼς ἐξαπατήσειν μ᾽ οἴεται.
+<lb />ποῦ δ᾽ <add>ἔσθ᾽</add> ὁ διώκων, ὁ Κυδαθηναιεὺς κύων;</p></sp></div1></body></text></TEI.2>

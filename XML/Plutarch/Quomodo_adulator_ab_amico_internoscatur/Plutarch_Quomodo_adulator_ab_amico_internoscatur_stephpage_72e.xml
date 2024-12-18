@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="33" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-72e" n="72e" />
+                  <quote rend="blockquote">
+                     <l> ἦ ὀλίγον οἱ παῖδα ἐοικότα γείνατο Τυδεύς, </l> <note resp="ed" place="unspecified" anchored="yes">ηομερ. ε 800</note>
+                  </quote>
+                  <milestone unit="tlnum" n="10" /> καὶ ὁ ἐν τοῖς Σκυρίοις Ὀδυσσεὺς <quote rend="blockquote">
+                     <l> σὺ δ᾽, ὦ τὸ λαμπρὸν φῶς καταισχύνων γένους, </l>
+                     <l> ξαίνεις, ἀρίστου πατρὸς Ἑλλήνων γεγώς;</l> <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 653</note>
+                  </quote>
+               </p>
+            </div2>
+            <div2 type="section" n="34" org="uniform" sample="complete">
+               <p>ἥκιστα δὲ προσήκει νουθετούμενον ἀντινουθετεῖν καὶ παρρησίᾳ παρρησίαν
+                  ἀντεκφέρειν: ταχὺ <milestone unit="tlnum" n="15" /> γὰρ ἐκκάει καὶ ποιεῖ
+                  διαφοράν, καὶ ὅλως οὐκ ἀντιπαρρησιαζομένου δόξειεν ἂν ἀλλὰ παρρησίαν
+                  μὴ </p></div2></div1></body></text></TEI.2>

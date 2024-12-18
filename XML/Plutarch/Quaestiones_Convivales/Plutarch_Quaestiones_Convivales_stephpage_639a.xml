@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-639a" n="639a" />
+            <div2 type="chapter" n="5" org="uniform" sample="complete">
+               <head>Διὰ τί τῶν ἀθλημάτων Ὅμηρος πρῶτον ἀεὶ τάττει τὴν πυγμὴν εἶτα
+                  τὴν πάλην καὶ τελευταῖον τὸν δρόμον.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>ῥηθέντων δὲ τούτων καὶ τὸν Φιλῖνον ἡμῶν <milestone unit="tlnum" n="10" /> ἐπαινεσάντων, αὖθις ὁ Λυσίμαχος ἔφη <q direct="unspecified">ποῖον οὖν φαίη
+                        τις ἂν τῶν ἀγωνισμάτων γεγονέναι πρῶτον ἢ τὸ στάδιον, ὥσπερ
+                        Ὀλυμπίασιν <gap />
+                        <note resp="ed" place="unspecified" anchored="yes">παρς δισπυτατιονις
+                           εχξιδισσε ϝιδ. θυαρε λαξυναε σιγνα δεδιτ δυεβνερυς</note> ἐνταῦθα δὲ
+                           <milestone unit="tlnum" n="15" /> παρ᾽ ἡμῖν καθ᾽ ἕκαστον ἄθλημα
+                        τοὺς ἀγωνιζομένους εἰσάγουσιν ἐπὶ παισὶ παλαισταῖς ἄνδρας
+                        παλαιστὰς καὶ πύκτας ἐπὶ πύκταις ὁμοίως καὶ παγκρατιαστάς: ἐκεῖ
+                        δ᾽, ὅταν οἱ παῖδες διαγωνίσωνται, </q></p></div3></div2></div1></body></text></TEI.2>

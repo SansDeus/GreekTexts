@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="4" org="uniform" sample="complete"><sp><p><milestone ed="p" n="957" unit="card" /></p></sp></div2>
+</div1>
+<div1 type="episode" org="uniform" sample="complete">
+<sp>
+<speaker>Ἀντιγόνη</speaker><p>
+<lb />παισθεὶς ἔπαισας.
+</p></sp>
+<sp>
+<speaker>Ἰσμήνη</speaker><p>
+σὺ δ᾽ ἔθανες  κατακτανών.
+</p></sp>
+<sp>
+<speaker>Ἀντιγόνη</speaker><p>
+<lb />δορὶ δ᾽ ἔκανες—
+</p></sp>
+<sp>
+<speaker>Ἰσμήνη</speaker><p>
+<lb />δορὶ δ᾽ ἔθανες—
+</p></sp>
+<sp>
+<speaker>Ἀντιγόνη</speaker><p>
+<lb rend="displayNum" n="960" />μελεοπόνος.
+</p></sp>
+<sp>
+<speaker>Ἰσμήνη</speaker><p>
+<lb />μελεοπαθής.
+</p></sp>
+<sp>
+<speaker>Ἀντιγόνη</speaker><p>
+<lb />ἴτω γόος.
+</p></sp>
+<sp>
+<speaker>Ἰσμήνη</speaker><p>
+<lb />ἴτω δάκρυ.
+</p></sp>
+<sp>
+<speaker>Ἀντιγόνη</speaker><p>
+<lb />πρόκεισαι —
+</p></sp>
+<sp>
+<speaker>Ἰσμήνη</speaker><p>
+<lb rend="displayNum" n="965" />κατακτάς.
+</p></sp></div1></body></text></TEI.2>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="40" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-432f" n="432f" /> κινήματα καὶ
+                  λόγους ἀποκειμένους καὶ λανθάνοντας ἀποκαλύπτει <quote rend="blockquote">
+                     <l> τὸ γὰρ βακχεύσιμον <milestone unit="tlnum" n="10" />
+                     </l>
+                     <l> καὶ τὸ μανιῶδες μαντικὴν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μαντικὴν</foreign> ευριπιδες
+                           ῾βαξξη. ϝ. 298᾿: <foreign lang="greek">μαντευτικὴν</foreign></note>
+                        πολλὴν ἔχει </l>
+                  </quote> κατ᾽ Εὐριπίδην, ὅταν ἔνθερμος ἡ ψυχὴ γενομένη καὶ πυρώδης
+                  ἀπώσηται τὴν εὐλάβειαν, ἣν ἡ θνητὴ φρόνησις ἐπάγουσα πολλάκις
+                  ἀποστρέφει καὶ κατασβέννυσι τὸν ἐνθουσιασμόν. <milestone unit="tlnum" n="15" />
+               </q>
+            </p>
+         </div1>
+         <div1 type="section" n="41" org="uniform" sample="complete">
+            <p>
+               <q direct="unspecified">ἅμα δ᾽ ἄν τις οὐκ ἀλόγως καὶ ξηρότητα φαίη μετὰ τῆς θερμότητος
+                  ἐγγιγνομένην λεπτύνειν τὸ πνεῦμα καὶ ποιεῖν αἰθερῶδες καὶ καθαρόν:
+                     <q direct="unspecified">αὕη</q> γάρ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὕη γὰρ</foreign> ρ: <foreign lang="greek">αὕτη γὰρ
+                        ξηρὰ</foreign></note>
+                  <q direct="unspecified">ψυχή</q> καθ᾽ Ἡράκλειτον. <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἡρακλειτον</foreign> βψωατερ π.
+                     30</note> ὑγρότης δ᾽ οὐ μόνον </q></p></div1></body></text></TEI.2>

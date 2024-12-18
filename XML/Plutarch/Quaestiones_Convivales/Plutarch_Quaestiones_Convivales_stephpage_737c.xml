@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-737c" n="737c" /> τὸν
+                     υἱὸν ἐπὶ ξένης τεθνάναι, καὶ τἀληθὲς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τἀληθὲς</foreign>
+                        *: <foreign lang="greek">τὸ ἀληθὲς</foreign></note> ἔχοντος εἰπεῖν
+                     οὐδενὸς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οὐδενὸς</foreign> *</note> οὐδ᾽ ἀνελεῖν τὸ ὕποπτον,
+                     εἰσελθὼν συγκλητικὸς ἀνὴρ πρὸς αὐτὸν ἤδη πρεσβύτερος <pb id="v.4.p.361" />
+                     <q direct="unspecified">οὐ καταφρονήσεις <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καταφρόνησις</foreign> μει</note></q> ἔφη
+                        <q direct="unspecified">Λογγῖνε, λαλιᾶς ἀπίστου καὶ κακοήθους φήμης, ὥσπερ οὐκ εἰδὼς
+                        οὐδ᾽ ἀνεγνωκὼς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οὐ δρᾶν ἐγνωκὼς</foreign> ιιδεμ</note> τὸ
+                           <quote rend="blockquote">φήμη δ᾽ οὔ τις πάμπαν ἀπόλλυται <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀπόλυται</foreign> μει</note>
+                        </quote>
+                        <note resp="ed" place="unspecified" anchored="yes">ηες. οδ 763</note>
+                     </q>
+                     <milestone unit="tlnum" n="5" />ὁ δ᾽ ἐν Ῥόδῳ στίχον αἰτήσαντι
+                     γραμματικῷ ποιουμένῳ δεῖξιν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δείξειν</foreign> ιιδεμ</note> ἐν
+                     τῷ θεάτρῳ προτείνας <quote rend="blockquote"> ἔρρ᾽ ἐκ νήσου θᾶσσον,
+                        ἐλέγχιστε ζωόντων</quote>
+                     <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">κ</foreign> 72</note> ἄδηλον εἴτε παίζων ἐφύβρισεν εἴτ᾽ ἄκων
+                     ἠστόχησε. <milestone unit="tlnum" n="10" /> ταῦτα μὲν οὖν παρηγόρησεν
+                     ἀστείως τὸν θόρυβον. </p></div3></div2></div1></body></text></TEI.2>

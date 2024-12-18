@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="26" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-239a" n="239a" />
+               <milestone unit="tlnum" n="5" />
+            </p>
+         </div1>
+         <div1 type="section" n="27" org="uniform" sample="complete">
+            <p>εὐχὴ δ᾽ αὐτῶν διδόναι τὰ καλὰ ἐπὶ τοῖς ἀγαθοῖς, καὶ πλέον οὐδέν. </p>
+         </div1>
+         <div1 type="section" n="28" org="uniform" sample="complete">
+            <p>Ἀφροδίτην σέβουσι τὴν ἐνόπλιον: καὶ πάντας δὲ τοὺς θεοὺς θήλεις καὶ
+               ἄρρενας λόγχας ἔχοντας ποιοῦνται, ὡς ἁπάντων τὴν πολεμικὴν ἀρετὴν
+                  <milestone unit="tlnum" n="10" /> ἐχόντων. </p>
+         </div1>
+         <div1 type="section" n="29" org="uniform" sample="complete">
+            <p>ἐπιλέγουσι δὲ καὶ οἱ παροιμιαζόμενοι <quote rend="blockquote"> τὰν χεῖρα
+               ποτιφέροντα τὰν τύχαν καλεῖν, <note resp="ed" place="unspecified" anchored="yes">λευτσξη. 2 π. 653</note> </quote> ὡς δέον ἐπικαλεῖσθαι τοὺς θεοὺς
+               μετὰ τοῦ ἐγχειρεῖν τι καὶ πράττειν, ἄλλως δὲ μή. <milestone unit="tlnum" n="15" />
+            </p>
+         </div1>
+         <div1 type="section" n="30" org="uniform" sample="complete">
+            <p>τοῖς παισὶν ἐπεδείκνυον τοὺς εἵλωτας μεθύσαντες εἰς ἀποτροπὴν πολυοινίας.
+            </p>
+         </div1>
+         <div1 type="section" n="31" org="uniform" sample="complete">
+            <p>ἔθος ἦν αὐτοῖς μηδὲ κόπτειν τὰς αὐλείους ἀλλ᾽ ἔξωθεν βοᾶν. </p></div1></body></text></TEI.2>

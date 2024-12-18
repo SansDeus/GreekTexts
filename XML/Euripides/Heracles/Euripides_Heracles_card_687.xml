@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="687" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />παιᾶνα μὲν Δηλιάδες
+<lb />ὑμνοῦσ᾽ ἀμφὶ πύλας τὸν
+<lb />Λατοῦς εὔπαιδα γόνον
+<lb rend="displayNum" n="690" />εἱλίσσουσαι καλλίχορον:
+<lb />παιᾶνας δ᾽ ἐπὶ σοῖς μελά-
+<lb />θροις κύκνος ὣς γέρων ἀοι-
+<lb />δὸς πολιᾶν ἐκ γενύων
+<lb />κελαδήσω: τὸ γὰρ εὖ
+<lb rend="displayNum" n="695" />τοῖς ὕμνοισιν ὑπάρχει:
+<lb />Διὸς ὁ παῖς: τᾶς δ᾽ εὐγενίας
+<lb />πλέον ὑπερβάλλων <add>ἀρετᾷ</add>
+<lb />μοχθήσας τὸν ἄκυμον
+<lb />θῆκεν βίοτον βροτοῖς
+<lb rend="displayNum" n="700" />πέρσας δείματα θηρῶν.
+</p></sp></div2></div1></body></text></TEI.2>

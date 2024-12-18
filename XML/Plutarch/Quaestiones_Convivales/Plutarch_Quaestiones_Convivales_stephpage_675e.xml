@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="3" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-675e" n="675e" />
+                  <p>ἡ πίτυς ἐζητεῖτο καθ᾽ ὃν λόγον ἐν Ἰσθμίοις <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἰσθμοῖς</foreign>
+                        μει</note>
+                     <milestone unit="tlnum" n="5" /> στέμμα γέγονε: καὶ γὰρ ἦν τὸ δεῖπνον
+                     ἐν Κορίνθῳ, Ἰσθμίων ἀγομένων ἑστιῶντος ἡμᾶς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἡμᾶς</foreign>
+                        τυρνεβυς: <foreign lang="greek">ἡμῖν</foreign></note> Λουκανίου τοῦ
+                        <milestone unit="tlnum" n="10" /> ἀρχιερέως. Πραξιτέλης μὲν οὖν ὁ
+                     περιηγητὴς τὸ μυθῶδες ἐπῆρεν, ὡς: λεγόμενον εὑρεθῆναι τὸ σῶμα τοῦ
+                     Μελικέρτου πίτυι προσβεβρασμένον ὑπὸ τῆς θαλάττης καὶ γὰρ οὐ πρόσω
+                     Μεγάρων εἶναι τόπον, ὃς <q direct="unspecified">καλῆς δρόμος</q> ἐπονομάζεται, δι᾽ οὗ
+                     φάναι Μεγαρεῖς <milestone unit="tlnum" n="15" /> τὴν Ἰνὼ τὸ παιδίον
+                     ἔχουσαν δραμεῖν ἐπὶ τὴν θάλασσαν. κοινῶς δ᾽ ὑπὸ πολλῶν λεγόμενον
+                        <note resp="ed" place="unspecified" anchored="yes">ξορρ. χ: <foreign lang="greek">λεγομένων</foreign></note> ὡς ἴδιόν ἐστι στέμμα
+                     Ποσειδῶνος ἡ πίτυς, Λουκανίου </p></div3></div2></div1></body></text></TEI.2>

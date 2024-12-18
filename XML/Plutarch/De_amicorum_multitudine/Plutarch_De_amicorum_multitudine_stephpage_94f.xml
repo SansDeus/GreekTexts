@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="4" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-94f" n="94f" /> . </p>
+            </div2>
+            <div2 type="section" n="5" org="uniform" sample="complete">
+               <p> ': ὥσπερ οὖν ὁ Ζεῦξις αἰτιωμένων αὐτόν τινων ὅτι ζωγραφεῖ βραδέως,
+                     <q direct="unspecified">ὁμολογῶ</q> εἶπεν <q direct="unspecified">ἐν πολλῷ χρόνῳ γράφειν, καὶ γὰρ εἰς
+                     πολύν,</q> οὕτω φιλίαν δεῖ καὶ συνήθειαν σῴζειν παραλαβόντας ἐν
+                     <milestone unit="tlnum" n="20" /> πολλῷ κριθεῖσαν. ἆῤ οὖν κρῖναι μὲν
+                  οὐκ ἔστι πολλοὺς φίλους ῥᾴδιον, συνεῖναι δὲ πολλοῖς ὁμοῦ ῥᾴδιον,
+                  ἢ καὶ τοῦτο ἀδύνατον; καὶ μὴν ἀπόλαυσίς ἐστιν ἡ συνήθεια τῆς
+                  φιλίας, καὶ τὸ ἥδιστον ἐν τῷ συνεῖναι καὶ συνδιημερεύειν <milestone unit="tlnum" n="25" />
+                  <quote rend="blockquote">
+                     <l>οὐ μὲν γὰρ ζωοί γε φίλων ἀπάνευθεν ἑταίρων </l> <note resp="ed" place="unspecified" anchored="yes">ηομερ. <foreign lang="greek">Ψ</foreign> 78</note>
+                     <l>βουλὰς ἑζόμενοι βουλεύσομεν</l>
+                  </quote>
+                  <pb id="v.1.p.230" />
+                  </p></div2></div1></body></text></TEI.2>

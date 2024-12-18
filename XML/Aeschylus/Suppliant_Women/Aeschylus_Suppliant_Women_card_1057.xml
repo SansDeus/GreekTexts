@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1057" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="3" org="uniform" sample="complete">
+<sp><speaker><add>Δαναΐς</add></speaker><p>
+<lb />τί δὲ μέλλω φρένα Δίαν
+<lb />καθορᾶν, ὄψιν ἄβυσσον;</p></sp>
+<sp><speaker><add>Θεράπαινα</add></speaker><p>
+<lb />μέτριον νῦν ἔπος εὔχου:</p></sp>
+<sp><speaker><add>Δαναΐς</add></speaker><p>
+<lb rend="displayNum" n="1060" />τίνα καιρόν με διδάσκεις;</p></sp>
+<sp><speaker><add>Θεράπαινα</add></speaker><p>
+<lb />τὰ θεῶν μηδὲν ἀγάζειν.
+</p></sp></div2></div1></body></text></TEI.2>

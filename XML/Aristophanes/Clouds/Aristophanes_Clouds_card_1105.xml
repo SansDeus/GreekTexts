@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Agon" org="uniform" sample="complete"><div2 type="antipnigos" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1105" unit="card" /></p></sp></div2></div1>
+<div1 type="Episode" org="uniform" sample="complete">
+<sp>
+<speaker>Σωκράτης</speaker><p>
+<lb rend="displayNum" n="1105" />τί δῆτα; πότερα τοῦτον ἀπάγεσθαι λαβὼν
+<lb />βούλει τὸν υἱόν, ἢ διδάσκω σοι λέγειν;</p></sp>
+<sp>
+<speaker>Στρεψιάδης</speaker><p>
+<lb />δίδασκε καὶ κόλαζε καὶ μέμνησ᾽ ὅπως
+<lb />εὖ μοι στομώσεις αὐτόν, ἐπὶ μὲν θάτερα
+<lb />οἷον δικιδίοις, τὴν δ᾽ ἑτέραν αὐτοῦ γνάθον
+<lb rend="displayNum" n="1110" />στόμωσον οἵαν ἐς τὰ μείζω πράγματα.</p></sp>
+<sp>
+<speaker>Σωκράτης</speaker><p>
+<lb />ἀμέλει κομιεῖ τοῦτον σοφιστὴν δεξιόν.</p></sp>
+<sp>
+<speaker>Φειδιππίδης</speaker><p>
+<lb />ὠχρὸν μὲν οὖν οἶμαί γε καὶ κακοδαίμονα.</p></sp></div1></body></text></TEI.2>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><milestone ed="p" n="807" unit="card" />
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ὁ μέγας ὄλβος ἅ τ᾽ ἀρετὰ
+<lb />μέγα φρονοῦσ᾽ ἀν᾽ Ἑλλάδα καὶ
+<lb />παρὰ Σιμουντίοις ὀχετοῖς
+<lb rend="displayNum" n="810" />πάλιν ἀνῆλθ᾽ ἐξ εὐτυχίας Ἀτρείδαις
+<lb />πάλαι παλαιᾶς ἀπὸ συμφορᾶς δόμων,
+<lb />ὁπότε χρυσείας ἔρις ἀρνὸς
+<lb />ἤλυθε Τανταλίδαις,
+<lb />οἰκτρότατα θοινάματα καὶ
+<lb rend="displayNum" n="815" />σφάγια γενναίων τεκέων:
+<lb />ὅθεν φόνῳ φόνος ἐξαμεί-
+<lb />βων δι᾽ αἵματος οὐ προλεί-
+<lb />πει δισσοῖσιν Ἀτρείδαις.
+</p></sp></div2></div1></body></text></TEI.2>

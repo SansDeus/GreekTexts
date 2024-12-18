@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="6" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-687b" n="687b" /> τὸ πρῶτον, εἶτ᾽ ἐπ᾽ αὐτὴν βαδίζει
+                     τὴν σύμφυτον λιβάδα τῆς σαρκὸς ἡ πύρωσις διώκουσα τὸ νοτερόν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τὸ
+                           νοτερὸν διώκουσα καὶ τὸ δίυγρον</foreign> πσελλυς</note>: γενομένης
+                     οὖν ὥσπερ ἐν πηλῷ ξηρότητος, ποτοῦ μᾶλλον τὸ σῶμα δεῖσθαι
+                     πέφυκεν, ἄχρι οὗ <milestone unit="tlnum" n="15" /> πιόντων ἀναρρωσθὲν
+                     καὶ ἰσχῦσαν τὸ θερμὸν ἐμβριθοῦς τροφῆς ὄρεξιν ἐργάσηται. </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="2" org="uniform" sample="complete">
+               <head> Πότερον ἔνδεια ποιεῖ τὸ πεινῆν καὶ διψῆν ἢ πόρων <milestone unit="tlnum" n="20" /> μετασχηματισμός.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>λεχθέντων δὲ τούτων, οἱ περὶ Φίλωνα ἰατροὶ τὴν πρώτην θέσιν
+                     ἐκίνουν: ἐνδείᾳ γὰρ οὐ <pb id="v.4.p.219" /> γίγνεσθαι</p></div3></div2></div1></body></text></TEI.2>

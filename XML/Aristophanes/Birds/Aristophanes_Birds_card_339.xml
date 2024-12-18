@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Agon" org="uniform" sample="complete"><div2 type="katakeleusmenos" org="uniform" sample="complete"><sp><p><milestone ed="p" n="339" unit="card" /></p></sp></div2>
+<div2 type="epirrheme" org="uniform" sample="complete">
+<sp><speaker>Ἐυελπίδης</speaker><p>
+<lb />αἴτιος μέντοι σὺ νῷν εἶ τῶν κακῶν τούτων  μόνος.
+<lb rend="displayNum" n="340" />ἐπὶ τί γάρ μ᾽ ἐκεῖθεν ἦγες;</p></sp>
+<sp><speaker>Πισθέταιρος</speaker><p>
+ἵν᾽ ἀκολουθοίης ἐμοί.</p></sp>
+<sp><speaker>Ἐυελπίδης</speaker><p>
+<lb />ἵνα μὲν οὖν κλάοιμι μεγάλα.</p></sp>
+<sp><speaker>Πισθέταιρος</speaker><p>
+τοῦτο μὲν ληρεῖς ἔχων
+<lb />κάρτα: πῶς κλαύσει γάρ, ἢν ἅπαξ γε τὠφθαλμὼ 'κκοπῇς;</p></sp></div2></div1></body></text></TEI.2>

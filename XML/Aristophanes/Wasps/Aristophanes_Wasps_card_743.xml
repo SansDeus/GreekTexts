@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="743" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />νενουθέτηκεν αὑτὸν ἐς τὰ πράγμαθ᾽, οἶς
+<lb />τότ᾽ ἐπεμαίνετ᾽: ἔγνωκε γὰρ ἀρτίως,
+<lb rend="displayNum" n="745" />λογίζεταί τ᾽ ἐκεῖνα πάνθ᾽ ἁμαρτίας
+<lb />ἃ σοῦ κελεύοντος οὐκ ἐπείθετο.
+<lb />νῦν δ᾽ ἴσως τοῖσι σοῖς λόγοις πείθεται
+<lb />καὶ σωφρονεῖ μέντοι μεθιστὰς
+<lb />ἐς τὸ λοιπὸν τὸν τρόπον
+<lb rend="displayNum" n="749" />πιθόμενός τέ σοι.</p></sp></div2>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+<lb />ἰώ μοί μοι.</p></sp>
+<sp>
+<speaker>Βδελυκλέων</speaker><p>
+οὗτος τί βοᾷς;</p></sp>
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+<lb rend="displayNum" n="750" />μή μοι τούτων μηδὲν ὑπισχνοῦ.
+<lb />κείνων ἔραμαι, κεῖθι γενοίμαν,
+<lb />ἵν᾽ ὁ κῆρύξ φησι, 'τίς ἀψήφιστος; ἀνιστάσθω.'
+<lb />κἀπισταίην ἐπὶ τοῖς κημοῖς
+<lb rend="displayNum" n="755" />ψηφιζομένων ὁ τελευταῖος.
+<lb />σπεῦδ᾽ ὦ ψυχή. ποῦ μοι ψυχή;
+<lb />πάρες ὦ σκιερά. μὰ τὸν Ἡρακλέα
+<lb />μή νυν ἔτ᾽ ἐγὼ 'ν τοῖσι δικασταῖς
+<lb />κλέπτοντα Κλέωνα λάβοιμι.</p></sp></div2></div1></body></text></TEI.2>

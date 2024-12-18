@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-99a" n="99a" />
+               </p>
+            </div2>
+            <div2 type="section" n="4" org="uniform" sample="complete">
+               <p>ἀλλὰ μὴν καὶ τὰ τεκτόνων δήπου <q direct="unspecified"> πράγματα θνητῶν</q> ἐστι, καὶ τὰ
+                  χαλκοτύπων καὶ οἰκοδόμων καὶ ἀνδριαντοποιῶν, ἐν οἷς οὐδὲν αὐτομάτως
+                  οὐδ᾽ ὡς ἔτυχε κατορθούμενον ὁρῶμεν. ὅτι γὰρ τούτοις βραχεῖὰ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">βραχεῖα</foreign>] επιξυρυς απ. διογ. λ. χ 114</note>
+                     <milestone unit="tlnum" n="15" /> τις παρεμπίπτει τύχη, τὰ δὲ πλεῖστα καὶ
+                  μέγιστα τῶν ἔργων αἱ τέχναι συντελοῦσι δι᾽ αὑτῶν, καὶ οὗτος
+                  ὑποδεδήλωκε <quote rend="blockquote">
+                     <l> βᾶτ᾽ εἰς ὁδὸν δὴ πᾶς ὁ χειρῶναξ λεώς, </l> <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 248</note>
+                     <l> οἳ τὴν Διὸς γοργῶπιν Ἐργάνην στατοῖς <milestone unit="tlnum" n="20" />
+                     </l>
+                     <l> λίκνοισι προστρέπεσθε </l>
+                  </quote>
+                  </p></div2></div1></body></text></TEI.2>

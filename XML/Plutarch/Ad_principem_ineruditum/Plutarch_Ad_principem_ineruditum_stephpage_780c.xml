@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-780c" n="780c" /> ἄρχειν μὴ ἀρχομένου: ἀλλ᾽ οἱ πολλοὶ
+                  κακῶς φρονοῦντες <milestone unit="tlnum" n="5" /> οἴονται πρῶτον ἐν τῷ
+                  ἄρχειν ἀγαθὸν εἶναι τὸ μὴ ἄρχεσθαι, καὶ ὅ γε Περσῶν βασιλεὺς
+                  πάντας . ἡγεῖτο δούλους πλὴν τῆς αὑτοῦ γυναικός, ἧς μάλιστα δεσπότης
+                  ὤφειλεν εἶναι. , </p>
+            </div2>
+            <div2 type="section" n="3" org="uniform" sample="complete">
+               <p>τίς οὖν ἄρξει τοῦ ἄρχοντος; ὁ νόμος ὁ <milestone unit="tlnum" n="10" />
+                  πάντων βασιλεὺς; θνατῶν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">θνατῶν</foreign> πινδαρυς ῾βεργκ. 1 π. 439᾿: <foreign lang="greek">θηντῶν</foreign></note> τε καὶ ἀθανάτων: ὡς ἔφη Πίνδαρος, οὐκ ἐν
+                  βιβλίοις ἔξω γεγραμμένος <note resp="ed" place="unspecified" anchored="yes">μ: <foreign lang="greek">γεγραμμένοις</foreign></note> οὐδέ τισι ξύλοις, ἀλλ᾽ ἔμψυχος ὢν ἐν αὐτῷ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐν αὐτῷ</foreign> ξοραες: <foreign lang="greek">ἑαυτῷ</foreign> αυτ <foreign lang="greek">ἐν ἑαυτῷ</foreign></note>
+                  λόγος, ἀεὶ συνοικῶν καὶ παραφυλάττων καὶ μηδέποτε τὴν ψυχὴν ἐῶν
+                  ἔρημον ἡγεμονίας. ὁ μὲν γὰρ Περσῶν βασιλεὺς <milestone unit="tlnum" n="15" /> ἕνα τῶν κατευναστῶν εἶχε πρὸς τοῦτο τεταγμένον, ὥσθ᾽
+                  ἕωθεν εἰσιόντα λέγειν πρὸς αὐτὸν <q direct="unspecified"> ἀνάστα, ὦ βασιλεῦ, καὶ
+                     φρόντιζε πραγμάτων, ὧν </q></p></div2></div1></body></text></TEI.2>

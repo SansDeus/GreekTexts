@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="7" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-579d" n="579d" /> θεὸν ἀλλὰ
+                  προστάσσειν Ἕλλησι πᾶσι πολέμου καὶ κακῶν μεθεμένους Μούσαις ὁμιλεῖν,
+                  καὶ διὰ λόγων καὶ μαθημάτων τὰ πάθη καταπραΰνοντας ἀβλαβῶς καὶ
+                  ὠφελίμως ἀλλήλοις συμφέρεσθαι.</q>
+            </p>
+         </div1>
+         <div1 type="section" n="8" org="uniform" sample="complete">
+            <p>μεταξὺ δὲ τοῦ Σιμμίου λέγοντος, ὁ πατὴρ <pb id="v.3.p.498" /> ἡμῶν
+               Πολύμνις ἐπεισῆλθε, καὶ καθίσας παρὰ τὸν Σιμμίαν <q direct="unspecified">Ἐπαμεινώνδας</q>
+               ἔφη <q direct="unspecified">καὶ σὲ καὶ τούτους παρακαλεῖ πάντας, εἰ μή τις ἀσχολία μείζων,
+                  ἐνταῦθα περιμεῖναι βουλόμενος ὑμῖν γνωρίσαι τὸν ξένον, <milestone unit="tlnum" n="5" /> ἄνδρα γενναῖον μὲν αὐτὸν ὄντα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὄντα</foreign> ρ:
+                     λαξ. 7 ε 5-6 β</note> μετὰ γενναίας δὲ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δὲ</foreign> χ</note> καὶ καλῆς
+                  ἀφιγμένον τῆς προαιρέσεως <gap />
+                  <note resp="ed" place="unspecified" anchored="yes">λαξ. 7 ε 11 β. <foreign lang="greek">ἔστι δέ τις</foreign> συππλετ χ. μαλιμ <foreign lang="greek">πρὸς ἡμᾶς</foreign> ϝελ <foreign lang="greek">ἡμῖν</foreign></note>
+                  ἐξ Ἰταλίας τῶν Πυθαγορικῶν ἀφῖκται δὲ Λύσιδι τῷ γέροντι </q></p></div1></body></text></TEI.2>

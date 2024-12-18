@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="345" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="3" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="345" />κορκορυγαὶ  δ᾽ ἀν᾽ ἄστυ, προτὶ <del status="unremarkable">πτόλιν</del>
+<lb />δ᾽ ὁρκάνα
+<lb />πυργῶτις: πρὸς ἀνδρὸς δ᾽ ἀνὴρ
+<lb /><add>ἀμφὶ</add>  δορὶ κλίνεται:
+<lb />βλαχαὶ δ᾽ αἱματόεσσαι
+<lb />τῶν ἐπιμαστιδίων
+<lb rend="displayNum" n="350" />ἀρτιτρεφεῖς βρέμονται.
+<lb />ἁρπαγαὶ δὲ διαδρομᾶν  ὁμαίμονες:
+<lb />ξυμβολεῖ φέρων φέροντι,
+<lb />καὶ κενὸς κενὸν καλεῖ,
+<lb />ξύννομον θέλων ἔχειν,
+<lb rend="displayNum" n="355" />οὔτε μεῖον οὔτ᾽ ἴσον λελιμμένοι.
+<lb />τἀκ  τῶνδ᾽ εἰκάσαι λόγος πάρα.
+</p></sp></div2></div1></body></text></TEI.2>

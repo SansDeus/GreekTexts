@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="12" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-543f" n="543f" />
+               <q direct="unspecified">μεγάλως</q> ἐν ταῖς ἐπιδείξεσι προσδεχόμενοι, καὶ τὸ <q direct="unspecified">μετρίως</q> καὶ
+               τὸ <q direct="unspecified">ἀνθρωπίνως</q> προσαπολλύουσι. <milestone unit="tlnum" n="5" />
+            </p>
+         </div1>
+         <div1 type="section" n="13" org="uniform" sample="complete">
+            <p>καὶ μὴν ὥσπερ οἱ τοὺς ὀφθαλμιῶντας ἐνοχλεῖν φυλαττόμενοι τοῖς ἄγαν
+               λαμπροῖς σκιάν τινα παραμιγνύουσιν, οὕτως ἔνιοι τοὺς αὑτῶν ἐπαίνους μὴ
+               παντελῶς λαμπροὺς μηδ᾽ ἀκράτους προσφέροντες, ἀλλά τινας ἐλλείψεις ἢ
+               ἀποτεύξεις ἢ ἁμαρτίας <milestone unit="tlnum" n="10" /> ἐλαφρὰς ἐμβάλλοντες,
+               ἀφαιροῦσι τὸ ἐπαχθὲς αὐτῶν καὶ νεμεσητόν: ὥσπερ ὁ Ἐπειός, οὐ μέτρια
+               περὶ τῆς πυκτικῆς εἰπὼν καὶ θρασυνάμενος ὡς <quote /> '<foreign lang="greek">ἀντικρὺ χρόα τε ῥηξει σύν τ᾽ ὀστέ" ἀράξει.' <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὀστέ᾽ ἀράξει</foreign> *: <foreign lang="greek">ὀστέα ῥάξει</foreign></note> 'ἧ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἧ</foreign> *: <foreign lang="greek">ἢ</foreign></note> οὐχ ἅλις</foreign> ῾<foreign lang="greek">φησίν</foreign>᾿ <foreign lang="greek">ὅττι μάχης ἐπιδεύομαι;</foreign>' <note resp="ed" place="unspecified" anchored="yes">ιβ. 670</note> <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">Ψ</foreign> 673</note>
+               <milestone unit="tlnum" n="15" />
+               </p></div1></body></text></TEI.2>

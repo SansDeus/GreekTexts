@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="673" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />οὐ παύσομαι τὰς Χάριτας
+<lb />Μούσαις συγκαταμειγνύς,
+<lb rend="displayNum" n="675" />ἁδίσταν συζυγίαν.
+<lb />μὴ ζῴην μετ᾽ ἀμουσίας,
+<lb />αἰεὶ δ᾽ ἐν στεφάνοισιν εἴ-
+<lb />ην: ἔτι τοι γέρων ἀοι-
+<lb />δὸς κελαδεῖ Μναμοσύναν:
+<lb rend="displayNum" n="680" />ἔτι τὰν Ἡρακλέους
+<lb />καλλίνικον ἀείδω
+<lb />παρά τε Βρόμιον οἰνοδόταν
+<lb />παρά τε χέλυος ἑπτατόνου
+<lb />μολπὰν καὶ Λίβυν αὐλόν:
+<lb rend="displayNum" n="685" />οὔπω καταπαύσομεν
+<lb />Μούσας, αἵ μ᾽ ἐχόρευσαν.
+</p></sp></div2></div1></body></text></TEI.2>

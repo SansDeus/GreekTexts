@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="lyric" org="uniform" sample="complete"><sp><milestone ed="p" n="1273" unit="card" />
+</sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l n="1273">ἀκούεις βοὰν ἀκούεις τέκνων;</l>
+<l>ἰὼ τλᾶμον, ὦ κακοτυχὲς γύναι.</l></sp>
+<sp><speaker>Παῖς α</speaker>
+<l n="1271">οἴμοι, τί δράσω; ποῖ φύγω μητρὸς χέρας;</l></sp>
+<sp><speaker>παις β</speaker>
+<l>οὐκ οἶδ᾽, ἄδελφε φίλτατ᾽: ὀλλύμεσθα γάρ.</l></sp>
+<sp><speaker>Χορός</speaker>
+<l n="1275">παρέλθω δόμους; ἀρῆξαι φόνον δοκεῖ μοι τέκνοις.</l></sp>
+<sp><speaker>Παῖς α</speaker>
+<l>ναί, πρὸς θεῶν, ἀρήξατ᾽: ἐν δέοντι γάρ.</l></sp>
+<sp><speaker>Παῖς β</speaker>
+<l>ὡς ἐγγὺς ἤδη γ᾽ ἐσμὲν ἀρκύων ξίφους.</l></sp>
+<sp><speaker>Χορός</speaker>
+<l n="1280">τάλαιν᾽, ὡς ἄρ᾽ ἦσθα πέτρος ἢ σίδαρος, ἅτις τέκνων</l>
+<l>ὃν ἔτεκες ἄροτον αὐτόχειρι μοίρᾳ κτενεῖς.</l></sp></div2></div1></body></text></TEI.2>

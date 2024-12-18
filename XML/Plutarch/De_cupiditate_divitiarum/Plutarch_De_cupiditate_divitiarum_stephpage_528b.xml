@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="10" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-528b" n="528b" /> τῶν συνήθων οὔτε ταῖς χρυσαῖς παρέχει
+               πράγματα τραπέζαις οὔτε τοῖς χρυσοῖς ἐκπώμασιν ἀλλὰ χρῆται <milestone unit="tlnum" n="15" /> τοῖς προστυχοῦσι, καὶ ἡ γυνὴ ἄχρυσος καὶ ἀπόρφυρος
+               καὶ ἀφελὴς πάρεστιν: ὅταν δὲ σύνδειπνον, τουτέστι πομπὴ καὶ θέατρον,
+               συγκροτῆται καὶ δρᾶμα πλουσιακὸν εἰσάγηται, <q direct="unspecified">νηῶν δ᾽ ἔκφερε λέβητάς τε
+                  τρίποδάς τε:</q> <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">Ψ</foreign> 259</note> τῶν τε λύχνων ἀντέχονται καὶ περισπῶνται <milestone unit="tlnum" n="20" /> περὶ τὰς κύλικας, ἀλλάσσουσι τοὺς οἰνοχόους,
+               μεταμφιεννύουσι πάντα, πάντα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πάντα</foreign>] πριυς δελ. δυεβνερυς</note> κινοῦσι, χρυσόν, ἄργυρον, λιθοκόλλητα, ἁπλῶς
+               πλουτεῖν ὁμολογοῦντες. ἀλλὰ σωφροσύνης γε, κἂν μόνος δειπνῇ, δεῖται κἂν
+               δικαιοσύνης.</p>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

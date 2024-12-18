@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" n="82" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-200a" n="200a" />
+            <div2 type="section" n="3" org="uniform" sample="complete">
+               <p>ἔτι δὲ νέος ὢν τοσαύτην εἶχε δόξαν ἀνδρείας 
+καὶ συνέσεως ὥστε Κάτωνα μὲν τὸν πρεσβύτερον 
+εἰπεῖν ἐρωτηθέντα περὶ τῶν ἐν Καρχηδόνι στρατευομένων, 
+ἐν οἷς καὶ Σκιπίων ἦν,
+<quote rend="blockquote">οἶος πέπνυται, τοὶ δὲ σκιαὶ ἀίσσουσιν.</quote>
+               </p>
+            </div2>
+            <div2 type="section" n="4" org="uniform" sample="complete">
+               <p>εἰς δὲ τὴν Ῥώμην ἐλθόντος ἀπὸ στρατείας,<note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀπὸ στρατείας</foreign>] <foreign lang="greek">ἐπὶ ὑπατείαν</foreign> ωψττενβαξη.</note> ἐκάλουν αὐτόν, οὐκ ἐκείνῳ χαριζόμενοι, ἀλλ᾽
+ὡς Καρχηδόνα δι᾽ ἐκείνου ταχὺ καὶ ῥᾳδίως ληψόμενοι.
+</p>
+            </div2>
+            <div2 type="section" n="5" org="uniform" sample="complete">
+               <p>ἐπεὶ δὲ παρελθὼν εἰς τὸ τεῖχος, τῶν Καρχηδονίων ἐκ τῆς ἄκρας ἀμυνομένων ῥώμῃ, συνεῖδε<note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ῥώμῃ, συνεῖδε</foreign> φ.ξ.β.: <foreign lang="greek">ἔγνω</foreign> ηυλτσξη ανδ ϝαν ηερωερδεν: <foreign lang="greek">ἔμαθε</foreign> ηυλτσξη: <foreign lang="greek">παρέβαλεν εἰς</foreign> πανταζιδες: <foreign lang="greek">ἔχον</foreign> κρονενβεργ: <foreign lang="greek">μεταξὺ</foreign> ς. α. ναβερ: <foreign lang="greek">μὴ σὺ</foreign>.</note> τὴν διὰ μέσου θάλατταν οὐ πάνυ βαθεῖαν οὖσαν τοῦ Πολυβίου συμβουλεύοντος αὐτῷ κατασπεῖραι τριβόλους σιδηροῦς ἢ σανίδας ἐμβάλλειν κεντρωτάς,
+</p></div2></div1></body></text></TEI.2>

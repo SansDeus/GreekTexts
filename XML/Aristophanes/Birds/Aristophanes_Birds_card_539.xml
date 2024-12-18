@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Agon" org="uniform" sample="complete"><div2 type="pnigos" org="uniform" sample="complete"><sp><p><milestone ed="p" n="539" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />πολὺ δὴ πολὺ δὴ χαλεπωτάτους λόγους
+<lb rend="displayNum" n="540" />ἤνεγκας ἄνθρωφ᾽. ὡς ἐδάκρυσά γ᾽ ἐμῶν
+<lb />πατέρων κάκην, οἳ
+<lb />τάσδε τὰς τιμὰς προγόνων παραδόντων
+<lb />ἐπ᾽ ἐμοῦ κατέλυσαν.
+<lb />σὺ δέ μοι κατὰ δαίμονα καί <add>τινα</add> συντυχίαν
+<lb rend="displayNum" n="545" />ἀγαθὴν ἥκεις ἐμοὶ σωτήρ.
+<lb />ἀναθεὶς γὰρ ἐγώ σοι
+<lb />τὰ νεοττία κἀμαυτὸν οἰκήσω.</p></sp></div2></div1></body></text></TEI.2>

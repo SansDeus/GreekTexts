@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-723a" n="723a" />
+            <div2 type="chapter" n="4" org="uniform" sample="complete">
+               <head> Διὰ τί τῶν ἱερῶν ἀγώνων ἄλλος ἄλλον ἔχει στέφανον, τὸν δὲ
+                  φοίνικα πάντες: ἐν ᾧ καὶ διὰ τί τοὺς μεγάλους <note resp="ed" place="unspecified" anchored="yes">μαλιμ <foreign lang="greek">τὰς
+                        μεγάλας</foreign></note> φοινικοβαλάνους Νικολάους καλοῦσιν.</head>
+               <milestone unit="tlnum" n="15" />
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="20" />
+                  <p>Ἰσθμίων ἀγομένων ἐν τῇ δευτέρᾳ τῶν Σώσπιδος ἀγωνοθεσιῶν τὰς
+                     μὲν ἄλλας ἑστιάσεις διεφύγομεν, ἑστιῶντος αὐτοῦ πολλοὺς μὲν ἅμα
+                     ξένους, <pb id="v.4.p.321" /> πάντας δὲ πολλάκις τοὺς πολίτας: ἅπαξ δὲ
+                     τοὺς μάλιστα φίλους καὶ φιλολόγους οἴκοι δεχομένου, </p></div3></div2></div1></body></text></TEI.2>

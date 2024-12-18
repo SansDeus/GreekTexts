@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><milestone ed="p" n="841" unit="card" />
+</sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Ἑρμιόνη</speaker>
+<l>τί μοι ξίφος</l>
+<l>ἐκ χερὸς ἠγρεύσω;</l>
+<l>ἀπόδος, ὦ φίλος, ἀπόδος, ἵν᾽ ἀνταίαν</l>
+<l>ἐρείσω πλαγάν: τί με βρόχων εἴργεις;</l>
+</sp>
+<sp>
+<speaker>Τροφός</speaker>
+<l n="845">ἀλλ᾽ εἴ σ᾽ ἀφείην μὴ φρονοῦσαν, ὡς θάνῃς;</l>
+</sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Ἑρμιόνη</speaker>
+<l>οἴμοι πότμου.</l>
+<l>ποῦ μοι πυρὸς φίλα φλόξ;</l>
+<l>ποῦ δ᾽ ἐκ πέτρας ἀερθῶ,</l>
+<l>ἢ κατὰ πόντον ἢ καθ᾽ ὕλαν ὀρέων,</l>
+<l n="850">ἵνα θανοῦσα νερτέροισιν μέλω;</l>
+</sp></div2></div1></body></text></TEI.2>

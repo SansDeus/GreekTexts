@@ -1,0 +1,3281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete">
+            <label>ἐκ τῶν ἐπιγραμμάτων τοῦ ἁγίου Γρηγορίου τοῦ Θεολόγου</label>
+            <div2 type="chapter" n="1" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ἐπιτύμβιον εἰς Ἰωάννην καὶ Θεοδόσιον</label>
+               <p>
+                  <lb /> ἐνθάδε τύμβος ἔχει θεοειδέας ἀνέρας ἐσθλούς,
+<lb /> θεῖον Ἰωάννην, τὸν πάνυ Θευδόσιον,
+<lb />ὧν ἀρετὴ πολύολβος ἐς οὐρανοῦ ἄντυγας ἦλθε,
+<lb /> καὶ φωτὸς μετόχους δεῖξεν ἀκηρασίου,
+</p>
+            </div2>
+            <div2 type="chapter" n="2" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν μέγαν Βασίλειον τὸν Καισαρείας ἐπίσκοπον</label>
+               <p>
+                  <lb />τῆς ἐν Καππαδοκίᾳ
+<lb /> σῶμα δίχα ψυχῆς ζώειν πάρος ἢ ἐμὲ σεῖο,
+<lb /> Βασίλιε, Χριστοῦ λάτρι, φίλ᾽, ὠιόμην
+<lb /> ἀλλ᾽ ἔτλην καὶ ἔμεινα. τί μέλλομεν; οὒ μ᾽ ἀναείρας
+<lb /> θήσεις ἐς μακάρων σήν τε χοροστασίην;
+<milestone unit="lnum" n="5" />
+                  <lb />μή με λίπῃς, μή, τύμβον ἐπόμνυμι: οὔ ποτε σεῖο
+<lb /> λήσομαι, οὐδὲ θέλων. Γρηγορίοιο λόγος.
+</p>
+            </div2>
+            <div2 type="chapter" n="3" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτὸν Βασίλειον τὸν μέγαν</label>
+               <p>
+                  <lb /> ἡνίκα Βασιλίοιο θεόφρονος ἥρπασε πνεῦμα
+<lb />ἡ Τριὰς ἀσπασίως ἔνθεν ἐπειγομένου,
+<lb /> πᾶσα μὲν οὐρανίη στρατιὴ γήθησεν ἰόντι,
+<lb />πᾶσα δὲ Καππαδοκῶν ἐστονάχησε πόλις
+<milestone unit="lnum" n="5" />
+                  <lb />οὐκ οἶον κόσμος δὲ μέγ᾽ ἴαχεν <quote rend="blockquote">
+                     <l>ὤλετο κῆρυξ,
+</l>
+                     <l>ὤλετο εἰρήνης δεσμὸς ἀριπρεπέος <pb id="v.2.p.402" />
+                     </l>
+                  </quote> 
+               </p>
+            </div2>
+            <div2 type="chapter" n="4" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> κόσμος ὅλος μύθοισιν ὑπ᾽ ἀντιπάλοισιν ἀεικῶς
+<lb /> σείεται, ὁ Τριάδος κλῆρος ὁμοσθενέος:
+<lb /> αἰαῖ: Βασιλίου δὲ μεμυκότα χείλεα σιγᾷ.
+<lb /> ἔγρεο: καὶ στήτω σοῖσι λόγοισι σάλος
+<milestone unit="lnum" n="5" />
+                  <lb /> σαῖς τε θυηπολίῃσι: σὺ γὰρ μόνος ἶσον ἔφηνας
+<lb />καὶ βίοτον ἔφηνας καὶ βιότητι λόγον.
+</p>
+            </div2>
+            <div2 type="chapter" n="5" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> εἷς θεὸς ὑψιμέδων ἕνα δ᾽ ἄξιον ἀρχιερῆα
+<lb />ἡμετέρη γενεὴ εἶδέ σε, Βασίλιε,
+<lb /> ἄγγελον ἀτρεκίης ἐριηχέα, ὄμμα φαεινὸν
+<lb /> Χριστιανοῖς, ψυχῆς κάλλεσι λαμπόμενον,
+<milestone unit="lnum" n="5" />
+                  <lb /> Πόντου Καππαδοκῶν τε μέγα κλέος εἰσέτι καὶ νῦν,
+<lb /> λίσσομ᾽, ὑπὲρ κόσμου ἵστασο δῶρ᾽ ἀνάγων.
+</p>
+            </div2>
+            <div2 type="chapter" n="6" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> ἐνθάδε Βασιλίοιο Βασίλιον ἀρχιερῆα
+<lb /> θέντο με Καισαρέες, Γρηγορίοιο φίλον,
+<lb />ὃν περὶ κῆρι φίλησα: θεὸς δέ οἱ ὄλβια δοίη
+<lb /> ἄλλα τε, καὶ ζωῆς ὡς τάχος ἀντιάσαι
+<milestone unit="lnum" n="5" />
+                  <lb /> ἡμετέρης: τί δ᾽ ὄνειαρ ἐπὶ χθονὶ δηθύνοντα
+<lb /> τήκεσθ᾽, οὐρανίης μνωόμενον φιλίης;
+</p>
+            </div2>
+            <div2 type="chapter" n="7" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> τυτθὸν ἔτι πνείεσκες ἐπὶ χθονί, πάντα δὲ Χριστῷ
+<lb /> δῶκας ἄγων, ψυχήν, σῶμα, λόγον, παλάμας,
+<lb /> Βασίλιε, Χριστοῖο μέγα κλέος, ἕρμ᾽ ἱερήων,
+<lb />ἕρμα πολυσχίστου νῦν πλέον ἀτρεκίης.
+<pb id="v.2.p.404" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="8" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />ὦ μύθοι, ὦ ξυνὸς φιλίης δόμος, ὦ φίλ᾽ Ἀθῆναι,
+<lb />ὦ θείου βιότου τηλόθε συνθεσίαι,
+<lb /> ἴστε τόδ᾽, ὡς Βασίλειος ἐς οὐρανόν, ὡς ποθέεσκεν.,
+<lb /> Γρηγόριος δ᾽ ἐπὶ γῆς χείλεσι δεσμὰ φέρων.
+</p>
+            </div2>
+            <div2 type="chapter" n="9" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> Καισαρέων μέγ᾽ ἄεισμα, φαάντατε ὦ Βασίλειε,
+<lb /> βροντὴ σεῖο λόγος, ἀστεροπὴ δὲ βίος:
+<lb /> ἀλλὰ καὶ ὣς ἕδρην ἱερὴν λίπες: ἤθελεν οὕτω
+<lb /> Χριστός, ὅπως μίξῃ ς1᾽ ὡς τάχος οὐρανίοις.
+</p>
+            </div2>
+            <div2 type="chapter" n="10" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />βένθεα πάντ᾽ ἐδάης τὰ πνεύματος, ὅσσα τ᾽ ἔασι
+<lb /> τῆς χθονίης σοφίης: ἔμπνοον ἱρὸν ἔης.
+</p>
+            </div2>
+            <div2 type="chapter" n="10b" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />ὀκτάετες λαοῖο θεόφρονος ἡνία τείνας,
+<lb /> τοῦτο μόνον τῶν σῶν, ὦ Βασίλει᾽, ὀλίγον.
+</p>
+            </div2>
+            <div2 type="chapter" n="11" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> χαίροις, ὦ Βασίλειε, καὶ εἰ λίπες ἡμέας, ἔμπης:
+<lb /> Γρηγορίου τόδε σοι γράμμ᾽ ἐπιτυμβίδιον,
+<lb /> μῦθος ὅδ᾽ ὃν φιλέεσκες: ἔχοις χερός. ὦ Βασίλειε,
+<lb /> τῆς φιλίης καὶ σοὶ δῶρον ἀπευκτότατον.
+<milestone unit="lnum" n="5" />
+                  <lb /> Γρηγόριος, Βασίλειε, τεῇ κόνι τήνδ᾽ ἀνέθηκα
+<lb /> τῶν ἐπιγραμματίων, θεῖε, δυωδεκάδα.
+<pb id="v.2.p.406" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="12" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν ἑαυτοῦ πατέρα</label>
+               <p>
+                  <lb /> ἔνθ᾽ ἑκατονταέτης, ζωῆς βροτέης καθύπερθε,
+<lb />πνεύματι καὶ θώκῳ τεσσαρακονταέτης,
+<lb /> μείλιχος, ἡδυεπής, λαμπρὸς Τριάδος ὑποφήτης,
+<lb /> νήδυμον ὕπνον ἔχω, Γρηγορίοιο δέμας:
+<milestone unit="lnum" n="5" />
+                  <lb /> ψυχὴ δὲ πτερόεσσα λάχεν Θεόν. ἀλλ᾽ ἱερῆες
+<lb /> ἁζόμενοι κείνου καὶ τάφον ἀμφέπετε.
+</p>
+            </div2>
+            <div2 type="chapter" n="13" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />ἔκ με πικρῆς ἐκάλεσσε Θεός μέγας ἀγριελαίης,
+<lb /> ποίμνης <add>δ᾽</add> ἡγεμόνα θῆκε τὸν οὐδ᾽ ὀίων
+<lb /> ἔσχατον ἐκ πλευρῆς δὲ θεόφρονος ὄλβον ἔνειμεν
+<lb /> γῆρας <add>δ᾽</add> ἐς λιπαρὸν ἱκόμεθ᾽ ἀμφότεροι,.
+<milestone unit="lnum" n="5" />
+                  <lb /> ἱρὸς ἐμῶν τεκέων ἀγανώτατος: εἰ δὲ τελευτὴν
+<lb /> ἔτλην Γρηγόριος, οὐ μέγα: θνητὸς ἔην.
+</p>
+            </div2>
+            <div2 type="chapter" n="14" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />εἴ τις ὄρους καθύπερθεν ἁγνῆς ὀπὸς ἔπλετο μύστης
+<lb /> Μωσῆς, καὶ μεγάλου Γρηγορίοιο νόος,
+<lb />ὅν ποτε τηλόθ᾽ ἐόντα χάρις μέγαν ἀρχιερῆα
+<lb />θήκατο νῦν δ᾽ ἱερῆς ἐγγὺς ἔχει Τριάδος.
+</p>
+            </div2>
+            <div2 type="chapter" n="15" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />αὐτὸς νηὸν ἔρεψα Θεῷ, καὶ δῶχ᾽ ἱερῆα
+<lb /> Γρηγόριον καθαρῇ λαμπόμενον Τριάδι,
+<lb /> ἄγγελον ἀτρεκίης ἐριηχέα, ποιμένα λαῶν,
+<lb />ἠίθεον σοφίης ἀμφοτέρης πρύτανιν.
+<pb id="v.2.p.408" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="16" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> τέκνον ἐμόν, τὰ μὲν ἄλλα πατρὸς καὶ φέρτερος εἴης,
+<lb /> τὴν δ᾽ ἀγανοφροσύνην ἄξιος （οὔ τι πλέον
+<lb /> εὔξασθαι θέμις ἐστί）: καὶ ἐς βαθὺ γῆρας ἵκοιο,
+<lb /> τοίου κηδεμόνος, ὦ μάκαρ, ἀντιάσας.
+</p>
+            </div2>
+            <div2 type="chapter" n="17" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />οὐκ ὄις, εἶτ᾽ ὀίων προφερέστατος1: αὐτὰρ ἔπειτα
+<lb />ποιμήν, εἶτα πατήρ, καὶ νομέων νομέας,
+<lb /> θνητοὺς ἀθάνατόν τε Θεὸν μέγαν εἰς ἓν ἀγείρων,
+<lb />κεῖμαι Γρηγόριος Γρηγορίου γενέτης.
+<milestone unit="lnum" n="5" />
+                  <lb />ὄλβιος, εὐγήρως, εὔπαις θάνον, ἀρχιερῆος
+<lb />ἀρχιερεύς τε πατήρ, Γρηγόριος: τί πλέον;
+</p>
+            </div2>
+            <div2 type="chapter" n="18" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> οὔτι μὲν ἐς πολύκαρπον ἀλωὴν ὄρθριος ἦλθον,
+<lb />ἔμπα δὲ τῶν προτέρων πλείονα μισθὸν ἔχω
+<lb /> Γρηγόριος, ποιμήν τε καλὸς καὶ πλείονα ποίμνην
+<lb /> Χριστῷ ἀναθρέψας ἤθεσι μειλιχίοις.
+</p>
+            </div2>
+            <div2 type="chapter" n="19" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />οὐχ ὁσίης ῥίζης μὲν ἐγὼ θάλος, εὐαγέος δὲ
+<lb /> συζυγίης κεφαλὴ καὶ τεκέων τριάδος:
+<lb /> ποίμνης ἡγεμόνευσα ὁμόφρονος: ἔνθεν ἀπῆλθον
+<lb /> πλήρης καὶ χθονίων κοὐρανίων ἐτέων.
+</p>
+            </div2>
+            <div2 type="chapter" n="20" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> Γρηγόριος, τὸ δὲ θαῦμα, χάριν καὶ πνεύματος αἴγλην
+<lb /> ἔνθεν ἀειρόμενος ῥῖψ᾽ ἐπὶ παιδὶ φίλῳ.
+<pb id="v.2.p.410" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="21" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> τυτθὴ μάργαρός ἐστιν, ἀτὰρ λιθάκεσσιν ἀνάσσει,
+<lb /> τυτθὴ καὶ Βηθλέμ, ἔμπα δὲ χριστοφόρος:
+<lb />ὣς δ᾽ ὀλίγην μὲν ἐγὼ ποίμνην λάχον, ἀλλὰ φερίστην
+<lb /> Γρηγόριος, τὴν σύ, παῖ φίλε, λίσσομ᾽, ἄγοις.
+</p>
+            </div2>
+            <div2 type="chapter" n="22" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> Ποιμενίην σύριγγα τεαῖς ἐν χερσὶν ἔθηκα
+<lb /> Γρηγόριος: σὺ δέ μοι τέκνον ἐπισταμένως
+<lb /> σημαίνειν ζωῆς δὲ θύρας πετάσειας ἅπασιν, 
+<lb />ἐς δὲ τάφον πατέρος ὥριος ἀντιάσαις.
+</p>
+            </div2>
+            <div2 type="chapter" n="23" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> Στράψε μὲν οἷς τὸ πάροιθεν ἐν οὔρεϊ Χριστὸς ἀμείφθη,
+<lb /> στράψε δὲ Γρηγορίου τοῦ καθαροῖο νόῳ, ,
+<lb /> τῆμος ὅτ᾽ εἰδώλων ἔφυγε ζόφον ὡς δ᾽ ἐκαθάρθη,
+<lb />ᾗσι θυηπολίαις λαὸν ὃν εἰσέτ᾽ ἄγει.
+</p>
+            </div2>
+            <div2 type="chapter" n="24" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν μητέρα ἐκ τοὖ θυσιαστηρίου προσληφθεῖσαν</label>
+               <p>
+                  <lb />παντός σοι μύθοιο καὶ ἔργματος ἦεν ἄριστον
+<lb /> ἦμαρ κυριακόν. πένθεϊ πένθος ἅπαν,
+<lb /> μῆτερ ἐμή, τίουσα, μόναις ὑπόεικες ἑορταῖς.
+<lb />εὐφροσύνης, ἀχέων ἵστορα νηὸν ἔχεις:
+<milestone unit="lnum" n="5" />
+                  <lb /> χῶρος ἅπας δάκρυσι τεοῖς σφρηγίζετο, μῆτερ
+<lb /> μούνῳ δὲ σταυρῷ πήγνυτο καὶ δάκρυα.
+</p>
+            </div2>
+            <div2 type="chapter" n="25" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτὴν μητέρα Νόνναν</label>
+               <p>
+                  <lb /> οὔποτε σεῖο τράπεζα, θυηδόχος ἔδρακε νῶτα,
+<lb />οὐδὲ διὰ στομάτων ἦλθε βέβηλον ἔπος:
+<lb />οὐδὲ γέλως μαλακῇσιν ἐφίζανε, μύστι, παρειαῖς.
+<lb /> σιγήσω κρυφίους σεῖο, μάκαιρα, πόνους.
+<milestone unit="lnum" n="5" />
+                  <lb />καὶ τὰ μὲν ἔνδοθι τοῖα, τὰ δ᾽ ἔκτοθι πᾶσι πέφανται:
+<lb />τοὔνεκα καὶ θείῳ σῶμ᾽ ἀπέλειπες ἕδει.
+<pb id="v.2.p.412" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="26" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> πῶς ἐλύθη Νόννης καλὰ γούνατα; πῶς δὲ μέμυκεν
+<lb /> χείλεα; πῶς ὄσσων οὐ προχέει λιβάδας;
+<lb />ἄλλοι δ᾽ αὖ βοόωσι παρ᾽ ἠρίον ἡ δὲ τράπεζα
+<lb />οὐκέτ᾽ ἔχει καρποὺς τῆς μεγάλης παλάμης:
+<milestone unit="lnum" n="5" />
+                  <lb /> χῶρος δ᾽ ἐστὶν ἔρημος ἁγνοῦ ποδός, οἱ δ᾽ ἱερῆες
+<lb />οὐκέτ᾽ ἐπὶ τρομερὴν κρατὶ βαλοῦσι χέρα.
+<lb />χῆραι δ᾽ ὀρφανικοί τε, τί ῥέξετε; παρθενίη δὲ
+<lb /> καὶ γάμος εὐζυγέων, κέρσατ᾽ ἄπο πλοκάμους,
+<lb />
+                  <gap />
+                  <milestone unit="lnum" n="10" />
+                  <lb /> τοῖσιν ἀγαλλομένη κρατὸς φέρε πάντα χαμᾶζε,
+<lb />τῆμος ὅτ᾽ ἐν νηῷ ῥικνὸν ἀφῆκε δέμας,
+</p>
+            </div2>
+            <div2 type="chapter" n="27" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />Σάρρα σοφὴ τίουσα φίλον πόσιν ἀλλὰ σύ, μῆτερ,
+<lb />πρῶτα Χριστιανόν, εἶθ᾽ ἱερῆα μέγαν,
+<lb /> σὸν πόσιν ἐσθλὸν ἔθηκας ἀπόπροθι φωτὸς ἐόντα.
+<lb />Ἄννα, σὺ δ᾽ υἷα φίλον καὶ τέκες εὐξαμένη,
+<milestone unit="lnum" n="5" />
+                  <lb />καὶ νηῷ μιν ἔδωκας ἁγνὸν θεράποντα Σαμουήλ
+<lb />ἡ δ᾽ ἑτέρη κόλποις Χριστὸν ἔδεκτο μέγαν
+<lb /> Νόννα δ᾽ ἀμφοτέρων ἔλαχε κλέος: ὑστάτιον δὲ
+<lb /> νηῷ λισσομένη πάρθετο σῶμα φίλον.
+</p>
+            </div2>
+            <div2 type="chapter" n="28" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> Ἐμπεδόκλεις, σὲ μὲν αὐτίκ᾽ ἐτώσια φυσιόωντα
+<lb />καὶ βροτὸν Αἰτναίοιο πυρὸς κρητῆρες ἔδειξαν
+<lb /> Νόννα δ᾽ οὐ κρητῆρας ἐσήλατο, πρὸς δὲ τραπέζῃ
+<lb />τῇδέ ποτ᾽ εὐχομένη καθαρὸν θύος ἔνθεν ἀέρθη,
+<milestone unit="lnum" n="5" />
+                  <lb /> καὶ νῦν θηλυτέρῃσι μεταπρέπει εὐσεβέεσσι,
+<lb /> Σουσάννῃ, Μαριάμ τε καὶ Ἄνναις, ἕρμα γυναικῶν.
+<pb id="v.2.p.414" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="29" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />Ἥρακλες, Ἐμπεδότιμε, Τροφώνιε, εἴξατε μύθων,
+<lb /> καὶ σὺ γ᾽ Ἀρισταίου κενεαυχέος ὀφρὺς ἄπιστε:
+<lb /> ὑμεῖς μὲν θνητοὶ καὶ οὐ μάκαρες παθέεσσι:
+<lb /> θυμῷ δ᾽ ἄρρενι Νόννα βίου τμήξασα κέλευθον,
+<milestone unit="lnum" n="5" />
+                  <lb />χριστοφόρος, σταυροῖο λάτρις, κόσμοιο περίφρων,
+<lb />ἥλατ᾽ ἐπουρανίην εἰς ἄντυγα ὡς ποθέεσκεν,
+<lb />τρίσμακαρ ἐν νηῷ σῶμ᾽ ἀποδυσαμένη.
+</p>
+            </div2>
+            <div2 type="chapter" n="30" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> Γρηγόριον βοόωσα παρ᾽ ἀνθοκόμοισιν ἀλωαῖς
+<lb /> ἤντεο, μῆτερ ἐμή, ξείνης ἄπο νισσομένοισι,
+<lb /> χεῖρας δ᾽ ἀμπετάσασα φίλας τεκέεσσι φίλοισι,
+<lb /> Γρηγόριον βοόωσα: τὸ δ᾽ ἔζεεν αἷμα τεκούσης
+<milestone unit="lnum" n="5" />
+                  <lb />ἀμφοτέροις ἐπὶ παισί, μάλιστα δὲ θρέμματι θηλῆς:
+<lb />τοὔνεκα καὶ σὲ τόσοις ἐπιγράμμασι, μῆτερ, ἔτισα.
+</p>
+            </div2>
+            <div2 type="chapter" n="31" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />ἄλλη μὲν κλεινή τις ἐνοικιδίοισι πόνοισιν,
+<lb /> ἄλλη δ᾽ ἐκ χαρίτων ἠδὲ σαοφροσύνης,
+<lb />ἄλλη δ᾽ εὐσεβίης ἔργοις καὶ σαρκὸς ἀνίαις,
+<lb /> δάκρυσιν, εὐχωλαῖς, χερσὶ πενητοκόμοις:
+<milestone unit="lnum" n="5" />
+                  <lb /> Νόννα δ᾽ ἐν πάντεσσιν ἀοίδιμος: εἰ δὲ τελευτὴν
+<lb /> τοῦτο θέμις καλέειν, κάτθανεν εὐχομένη.
+</p>
+            </div2>
+            <div2 type="chapter" n="32" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> τέκνον ἐμῆς θηλῆς, ἱερὸν θάλος, ὡς ἐπόθησα,
+<lb /> οἴχομαι εἰς ζωήν, Γρηγόρι᾽, οὐρανίην
+<pb id="v.2.p.416" />
+                  <lb />καὶ γὰρ πόλλ᾽ ἐμόγησας ἐμὸν κομέων πατέρος τε
+<lb /> γῆρας, ἃ καὶ Χριστοῦ βίβλος ἔχει μεγάλη:
+<milestone unit="lnum" n="5" />
+                  <lb /> ἀλλά, φίλος, τοκέεσσιν ἐφέσπεο, καί σε τάχιστα
+<lb /> δεξόμεθ᾽ ἡμετέροις φάεσι προφρονέως.
+</p>
+            </div2>
+            <div2 type="chapter" n="33" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> ψυχὴ μὲν πτερόεσσα πρὸς οὐρανὸν ἤλυθε Νόννης,
+<lb /> σῶμα δ᾽ ἄρ᾽ ἐκ νηοῦ Μάρτυσι παρθέμεθα.
+<lb /> Μάρτυρες, ἀλλ᾽ ὑπόδεχθε θύος μέγα, τὴν πολύμοχθον
+<lb /> σάρκα καὶ ὑμετέροις αἵμασιν ἑσπομένην,
+<milestone unit="lnum" n="5" />
+                  <lb />αἵμασιν ὑμετέροισιν, ἐπεὶ ψυχῶν ὀλετῆρος
+<lb /> δηναιοῖσι πόνοις κάρτος ἔπαυσε μέγα.
+</p>
+            </div2>
+            <div2 type="chapter" n="34" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />οὐ μόσχων θυσίην σκιοειδέα, οὐδὲ χιμάρρων,
+<lb /> οὐδὲ πρωτοτόκων Νόνν᾽ ἀνέθηκε Θεῷ:
+<lb />ταῦτα νόμος προτέροισιν, ὅτ᾽ εἰκόνες: ἡ δ᾽ ἄρ᾽ ἑαυτὴν
+<lb /> δῶκεν ὅλην βιότῳ, μάνθανε, καὶ θανάτῳ.
+</p>
+            </div2>
+            <div2 type="chapter" n="35" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> εὐχομένη βοόωσα παρ᾽ ἁγνοτάτῃσι τραπέζαις
+<lb /> Νόννα λύθη, φωνὴ δ᾽ ἐδέθη καὶ χείλεα καλὰ
+<lb />γηραλέης. τί τὸ θαῦμα; θεὸς θέλεν ὑμνήτειραν
+<lb /> γλῶσσαν ἐπ᾽ εὐφήμοισι λόγοις κληῖδα βαλέσθαι:
+<milestone unit="lnum" n="5" />
+                  <lb /> καὶ νῦν οὐρανόθεν μέγ᾽ ἐπεύχεται ἡμερίοισιν.
+</p>
+            </div2>
+            <div2 type="chapter" n="36" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />εὐχωλαῖς καὶ πόντον ἐκοίμισε Νόννα θεουδὴς
+<lb /> οἷς τεκέεσσι φίλοισι, καὶ ἐκ περάτων συνάγειρεν
+<lb /> ἀντολίης δύσιός τε, μέγα κλέος, οὐ δοκέοντας,
+<lb />μητρὸς ἔρως: νοῦσόν τε πικρὴν ἀποέργαθεν ἀνδρός:
+<milestone unit="lnum" n="5" />
+                  <lb />λισσομένη, τὸ δὲ θαῦμα, λίπεν βίον ἔνδοθι νηοῦ.
+<pb id="v.2.p.418" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="37" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />πολλάκις ἔκ με νόσων τε καὶ ἀργαλέων ὀρυμαγδῶν,
+<lb /> σεισμῶν τε κρυερῶν, καὶ ἄγρια κυμαίνοντος
+<lb /> οἴδματος ἐξεσάωσας, ἐπεὶ Θεὸν ἵλαον εἶχες:
+<lb /> ἀλλὰ σάω καὶ νῦν με, πάτερ, μεγάλῃσι λιτῇσι,
+<milestone unit="lnum" n="5" />
+                  <lb /> καὶ σύ, τεκοῦσα, μάκαιρα ἐν εὐχωλῇσι θανοῦσα.
+</p>
+            </div2>
+            <div2 type="chapter" n="38" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> Νόνναν ἐπουρανίοισιν ἀγαλλομένην φαέεσσι,
+<lb /> καὶ ῥίζης ἱερῆς πτόρθον ἀειθαλέα,
+<lb /> Γρηγορίου ἱερῆος ὁμόζυγα, καὶ πραπίδεσσιν
+<lb />εὐαγέων τεκέων μητέρα, τύμβος ἔχω.
+</p>
+            </div2>
+            <div2 type="chapter" n="39" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />εὐχαί τε στοναχαί τε φίλαι καὶ νύκτες ἄυπνοι,
+<lb /> καὶ νηοῖο πέδον δάκρυσι δευόμενον,
+<lb /> σοί, Νόννα ζαθέη, τοίην βιότοιο τελευτὴν
+<lb />ὤπασαν, ἐν νηῷ ψῆφον ἑλεῖν θανάτου.
+</p>
+            </div2>
+            <div2 type="chapter" n="40" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> μούνη σοὶ φωνὴ περιλείπετο, Νόννα φαεινή,
+<lb />πάνθ᾽ ἄμυδις ληνοῖς ἐνθεμένη μεγάλοις,
+<lb />ἐκ καθαρῆς κραδίης ἁγνὸν θύος: ἀλλ᾽ ἄρα καὶ τὴν
+<lb /> ὑστατίην νηῷ λεῖπες ἀειρομένη.
+</p>
+            </div2>
+            <div2 type="chapter" n="41" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />οὐδὲ θάνεν νηοῖο θυώδεος ἔκτοθι Νόννα,
+<lb /> φωνὴν δὲ προτέρην ἥρπασε Χριστὸς ἄναξ
+<lb /> λισσομένης: πόθεεν γὰρ ἐν εὐχωλῇσι τελέσσαι
+<lb /> τόνδε βίον πάσης ἁγνότερον θυσίης.
+<pb id="v.2.p.420" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="42" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />Νόνν᾽ ἱερή, σὺ δὲ πάντα Θεῷ βίον ἀντείνασα
+<lb /> ὑστάτιον ψυχὴν δῶκας ἁγνὴν θυσίην
+<lb />τῇδε γὰρ εὐχομένη ζωὴν λίπες: ἡ δὲ τράπεζα,
+<lb />μῆτερ ἐμή, τῷ σῷ δῶκε κλέος θανάτῳ.
+</p>
+            </div2>
+            <div2 type="chapter" n="43" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> τῆσδε πατήρ μὲν ἐμὸς λάτρις μέγας ἦε τραπέζης
+<lb /> μήτηρ δ᾽ εὐχομένη πὰρ ποσὶ λῆξε βίου,
+<lb /> Γρηγόριος Νόννα τε μεγακλέες: εὔχομ᾽ ἄνακτι
+<lb />τοῖαν ἐμοὶ ζωὴν καὶ τέλος ἀντιάσαι.
+</p>
+            </div2>
+            <div2 type="chapter" n="44" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> 
+                  <quote rend="blockquote">
+                     <l> πολλά, τράπεζα φίλη, Νόννης καὶ δάκρυ᾽ ἐδέξω:
+</l>
+                     <l> δέχνυσο καὶ ψυχήν, τὴν πυμάτην θυσίην.</l>
+                  </quote>
+                  <lb />εἶπε καὶ ἐκ μελέων κέαρ ἔπτατο: ἓν δ᾽ ἄρα μοῦνον,
+<lb /> παῖδ᾽ ἐπόθει, τεκέων τὸν ἔτι λειπόμενον.
+</p>
+            </div2>
+            <div2 type="chapter" n="45" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />ἔνθα ποτ᾽ εὐχομένης τόσσον νόος ἔπτατο Νόννης,
+<lb /> μέσφ᾽ ὅτε καὶ ψυχὴ ἕσπετ᾽ ἀειρομένῳ:
+<lb />εὐχομένης δὲ νέκυς ἱερῇ παρέκειτο τραπέζῃ.
+<lb />γράψατ᾽ ἐπερχομένοις θαῦμα τόδ᾽, εὐσεβέες.
+</p>
+            </div2>
+            <div2 type="chapter" n="46" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />τίς θάνεν ὡς θάνε Νόννα, παρ᾽ εὐαγέεσσι τραπέζαις,
+<lb /> τῶν ἱερῶν σανίδων χερσὶν ἐφαπτομένη;
+<lb />τίς  λύσεν εὐχομένης Νόννης τύπον; ὡς ἐπὶ δηρὸν
+<lb /> ἤθελεν ἔνθα μένειν καὶ νέκυς εὐσεβέων.
+<pb id="v.2.p.422" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="47" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />ἔνθα ποτ᾽ εὐχομένῃ Νόννῃ Θεὸς εἶπεν ἄνωθεν
+<lb />ἔρχεο: <q direct="unspecified" /> ἡ δ᾽ ἐλύθη σώματος ἀσπασίως,
+<lb /> χειρῶν ἀμφοτέρων τῇ μὲν κατέχουσα τράπεζαν,
+<lb />τῇ δ᾽ ἔτι λισσομένη: <q direct="unspecified">ἵλαθι, Χριστὲ ἄναξ.</q> 
+               </p>
+            </div2>
+            <div2 type="chapter" n="48" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> ῥίζης εὐσεβέος γενόμην καὶ σὰρξ ἱερῆος,
+<lb /> καὶ μήτηρ: Χριστῷ σῶμα, βίον, δάκρυα,
+<lb /> πάντ᾽ ἐκένωσα φέρουσα: τὸ δ᾽ ἔσχατον, ἔνθεν ἀέρθην
+<lb /> νηῷ γηραλέον Νόννα λιποῦσα δέμας.
+</p>
+            </div2>
+            <div2 type="chapter" n="49" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> πίστις Ἐνὼχ μετέθηκε καὶ Ἠλίαν, ἐν δὲ γυναιξὶ
+<lb /> μητέρ᾽ ἐμὴν πρώτην οἶδε τράπεζα τόδε,
+<lb />ἔνθεν ἀναιμάκτοισιν ὁμοῦ θυέεσσιν ἀέρθη
+<lb />εἰσέτι λισσομένη σώματι Νόννα φίλη.
+</p>
+            </div2>
+            <div2 type="chapter" n="50" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />οὐ νόσος, οὐδέ σε γῆρας ὁμοίιον, οὔ σὲ γ᾽ ἀνίη,
+<lb /> καίπερ γηραλέην, μῆτερ ἐμή, δάμασεν
+<lb /> ἀλλ᾽ ἄτρωτος, ἄκαμπτος ἁγνοῖς ὑπὸ ποσσὶ τραπέζης,
+<lb />εὐχομένη Χριστῷ, Νόνν᾽, ἀπέδωκας ὄπα.
+</p>
+            </div2>
+            <div2 type="chapter" n="51" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> δῶκε Θεῷ θυσίην Ἀβραὰμ πάιν, ὣς δὲ θύγατρα
+<lb /> κλεινὸς Ἰεφθάε, ἀμφότεροι μεγάλην
+<lb /> μῆτερ ἐμή, σὺ δ᾽ ἔδωκας ἁγνὸν βίον, ὑστάτιον δὲ
+<lb /> ψυχήν, εὐχωλῆς, Νόννα, φίλον σφάγιον.
+<pb id="v.2.p.424" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="52" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />Σάρρα φίλη, πῶς τὸν σὸν Ἰσαὰκ λίπες, ἦ ποθέουσα
+<lb /> τῶν Ἀβραὰμ κόλπων ὡς τάχος ἀντιάσαι,
+<lb /> Νόννα, Γρηγορίοιο θεόφρονος; ἦ μέγα θαῦμα
+<lb /> μηδὲ θανεῖν νηῶν ἔκτοθι καὶ θυέων.
+</p>
+            </div2>
+            <div2 type="chapter" n="52b" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> Μάρτυρες, ἱλήκοιτε: μόγοις γε μὲν οὔτι χερείων
+<lb /> Νόννα φίλη, κρυπτῷ κἀμφαδίῳ πολέμῳ:
+<lb />τοὔνεκα καὶ τοίης κύρσεν βιότοιο τελευτῆς,
+<lb />εὐχῆς καὶ ζωῆς ἓν τέλος εὑραμένη.
+</p>
+            </div2>
+            <div2 type="chapter" n="53" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />ἡ Τριὰς ἣν ποθέεσκες, ὁμὸν σέλας, ἕν τε σέβασμα,
+<lb />ἐκ νηοῦ μεγάλου σε πρὸς οὐρανὸν ἥρπασε, Νόννα,
+<lb />εὐχομένην ζωῆς δὲ τέλος καθαρώτερον εὗρες.
+<lb /> οὔποτε χείλεα μίξας ἀνάγνοις χείλεσιν ἁγνά,
+<milestone unit="lnum" n="5" />
+                  <lb />οὐδ᾽ ἀθέῳ παλάμῃ καθαρὰν χέρα μέχρις ἐδωδῆς,
+<lb />μῆτερ ἐμή: μισθὸς δὲ λιπεῖν βίον ἐν θυέεσσιν.
+</p>
+            </div2>
+            <div2 type="chapter" n="54" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />ἄγγελος αἰγλήεις σὲ φαάντατος ἥρπασε, Νόννα,
+<lb /> ἔνθα ποτ᾽ εὐχομένην, καθαρὴν μελέεσσι νόῳ τε:
+<lb /> καὶ τὸ μὲν ἥρπασε σεῖο, τὸ δ᾽ ἐνθάδε κάλλιπε νηῷ.
+</p>
+            </div2>
+            <div2 type="chapter" n="55" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> νηὸς ὅδ᾽ ῾οὐ γὰρ ὅλην Νόνναν θέμις ἦεν ἐρύξαἰ,
+<lb /> ψυχῆς οἰχομένης, μοῦνον ἐπέσχε δέμας,
+<lb />ὡς πάλιν ἐγρομένη καθαρώτερον ἔνθεν ἀερθῇ,
+<lb /> σώματι τῷ μογερῷ δόξαν ἐφεσσομένη.
+<pb id="v.2.p.426" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="56" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />ἄλλοις μὲν Νόννης τις ἁγνῶν ἐσθλοῖσιν ἐρίζοι,
+<lb />εὐχωλῆς δὲ μέτροισιν ἐριζέμεν οὐ θέμις ἐστὶν
+<lb /> τέκμαρ καὶ βιότοιο τέλος λιτῇσι λυθέντος.
+</p>
+            </div2>
+            <div2 type="chapter" n="57" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />ὦ στοναχῶν δακρύων τε καὶ ἐννυχίων μελεδώνων
+<lb />ὦ Νόννης ζαθέης τετρυμένα γυῖα πόνοισι
+<lb /> ποῦ ποτ᾽ ἔην, νηὸς μόχθων λύσε γῆρας ἄκαμπτον.
+</p>
+            </div2>
+            <div2 type="chapter" n="58" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />
+                  <note type="speaker" place="unspecified" anchored="yes">α.</note> Νόννη Φιλτατίου. <note type="speaker" place="unspecified" anchored="yes">β.</note>  καὶ ποῦ θάνε; <note type="speaker" place="unspecified" anchored="yes">α.</note> τῷδ᾽
+<lb /> ἐνὶ νηῷ.
+<lb />
+                  <note type="speaker" place="unspecified" anchored="yes">β.</note>  καὶ πῶς; <note type="speaker" place="unspecified" anchored="yes">α.</note> Εὑχομένη. <note type="speaker" place="unspecified" anchored="yes">β.</note>  πηνίκα; <note type="speaker" place="unspecified" anchored="yes">α.</note> Γηραλέη.
+<lb />
+                  <note type="speaker" place="unspecified" anchored="yes">β.</note> ὦ καλοῦ βιότοιο καὶ εὐαγέος θανάτοιο. </p>
+            </div2>
+            <div2 type="chapter" n="59" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />ἅρματι μὲν πυρόεντι πρὸς οὐρανὸν Ἠλίας ἦλθεν
+<lb /> Νόνναν δ᾽ εὐχομένην Πνεῦμ᾽ ὑπέδεκτο μέγα.
+</p>
+            </div2>
+            <div2 type="chapter" n="60" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> ἐνθάδε Νόννα φίλη κοιμήσατο τὸν βαθὺν ὕπνον,
+<lb /> ἵλαος ἑσπομένη ᾧ πόσι Γρηγορίῳ.
+</p>
+            </div2>
+            <div2 type="chapter" n="61" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>[εἰς τὴν αὐτήν&gt;</label>
+               <p>
+                  <lb /> τάρβος ὁμοῦ καὶ χάρμα: πρὸς οὐρανὸν ἔνθεν ἀέρθη
+<lb />εὐχῆς ἐκ μεσάτης Νόννα λιποῦσα βίον.
+<pb id="v.2.p.428" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="62" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>[εἰς τὴν αὐτήν&gt;</label>
+               <p>
+                  <lb />εὐχῆς καὶ βιότου Νόννῃ τέλος: ἡ δὲ τράπεζα
+<lb /> μάρτυς ἀφ᾽ ἧς ἤρθη ἄπνοος ἐξαπίνης.
+</p>
+            </div2>
+            <div2 type="chapter" n="63" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> Νόννης ἠρίον εἰμὶ σαόφρονος, ἥ ῥα πύλῃσιν
+<lb /> ἔχριμψ᾽ οὐρανίαις, πρὶν βιότοιο λυθῇ.
+</p>
+            </div2>
+            <div2 type="chapter" n="64" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>[εἰς τὴν αὐτήν&gt;</label>
+               <p>
+                  <lb /> δακρύετε θνητούς, θνητῶν γένος: εἰ δέ τις οὕτως
+<lb />ὡς Νόνν᾽ εὐχομένη κάτθανεν, οὐ δακρύω.
+</p>
+            </div2>
+            <div2 type="chapter" n="65" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> Νόννης ἁζόμενος ἁγνὸν βίον, ἅζεο μᾶλλον
+<lb /> καὶ τέλος: ἐν νηῷ κάτθανεν εὐχομένη.
+</p>
+            </div2>
+            <div2 type="chapter" n="66" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>[εἰς τὴν αὐτήν&gt;</label>
+               <p>
+                  <lb />ἔνθα ποτ᾽ εὐχομένη πρηνὴς θάνε Νόννα φαεινή
+<lb /> νῦν δ᾽ ἄρ᾽ ἐν εὐσεβέων λίσσεται ἱσταμένη.
+</p>
+            </div2>
+            <div2 type="chapter" n="67" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> στήλη σοι θανάτου μελιηδέος ἥδε τράπεζα,
+<lb /> Νόννα, παρ᾽ ᾗ λύθης εὐχομένη πύματα.
+</p>
+            </div2>
+            <div2 type="chapter" n="67b" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>[εἰς τὴν αὐτήν&gt;</label>
+               <p>
+                  <lb /> μικρὸν ἔτι ψυχῆς ἦν τὸ πνέον ἀλλ᾽ ἄρα καὶ τὸ
+<lb /> Νόνν᾽ ἀπέδωκε Θεῷ ἔνθα ποτ᾽ εὐχομένη.
+<pb id="v.2.p.430" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="68" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb /> πέμψατε ἐκ νηοῦ θεοειδέα Νόνναν ἅπαντες,
+<lb /> πρέσβειραν μεγάλην πέμψατ᾽ ἀειρομένην.
+</p>
+            </div2>
+            <div2 type="chapter" n="69" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>[εἰς τὴν αὐτήν&gt;</label>
+               <p>
+                  <lb />ἔκ με Θεὸς καθαροῖο πρὸς οὐρανὸν ἥρπασε νηοῦ
+<lb /> Νόνναν, ἐπειγομένην οὐρανίοις πελάσαι.
+</p>
+            </div2>
+            <div2 type="chapter" n="70" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>—εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />Νόνν᾽ ἀπανισταμένη νηοῦ μεγάλου τόδ᾽ ἔειπε:
+<lb />
+                  <q direct="unspecified"> τῶν πολλῶν καμάτων μείζονα μισθὸν ἔχω.</q> 
+               </p>
+            </div2>
+            <div2 type="chapter" n="71" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>[εἰς τὴν αὐτήν&gt;</label>
+               <p>
+                  <lb /> Νόννα φίλης εὐχῆς ἱερήιον ἐνθάδε κεῖται:
+<lb />Νόννα ποτ᾽ εὐχομένη τῇδ᾽ ἐλύθη βιότου.
+</p>
+            </div2>
+            <div2 type="chapter" n="72" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />ἔνθα ποτ᾽ εὐχομένης ψυχὴ δέμας ἔλλιπε Νόννης
+<lb /> ἔνθεν ἀνηέρθη Νόννα λιποῦσα δέμας.
+</p>
+            </div2>
+            <div2 type="chapter" n="73" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />Εκ νηοῦ μεγάλοιο θύος μέγα Νόνν᾽ ἀπανέστη:
+<lb />νηῷ Νόνν᾽ ἐλύθη: χαίρετε, εὐσεβέες.
+</p>
+            </div2>
+            <div2 type="chapter" n="74" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>[εἰς τὴν αὐτήν&gt;</label>
+               <p>
+                  <lb />ἥδε τράπεζα Θεῷ θεοειδέα Νόνναν ἔπεμψεν.
+<pb id="v.2.p.432" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="75" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εὐχὴ παρὰ τῶν γονέων εἰς τὸν μέγαν Γρηγόριον</label>
+               <p>
+                  <lb /> εἴη σοι βίος ἐσθλὸς ἐπ᾽ εὐλογίῃσιν ἁπάσαις
+<lb /> ὁσσάτιαι τοκέων υἱέσι γηροκόμοις:
+<lb /> καὶ κούφης βιότοιο τυχεῖν ὁσίης τε τελευτῆς,
+<lb />οἵην ἡμετέρῳ γήραϊ δῶκεν ἄναξ,
+<milestone unit="lnum" n="5" />
+                  <lb /> ἠιθέων λογίων τὸ μέγα κράτος, ἠδ᾽ ἱερήων,
+<lb /> καὶ πολιῆς σκίπων, Γρηγόρι᾽, ἡμετέρης.
+</p>
+            </div2>
+            <div2 type="chapter" n="76" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>παρὰ τῶν γονέων</label>
+               <p>
+                  <lb /> ἀσπάσιοι χθόνα τήνδε φίλαις ὑπὸ χείρεσι παιδὸς
+<lb /> ἑσσάμεθ᾽ εὐσεβέος Γρηγορίου τοκέες:
+<lb />ὃς καὶ γῆρας ἔθηκεν ἑοῖς μόχθοισιν ἐλαφρὸν
+<lb /> ἡμέτερον, καὶ νῦν ἀμφιέπει θυσίαις.
+<milestone unit="lnum" n="5" />
+                  <lb /> ἄμπνεε γηροκόμων καμάτων, μέγα φέρτατε παίδων
+<lb />Γρηγόρι᾽, εὐαγέας Μάρτυσι παρθέμενος
+<lb />σοὺς τοκέας: μισθὸς δὲ μέγαν Πατέρ᾽ ἵλαον εἶναι,
+<lb /> πνευματικῶν τε τυχεῖν εὐσεβέων τεκέων.
+</p>
+            </div2>
+            <div2 type="chapter" n="77" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν πάντων αὐτῶν τάφον</label>
+               <p>
+                  <lb /> λᾶας ὁ μὲν γενέτην τε καὶ υἱέα κυδήεντας
+<lb />κεύθω Γρηγορίους, εἷς λίθος ἶσα φάη,
+<lb /> ἀμφοτέρους ἱερῆας: ὁ δ᾽ εὐπατέρειαν ἐδέγμην
+<lb /> Νόνναν σὺν μεγάλῳ υἱέι Καισαρίῳ.
+<milestone unit="lnum" n="5" />
+                  <lb /> τὼς ἐδάσαντο τάφους τε καὶ υἱέας: ἡ δὲ πορείη,
+<lb /> πάντες ἄνω: ζωῆς εἷς πόθος οὐρανίης.
+</p>
+            </div2>
+            <div2 type="chapter" n="78" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>τίς πρῶτος καὶ τίς μετέπειτα ἀπῆρε</label>
+               <p>
+                  <lb /> πρῶτος Καισάριος ξυνὸν ἄχος: αὐτὰρ ἔπειτα
+<lb />Γοργόνιον, μετέπειτα πατὴρ φίλος: οὐ μετὰ δηρὸν
+<lb /> μήτηρ. ὦ λυπρὴ παλάμη καὶ γράμματα λυπρὴ
+<lb /> Γρηγορίου: γράψω καὶ ἐμὸν μόρον ὑστατίου περ.
+<pb id="v.2.p.434" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="79" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς ἑαυτόν</label>
+               <p>
+                  <lb />πρῶτα μὲν εὐξαμένῃ με Θεὸς πόρε μητρὶ φαεινῇ:
+<lb /> δεύτερον, ἐκ μητρὸς δῶρον ἔδεκτο φίλον
+<lb />τὸ τρίτον αὖ, θνῄσκοντά μ᾽ ἁγνὴ ἐσάωσε τράπεζα:
+<lb /> τέτρατον, ἀμφήκη μῦθον ἔδωκε Λόγος:
+<milestone unit="lnum" n="5" />
+                  <lb /> πέμπτον, παρθενίη με φίλοις προσπτύξατ᾽ ὀνείροις:
+<lb />ἕκτον, Βασιλίῳ σύμπνοα ἱρὰ φέρον
+<lb />ἕβδομον, ἐκ βυθίων με Φερέσβιος ἥρπασε κόλπων
+<lb />ὄγδοον εὗ νούσοις ἐξεκάθηρα χέρας:
+<lb /> εἴνατον ὁπλοτέρῃ Τριάδ᾽ ἤγαγον, ὦ ἄνα, Ῥώμῃ:
+<milestone unit="lnum" n="10" />
+                  <lb /> βέβλημαι δέκατον λάεσιν ἠδὲ φίλοις.
+</p>
+            </div2>
+            <div2 type="chapter" n="80" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς ἑαυτόν</label>
+               <p>
+                  <lb />Ἑλλὰς ἐμὴ, νεότης τε φίλη, καὶ ὅσσα πεπάσμην,
+<lb />καὶ δέμας, ὡς Χριστῷ εἴξατε προφρονέως.
+<lb />εἰ δ᾽ ἱερῆα φίλον με Θεῷ θέτο μητέρος εὐχὴ
+<lb />καὶ πατρὸς παλάμη, τίς  φθόνος; ἀλλά, μάκαρ,
+<milestone unit="lnum" n="5" />
+                  <lb /> σοῖς με, Χριστέ, χοροῖσι δέχου, καὶ κῦδος ὀπάζοις
+<lb /> υἱέι Γρηγορίου σῷ λάτρι Γρηγορίῳ.
+</p>
+            </div2>
+            <div2 type="chapter" n="81" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ τῷ ἰδίῳ τάφῳ</label>
+               <p>
+                  <lb />Γρηγορίου Νόννης τε φίλον τέκος ἐνθάδε κεῖται
+<lb /> τῆς ἱερῆς Τριάδος Γρηγόριος θεράπων,
+<lb /> καὶ σοφίῃ Σοφίης δεδραγμένος, ἠίθεός τε
+<lb />οἶον πλοῦτον ἔχων ἐλπίδ᾽ ἐπουρανίην.
+</p>
+            </div2>
+            <div2 type="chapter" n="82" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς ἑαυτόν</label>
+               <p>
+                  <lb /> τυτθὸν ἔτι ζώεσκες ἐπὶ χθονί, πάντα δὲ Χριστῷ
+<lb /> δῶκας ἑκών, σὺν τοῖς καὶ πτερόεντα λόγον
+<lb /> νῦν δ᾽ ἱερῆα μέγαν σε καὶ οὐρανίοιο χορείης
+<lb />οὐρανὸς ἐντὸς ἔχει, κύδιμε Γρηγόριε.
+<pb id="v.2.p.436" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="83" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς ἑαυτόν</label>
+               <p>
+                  <lb />ἔκ με βρέφους ἐκάλεσσε Θεὸς νυχίοισιν ὀνείροις:
+<lb /> ἤλυθον ἐς σοφίης πείρατα, σάρκα Λόγῳ
+<lb />ἥγνισα καὶ κραδίην: κόσμου φλόγα γυμνὸς ἀλύξας,
+<lb /> ἔστην σὺν Ἀαρὼν Γρηγορίῳ γενέτῃ.
+</p>
+            </div2>
+            <div2 type="chapter" n="84" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς ἑαυτόν</label>
+               <p>
+                  <lb /> πατρὸς ἐγὼ ζαθέοιο καὶ οὔνομα καὶ θρόνον ἔσχον,
+<lb /> καὶ τάφον: ἀλλά, φίλος, μνώεο Γρηγορίου,
+<lb />Γρηγορίου, τὸν μητρὶ θεόσδοτον ὤπασε Χριστὸς
+<lb /> φάσμασιν ἐννυχίοις, δῶκε δ᾽ ἔρον σοφίης.
+</p>
+            </div2>
+            <div2 type="chapter" n="85" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Καισάριον τὸν ἑαυτοῦ ἀδελφόν</label>
+               <p>
+                  <lb />σχέτλιός ἐστιν ὁ τύμβος. ἔγωγε μὲν οὔποτ᾽ ἐώλπειν,
+<lb />ὥς ῥα κατακρύψει τοὺς πυμάτους προτέρους
+<lb />αὐτὰρ ὃ Καισάριον, ἐρικυδέα υἷα τοκήων,
+<lb /> τῶν προτέρων πρότερον δέξατο: ποῖα δίκη;
+</p>
+            </div2>
+            <div2 type="chapter" n="85b" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />οὐκ ἔσθ᾽ ὁ τύμβος αἴτιος: μὴ λοιδόρει.
+<lb />φθόνου τόδ᾽ ἐστὶν ἔργον πῶς δ᾽ ἤνεγκεν ἂν
+<lb /> νέον γερόντων εἰσορῶν σοφώτερον;
+</p>
+            </div2>
+            <div2 type="chapter" n="86" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> Γρηγόριε, θνητῶν μὲν ὑπείροχον ἔλλαχες υἷα
+<lb />κάλλεϊ καὶ σοφίῃ, καὶ βασιλῆι φίλον
+<lb /> κρείσσονα δ᾽ οὐκέτι πάμπαν ἀπηλεγέος θανάτοιο.
+<lb />ἦ μὴν ὠιόμην ἀλλὰ τί φησὶ τάφος;
+<milestone unit="lnum" n="5" />
+                  <lb />
+                  <quote rend="blockquote">
+                     <l> τέτλαθι: Καισάριος μὲν ἀπέφθιτο: ἀλλὰ μέγιστον
+</l>
+                     <l>υἱέος εὖχος ἔχεις, υἱέος ἀντὶ φίλου.</l>
+                  </quote> 
+               </p>
+            </div2>
+            <pb id="v.2.p.438" />
+            <div2 type="chapter" n="87" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς γονεῖς τοῦ μεγάλου Γρηγορίου καὶ Καισαρίου</label>
+               <p>
+                  <lb />ὥριοι εἰς τάφον ἦμεν, ὅτ᾽ ἐνθάδε τοῦτον ἔθηκαν
+<lb /> λᾶαν ἐφ᾽ ἡμετέρῳ γήραϊ λαοτόμοι:
+<lb /> ἀλλ᾽ ἡμῖν μὲν ἔθηκαν ἔχει δέ μιν οὐ κατὰ κόσμον
+<lb />Καισάριος, τεκέων ἡμετέρων πύματος.
+<milestone unit="lnum" n="5" />
+                  <lb /> ἔτλημεν πανάποτμα, τέκος, τέκος: ἀλλὰ τάχιστα
+<lb /> δέξαι ἐς ὑμέτερον τύμβον ἐπειγομένους.
+</p>
+            </div2>
+            <div2 type="chapter" n="88" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτὸν Καισάριον</label>
+               <p>
+                  <lb /> τόνδε λίθον τοκέες μὲν ἑὸν τάφον ἐστήσαντο,
+<lb /> ἐλπόμενοι ζωῆς μοῖραν ἔχειν ὀλίγην
+<lb /> Καισαρίῳ δ᾽ υἱῆι πικρὴν χάριν οὐκ ἐθέλοντες
+<lb /> δῶκαν, ἐπεὶ πρότερος τοῦδε λύθη βιότου.
+</p>
+            </div2>
+            <div2 type="chapter" n="89" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> γῆρας ἐμὸν δήθυνεν ἐπὶ χθονί: ἀντὶ δὲ πατρὸς
+<lb /> λᾶαν ἔχεις, τεκέων φίλτατε, Καισάριε.
+<lb />τίς  νόμος; οἷα δίκη; θνητῶν ἄνα, πῶς τόδ᾽ ἔνευσας;
+<lb />ὦ μακροῦ βιότου, ὦ ταχέος θανάτου.
+</p>
+            </div2>
+            <div2 type="chapter" n="90" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />οὐκ ἄγαμ᾽, οὐκ ἄγαμαι δῶρον τόδε: τύμβον ἐδέξω
+<lb /> μοῦνον ἀφ᾽ ἡμετέμων, Καισάριε, κτεάνων,
+<lb /> γηραλέων τοκέων πικρὸν λίθον ὁ Φθόνος οὕτως
+<lb /> ἤθελεν. ὦ ζωῆς πήμασι μακροτέρης.
+<pb id="v.2.p.440" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="91" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> πᾶσαν ὅση σοφίη λεπτῆς φρενὸς ἐν μερόπεσσιν
+<lb /> ἀμφὶ γεωμετρίην καὶ θέσιν οὐρανίων,
+<lb />καὶ λογικῆς τέχνης τὰ παλαίσματα, γραμματικήν τε
+<lb />ἠδ᾽ ἰητορίην, ῥητορικῆς τε μένος,
+<milestone unit="lnum" n="5" />
+                  <lb /> Καισάριος πτερόωντι νόῳ μοῦνος καταμάρψας,
+<lb /> αἰαῖ: πᾶσιν ὁμῶς νῦν κόνις ἐστ᾽ ὀλίγη.
+</p>
+            </div2>
+            <div2 type="chapter" n="92" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />πάντα κασιγνήτοισιν ἑοῖς λίπες: ἀντὶ δὲ πάντων
+<lb /> τύμβον ἔχεις ὀλίγον, κύδιμε Καισάριε:
+<lb />ἡ δὲ γεωμετρίη τε, καὶ ἀστέρες ὧν θέσιν ἔγνως,
+<lb />ἥ τ᾽ ἰητορίη οὐδὲν ἄκος θανάτου.
+</p>
+            </div2>
+            <div2 type="chapter" n="93" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> κάλλιμον ἐκ πατρίης σὲ μεγακλέα τηλόθ᾽ ἐόντα,
+<lb />ἄκρα φέροντα πάσης, Καισάριε, σοφίης,
+<lb />πέμψαντες βασιλῆι τὸν ἔξοχον ἰητήρων,
+<lb />φεῦ, κόνιν ἐκ Βιθυνῶν δεξάμεθ᾽ αὖ σε πέδου.
+</p>
+            </div2>
+            <div2 type="chapter" n="94" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />σεισμῶν μὲν κρυερῶν ἔφυγες στονόεσσαν ἀπειλήν,
+<lb /> ἡνίκα Νικαίης ἄστυ μίγη δαπέδῳ:
+<lb /> νούσῳ δ᾽ ἀργαλέῃ ζωὴν λίπες. ὦ νεότητος
+<lb /> σώφρονος, ὦ σοφίης, κάλλιμε Καισάριε.
+</p>
+            </div2>
+            <div2 type="chapter" n="95" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> Γρηγορίου Νόννης τε θεουδέος υἷα φέριστον
+<lb /> τύμβος ὅδ᾽ εὐγενέτην Καισάριον κατέχω,
+<lb /> ἔξοχον ἐν λογίοισιν, ὑπείροχον ἐν βασιλῄοις,
+<lb /> ἀστεροπὴν γαίης πείρασι λαμπομένην.
+<pb id="v.2.p.442" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="96" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />Καισαρίου φθιμένοιο κατήφησαν βασιλῆος
+<lb />αὐλαί, Καππαδόκαι δ᾽ ἤμυσαν ἐξαπίνης:
+<lb /> καὶ καλὸν εἴ τι λέλειπτο μετ᾽ ἀνθρώποισιν ὄλωλεν,
+<lb />οἱ δὲ λόγοι σιγῆς ἀμφεβάλοντο νέφος.
+</p>
+            </div2>
+            <div2 type="chapter" n="97" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />εἴ τινα δένδρον ἔθηκε γόος, καὶ εἴ τινα πέτρην,
+<lb />εἴ τις καὶ πηγὴ ῥεῦσεν ὀδυρομένη,
+<lb /> πέτραι καὶ ποταμοὶ καὶ δένδρεα λυπρὰ πέλοισθε,
+<lb /> πάντες Καισαρίῳ γείτονες ἠδὲ φίλοι:
+<milestone unit="lnum" n="5" />
+                  <lb /> Καισάριος πάντεσσι τετιμένος, εὖχος ἀνάκτων,
+῾ αἰαῖ τῶν ἀχέων᾽ ἤλυθεν εἰς ἀίδην.
+</p>
+            </div2>
+            <div2 type="chapter" n="98" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> χεὶρ τάδε Γρηγορίοιο: κάσιν ποθέων τὸν ἄριστον,
+<lb /> κηρύσσω θνητοῖς τόνδε βίον στυγέειν.
+<lb /> Καισαρίῳ τίς  κάλλος ὁμοίιος; ἢ τίς  ἁπάντων
+<lb /> τόσσος ἐὼν τόσσης εἷλε κλέος σοφίης;
+<milestone unit="lnum" n="5" />
+                  <lb /> οὔτις ἐπιχθονίων ἀλλ᾽ ἔπτατο ἐκ βιότοιο
+<lb />ὡς ῥόδον ἐξ ἀνθέων, ὡς δρόσος ἐκ πετάλων.
+</p>
+            </div2>
+            <div2 type="chapter" n="99" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> γείτονες εὐμενέοιτε καὶ ἐν κόλποισι δέχοισθε,
+<lb /> Μάρτυρες, ὑμετέροις αἷμα τὸ Γρηγορίου,
+<lb />Γρηγορίου Νόννης τε μεγακλέος, εὐσεβίῃ τε
+<lb />καὶ τύμβοις ἱεροῖς εἰς ἓν ἀγειρομένους.
+<pb id="v.2.p.444" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="100" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτὸν καὶ εἰς Φιλάγριον</label>
+               <p>
+                  <lb /> κλῦθι, Ἀλεξάνδρεια: Φιλάγριος ὤλεσε μορφὴν
+<lb /> τῆς λογικῆς ψυχῆς οὔτι χερειοτέρην,
+<lb /> Καισάριον δὲ νέον Φθόνος ἥρπασεν οὔποτε τοῖα
+<lb /> πέμψεις εὐίπποις ἄνθεα Καππαδόκαις.
+</p>
+            </div2>
+            <div2 type="chapter" n="101" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Γοργόνιον τὴν ἑαυτοῦ ἀδελφήν</label>
+               <p>
+                  <lb /> Γρηγορίου Νόννης τε φίλον τέκος ἐνθάδε κεῖμαι
+<lb />Γοργόνιον, ζωῆς μύστις ἐπουρανίης.
+</p>
+            </div2>
+            <div2 type="chapter" n="102" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Γοργόνιον</label>
+               <p>
+                  <lb />οὐδὲν Γοργόνιον γαίῃ λίπεν, ὀστέα μοῦνα:
+<lb /> πάντα δ᾽ ἔθηκεν ἄνω, Μάρτυρες ἀθλοφόροι.
+</p>
+            </div2>
+            <div2 type="chapter" n="103" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν καὶ εἰς Ἀλύπιον τὸν αὐτῆς ἄνδρα</label>
+               <p>
+                  <lb /> κτῆσιν ἑὴν σάρκας τε καὶ ὀστέα πάντ᾽ ἀναθεῖσα
+<lb /> Γοργόνιον Χριστῷ, μοῦνον ἀφῆκε πόσιν
+<lb />οὐ μὰν οὐδὲ πόσιν δηρὸν χρόνον ἀλλ᾽ ἄρα καὶ τὸν
+<lb />ἥρπασεν ἐξαπίνης κύδιμον Ἀλύπιον.
+<milestone unit="lnum" n="5" />
+                  <lb />ὄλβιε ὀλβίστης ἀλόχου πόσι: τοῖς ῥα λοετροῖς
+<lb /> λύματ᾽ ἀπωσάμενοι ζῆτε παλιγγενέες.
+</p>
+            </div2>
+            <div2 type="chapter" n="104" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ἐπιτάφιον εἰς Μαρτινιανόν</label>
+               <p>
+                  <lb />εἴ τις Τάνταλός ἐστιν ἐν ὕδασιν αὖος ἀπίστοις,
+<lb />εἴ τις ὑπὲρ κεφαλῆς πέτρος ἀεὶ φοβέων,
+<lb />δαπτόμενόν τ᾽ ὄρνισιν ἀγήραον ἧπαρ ἀλιτροῦ,
+<lb />καὶ πυρόεις ποταμὸς, καὶ ζόφος ἀθάνατος,
+<milestone unit="lnum" n="5" />
+                  <lb />ταρτάρεοί τε μυχοὶ καὶ δαίμονες ἀγριόθυμοι,
+<lb /> ἄλλαι τε φθιμένων τίσιες εἰν ἀίδι:
+<lb /> ὅστις Μαρτινιανὸν ἀγακλέα δηλήσαιτο
+<lb />τύμβον ἀνοχλίζων, δείματα πάντα φέροι.
+<pb id="v.2.p.446" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="105" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>κατὰ τυμβωρύχου</label>
+               <p>
+                  <lb />οὔρεά σοι καὶ πόντος, ἀτάσθαλε, καὶ πεδίοισι
+<lb />τέρπῃ πυροφόροις τετραπόδων τ᾽ ἀγέλαις:
+<lb />καὶ χρυσοῖο τάλαντα καὶ ἄργυρος, εὐγενέες τε
+<lb /> λᾶες καὶ Σηρῶν νήματα λεπταλέα,
+<milestone unit="lnum" n="5" />
+                  <lb /> πάντα βίος ζωοῖσι: λίθοι δ᾽ ὀλίγοι τε φίλοι τε
+<lb /> τοῖς φθιμένοις. σὺ δέ μοι κἀνθάδε χεῖρα φέρεις,
+<lb />οὐδὲ σὸν αἰδόμενος, τλῆμον, τάφον, ὅν τις ὀλέσσει
+<lb /> ἄλλος σοῖσι νόμοις, χερσὶ δικαιοτέραις,
+</p>
+            </div2>
+            <div2 type="chapter" n="106" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Μαρτινιανόν</label>
+               <p>
+                  <lb /> ἡνίκα Μαρτινιανὸς ἔδυ χθόνα, μητέρα πάντων,
+<lb />πᾶσα μὲν Αὐσονίων ἐστονάχησε πόλις:
+<lb />πᾶσα δὲ Σικανίη τε, καὶ εὐρέα πείρατα γαίης
+<lb /> κείρατ᾽, ἀπ᾽ ἀνθρώπων οἰχομένης Θέμιδος.
+<milestone unit="lnum" n="5" />
+                  <lb /> ἡμεῖς δ᾽ ἀντί νυ σεῖο τάφον μέγαν ἀμφιέποντες,
+<lb /> αἰὲν ἐπερχομένοις δώσομεν ὥς τι σέβας:
+</p>
+            </div2>
+            <div2 type="chapter" n="107" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />οἱ Χριστὸν φορέοντες ἀκούσατε, οἵ τε θέμιστας
+<lb /> εἰδότες ἡμερίων καὶ φθιμένων ὁσίην
+<lb /> πάντα λιπών, βασιλῆα, πάτρην, γένος, εὖχος ὑπάρχων,
+<lb />αἰαῖ, πᾶσιν ὁμῶς νῦν κόνις εἴμ᾽ ὀλίγη,
+<milestone unit="lnum" n="5" />
+                  <lb /> Μαρτινιανὸς πᾶσι τετιμένος: ἀλλ᾽ ἐπὶ τύμβῳ
+<lb /> βάλλειν ἡμετέρῳ δάκρυα, μὴ παλάμας.
+<pb id="v.2.p.448" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="108" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> μουσοπόλον, ῥητῆρα, δικασπόλον, ἄκρον ἅπαντα,
+<lb /> τύμβος ὅδ᾽ εὐγενέτην Μαρτινιανὸν ἔχω,
+<lb />ναυμάχον ἐν πελάγεσσιν, ἀρήιον ἐν πεδίοισιν
+<lb /> ἀλλ᾽ ἀποτῆλε τάφου, πρίν τι κακὸν παθέειν.
+</p>
+            </div2>
+            <div2 type="chapter" n="109" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />μὴ πόλεμον φθιμένοισιν — ἅλις ζώοντες, ἀλιτροὶ —
+<lb />μὴ πόλεμον φθιμένοις Μαρτινιανὸς ἐγὼ
+<lb /> ταῦτα πάσιν ζῴοις ἐπιτέλλομαι. οὐ θέμις ἐστὶν
+<lb /> τῶν ὀλίγων φθονέειν τοῖς φθιμένοισι λίθων.
+</p>
+            </div2>
+            <div2 type="chapter" n="110" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />
+                  <lb /> Θέμι, τῆς πολλοῖσιν ἐγὼ νώμησα τάλαντα
+<lb />ὦ φοβεραὶ ψυχῶν μάστιγες οὐχ ὁσίων
+<lb />οὗτος ἐμοῖσι λίθοισι φέρει στονόεντα σίδηρον
+<lb />οὗτος ἐμοί. φεῦ, φεῦ: ποῦ δὲ λίθος Σισύφου ;
+</p>
+            </div2>
+            <div2 type="chapter" n="111" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />ὄλβιος, εὐγήρως, ἄνοσος θάνον, ἐν βασιλῆος
+<lb /> πρῶτα φέρων, ἱερῆς ἄκρον ἔχων σοφίης:
+<lb />εἴ τινα Μαρτινιανὸν ἀκούετε: ἀλλ᾽ ἀπὸ τύμβου,
+<lb /> μηδὲ φέρειν ἐπ᾽ ἐμοὶ δυσμενέας παλάμας.
+</p>
+            </div2>
+            <div2 type="chapter" n="112" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> χάζεο, χάζεο τῆλε: κακὸν τὸν ἄεθλον ἐγείρεις,
+<lb /> λᾶας ἀνοχλίζων καὶ τάφον ἡμέτερον:
+<lb /> χάζεο: Μαρτινιανὸς ἐγώ, καὶ ζῶσιν ὄνειαρ
+<lb />καὶ νέκυς οὐκ ὀλίγον ἐνθάδε κάρτος ἔχω.
+<pb id="v.2.p.450" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="113" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> Καππαδοκῶν μέγ᾽
+<lb /> ἄεισμα, φαάντατε Μαρτινιανέ,
+<lb />σεῖο, βροτῶν γενεή, καὶ τάφον αἰδόμεθα:
+<lb />ὃς ποτ᾽ ἔης βασιλῆος ἐν ἕρκεσι κάρτος ὑπάρχων,
+<lb /> δουρὶ δὲ Σικανίην κτήσαο καὶ Λιβύην.
+</p>
+            </div2>
+            <div2 type="chapter" n="114" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> Ὄμνυμεν ἀθανάτοιο Θεοῦ κράτος ὑψιμέδοντος,
+<lb /> καὶ ψυχὰς νεκύων, κύδιμε, σήν τε κόνιν,
+<lb />μήποτε, Μαρτινιανέ, τεοῖς ἐπὶ χεῖρας ἐνέγκαι
+<lb /> στήλῃ καὶ τύμβῳ: οὐδὲ γὰρ οὐδ᾽ ἱεροῖς.
+</p>
+            </div2>
+            <div2 type="chapter" n="115" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> Ῥώμη καὶ βασιλῆες ἐμοὶ καὶ πείρατα γαίης
+<lb /> στῆλαι Μαρτινιανῷ, τὰς χρόνος οὐ δαμάσει:
+<lb /> ἀλλ᾽ ἔμπης ὀλίγῳ περιδείδια, μή τι πάθῃσι,
+<lb /> τῷδε τάφῳ πολλῶν οὐχ ὁσίαι παλάμαι.
+</p>
+            </div2>
+            <div2 type="chapter" n="116" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />Μαρτινιανοῦ σῆμα μεγακλέος, εἲ τιν᾽ ἀκούεις
+<lb /> Καππαδοκῶν Ῥώμης πρόθρονον εὐγενέων,
+<lb /> παντοίαις ἀρετῇσι κεκασμένον, ἀλλὰ κόνιν περ
+<lb /> ἁζόμενοι στήλην καὶ τάφον ἀμφιέπειν.
+</p>
+            </div2>
+            <div2 type="chapter" n="117" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />οὔποτ᾽ ἐγὼ φθιμένοισιν ἐπέχραον, οὐδ᾽ ἀπὸ τύμβων
+<lb />ἔργον ἔγειρα, Δίκην ὄμνυμι καὶ φθιμένους:
+<lb />τοὔνεκα μηδ᾽ ἐπ᾽ ἐμοῖσι φέρειν λάεσσι σίδηρον
+<lb />εἰ δὲ φέροις, τὴν σὴν ἐς κεφαλὴν πεσέτω.
+<milestone unit="lnum" n="5" />
+                  <lb /> Μαρτινιανὸς ἐγὼ τάδε λίσσομαι: εἴ τις ἐμεῖο
+<lb />κύδεός ἐστι χάρις, τύμβος ἀεὶ μενέτω.
+<pb id="v.2.p.452" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="118" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Λιβίαν τὴν γαμετὴν Ἀμφιλόχου</label>
+               <p>
+                  <lb /> εἷς δόμος, ἀλλ᾽ ὑπένερθε τάφος, καθύπερθε δὲ σηκός:
+<lb /> τύμβος δειμαμένοις, σηκὸς ἀεθλοφόροις:
+<lb />καὶ ῥ᾽ οἱ μὲν γλυκερὴν ἤδη κόνιν ἀμφεβάλοντο
+<lb />ὡς σὺ μάκαιρα δάμαρ Ἀμφιλόχου, Λιβίη,
+<milestone unit="lnum" n="5" />
+                  <lb />κάλλιμὲ θ᾽ υἱήων, Εὐφήμιε: τούσδ᾽ ὑπόδεχθε,
+<lb /> μάρτυρες ἀτρεκίης, τοὺς ἔτι λειπομένους.
+</p>
+            </div2>
+            <div2 type="chapter" n="119" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτήν</label>
+               <p>
+                  <lb />ὤφελες, ὦ Λιβία, ζώειν τεκέεσσι φίλοισιν
+<lb />ὤφελες ἄχρι πύλης γήραος ἐμπελάσαι:
+<lb /> νῦν δέ σε μοῖρ᾽ ἐδάμασσεν ἀώριον, εἰσέτι καλήν,
+<lb /> εἰσέτι κουριδίοις ἄνθεσι λαμπομένην.
+<milestone unit="lnum" n="5" />
+                  <lb /> αἰαῖ: Ἀμφίλοχος δὲ τεὸς πόσις ἀντὶ δάμαρτος
+<lb /> ἐσθλῆς καὶ πινυτῆς τλήμονα τύμβον ἔχει.
+</p>
+            </div2>
+            <div2 type="chapter" n="120" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτὴν Λιβίαν</label>
+               <p>
+                  <lb /> αἰαῖ: καὶ Λιβίαν κατέχει κόνις. οὔποτ᾽ ἔγωγε
+<lb /> ὠισάμην θνητὴν ἔμμεναι, εἰσορόων
+<lb />εἶδος, μειλιχίην τε σαοφροσύνην τε γυναικός,
+<lb /> τοῖς φῦλον πασέων καίνυτο θηλυτέρων
+<milestone unit="lnum" n="5" />
+                  <lb /> τοὔνεκα καὶ τοίῳ σε τάφῳ κύδηνε θανοῦσαν
+<lb /> σῶν τε τριὰς τεκέων καὶ πόσις Ἀμφίλοχος.
+</p>
+            </div2>
+            <div2 type="chapter" n="121" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Εὐφήμιον καὶ Ἀμφίλοχον αὐταδέλφους</label>
+               <p>
+                  <lb />ἦν δυὰς ἦν ἱερή, ψυχὴ μία, σώματα δισσά,
+<lb /> πάντα κασιγνήτω, αἷμα, κλέος, σοφίην,
+<lb /> υἱέες Ἀμφιλόχου, Εὐφήμιος Ἀμφίλοχός τε,
+<lb /> πᾶσιν Καππαδόκαις ἀστέρες ἐκφανέες.
+<milestone unit="lnum" n="5" />
+                  <lb /> δεινὸν δ᾽ ἀμφοτέρους Φθόνος ἔδρακε: τὸν μὲν ἄμερσε
+<lb /> ζωῆς, τὸν δ᾽ ἔλιπεν ἥμισυν Ἀμφίλοχον.
+<pb id="v.2.p.454" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="122" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Εὐφήμιον</label>
+               <p>
+                  <lb /> ῥήτωρ ἐν ῥητῆρσιν, ἀοιδοπόλος δ᾽ ἐν ἀοιδοῖς,
+<lb />κῦδος ἑῆς πάτρης, κῦδος ἑῶν τοκέων,
+<lb /> ἄρτι γενειάσκων Εὐφήμιος, ἄρτι δ᾽ ἔρωτας
+<lb />ἐς θαλάμους καλέων, ὤλετο: φεῦ παθέων
+<milestone unit="lnum" n="5" />
+                  <lb /> ἀντὶ δὲ παρθενικῆς τύμβον λάχεν, ἠδ᾽ ὑμεναίων
+<lb />ἤματα νυμφιδίων ἦμαρ ἐπῆλθε γόων.
+</p>
+            </div2>
+            <div2 type="chapter" n="123" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> Εἰκοσέτης πᾶσαν Εὐφήμιος, ὡς μίαν οὔτις,
+<lb /> Ἑλλάδα κ᾽ Αὐσονίην μοῦσαν ἐφιπτάμενος,
+<lb /> στράπτων ἀγλαΐῃ τε καὶ ἤθεσιν ἦλθ᾽ ὑπὸ γαῖαν.
+<lb /> αἰαῖ: τῶν ἀγαθῶν ὡς μόρος ὠκύτερος.
+</p>
+            </div2>
+            <div2 type="chapter" n="124" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> Χρυσείης γενεῆς Εὐφήμιος ἦν ἔτι τυτθὸν
+<lb /> λείψανον, εὐγενέτης ἤθεα καὶ πραπίδας,
+<lb /> μείλιχος, ἡδυεπής, εἶδος Χαρίτεσσιν ὁμοῖος:
+<lb />τοὔνεκα καὶ θνητοῖς οὐκ ἐπὶ δὴν ἐμίγη.
+</p>
+            </div2>
+            <div2 type="chapter" n="125" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> Στράψε μέγ᾽ ἀνθρώποις Εὐφήμιος, ἀλλ᾽ ἐπὶ τυτθὸν
+<lb />καὶ γὰρ καὶ στεροπῆς οὐ μακρόν ἐστι σέλας:
+<lb /> στράψεν ὁμοῦ σοφίῃ τε καὶ εἴδεϊ καὶ πραπίδεσσιν:
+<lb />τὰ πρὶν Καππαδόκαις ἦν κλέα, νῦν δὲ γόος.
+</p>
+            </div2>
+            <div2 type="chapter" n="126" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> τίς; τίνος; — <quote rend="blockquote">
+                     <l> Ἀμφιλόχου Εὐφήμιος ἐνθάδε κεῖται,
+</l>
+                     <l>οὗτος ὁ Καππαδόκαις πᾶσι διὰ στόματος:
+</l>
+                     <l>οὗτος ὃν αἱ Χάριτες Μούσαις δόσαν οἱ δ᾽ ὑμέναιοι
+</l>
+                     <l> ἀμφὶ θύρας: ἦλθεν δ᾽ ὁ Φθόνος ὠκύτερος.
+<pb id="v.2.p.456" />
+                     </l>
+                  </quote> 
+               </p>
+            </div2>
+            <div2 type="chapter" n="127" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />ἔρνος ἀμώμητον, Μουσῶν τέκος, εἶαρ ἑταίρων,
+<lb />καὶ χρύσεον Χαρίτων πλέγμα ἰοστεφέων,
+<lb />ᾤχετο ἐκ μερόπων Εὐφήμιος: οὑδ᾽ ἔτ᾽ ἀνίσχεν,
+<lb /> αἰαῖ, σοῖς θαλάμοις πυρσὸς ὃν ἧψεν Ἔρως.
+</p>
+            </div2>
+            <div2 type="chapter" n="128" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>—εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />αἱ Χάριτες Μούσαισι: <quote rend="blockquote">
+                     <l>τί  ῥέξομεν; οὐκέτ᾽ ἄγαλμα
+</l>
+                     <l> χειρῶν ἡμετέρων Εὐφήμιος ἐν μερόπεσσιν.</l>
+                  </quote>
+                  <lb /> χαἰ Μοῦσαι Χαρίτεσσιν <quote rend="blockquote">
+                     <l> ἐπεὶ Φθόνος ἐστὶν ἀλιτρός,
+</l>
+                     <l> τόσσον ἔχοι: ἡμῖν δὲ τόδ᾽ ὅρκιον ἔμπεδον ἔστω,
+<milestone unit="lnum" n="5" />
+                     </l>
+                     <l> μηκέτ᾽ ἀναστῆσαι τοῖον μερόπεσσιν ἄγαλμα.</l>
+                  </quote> 
+               </p>
+            </div2>
+            <div2 type="chapter" n="129" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> κρῆναι καὶ ποταμοὶ καὶ ἄλσεα, καὶ λαλαγεῦντες
+<lb />ὄρνιθες λιγυροὶ καλὸν ἐπ᾽ ἀκρεμόνων,
+<lb />αὖραί τε μαλακὸν συρίγμασι κῶμα φέρουσαι,
+<lb /> καὶ κῆποι Χαρίτων εἰς ἓν ἀγειρομένων,
+<milestone unit="lnum" n="5" />
+                  <lb /> κλαύσατε. ὦ χαρίεσς1᾽ Εὐφημιάς: ὥς σε θανών περ
+<lb />Εὐφήμιος κλεινὴν θήκατ᾽ ἐπωνυμίην.
+</p>
+            </div2>
+            <div2 type="chapter" n="130" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> κάλλιμος ἠιθέων Εὐφήμιος, εἴποτ᾽ ἔην γε:
+<lb /> κάλλιμος ἐν χώροις χῶρος ὅδ᾽ ἠλύσιος:
+<lb /> τοὔνεκεν εἰς ἓν ἄγερθεν ἐπεὶ ζωὴν μὲν ἔλειψεν,
+<lb /> οὔνομα δ᾽ ἐν χώρῳ κάλλιπεν ἠγαθέῳ.
+</p>
+            </div2>
+            <div2 type="chapter" n="131" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Ἀμφίλοχον</label>
+               <p>
+                  <lb />ἤλυθε κ᾽ Ἀμφιλόχοιο φίλον δέμας ἐς μέγα σῆμα,
+<lb /> ψυχὴ δ᾽ ἐς μακάρων ᾤχετ᾽ ἀποπταμένη.
+<pb id="v.2.p.458" />
+                  <lb /> πηοῖς πάντα πέπασσο, μακάρτατε: βίβλον ἔῳξας
+<lb /> πᾶσαν ὅση θνητῶν, κεἴ τις ἐπουρανίη.
+<milestone unit="lnum" n="5" />
+                  <lb /> γηραλέος φιλίην ὑπέδυς χθόνα: τέκνα λέλοιπας
+<lb />κρείσσονα καὶ τοκέων τὸ πλέον οὐ μερόπων.
+</p>
+            </div2>
+            <div2 type="chapter" n="132" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> ἄσμενος ᾗ τε δάμαρτι καὶ υἱέι πάρθετο σῶμα
+<lb />Ἀμφίλοχος, λιπαροῦ γήραος ἀντιάσας,
+<lb />ὄλβιος, εὐγενέτης, μύθων κράτος, ἄλκαρ ἁπάντων,
+<lb /> πηῶν, εὐσεβέων, εὐγενέων, λογίων,
+<milestone unit="lnum" n="5" />
+                  <lb /> καὶ μύθοιο δοτὴρ περιώσιος. ἠνίδ᾽ ἑταίρων
+<lb /> σῶν ἑνός, ὦ φιλότης, γράμμ᾽ ἐπιτυμβίδιον.
+</p>
+            </div2>
+            <div2 type="chapter" n="133" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />ὦ μάκαρ, ὦ ξυνὸν πενίης ἄκος, ὦ πτερόεντες
+<lb />μῦθοι, καὶ πηγὴ πᾶσιν ἀρυομένη,
+<lb />ἄσθματι πάντα λίπες πυμάτῳ: τὸ δ᾽ ἅμ᾽ ἕσπετο μοῦνον
+<lb /> ἔνθεν ἀειρομένῳ κῦδος ἀεὶ θαλέθον.
+<milestone unit="lnum" n="5" />
+                  <lb /> Γρηγόριος τάδ᾽ ἔγραψα, λόγῳ λόγον ὃν παρὰ σεῖο
+<lb /> Ἀμφίλοχ᾽, ἐξεδάην ἀντιχαριζόμενος.
+</p>
+            </div2>
+            <div2 type="chapter" n="134" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> Ἀμφίλοχος τέθνηκεν ἀπώλετο εἴ τι λέλειπτο
+<lb /> καλὸν ἐν ἀνθρώποις, ῥητορικῆς τε μένος,
+<lb />καὶ Χάριτες Μούσαισι μεμιγμέναι: ἔξοχα δ᾽ αὖ σε
+<lb />ἡ Διοκαισαρέων μύρατο πάτρα φίλη.
+</p>
+            </div2>
+            <div2 type="chapter" n="135" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />τυτθὸν μὲν πτολίεθρον, ἀτάρ πολὺν ἀνέρα δῶκα
+<lb /> βήμασιν ἰθυδίκοις ἡ Διοκαισαρέων,
+<lb /> Ἀμφίλοχον φθιμένῳ δὲ συνέφθιτο καὶ πυρόεσσα
+<lb />ῥήτρη, καὶ πάτρης εὖχος ἀριστοτόκου.
+<pb id="v.2.p.460" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="136" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> τὸν ῥήτρην πυρόεσσαν ἐπ᾽ ἀντιπάλοισι φέροντα,
+<lb /> τὸν μέλιτος γλυκίω ἤθεα καὶ πραπίδας
+<lb /> Ἀμφίλοχον κατέχω τυτθὴ κόνις, ἔκτοθι πάτρης,
+<lb /> υἱέα Φιλτατίου Γοργονίας τε μέγαν.
+</p>
+            </div2>
+            <div2 type="chapter" n="137" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />ῥητῆρες, φθέγγοισθε: μεμυκότα χείλεα σιγῇ
+<lb /> Ἀμφιλόχου μεγάλου τύμβος ὅδ᾽ ἀμφὶς ἔχω.
+</p>
+            </div2>
+            <div2 type="chapter" n="138" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> ἠρίον Ἀμφιλόχοιο μελίφρονος, ὅς ποτε ῥήτρῃ
+<lb /> πάντας Καππαδόκας καίνυτο καὶ πραπίσιν.
+</p>
+            </div2>
+            <div2 type="chapter" n="139" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Νικομήδην</label>
+               <p>
+                  <lb /> οἴχεαι, ὦ Νικόμηδες, ἐμὸν κλέος ἡ δὲ συνωρὶς
+<lb /> σῶν καθαρὴ τεκέων πῶς βίον ἐξανύσει;
+<lb />τίς  δὲ τέλος νηῷ περικάλλεϊ χεὶρ ἐπιθήσει;
+<lb />τίς  δὲ Θεῷ πέμψει φρὴν τελέην θυσίην,
+<milestone unit="lnum" n="5" />
+                  <lb /> σεῖο, μάκαρ, μιχθέντος ἐπουρανίοισι τάχιστα;
+<lb />ὦ γενεὴ τλήμων, οἷα πάθες, μερόπων,
+</p>
+            </div2>
+            <div2 type="chapter" n="140" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />Δέρκεο καὶ τύμβον Νικομήδεος, εἲ τιν᾽ ἀκούεις,
+<lb />ὃς νηὸν Χριστῷ δειμάμενος μεγάλῳ,
+<lb />αὑτὸν μὲν πρώτιστον, ἔπειτα δὲ τὴν περίβωτον
+<lb /> δῶκεν ἁγνὴν θυσίην παρθενίην τεκέων,
+<lb />φέρτερον οὐδὲν ἔχων, ἱερεύς, γενέτης τε φέριστος.
+<lb />τοὔνεκα καὶ μεγάλῃ ὦκα μίγη Τριάδι,
+<pb id="v.2.p.462" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="141" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> ὕστατος ἐς βίον ἦλθες ἀοίδιμον, ἀλλὰ τάχιστα
+<lb /> ἔνθεν ἀνηέρθης: τίς  τάδ᾽ ἔνευσε δίκη;
+<lb /> Χριστὸς ἄναξ, Νικόμηδες, ὅπως σέο λαὸν ἄνωθεν
+<lb />ἰθύνοις τεκέων σὺν ἱερῇ δυάδι.
+</p>
+            </div2>
+            <div2 type="chapter" n="142" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Καρτέριον ἑταῖρον τοῦ μεγάλου Γρηγορίου</label>
+               <p>
+                  <lb />πῆ με λιπὼν πολύμοχθον ἐπὶ χθονί, φίλταθ᾽ ἑταίρων,
+<lb /> ἤλυθες ἁρπαλέως, κύδιμε Καρτέριε;
+<lb />πῆ ποτ᾽ ἔβης νεότητος ἐμῆς οἰήια νωμῶν,
+<lb />ἦμος ἐπ᾽ ἀλλοδαπῆς μῦθον ἐμετρεόμην,
+<milestone unit="lnum" n="5" />
+                  <lb />ὃς βιότῳ μ᾽ ἔζησας ἀσαρκέι; ἦ ῥ᾽ ἐτεόν σοι
+<lb /> Χριστὸς ἄναξ πάντων φίλτερος, ὅν νυν ἔχεις.
+</p>
+            </div2>
+            <div2 type="chapter" n="143" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> Ἀστεροπὴ Χριστοῖο μεγακλέος, ἕρκος ἄριστον
+<lb /> ἠιθέων, ζωῆς ἡνίοχ᾽ ἡμετέρης,
+<lb /> μνώεο Γρηγορίοιο, τὸν ἔπλασας ἤθεσι κεδνοῖς,
+<lb />ἦν ὅτε ἦν, ἀρετῆς κοίρανε Καρτέριε.
+</p>
+            </div2>
+            <div2 type="chapter" n="144" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />ὦ πηγαὶ δακρύων, ὦ γούνατα, ὦ θυέεσιν
+<lb /> ἁγνοτάτοις παλάμαι Χριστὸν ἀρεσσάμεναι
+<lb /> Καρτερίου: πῶς λῆξεν ὁμῶς πάντεσσι βροτοῖσιν;
+<lb /> ἤθελεν ὑμνοπόλον κεῖθι χοροστασίη.
+</p>
+            </div2>
+            <div2 type="chapter" n="145" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />ἥρπασας, ὦ Νικόμηδες, ἐμὸν κέαρ: ἥρπασας ὦκα
+<lb /> Καρτέριον, τῆς σῆς σύζυγον εὐσεβίης.
+<pb id="v.2.p.464" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="146" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />ὦ Ξώλων ζαθέων ἱερὸν πέδον, οἷον ἔρεισμα
+<lb /> σταυροφόρων κόλποις Καρτέριον κατέχεις.
+</p>
+            </div2>
+            <div2 type="chapter" n="147" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Βάσσον τινὰ παρὰ λῃστῶν ἀποκτανθέντα</label>
+               <p>
+                  <lb /> Βάσσε φίλος, Χριστῷ μεμελημένος ἔξοχον ἄλλων,
+<lb /> τῆλε τεῆς πάτρης ληΐστορι χειρὶ δαμάσθης,
+<lb />οὐδέ σε τύμβος ἔχει πατρώϊος: ἀλλὰ καὶ ἔμπης
+<lb />πᾶσιν Καππαδόκεσσι μέγ᾽ οὔνομα σεῖο λέλειπται,
+<milestone unit="lnum" n="5" />
+                  <lb /> καὶ στῆλαι παγίων μέγ᾽ ἀμείνονες, αἷς ἐνιγράφθης.
+<lb />Γρηγορίου τόδε σοι μνημήιον, ὃν φιλέεσκες.
+</p>
+            </div2>
+            <div2 type="chapter" n="148" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />ὡς Ἀβραὰμ κόλποισι τεθεὶς ὑποδέχνυσο, Βάσσε,
+<lb /> σὸν τέκος Ἀβραὰμ πνεύματι Καρτέριον:
+<lb />αὐτὰρ ἐγών, εἰ καί σε τάφος σὺν πατρὶ καλύπτοι,
+<lb /> οὔποτ᾽ ἀφ᾽ ὑμετέρης στήσομ᾽ ὁμοζυγίης.
+</p>
+            </div2>
+            <div2 type="chapter" n="149" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Φιλτάτιον</label>
+               <p>
+                  <lb />ἠίθεον μεγάλοιο μέγαν κοσμήτορα λαοῦ
+<lb /> χθὼν ἱερὴ κεύθω Φιλτατίοιο δέμας.
+</p>
+            </div2>
+            <div2 type="chapter" n="150" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Εὐσέβειαν καὶ Βασίλισσαν</label>
+               <p>
+                  <lb />Εὐσέβιον, Βασίλισσα, μεγακλέες, ἐνθάδε κεῖνται,
+<lb /> Ξώλων ἠγαθέων θρέμματα χριστοφόρα,
+<lb />καὶ Νόννης ζαθέης ἱερὸν δέμας. ὅστις ἀμείβεις
+<lb /> τούσδε τάφους, ψυχῶν μνώεο τῶν μεγάλων.
+<pb id="v.2.p.466" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="151" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Ἑλλάδιον καὶ Εὐλάλιον αὐταδέλφους</label>
+               <p>
+                  <lb />αἰεί σοι νόος ἦεν ἐς οὐρανὸν, οὐδ᾽ ἐπὶ γαίης
+<lb /> ἤρειδες χθαμαλῆς ἴχνιον οὐδ᾽ ὀλίγον
+<lb /> τοὔνεκεν ὡς τάχος ἦλθες ἀπὸ χθονός: Εὐλάλιος δὲ
+<lb /> σὴν κόνιν ἀμφιέπει σὸς κάσις, Ἑλλάδιε.
+</p>
+            </div2>
+            <div2 type="chapter" n="152" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Ἑλλάδιον</label>
+               <p>
+                  <lb /> τὸν νεαρόν, Χριστῷ δὲ μέγαν, πολιόν τε νόημα,
+<lb /> χῶρος ὅδ᾽ ἀθλοφόρων Ἑλλάδιον κατέχω:
+<lb />οὐ νέμεσις: κείνοις γὰρ ὁμοίιον ἄλγος ἀνέτλη,
+<lb /> σβεννὺς ἀντιπάλου τοῦ φθονεροῖο μόθον.
+</p>
+            </div2>
+            <div2 type="chapter" n="153" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> μικρὸν μὲν πνείεσκες ἐπὶ χθονὶ σαρκὸς ἀνάγκῃ,
+<lb /> πλείονα δὲ ζωῆς ὑψόθι μοῖραν ἔχεις,
+<lb /> Ἑλλάδιε, Χριστοῖο μέγα κλέος: εἰ δὲ τάχιστα
+<lb /> δεσμῶν ἐξελύθης τοῦτο γέρας καμάτων.
+</p>
+            </div2>
+            <div2 type="chapter" n="154" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Γεώργιον</label>
+               <p>
+                  <lb /> καὶ σὺ Γεωργίοιο φίλον δέμας, ἐνθάδε κεῖσαι,
+<lb />ὃς πολλὰς Χριστῷ πέμψας ἁγνὰς θυσίας:
+<lb /> σὺν δὲ κασιγνήτη σῶμα, φρένας, ἡ Βασίλισσα
+<lb /> ξυνὸν ἔχει μεγάλη καὶ τάφον ὡς βίοτον.
+</p>
+            </div2>
+            <div2 type="chapter" n="155" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Εὐπράξιον</label>
+               <p>
+                  <lb /> χώρης τῆσδ᾽ ἱερῆς Εὐπράξιον ἀρχιερῆα
+<lb />ἥδ᾽ Ἀριανζαίη χθὼν μεγάλη κατέχω,
+<lb /> Γρηγορίοιο φίλον καὶ ἥλικα, καὶ συνοδίτην
+<lb /> τοὔνεκα καὶ τύμβου γείτονος ἠντίασεν.
+<pb id="v.2.p.468" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="156" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Ναυκράτιον τὸν ἀδελφὸν τοῦ μεγάλου Βασιλείου</label>
+               <p>
+                  <lb /> Ἰχθυβόλον ποτ᾽ ἔλυε λίνον βυθίης ἀπὸ πέτρης
+<lb /> Ναυκράτιος, δίναις ἐν ποταμοῦ βρυχίαις:
+<lb /> καὶ τὸ μὲν οὐκ ἀνέλυσεν ὁ δ᾽ ἔσχετο: πῶς ἁλιῆα
+<lb />εἴρυσεν ἀνθ᾽ ἁλίης δίκτυον, εἰπέ, Λόγε,
+<milestone unit="lnum" n="5" />
+                  <lb />Ναυκράτιον, καθαροῖο βίου νόμον, ὥσπερ ἐίσκω,
+<lb /> καὶ χάριν ἐλθέμεναι καὶ μόρον ἐξ ὑδάτων.
+</p>
+            </div2>
+            <div2 type="chapter" n="157" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb /> Ναυκράτιος στροφάλιγγι θάνε φθονεροῦ ποταμοῖο,
+<lb /> δεσμοῖσιν βυθίης ἄρκυος ἐνσχόμενος:
+<lb />ὥς κε μάθῃς σύ, θνητέ, τὰ παίγνια τοῦδε βίοιο,
+<lb /> ἔνθεν ἀνηέρθη πῶλος ὅδ᾽ ἄκρα θέων.
+</p>
+            </div2>
+            <div2 type="chapter" n="158" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτόν</label>
+               <p>
+                  <lb />Ναυκράτιος πλεκτοῖο λίνου δεσμοῖσιν ἐλυσθείς,
+<lb /> δεσμῶν τοῦδε βίου ἐξ ἁλίης ἐλύθη.
+</p>
+            </div2>
+            <div2 type="chapter" n="159" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Μαξέντιον</label>
+               <p>
+                  <lb />αἵματος εὐγενέος γενόμην, βασιλῆος ἐν αὐλαῖς
+<lb /> ἔστην, ὀφρὺν ἄειρα κενόφρονα. πάντα κεδάσσας,
+<lb />Χριστὸς ἐπεί με κάλεσσε, βίου πολλαῖσιν ἀταμποῖς
+<lb /> ἴχνος ἔρεισα πόθοιο τινάγμασιν, ἄχρις ἀνεῦρον
+<milestone unit="lnum" n="5" />
+                  <lb /> τὴν σταθερὴν: Χριστῷ τῆξα δέμας ἄλγεσι πολλοῖς:
+<lb /> καὶ νῦν κοῦφος ἄνω Μαξέντιος ἔνθεν ἀνέπτην.
+</p>
+            </div2>
+            <div2 type="chapter" n="160" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὸν αὐτὸν Μαξέντιον</label>
+               <p>
+                  <lb /> Πάλλετ᾽ ἐμοὶ κραδίη, Μαξέντιε, σεῖο γράφουσα
+<lb />οὔνομα, ὃς στυφελὴν ἦλθες ὁδὸν βιότου,
+<lb />ἄμβροτον, αἰπήεσσαν, ἀτερπέα: σεῖο, φέριστε,
+<lb />ἄτρομος οὐδὲ τάφῳ χριστιανὸς πελάει.
+<pb id="v.2.p.470" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="161" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Ἐμμελίαν τὴν μητέρα τοῦ ἁγίου Βασιλείου</label>
+               <p>
+                  <lb /> Ἐμμέλιον τέθνηκε: τίς  ἔφρασεν; ἥ γε τοσούτων
+<lb /> καὶ τοίων τεκέων δῶκε φάος βιότῳ,
+<lb /> υἱέας ἠδὲ θύγατρας ὁμόζυγας ἀζυγέας τε:
+<lb /> εὔπαις καὶ πολύπαις ἥδε μόνη μερόπων.
+<milestone unit="lnum" n="5" />
+                  <lb /> τρεῖς μὲν τῆσδ᾽ ἱερῆες ἀγακλέες, ἡ δ᾽ ἱερῆος
+<lb /> σύζυγος: οἱ δὲ πέλας ὡς στρατὸς εὐαγέων.
+</p>
+            </div2>
+            <div2 type="chapter" n="162" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν αὐτὴν Ἐμμελίαν</label>
+               <p>
+                  <lb /> θάμβος ἔχεν μ᾽ ὁρόωντα τόσον γόνον Ἐμμελίοιο
+<lb /> καὶ τοῖον, μεγάλης νηδύος ὄλβον ὅλον
+<lb />ὡς δ᾽ αὐτὴν φρασάμην Χριστοῦ κτέαρ, εὐσεβὲς αἷμα,
+<lb />Ἐμμέλιον, τόδ᾽ ἔφην <q direct="unspecified">οὐ μέγα: ῥίζα τόση. </q>
+                  <milestone unit="lnum" n="5" />
+                  <lb />τοῦτό σοι εὐσεβίης ἱερὸν γέρας, ὦ παναρίστη,
+<lb /> τιμὴ σῶν τεκέων, οἷς πόθον εἶχες ἕνα. </p>
+            </div2>
+            <div2 type="chapter" n="163" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Μακρίναν τὴν ἀδελφὴν τοῦ μεγάλου Βασιλείου</label>
+               <p>
+                  <lb />παρθένον αἰγλήεσσαν ἔχω κόνις, εἲ τιν᾽ ἀκούεις
+<lb />Μακρίναν, Ἐμμελίου πρωτότοκον μεγάλης:
+<lb />ἣ πάντων ἀνδρῶν λάθεν ὄμματα: νῦν δ᾽ ἐνὶ πάντων
+<lb /> γλώσσῃ καὶ πάντων φέρτερον εὖχος ἔχει.
+</p>
+            </div2>
+            <div2 type="chapter" n="164" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Θεοσέβιον ἀδελφὴν Βασιλείου</label>
+               <p>
+                  <lb /> καὶ σὺ Θεοσσέβιον, κλεινῆς τέκος Ἐμμελίοιο,
+<lb />Γρηγορίου μεγάλου σύζυγε ἀτρεκέως,
+<lb /> ἐνθάδε τὴν ἱερὴν ὑπέδυς χθόνα, ἔμμα γυναικῶν
+<lb />εὐσεβέων βιότου δ᾽ ὥριος ἐξελύθης.
+<pb id="v.2.p.472" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="165" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς Γρηγόριον τῆς μητρὸς ἀδελφόν</label>
+               <p>
+                  <lb />Γρηγόριον μήτρως, ἱερεὺς μέγας, ἐνθάδ᾽ ἔθηκε
+<lb /> Γρηγόριος, καθαροῖς Μάρτυσι παρθέμενος,
+<lb /> ἠίθεον, θαλέθοντα, νεόχνοον αἱ δὲ πάροιθεν
+<lb /> τῆς γηροτροφίης ἐλπίδες ἥδε κόνις.
+</p>
+            </div2>
+            <div2 type="chapter" n="166" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>πρὸς τοὺς ἐν μαρτυρίοις τρυφῶντας</label>
+               <p>
+                  <lb />εἰ φίλον ὀρχησταῖς ἀθλήματα, καὶ φίλον ἔστω
+<lb /> θρύψις ἀεθλοφόροις: ταῦτα γάρ ἀντίθετα.
+<lb />εἰ δ᾽ οὐκ ὀρχησταῖς ἀθλήματα, οὐδὲ ἀθληταῖς
+<lb />ἡ θρύψις, πῶς σὺ Μάρτυσι δῶρα φέρεις
+<milestone unit="lnum" n="5" />
+                  <lb />ἄργυρον, οἶνον, βρῶσιν, ἐρεύγματα; ἦ ῥα δίκαιος
+<lb />ὃς πληροῖ θυλάκους, ἂν ἀδικώτατος ᾖ;
+</p>
+            </div2>
+            <div2 type="chapter" n="167" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />Μάρτυρες, εἴπατε ἄμμιν ἀληθῶς, εἰ φίλον ὑμῖν
+<lb />
+                  <q direct="unspecified">αἱ σύνοδοι; τί μὲν οὖν ἥδιον; ἀντί τίνος;</q>
+                  <lb />τῆς ἀρετῆς: πολλοὶ γὰρ ἀμείνους ὧδε γένοιντ᾽ ἄν,
+<lb />
+                  <q direct="unspecified">εἰ τιμῷτ᾽ ἀρετή. τοῦτο μὲν εὖ λέγετε.</q>
+                  <milestone unit="lnum" n="5" />
+                  <lb />ἡ δὲ μέθη, τό τε γαστρὸς ὑπάρχειν τοὺς θεραπευτὰς
+<lb /> ἄλλοις: ἀθλοφόρων ἔκλυσις ἀλλοτρία.
+</p>
+            </div2>
+            <div2 type="chapter" n="168" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτοὺς	^</label>
+               <p>
+                  <lb />μὴ ψεύδεσθ᾽ ὅτι γαστρὸς ἐπαινέται εἰσὶν ἀθληταί:
+<lb /> λαιμῶν οἵδε νόμοι, ὦ 'γαθοί, ὑμετέρων:
+<lb />μάρτυσι δ᾽ εἰς τιμὴν ἓν ἐπίσταμαι: ὕβριν ἐλαύνειν
+<lb /> ψυχῆς καὶ δαπανᾶν δάκρυσι τὴν πιμελήν.
+<pb id="v.2.p.474" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="169" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />Μαρτύρομ᾽, ἀθλοφόροι καὶ μάρτυρες: ὕβριν ἔθηκαν
+<lb /> τιμὰς ὑμετέρας οἱ φιλογαστορίδαι.
+<lb />οὐ ζητεῖτε τράπεζαν ἐύπνοον, οὐδὲ μαγείρους:
+<lb />οἱ δ᾽ ἐρυγὰς παρέχους1᾽ ἀντ᾽ ἀρετῆς τὸ γέρας.
+</p>
+            </div2>
+            <div2 type="chapter" n="170" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτοὺς καὶ κατὰ τυμβωρύχων</label>
+               <p>
+                  <lb /> Τρισθανέες, πρῶτον μὲν ἐμίξατε σώματ᾽ ἀνάγνων
+<lb /> ἀθλοφόροις, τύμβοι δὲ θυηπόλον ἀμφὶς ἔχουσι:
+<lb /> δεύτερον αὖτε τάφους τοὺς μὲν ἐμίξατε σώματ᾽ ἀθέσμως,
+<lb /> αὐτοὶ σήματ᾽ ἔχοντες ὁμοίια: τοὺς δ᾽ ἀπέδοσθε,
+<milestone unit="lnum" n="5" />
+                  <lb /> πολλάκι καὶ τρὶς ἕκαστον ὃ δὲ τρίτον, ἱεροσυλεῖς
+<lb />μάρτυρας οὓς φιλέεις: Σοδομίτιδες ἤξατε πηγαί.
+</p>
+            </div2>
+            <div2 type="chapter" n="171" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτοὺς καὶ κατὰ τυμβωρύχων</label>
+               <p>
+                  <lb /> παῖδες χριστιανῶν τόδ᾽ ἀκούσατε: οὐδὲν ὁ τύμβος:
+<lb /> πῶς οὖν ὑμετέρους χώννυτ᾽ ἀριπρεπέας;
+<lb /> ἀλλ᾽ ἔστιν καὶ πᾶσι γέρας τόδε, μηδὲ τάφοισιν
+<lb /> βάλλειν ἀλλοτρίοις δυσμενέας παλάμας.
+<milestone unit="lnum" n="5" />
+                  <lb />εἰ δ᾽ ὅτι μὴ νέκυς οἶδε τὰ ἐνθάδε, τοῦτ᾽ ἀδίκαστον,
+<lb /> πείθομαι, ἢν σὺ φέρῃς πατρὸς ὕβριν φθιμένου.
+</p>
+            </div2>
+            <div2 type="chapter" n="172" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτοὺς καὶ κατὰ τυμβωρύχων</label>
+               <p>
+                  <lb /> Τυμβολέται, γάστρωνες, ἐρευγόβιοι, πλατύνωτοι,
+<lb /> μέχρι τίνος: τύμβοις Μάρτυρας ἀλλοτρίοις
+<lb /> τιμᾶτ᾽, εὐσεβέοντες ἃ μὴ θέμις; ἴσχετε λαιμούς,
+<lb /> καὶ τότε πιστεύσω Μάρτυσιν ἦρα φέρειν.
+<pb id="v.2.p.476" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="173" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>πρὸς τοὺς ἀπὸ τῶν ἐκ τάφων λίθων ναοὺς οἰκοδομοῦντας</label>
+               <p>
+                  <lb /> τιμὴ Μάρτυσίν ἐστιν ἀεὶ θνῄσκειν βιότητι,
+<lb />αἵματος οὐρανίου μνωομένους μεγάλου,
+<lb /> τύμβοι δὲ φθιμένοις: ὃς βήματα δ᾽ ἡμὶν ἐγείρει
+<lb />ἀλλοτρίοισι λίθοις, μηδὲ τάφοιο τύχοι.
+</p>
+            </div2>
+            <div2 type="chapter" n="174" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>πρὸς τοὺς ὲν μαρτυρίοις τρυφῶντας</label>
+               <p>
+                  <lb /> Μάρτυρες, αἷμα Θεῷ μεγάλην ἐσπείσατε λοιβήν,
+<lb /> καὶ μέντοι θεόθεν ἄξια δῶρ᾽ ἔχετε,
+<lb /> βήμαθ᾽, ὕμνους, λαούς, εὐχῶν σέβας. ἀλλ᾽ ἀπὸ τύμβων
+<lb /> φεύγετε, νεκροκόμοι, Μάρτυσι πειθόμενοι.
+</p>
+            </div2>
+            <div2 type="chapter" n="175" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>πρὸς τοὺς αὐτούς</label>
+               <p>
+                  <lb />δαίμοσιν εἰλαπίναζον, ὅσοις τὸ πάροιθε μεμήλει
+<lb /> δαίμοσιν ἦρα φέρειν, οὐ καθαρὰς θαλίας:
+<lb />τούτου χριστιανοὶ λύσιν εὕρομεν, ἀθλοφόροισι
+<lb /> στησάμεθ᾽ ἡμετέροις πνευματικὰς συνόδους.
+<milestone unit="lnum" n="5" />
+                  <lb /> νῦν δέ τι τάρβος ἔχει με: ἀκούσατε οἱ φιλόκωμοι:
+<lb /> πρὸς τοὺς δαιμονικοὺς αὐτομολεῖτε τύπους.
+</p>
+            </div2>
+            <div2 type="chapter" n="176" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>κατὰ τυμβωρύχων</label>
+               <p>
+                  <lb /> μηκέτι πηκτὸν ἄροτρον ἀνήρ ἐπὶ γαῖαν ἐλαύνοι,
+<lb />μὴ πέλαγος πλώοι,. μὴ δόρυ θοῦρον ἔχοι:
+<lb /> ἀλλὰ φέρων σκαπάνην τε καὶ ἄγριον ἐν φρεσὶ θυμόν,
+<lb />ἐς τύμβους πατέρων χρυσὸν ἴοι ποθέων
+<milestone unit="lnum" n="5" />
+                  <lb /> ὁππότε καὶ τοῦτόν τις ἐμὸν περικαλλέα τύμβον
+<lb /> σκάψεν ἀτασθαλέων εἵνεκα κερδοσύνης.
+<pb id="v.2.p.478" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="177" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ἄλλο</label>
+               <p>
+                  <lb /> ἑπτὰ βίοιο πέλει τάδε θαύματα: τεῖχος, ἄγαλμα,
+<lb />κῆποι, πυραμίδες, νηός, ἄγαλμα, τάφος:
+<lb />ὄγδοον ἔσκον ἔγωγε πελώριος ἐνθάδε τύμβος,
+<lb />ὑψιπαγής, σκοπέλων τῶνδ᾽ ἀποτῆλε θέων
+<milestone unit="lnum" n="5" />
+                  <lb /> πρῶτος δ᾽ ἐν φθιμένοισιν ἀοίδιμος, ἔργον ἄπληστον
+<lb /> τῆς σῆς, ἀνδροφόνε, μαινομένης παλάμης.
+</p>
+            </div2>
+            <div2 type="chapter" n="178" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ἄλλο</label>
+               <p>
+                  <lb />ἦν ὅτε ἦν ἀτίνακτος ἐγὼ τάφος οὔρεος ἄκρην
+<lb /> πουλὺς ὑπερτέλλων τηλεφανὴς σκόπελος:
+<lb /> νῦν δέ με θὴρ ἐτίναξεν ἐφέστιος εἵνεκα χρυσοῦ:
+<lb /> ὧδε δ᾽ ἐτινάχθην γείτονος ἐν παλάμαις.
+</p>
+            </div2>
+            <div2 type="chapter" n="179" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>κατὰ τυμβωρύχων</label>
+               <p>
+                  <lb /> τὸν τύμβοιο τόσου ληίστορα, ὃν πέρι πάντῃ
+<lb /> λάων τετραπέδων ἀμφιθέει στέφανος,
+<lb /> ἄξιον αὐτίκ᾽ ἔην, αὐτῷ ἐνὶ σήματι θέντας
+<lb />αὖθις ἐπικλεῖσαι χάσματα δυσσεβέι.
+</p>
+            </div2>
+            <div2 type="chapter" n="180" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>κατὰ τυμβωρύχων</label>
+               <p>
+                  <lb />ἔργον ἀλιτρὸν ὄπωπα, κεχηνότα τύμβον, ὁδεύων
+<lb /> χρυσοῦ ταῦτα πέλει ἔργματα τοῦ δολίου:
+<lb />εἰ μὲν χρυσὸν ἔχεις, εὗρες κακὸν εἰ δ᾽ ἄρα κεινὸς
+<lb /> ἔνθεν ἔβης, κενεὴν μήσαο δυσσεβίην.
+</p>
+            </div2>
+            <div2 type="chapter" n="181" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />ὁσσάτιον παράμειψα βροτῶν βίον οὐδ᾽ ἄρ᾽ ἔμελλον
+<lb /> ἐκφυγέειν παλάμας γείτονος οὐλομένας,
+<lb />ὅς με καὶ αἰπὺν ἐόντα χαμαὶ βάλε νηλέι θυμῷ,
+<lb /> οὔτε Θεὸν δείσας, οὐθ᾽ ὁσίην φθιμένων.
+<pb id="v.2.p.480" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="182" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> τὸν τύμβων κακοεργὸν ἀλάστορα φεύγετε πάντες:
+<lb /> ἠνίδ᾽ ὅσην σκοπιὴν ῥήξατο ῥηιδίως:
+<lb />οὐ μὲν ῥηιδίως ἐρρήξατο: ἀλλ᾽ ἀποτῆλε
+<lb /> χάζεσθε: φθιμένους ὧδ᾽ ἂν ἀρεσσάμεθα.
+</p>
+            </div2>
+            <div2 type="chapter" n="183" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> αἰαῖ ὥς τι κακὸν προτιόσσομαι ἐγγύθεν ἤδη
+<lb />τοῖσί τε τυμβορύχοις, τοῖς τε περικτιόσιν,
+<lb /> σήματος ὑψιθέοντος ὀλωλότος: ἀλλὰ τὸν ἐχθρὸν
+<lb />οἶδε δίκη: δακρύειν δ᾽ ἡμέτερον φθιμένους.
+</p>
+            </div2>
+            <div2 type="chapter" n="184" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />Μαυσώλου τάφος ἐστὶ πελώριος, ἀλλὰ Κάρεσσι
+<lb /> τίμιος: οὔτις ἐκεῖ τυμβολέτις παλάμη:
+<lb /> Καππαδόκεσσιν ἔγωγε μέγ᾽ ἔξοχος, ἀλλὰ δέδορκας
+<lb /> οἷα πάθον στήλῃ γράψατε νεκροφόνον.
+</p>
+            </div2>
+            <div2 type="chapter" n="185" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />τοῖχος ἐνὶ προπόδεσσι καὶ ὄρθιος: ἔνθεν ἔπειτα
+<lb />ὕπτιος, ἐκ λαγόνων εἰς ἓν ἀγειρομένων
+<lb /> τύμβος ἔην, καθύπερθε λόφου λόφος: ἀλλὰ τί ταῦτα
+<lb />οὐδὲν χρυσοφίλαις οἳ μ᾽ ἐτίναξαν ὅλον.
+</p>
+            </div2>
+            <div2 type="chapter" n="186" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />νεκρῶν νεκρὰ πέλοι καὶ μνήματα: ὃς δ᾽ ἀνεγείρει
+<lb /> τύμβον ἀριπρεπέα τῇ κόνι, τοῖα πάθοι:
+<lb />οὐ γὰρ ἂν οὗτος ἀνήρ τὸν ἐμὸν τάφον ἐξαλάπαξεν,
+<lb />εἰ μὴ χρυσὸν ἔχειν ἤλπετο ἐκ νεκύων.
+<pb id="v.2.p.482" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="187" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />τίς τίνος; οὐκ ἐρέει στήλη: πρὸ γὰρ ὤλετο τύμβου.
+<lb />
+                  <q direct="unspecified">τίς χρόνος; ἀρχαίης σῆμα τόδ᾽ ἐργασίης.</q>
+                  <lb />τίς δὲ ς1᾽ ἐνήρατο; εἰπέ φόνος τόδε. χεῖρες ἀλιτραὶ
+<lb /> 
+                  <q direct="unspecified">γείτονος. ὡς τί λάβῃ; χρυσόν.  ἔχοι σκοτίην.</q>
+               </p>
+            </div2>
+            <div2 type="chapter" n="188" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />ὅστις ἐμὸν παρὰ σῆμα φέρεις πόδα, ἴσθι με ταῦτα
+<lb /> τοῦ νεοκληρονόμου χερσὶ παθόντ᾽ ἀδίκως:
+<lb />οὐ γὰρ ἔχον χρυσόν τε καὶ ἄργυρον, ἀλλ᾽ ἐδοκήθην,
+<lb />κάλλεϊ μαρμαίρων τοσσατίων λαγόνων.
+</p>
+            </div2>
+            <div2 type="chapter" n="189" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> στῆθι πέλας, καὶ κλαῦσον ἰδὼν τόδε σῆμα θανόντος,
+<lb />εἴποτ᾽ ἔην, νῦν αὖτε τάφον δηλήμονος ἀνδρός:
+<lb /> σῆμα πέλω μὴ τύμβον ἐγείρειε βροτὸς ἄλλος.
+<lb />τί πλέον, εἰ παλάμαισι φιλοχρύσοισιν ὀλεῖται;
+</p>
+            </div2>
+            <div2 type="chapter" n="190" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> αἰὼν καὶ κληῖδες ἀμειδήτου θανάτοιο,
+<lb /> καὶ λήθη, σκοτίης βένθεα, καὶ νέκυες,
+<lb /> πῶς ἔτλη τύμβον τις ἐμὸν ἔπι χεῖρας ἐνεγκεῖν;
+<lb /> πῶς ἔτλη; φθιμένων κήδεται οὐδ᾽ ὁσίη;
+</p>
+            </div2>
+            <div2 type="chapter" n="191" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />τέτρωμαι πληγῇσιν ἀεικελίῃσιν ὁ τύμβος
+<lb />τέτρωμ᾽, ὥς τις ἀνὴρ ἐν δαῒ λευγαλέῃ.
+<lb /> ταῦτα φίλα θνητοῖσι; τὸ δ᾽ αἴτιον ὡς ἀθέμιστον
+<lb />τὸν νέκυν οἶον ἔχων, χρυσὸν ἀποξέομαι,
+<pb id="v.2.p.484" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="192" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />πρός σε Θεοῦ ξενίου λιτάζομαι, ὅστις ἀμείβεις
+<lb /> τύμβον ἐμόν, φράζειν <q direct="unspecified"> τοῖα πάθοις ὁ δράσας.</q>
+                  <lb />οὐκ οἶδ᾽ ὅντινα τύμβος ἔχει νέκυν ἀλλ᾽ ἐρέω γε
+<lb /> δάκρυ᾽ ἐπισπένδων <q direct="unspecified">τοῖα πάθοις ὁ δράσας.</q> 
+               </p>
+            </div2>
+            <div2 type="chapter" n="193" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> πάντα λιπών, γαίης τε μυχοὺς καὶ πείρατα πόντου,
+<lb /> ἦλθες ἔχειν ποθέων χρυσὸν ἐμοῦ νέκυος.
+<lb />νεκρὸν ἔχω καὶ μῆνιν ὀλωλότος: ἤν τις ἐπέλθῃ,
+<lb /> ταῦτ᾽ εἰ λείζῃ, δώσομεν ἀσπασίως.
+</p>
+            </div2>
+            <div2 type="chapter" n="194" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />εἴ σοι χρυσὸν ἔδωκα μόνῳ μόνος,, οὐκ ἐφύλασσες
+<lb /> τοῦθ᾽ ὅπερ εἰλήφεις; ἢ κακὸς ἦσθ᾽ ἂν ἄγαν.
+<lb />εἰ δὲ τάφον σκάπτεις, τὴν αἰδέσιμον παραθήκην,
+<lb /> καὶ τόδ᾽ ἐπὶ χρυσῷ, ἄξιος, εἰπέ, τίνος;
+</p>
+            </div2>
+            <div2 type="chapter" n="195" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />τοὺς ζῶντας κατόρυσσε: τί γὰρ νεκροὺς κατορύσσεις;
+<lb />ἄξιοί εἰσι τάφων, οἳ σὲ ζῆν εἴασαν οὕτω,
+<lb /> τὸν τῶν οἰχομένων ὑβριστὴν καὶ φιλόχρυσον.
+</p>
+            </div2>
+            <div2 type="chapter" n="196" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> καὶ σύ, τάλαν, παλάμῃσι τεαῖς ἢ μύστιν ἐδωδὴν
+<lb /> δέξῃ θαρσαλέως, ἢ Θεὸν ἀγκαλέσεις
+<lb /> χείρεσιν αἷς διόρυξας ἐμὸν τάφον; ἦ ῥα δίκαιοι
+<lb />οὐδὲν ἔχουσι πλέον, εἰ σὺ τάλαντα φύγοις.
+<pb id="v.2.p.486" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="197" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> φησὶ Δίκη: <quote rend="blockquote">
+                     <l>τίς  πίστις, ὅτ᾽ ὤλεσας ὃν λαγόνεσσι
+</l>
+                     <l>σῇσιν ἔδωκα, νέκυν, γαῖα φίλη, φθίμενον;</l>
+                  </quote>
+                  <lb />
+                  <quote rend="blockquote">
+                     <l> οὐ γαίη μ᾽ ἐτίναξεν ἀτάσθαλος ὤλεσεν ἀνήρ,
+</l>
+                     <l> καὶ φιλοκερδείης εἵνεκα. τοῦτον ἔχε.</l>
+                  </quote> 
+               </p>
+            </div2>
+            <div2 type="chapter" n="198" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> πρόσθε τάδ᾽ ἦεν ἄσυλα: θεός, νέκυς. ἀλλὰ Θεὸς μὲν
+<lb /> ἵλαος: εἰ δὲ νέκυς, ὄψεθ᾽ ὁ τυμβολέτης.
+</p>
+            </div2>
+            <div2 type="chapter" n="199" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />ἦ ῥά σε δινήσουσιν Ἐρινύες: αὐτὰρ ἔγωγε
+<lb /> κλαύσομ᾽ ἀποφθιμένους, κλαύσομ᾽ ἄγος παλάμης.
+</p>
+            </div2>
+            <div2 type="chapter" n="200" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> Λήξατε, τυμβοχόοι, ναὶ λήξατε βένθεσι γαίης
+<lb /> κεύθειν τοὺς φθιμένους: εἴξατε τυμβολέταις.
+<lb /> νεκρῶν καὶ τάδε γ᾽ ἐστὶ σοφίσματα, ὡς φιλόχρυσον
+<lb />εὕρωσιν παλάμην, σήματα τοῖα χέειν.
+</p>
+            </div2>
+            <div2 type="chapter" n="201" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />τίς ς1᾽ ἀνέηκεν, ἄπληστε, τόσον κακὸν ἀντὶ τόσοιο
+<lb /> κέρδεος ἀλλάξαι, μηδὲ παρεσταότος;
+</p>
+            </div2>
+            <div2 type="chapter" n="202" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />στῆλαι καὶ τύμβοι, μέγα χαίρετε, σήματα νεκρῶν
+<lb />οὐκέτι κηρύξω μνήμασι τοὺς φθιμένους,
+<lb /> ἡνίκα τὸν περίφαντον ἐμὸν τάφον ὤλεσε γείτων.
+<lb />γαῖα φίλη, σὺ δέ μοι δέχνυσο τοὺς φθιμένους.
+<pb id="v.2.p.488" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="203" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>πρὸς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> στῆλαι, καὶ πλακόεντες ἐν οὔρεσιν, ἔργα Γιγάντων,
+<lb />τύμβοι, καὶ φθιμένων ἄφθιτε μνημοσύνη,
+<lb /> σεισμὸς πάντα βράσειεν, ἐμοῖς νεκύεσσιν ἀρήγων,
+<lb /> οἷς ἔπι χεὶρ ὀλοὴ ἦλθε σιδηροφόρος.
+</p>
+            </div2>
+            <div2 type="chapter" n="204" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>πρὸς τοὺς αὐτούς</label>
+               <p>
+                  <lb />ἡνίκα τὸν περίβωτον ἐπ᾽ οὔρεος, ἄγριε Τιτάν,
+<lb /> τύμβον ἀνερρήξω, πῶς ἔσιδες νέκυας,
+<lb />ὡς δ᾽ ἔσιδες, πῶς χεῖρες ἐπ᾽ ὀστέα; ἦ τάχα κέν σε
+<lb />τῇ σχέθον, εἰ θέμις ἦν τοῖσδ᾽ ἕνα τύμβον ἔχειν.
+</p>
+            </div2>
+            <div2 type="chapter" n="205" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>πρὸς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> σήματα, καὶ σποδιή, καὶ ὀστέα, οἵ τε πάρεδροι
+<lb /> δαίμονες, οἵ φθιμένου ναίετε τόνδε λόφον,
+<lb /> τόνδ᾽ ἀλιτρὸν τίννυσθε, ὃς ὑμέας ἐξαλάπαξεν.
+<lb /> τῶν δὲ περικτιόνων δάκρυον ὕμμιν ὅσον.
+</p>
+            </div2>
+            <div2 type="chapter" n="206" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>κατὰ τυμβωρύχων</label>
+               <p>
+                  <lb /> Τύμβοι, καὶ σκοπιαί, καὶ οὔρεα, καὶ παροδῖται,
+<lb />κλαύσατε τύμβον ἐμόν, κλαύσατε τυμβολέτην
+<lb /> ἠχὼ δ᾽ ἐκ σκοπέλων Πυματηγόρος ἀντιαχείτω
+<lb /> τῶνδε περικτιόνων <q direct="unspecified"> κλαύσατε τυμβολέτην.</q> 
+               </p>
+            </div2>
+            <div2 type="chapter" n="207" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> κτείνετε, ληίζεσθε, κακοὶ κακοκερδέες ἄνδρες:
+<lb /> οὔτις ἐπισχήσει τὴν φιλοχρημοσύνην.
+<lb />εἰ τάδ᾽ ἔτλης, κακοεργέ, κακόφρονος εἵνεκα χρυσοῦ,
+<lb />πᾶσι τεὴν ἐπέχειν ἁρπαλέην παλάμην.
+<pb id="v.2.p.490" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="208" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> οὗτος ἔπερσεν ἐμὸν φίλιον τάφον ἐλπίδι κούφῃ,
+<lb />ὃν μοῦνον κτεάνων ἔνθεν ἀπῆλθον ἔχων
+<lb /> καὶ τοῦτόν τις ἀλιτρὸς ἑαῖς παλάμαις ὀλέσειεν,
+<lb />ἐκ δ᾽ ὀλέσας τύμβου τῆλε βάλοι πατέρων.
+</p>
+            </div2>
+            <div2 type="chapter" n="209" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />τίς τὸν ἐμὸν διέπερσε φίλον τάφον, οὔρεος ἄκρης
+<lb /> τῆσδ᾽ ἀναειρόμενον ἡλίκον ὁσσατίης;
+<lb /> χρυσὸς ἔθηξε μάχαιραν ἐπ᾽ ἀνδράσι: χρυσὸς ἄπληστον
+<lb /> κύμασι χειμερίοις ὤλεσε ναυσιβάτην
+<milestone unit="lnum" n="5" />
+                  <lb />κἀμὲ χρυσὸς ἔπερσε μέγαν περικαλλέα τύμβον
+<lb /> ἐλπισθείς: χρυσοῦ δεύτερα πάντ᾽ ἀδίκοις.
+</p>
+            </div2>
+            <div2 type="chapter" n="210" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> πολλάκι ναυηγοῖο δέμας κατέχωσεν ὁδίτης
+<lb /> κύμασι πλαζόμενον, πολλάκι θηρολέτου:
+<lb /> ἤδη καὶ πολέμῳ τις ὃν ὤλεσεν ἀλλ᾽ ἐμὲ γείτων
+<lb /> χωσθέντ᾽ ἀλλοτρίαις χερσὶν ἔπερσε τάφον.
+</p>
+            </div2>
+            <div2 type="chapter" n="211" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />ὦ χρυσοῦ δολίοιο, πόσον κακὸν ἔπλεο θνητοῖς:
+<lb /> ζῶσιν καὶ φθιμένοις χεῖρα φέρεις ἀδικῶν
+<lb />οἷς γὰρ ἐμὸν τύμβον τε καὶ ὀστέα δῶκα φυλάσσειν,
+<lb /> τῶνδ᾽ ὑπὸ ταῖς μιαραῖς ἐξολόμην παλάμαις.
+</p>
+            </div2>
+            <div2 type="chapter" n="212" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> πάντ᾽ ἔθανεν νεκύεσσι. τί παίζομεν; οὔτις ἔτ᾽ αἰδὼς
+<lb />ἐκ ζώντων φθιμένοις: δέρκεο τόνδε τάφον,
+<lb />ὃν γ᾽ ἐλπὶς χρυσοῖο διώλεσε, τόσσον ἐόντα
+<lb />θαῦμα παρερχομένοις, θαῦμα περικτίοσιν.
+<pb id="v.2.p.492" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="213" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />λίσσομαι: ἤν γε θάνω, ποταμῷ δέμας ἠὲ κύνεσσιν
+<lb /> ῥίψατε, ἠὲ πυρὶ δάψατε παντοφάγῳ:
+<lb /> λώιον ἢ παλάμῃσι φιλοχρύσοισιν ὀλέσθαι.
+<lb /> δείδια, τόνδε τάφον τοῖα παθόνθ᾽ ὁρόων.
+</p>
+            </div2>
+            <div2 type="chapter" n="214" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ἄλλο .</label>
+               <p>
+                  <lb />δήποτε Κῦρος ἄναξ βασιλήιον ὡς ἀνέῳξεν
+<lb /> τύμβον ἐπὶ χρυσῷ, γράμμα τόδ᾽ εὗρε μόνον
+<lb />
+                  <q direct="unspecified"> οἴγειν ἀπλήστοιο τάφους χερός.</q> ὣς δὲ σὺ τόσσον
+<lb />σῆμα τόδ᾽ οὐχ ὁσίαις οἶξας, ἄνερ, παλάμαις.
+</p>
+            </div2>
+            <div2 type="chapter" n="215" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />ὃς κακὸς οὐ φθιμένοισι, τάχ᾽ ἂν φθιμένοισιν ἀρήγοι
+<lb />ὃς δ᾽ οὐδὲ φθιμένοις, οὔποτ᾽ ἂν οὐ φθιμένοις.
+<lb />ὣς δὲ σὺ τοῖς φθιμένοισιν ἐπεὶ τάφον ἐξαλάπαξας,
+<lb />οὔποτ᾽ ἂν οὐ φθιμένοις χεῖρα φέροις ὁσίην.
+</p>
+            </div2>
+            <div2 type="chapter" n="216" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>πρὸς τοὺς αὐτούς</label>
+               <p>
+                  <lb />Μαρτύρομ᾽: οὐδὲν ἔχω: πτωχὸς νέκυς ἐνθάδε κεῖμαι:
+<lb />μή με τεαῖς ἀτίσῃς τυμβοφόνοις παλάμαις:
+<lb />οὐδὲ γὰρ οὗτος ἔχεν;χρυσὸν τάφος, ἀλλ᾽ ἐδαΐχθη:
+<lb /> πάντα φιλοχρύσοις ἔμβατα: φεῦγε Δίκη.
+</p>
+            </div2>
+            <div2 type="chapter" n="217" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>πρὸς τοὺς αὐτούς</label>
+               <p>
+                  <lb />οἱ τύμβοι <q direct="unspecified">φθιμένοισιν ἀρήξατε</q> εἶπον ἅπαντες,
+<lb /> ἡνίχ᾽ ὁ λυσσήεις τόνδ᾽ ἐτίνασσε τάφον.
+<lb />οἱ νέκυες τύμβοισι: <quote rend="blockquote">
+                     <l>ῥέξομεν; αὖθις ἀέρθη
+</l>
+                     <l>ὡς ἐπὶ βουκτασίᾐ γαῖαν ἀφεῖσα Δίκη.</l>
+                  </quote> 
+                  <pb id="v.2.p.494" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="218" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ὁμοίως</label>
+               <p>
+                  <lb /> ἤλυθεν εἰς Ἀίδην τις: ὁ δ᾽
+<lb /> ἔπτατο: ἄλλος ὄλεσσε
+<lb /> θῆρας: ὁ δὲ πλεκτὸν υἱέϊ τεῦξε δόμον
+<lb /> τούτων οὗτος ἀνήρ οὐ δεύτερον ἔργον ἔρεξεν,
+<lb /> τόνδε τάφον ῥήξας χείρεσιν οὐχ ὁσίαις.
+</p>
+            </div2>
+            <div2 type="chapter" n="219" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>πρὸς τοὺς αὐτούς</label>
+               <p>
+                  <lb />εἰ τόσον ἔργον ἔγειρας ὀλωλότι, οὐ μέγα θαῦμα:
+<lb />εἰ δὲ τόσον διέπερσας, ἀοίδιμος ἐσσομένοισιν
+<lb />καὶ σέ τις ἐν μεγάλοισιν ἀριθμήσει κακοεργοῖς,
+<lb /> τύμβον ἀναρρήξανθ᾽
+, ὃν καὶ τρομέουσι φονῆες.
+</p>
+            </div2>
+            <div2 type="chapter" n="220" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>πρὸς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> χρυσὸς μὲν Ῥοδίοισιν ἐπέκλυσε: σοὶ δ᾽ ἀπὸ τύμβων
+<lb /> χρυσὸν φέρει σίδηρος, ὃς κακὸν φέρει:
+<lb />ὄρυσς1᾽ ὄρυσσε πάντας: ἦ τάχ᾽
+<lb />ἂν σέ τις
+<lb /> τύμβος κ᾽ ἐξολέσειε πεσών, νεκύεσσι δ᾽ ἀρήγοι.
+</p>
+            </div2>
+            <div2 type="chapter" n="221" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> τύμβος ἔην νῦν δ᾽
+<lb /> εἰμὶ λίθων χύσις, οὐκέτι τύμβος.
+<lb /> ταῦτα φιλοχρύσοις εὔαδε: ποῖα δίκη.
+</p>
+            </div2>
+            <div2 type="chapter" n="222" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ἄλλο</label>
+               <p>
+                  <lb /> αἰαῖ καὶ τέφρη γενόμην, καὶ χεῖρας ἀλιτρῶν
+<lb />οὐκ ἔφυγον χρυσοῦ τίπτε χερειότερον;
+<pb id="v.2.p.496" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="223" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>πρὸς τοὺς αὐτούς</label>
+               <p>
+                  <lb />ἅζομαι ἀνδρομέης γενεῆς ὕπερ, εἴ σε τις ἔτλη,
+<lb /> τύμβε, χαμαὶ βαλέειν οὐχ ὁσίαις παλάμαις.
+</p>
+            </div2>
+            <div2 type="chapter" n="224" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>πρὸς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> τύμβος ἐγώ, σκοπιή τις ἀπ᾽ οὔρεος: ἀλλά με χεῖρες
+<lb /> θῆκαν ἴσον δαπέδῳ: τίς  τάδ᾽ ἄνωξε νόμος;
+</p>
+            </div2>
+            <div2 type="chapter" n="225" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> οὗτος ἐμὸς δόμος ἦεν ὀλωλότος: ἀλλὰ σίδηρος
+<lb />ἦλθ᾽ ἐπ᾽ ἐμῷ τύμβῳ: σὸν δόμον ἄλλος ἔχοι.
+</p>
+            </div2>
+            <div2 type="chapter" n="226" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />τὴν σκαπάνην ἐπ᾽ ἄρουραν, ἐμῷ δ᾽ ἐπὶ σήματι βάλλειν
+<lb /> δάκρυα, μὴ παλάμας: ἥδε δίκη φθιμένων.
+</p>
+            </div2>
+            <div2 type="chapter" n="227" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />τὴν σκαπάνην ἐπ᾽
+<lb />ἄρουραν ἐμοῦ δ᾽ ἀποχάζεο τύμβου,
+<lb /> χάζεο: οὐδὲν ἔχω πλὴν ζακότων νεκύων.
+</p>
+            </div2>
+            <div2 type="chapter" n="228" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />εἴ ς1᾽, ἄπληστε, τάφων δηλήμονα τοῖον ἐώλπειν,
+<lb /> πάσσαλος ἂν τῇδε καὶ τροχὸς ἐκρέματο.
+</p>
+            </div2>
+            <div2 type="chapter" n="229" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> τίπτε μ᾽ ἀνοχλίζεις κενεὸν τάφον; ὀστέα μοῦνα
+<lb /> κεύθω καὶ σποδιὴν τοῖσιν ἐπερχομένοις.
+<pb id="v.2.p.498" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="230" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> τύμβος ἐγώ, τύμβων πανυπέρτατος: ἀλλ᾽ ἐμὲ ᾦξεν,
+<lb />ὥς τινα τῶν πολλῶν, ἀνδροφόνος παλάμη:
+<lb />ἀνδροφόνος παλάμη με διώλεσε: λήξατε τύμβων,
+<lb /> θνητοί, καὶ κτερέων. δεῦτ᾽ ἐπὶ νεκρά, κύνες:
+<milestone unit="lnum" n="5" />
+                  <lb />δεῦτ᾽ ἐπὶ νεκρά, κύνες. χρυσοῦ διφήτορες ἄνδρες
+<lb /> ἤδη καὶ νεκύων χρυσολογοῦσι κόνιν.
+</p>
+            </div2>
+            <div2 type="chapter" n="231" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> ἄλλος τύμβον ἔγειρε, σὺ δ᾽ ὤλεσας: ἄλλος ἐγείροι
+<lb /> σὸν τάφον, εἴγε θέμις: ἄλλος ἔραζε βάλοι.
+</p>
+            </div2>
+            <div2 type="chapter" n="232" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />ἤδη καὶ νεκύεσσιν ἐπέχραον οἱ φιλόχρυσοι:
+<lb /> φεύγετε ἐκ τύμβων, εἰ σθένος, οἱ φθίμενοι.
+</p>
+            </div2>
+            <div2 type="chapter" n="233" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> τίπτε μ᾽
+<lb /> ἀνοχλίζεις; νεκύων ἀμενηνὰ κάρηνα
+<lb />μοῦνα φέρω: τύμβων ὀστέα πλοῦτος ἅπας.
+</p>
+            </div2>
+            <div2 type="chapter" n="234" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> δαίμονας, οἵ με ἔχουσιν, ἀλεύεο: οὔτι γὰρ ἄλλο
+<lb /> τύμβος ἔχω: τύμβων ὀστέα πλοῦτος ἅπας.
+</p>
+            </div2>
+            <div2 type="chapter" n="235" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />εἰ χρυσοῦ δόμος ἦεν ὅλος τάφος, ὦ φιλόχρυσε,
+<lb /> οὔποτ᾽ ἔδει τοίην χεῖρα φέρειν φθιμένοις.
+<pb id="v.2.p.500" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="236" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />λήθη καὶ σιγὴ νεκύων γέρας: ὃς δ᾽ ἀλάπαξεν,
+<lb /> οὗτος ἐμὸν πολλοῖς θῆκεν ἄεισμα τάφον.
+</p>
+            </div2>
+            <div2 type="chapter" n="237" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ὁμοίως</label>
+               <p>
+                  <lb /> πάντ᾽ ἔχετε ζώοντες: ἐμοὶ δ᾽ ὀλίγοι τε φίλοι τε
+<lb /> λᾶες τῷ φθιμένῳ: φείδεο τοῦ νέκυος.
+</p>
+            </div2>
+            <div2 type="chapter" n="238" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>πρὸς τοὺς αὐτούς</label>
+               <p>
+                  <lb />οὐ χρυσοῦ δόμος εἰμί: τί τέμνομαι; αὐτὸς ἔγωγε
+<lb /> τύμβος, ὃν ὀχλίζεις: πλοῦτος ἐμοῦ νέκυες.
+</p>
+            </div2>
+            <div2 type="chapter" n="239" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ὁμοίως</label>
+               <p>
+                  <lb />τύμβος ἐγὼ κλέος ἦα περικτιόνων ἀνθρώπων
+<lb /> νῦν δ᾽ εἰμὶ στήλη χειρὸς ἀλιτροτάτης.
+</p>
+            </div2>
+            <div2 type="chapter" n="240" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />εἰ λίην φιλόχρυσον ἔχεις κέαρ, ἄλλον ὀρύσσειν
+<lb />χρυσὸν ἐμοὶ δ᾽ οὐδὲν πλὴν φθιμένων κτερέων.
+</p>
+            </div2>
+            <div2 type="chapter" n="241" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ὁμοίως</label>
+               <p>
+                  <lb />μὴ δείξῃς μερόπεσσι γυμνὸν νέκυν, ἤ σε γυμνώσει
+<lb /> ἄλλος: ὁ δὲ χρυσὸς πολλάκις ἐστὶν ὄναρ.
+</p>
+            </div2>
+            <div2 type="chapter" n="242" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> οὐχ ἅλις ἦε βροτοῖσι βροτοὺς ἐπὶ χεῖρας ἰάλλειν,
+<lb /> ἀλλὰ καὶ ἐκ νεκύων σπεύδετε χρυσὸν ἔχειν;
+<pb id="v.2.p.502" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="243" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ὁμοίως</label>
+               <p>
+                  <lb />ὑμετέροις τύμβοισιν ἀρήξατε, οἱ τόδ᾽ ὁρῶντες
+<lb /> σῆμα δαϊχθὲν ὅσον. λεύσατε τυμβολέτην.
+</p>
+            </div2>
+            <div2 type="chapter" n="244" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />τίς με τὸν ἐξ αἰῶνος ἀκινήτοισι λίθοισι
+<lb /> κευθόμενον θνητοῖς δεῖξε πένητα νέκυν;
+</p>
+            </div2>
+            <div2 type="chapter" n="245" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ὁμοίως</label>
+               <p>
+                  <lb /> τίπτε τάφον διέκερσας ἐμόν, τάλαν ; ὣς διακέρσαι
+<lb />σοί γε Θεὸς βιοτήν, ὦ φιλόχρυσον ἄγος.
+</p>
+            </div2>
+            <div2 type="chapter" n="246" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> μῦθος Τάρταρος ἦεν, ἐπεὶ τάφον οὐκ ἂν ἔῳξεν
+<lb /> οὗτος ἀνήρ οἴμοι, ὡς βραδύπους σύ, Δίκη.
+</p>
+            </div2>
+            <div2 type="chapter" n="247" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ὁμοίως</label>
+               <p>
+                  <lb />ὡς βραδύπους σύ, Δίκη, καὶ Τάρταρος οὐκέτι δεινός:
+<lb />οὐ γὰρ ἂν οὗτος ἀνὴρ τόνδ᾽ ἀνέῳξε τάφον.
+</p>
+            </div2>
+            <div2 type="chapter" n="248" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />ὤμοσα τοὺς φθιμένους, καὶ ὤμοσα Τάρταρον αὐτὸν,
+<lb /> μήποτε τυμβολέταις εὐμενὲς ὄμμα φέρειν.
+</p>
+            </div2>
+            <div2 type="chapter" n="249" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ὁμοίως</label>
+               <p>
+                  <lb /> οὔρεα καὶ πρῶνες τὸν ἐμὸν τάφον ὥς τιν᾽ ἑταῖρον
+<lb />κλαύσατε: πᾶς δὲ πέσοι τῷ σφε τεμόντι λίθος.
+<pb id="v.2.p.504" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="250" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb />πλούσιός εἰμι πένης: τύμβῳ πολύς, ἔνδον ἄχρυσος:
+<lb /> ἴσθι καθυβρίζων νεκρὸν ἀσυλότατον.
+</p>
+            </div2>
+            <div2 type="chapter" n="251" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ὁμοίως</label>
+               <p>
+                  <lb />κἂν στῇς πυθμένος ἄχρις ἐμοὺς κευθμῶνας ὀρύσσων,
+<lb />μόχθος σοὶ τὸ πέρας ὀστέα μοῦνον ἔχει.
+</p>
+            </div2>
+            <div2 type="chapter" n="252" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>εἰς τοὺς αὐτούς</label>
+               <p>
+                  <lb /> τέμνετε, τέμνετε ὧδε: πολύχρυσος γὰρ ὁ τύμβος
+<lb /> τοῖς ποθέουσι λίθους: τἆλλα δὲ πάντα κόνις.
+</p>
+            </div2>
+            <div2 type="chapter" n="253" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ὁμοίως</label>
+               <p>
+                  <lb /> γαῖα φίλη, μὴ σοῖσι θανόνθ᾽ ὑποδέχνυσο κόλποις
+<lb />τὸν τυμβωρυχίης κέρδεσι τερπόμενον.
+</p>
+            </div2>
+            <div2 type="chapter" n="254" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-2022"><foreign lang="la">gregorius nazianzenus</foreign></persName>
+               </docAuthor>
+               <label>ὁμοίως</label>
+               <p>
+                  <lb />ὑβριστὴς ἐπ᾽ ἔμ᾽ ἦλθε τὸν οὐ ζώοντα σίδηρος:
+<lb /> καὶ χρυσὸν ποθέων εὗρε πένητα νέκυν.</p>
+            </div2>
+         </div1></body></text></TEI.2>

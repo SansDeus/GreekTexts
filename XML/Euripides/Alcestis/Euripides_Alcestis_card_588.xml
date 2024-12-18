@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><milestone ed="p" n="588" unit="card" /></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>τοιγὰρ πολυμηλοτάταν</l>
+<l>ἑστίαν οἰκεῖ παρὰ καλλίναον</l>
+<l n="590">Βοιβίαν λίμναν. ἀρότοις δὲ γυᾶν</l>
+<l>καὶ πεδίων δαπέδοις</l>
+<l>ὅρον ἀμφὶ μὲν ἀελίου κνεφαίαν</l>
+<l>ἱππόστασιν εἰς τὸ πέραν Μολοσ-</l>
+<l>σῶν &lt;ὀρέων&gt; τίθεται,</l>
+<l n="595">πόντιον δ᾽ Αἰγαῖον ἐπ᾽ ἀκτὰν</l>
+<l>ἀλίμενον Πηλίου κρατύνει.</l>
+</sp></div2></div1></body></text></TEI.2>

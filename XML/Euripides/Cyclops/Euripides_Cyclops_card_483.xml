@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><milestone ed="p" n="483" unit="card" />
+</sp>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker>
+<l>ἄγε, τίς πρῶτος, τίς δ᾽ ἐπὶ πρώτῳ</l>
+<l>ταχθεὶς δαλοῦ κώπην ὀχμάσαι</l>
+<l n="485">Κύκλωπος ἔσω βλεφάρων ὤσας</l>
+<l>λαμπρὰν ὄψιν διακναίσει;</l>
+<stage>（ᾠδὴ ἔνδοθεν）</stage> 
+<l>σίγα σίγα. καὶ δὴ μεθύων</l>
+<l>ἄχαριν κέλαδον μουσιζόμενος</l>
+<l n="490">σκαιὸς ἀπῳδὸς καὶ κλαυσόμενος</l>
+<l>χωρεῖ πετρίνων ἔξω μελάθρων.</l>
+<l>φέρε νιν κώμοις παιδεύσωμεν</l>
+<l>τὸν ἀπαίδευτον:</l>
+<l>πάντως μέλλει τυφλὸς εἶναι.</l>
+</sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="808" unit="card" />
+</p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἰὼ θεοὶ νεώτεροι, παλαιοὺς νόμους
+<lb />καθιππάσασθε κἀκ χερῶν εἵλεσθέ μου.
+<lb rend="displayNum" n="810" />ἐγὼ δ᾽ ἄτιμος ἁ τάλαινα βαρύκοτος
+<lb />ἐν γᾷ τᾷδε, φεῦ,
+<lb />ἰὸν ἰὸν ἀντιπενθῆ
+<lb />μεθεῖσα καρδίας, σταλαγμὸν χθονὶ
+<lb />ἄφορον: ἐκ δὲ τοῦ
+<lb rend="displayNum" n="815" />λειχὴν ἄφυλλος, ἄτεκνος,
+<lb />ἰὼ δίκα, πέδον ἐπισύμενος
+<lb />βροτοφθόρους κηλῖδας ἐν χώρᾳ βαλεῖ.
+<lb />στενάζω: τί ῥέξω;
+<lb />γελῶμαι πολίταις:
+<lb rend="displayNum" n="820" />δύσοισθ᾽ ἅπαθον.
+<lb />ἰὼ μεγάλα τοι κόραι δυστυχεῖς
+<lb />Νυκτὸς ἀτιμοπενθεῖς.
+</p></sp></div2></div1></body></text></TEI.2>

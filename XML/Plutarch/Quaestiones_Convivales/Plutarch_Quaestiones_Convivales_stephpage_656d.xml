@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="8" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-656d" n="656d" /> κρίνειν
+                        ἐπακολουθοῦντα <note resp="ed" place="unspecified" anchored="yes">εμ.
+                              ς:<foreign lang="greek">ἐπακολουθοῦντας</foreign></note> ταῖς
+                        φαντασίαις. ἀλλὰ πῶς</q> εἶπεν <q direct="unspecified">ὑμῖν δοκεῖ περὶ τούτων;</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="10" />
+                  <p>
+                     <q direct="unspecified">ἐμοὶ μέν</q> ἔφην <q direct="unspecified">ἐπισκοποῦντι κατ᾽ ἐμαυτὸν ἀποχρῶν οὗτος
+                        ἦν πρὸς τὴν αἰτίαν ὁ λόγος: εἰ δὲ κελεύεις ἴδιόν τι κινεῖν,
+                        ὅρα πρῶτον εἰ τὴν εἰρημένην διαφορὰν ἐπὶ τὸ σῶμα μετοιστέον
+                        ἐστί. τῶν γὰρ ἀκροθωράκων ἡ διάνοια μόνον τετάρακται, <milestone unit="tlnum" n="15" /> τὸ δὲ σῶμα ταῖς ὁρμαῖς ἐξυπηρετεῖν
+                        δύναται, μήπω βεβαπτισμένον: ὅταν δὲ κατασεισθῇ καὶ πιεσθῇ,
+                        προδίδωσι τὰς ὁρμὰς καὶ παρεῖται: μέχρι γὰρ ἔργων οὐ πρόεισιν:
+                        ἐκεῖνοι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐκείνῃ</foreign> σξ. <foreign lang="greek">τῇ
+                              διανοίᾳ</foreign></note> δὲ τὸ συνεξαμαρτάνον ἔχοντες οὐ τῷ
+                        μᾶλλον ἀλογιστεῖν ἀλλὰ τῷ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀλλὰ τῷ</foreign>] <foreign lang="greek">ἀλλὰ τὸ</foreign> μει</note> μᾶλλον ἰσχύειν
+                           <milestone unit="tlnum" n="20" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="205" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="205" /> — πάντᾳ τοι βλέφαρον διώ-
+<lb />κω. σκέψαι κλόνον ἐν τείχεσ-
+<lb />σι λαΐνοισι Γιγάντων.
+<lb /> — ὦ φίλαι, ὧδε δερκόμεσθα.
+<lb /> — λεύσσεις οὖν ἐπ᾽ Ἐγκελάδῳ
+<lb rend="displayNum" n="210" />γοργωπὸν πάλλουσαν ἴτυν — 
+<lb /> — λεύσσω Παλλάδ᾽, ἐμὰν θεόν.
+<lb /> — τί γάρ; κεραυνὸν ἀμφίπυρον
+<lb />ὄβριμον ἐν Διὸς
+<lb />ἑκηβόλοισι χερσίν;
+<lb rend="displayNum" n="215" /> — ὁρῶ: τὸν δάϊον
+<lb />Μίμαντα πυρὶ καταιθαλοῖ.
+<lb /> — καὶ Βρόμιος ἄλλον ἀπολέμοι-
+<lb rend="displayNum" n="217b" />σι κισσίνοισι βάκτροις
+<lb />ἐναίρει Γᾶς τέκνων ὁ Βακχεύς.
+</p></sp></div2></div1></body></text></TEI.2>

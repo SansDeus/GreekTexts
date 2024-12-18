@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="14" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-743f" n="743f" />
+                  <p>καὶ ὁ Ἀμμώνιος <q direct="unspecified">οὐκ ἄξιον</q> ἔφη <q direct="unspecified">σοι νεμεσᾶν, ὦ Ἡρώδη,
+                     καὶ <q direct="unspecified">πλείῃ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καὶ πλείῃ</foreign> *: <foreign lang="greek">καὶ πειε</foreign> αυτ <foreign lang="greek">καὶ παίειν</foreign> ξφ. ηομ. <foreign lang="greek">λ</foreign> 359</note></q> χειρὶ τῶν Μουσῶν ἐπιδραττομένῳ:<milestone unit="tlnum" n="5" /> κοινὰ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κοινὰ κἑ</foreign>] ϝιδ. π. 644ξ</note> γὰρ τὰ φίλων. καὶ διὰ τοῦτο πολλὰς
+                        ἐγέννησε Μούσας ὁ Ζεύς, ὅπως ᾖ πᾶσιν ἀρύσασθαι τῶν καλῶν
+                        ἀφθόνως: οὔτε γὰρ κυνηγίας πάντες οὔτε στρατείας οὔτε ναυτιλίας
+                        οὔτε βαναυσουργίας, παιδείας δὲ καὶ λόγου δεόμεθα <milestone unit="tlnum" n="10" /> πάντες <quote rend="blockquote"> εὐρυεδοῦς
+                              ὅσοι καρπὸν αἰνύμεθα <note resp="ed" place="unspecified" anchored="yes">ιβ. <foreign lang="greek">ἀννύμεθα</foreign> μει</note> χθονός</quote> <note resp="ed" place="unspecified" anchored="yes">βεργκ. 3 π. 388 ϝς. 17</note> ὅθεν Ἀθηνᾶν μίαν καὶ
+                        Ἄρτεμιν καὶ Ἥφαιστον ἕνα, </q></p></div3></div2></div1></body></text></TEI.2>

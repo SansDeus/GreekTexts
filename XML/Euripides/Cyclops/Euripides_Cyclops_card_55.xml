@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="mesode" org="uniform" sample="complete"><sp><milestone ed="p" n="55" unit="card" /></sp></div2>
+<div2 type="antistrophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l n="55">σπαργῶντας μαστοὺς χάλασον:</l>
+<l>δέξαι θηλαῖσι τροφὰς</l>
+<l>ἃς λείπεις ἀρνῶν θαλάμοις.</l>
+<l>ποθοῦσί σ᾽ ἁμερόκοι-</l>
+<l>τοι βλαχαὶ σμικρῶν τεκέων.</l>
+<l n="60">εἰς αὐλὰν πότ᾽ ἀμφιλαφῆ</l>
+<l>ποιηροὺς λιποῦσα νομοὺς</l>
+<l>Αἰτναίων εἴσει σκοπέλων;</l>
+</sp></div2></div1></body></text></TEI.2>

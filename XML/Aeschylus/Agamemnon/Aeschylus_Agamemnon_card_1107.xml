@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="4" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1107" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="4" org="uniform" sample="complete">
+<sp><speaker>Κασάνδρα</speaker><p>
+<lb />ἰὼ τάλαινα, τόδε γὰρ τελεῖς,
+<lb />τὸν ὁμοδέμνιον πόσιν
+<lb />λουτροῖσι φαιδρύνασα—πῶς φράσω τέλος;
+<lb rend="displayNum" n="1110" />τάχος γὰρ τόδ᾽ ἔσται: προτείνει δὲ χεὶρ ἐκ
+<lb />χερὸς ὀρέγματα.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />οὔπω ξυνῆκα:  νῦν γὰρ ἐξ αἰνιγμάτων
+<lb />ἐπαργέμοισι θεσφάτοις ἀμηχανῶ.
+</p></sp></div2></div1></body></text></TEI.2>

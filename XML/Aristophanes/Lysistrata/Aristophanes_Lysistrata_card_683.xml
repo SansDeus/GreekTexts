@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="trochees" org="uniform" sample="complete"><sp><p><milestone ed="p" n="683" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορὸς Γυναικῶν</speaker><p>
+<lb />εἰ νὴ τὼ θεώ με ζωπυρήσεις,
+<lb />λύσω τὴν ἐμαυτῆς ὗν ἐγὼ δή, καὶ ποιήσω
+<lb rend="displayNum" n="685" />τήμερον τοὺς δημότας βωστρεῖν σ᾽ ἐγὼ πεκτούμενον.
+<lb />ἀλλὰ χἠμεῖς ὦ γυναῖκες θᾶττον ἐκδυώμεθα,
+<lb />ὡς ἂν ὄζωμεν γυναικῶν αὐτοδὰξ ὠργισμένων.
+<lb />νῦν πρὸς ἔμ᾽ ἴτω τις, ἵνα μή ποτε φάγῃ σκόροδα, μηδὲ
+<lb rend="displayNum" n="690" />κυάμους μέλανας.
+<lb />ὡς εἰ καὶ μόνον κακῶς ἐρεῖς, ὑπερχολῶ γάρ,
+<lb rend="displayNum" n="695" />αἰετὸν τίκτοντα κάνθαρός σε μαιεύσομαι.</p></sp></div2></div1></body></text></TEI.2>

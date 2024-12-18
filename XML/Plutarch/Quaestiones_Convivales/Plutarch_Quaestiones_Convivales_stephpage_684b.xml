@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="8" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-684b" n="684b" /> τοῦ μήλου φλοιὸς ἐντός ἐστι
+                        κολλώδης χιτὼν καὶ λιπαρός, ᾧ προσίσχεται τὸ σπέρμα: τὸ δ᾽
+                        ἐδώδιμον, <milestone unit="tlnum" n="5" /> ἔξωθεν αὐτῷ περικείμενον,
+                        : εἰκότως <q direct="unspecified">ὑπέρφλοιον</q> ὠνόμασται <note resp="ed" place="unspecified" anchored="yes">τυρνεβυς: <foreign lang="greek">ὠνομάσθαι</foreign></note>.</q>
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="9" org="uniform" sample="complete">
+               <head>Τίς ἡ αἰτία, δι᾽ ἣν ἡ συκῆ δριμύτατον οὖσα δένδρον γλυκύτατον
+                  παρέχει τὸν καρπόν.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>μετὰ δὲ ταῦτα περὶ τῶν σύκων διηπορήθη, <milestone unit="tlnum" n="10" />
+                     τί δήποτε πίων καὶ γλυκὺς οὕτω καρπὸς ἀπὸ δένδρου φύεται
+                     πικροτάτου: τῆς γὰρ συκῆς καὶ τὸ φύλλον <milestone unit="tlnum" n="15" />
+                     διὰ τὴν τραχύτητα θρῖον ὠνόμασται, καὶ τὸ </p></div3></div2></div1></body></text></TEI.2>

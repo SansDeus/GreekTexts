@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="190" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="3" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="190" />μεγάλα θεός: ἀλλ᾽ ἴθι,
+<lb />καὶ παρ᾽ ἐμοῦ χρῆσαι πολύ-
+<lb />πηνα φάρεα δῦναι,
+<lb />χρύσεά τε — χαρίσαι — προσθήματ᾽ ἀγλαΐας.
+<lb />δοκεῖς τοῖσι σοῖς δακρύοις
+<lb />μὴ τιμῶσα θεούς, κρατή-
+<lb rend="displayNum" n="195" />σειν ἐχθρῶν; οὔτοι στοναχαῖς,
+<lb />ἀλλ᾽ εὐχαῖσι θεοὺς σεβί-
+<lb />ζουσ᾽ ἕξεις εὐαμερίαν, ὦ παῖ.</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb />οὐδεὶς θεῶν ἐνοπᾶς κλύει
+<lb />τᾶς δυσδαίμονος, οὐ παλαι-
+<lb rend="displayNum" n="200" />ῶν πατρὸς σφαγιασμῶν.
+<lb />οἴμοι τοῦ καταφθιμένου
+<lb />τοῦ τε ζῶντος ἀλάτα,
+<lb />ὅς που γᾶν ἄλλαν κατέχει,
+<lb />μέλεος ἀλαί-
+<lb rend="displayNum" n="205" />νων ποτὶ θῆσσαν ἑστίαν,
+<lb />τοῦ κλεινοῦ πατρὸς ἐκφύς.
+<lb />αὐτὰ δ᾽ ἐν χερνῆσι δόμοις
+<lb />ναίω ψυχὰν τακομένα
+<lb />δωμάτων πατρίων φυγάς,
+<lb rend="displayNum" n="210" />οὐρείας ἀν᾽ ἐρίπνας.
+<lb />μάτηρ δ᾽ ἐν λέκτροις φονίοις
+<lb />ἄλλῳ σύγγαμος οἰκεῖ.
+</p></sp></div2></div1></body></text></TEI.2>

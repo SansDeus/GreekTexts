@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="500" unit="card" /></p></sp>
+<sp>
+<speaker>Ἑρμῆς</speaker><p>
+<lb rend="displayNum" n="500" />ἄνδρες Μεγαρῆς οὐκ ἐς κόρακας ἐρρήσετε;
+<lb />μισεῖ γὰρ ὑμᾶς ἡ θεὸς μεμνημένη:
+<lb />πρῶτοι γὰρ αὐτὴν τοῖς σκορόδοις ἠλείψατε.
+<lb />καὶ τοῖς Ἀθηναίοισι παύσασθαι λέγω
+<lb />ἐντεῦθεν ἐχομένοις ὅθεν νῦν ἕλκετε:
+<lb rend="displayNum" n="505" />οὐδὲν γὰρ ἄλλο δρᾶτε πλὴν δικάζετε.
+<lb />ἀλλ᾽ εἴπερ ἐπιθυμεῖτε τήνδ᾽ ἐξελκύσαι,
+<lb />πρὸς τὴν θάλατταν ὀλίγον ὑποχωρήσατε.</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ἄγ᾽ ὦνδρες αὐτοὶ δὴ μόνοι λαβώμεθ᾽ οἱ γεωργοί.</p></sp>
+<sp>
+<speaker>Ἑρμῆς</speaker><p>
+<lb />χωρεῖ γέ τοι τὸ πρᾶγμα πολλῷ μᾶλλον ὦνδρες ὑμῖν.</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="510" />χωρεῖν τὸ πρᾶγμά φησιν: ἀλλὰ πᾶς ἀνὴρ προθυμοῦ.</p></sp>
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+<lb />οἵ τοι γεωργοὶ τοὔργον ἐξέλκουσι κἄλλος οὐδείς.
+</p></sp></div2></div1></body></text></TEI.2>

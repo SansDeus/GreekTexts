@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="6" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-95d" n="95d" /> ἡ πολυφιλία, πᾶσι μὲν
+                  ἀμήχανον παρεῖναι, μηδενὶ <milestone unit="tlnum" n="10" /> δ᾽ ἄτοπον, ἑνὶ
+                  δ᾽ ὑπουργοῦντα προσκρούειν πολλοῖς ἀνιαρὸν <quote rend="blockquote">
+                     <l>οὐδεὶς γὰρ ἀγαπῶν αὐτὸς ἀμελεῖθ᾽ ἡδέως</l> <note resp="ed" place="unspecified" anchored="yes">μεινεκ. ιϝ π. 282</note>
+                  </quote> Καίτοι τὰς ἀμελείας καὶ ῥᾳθυμίας τῶν φίλων πραότερον
+                  φέρουσι, καὶ τὰς τοιαύτας ἀπολογίας ἀμηνίτως <milestone unit="tlnum" n="15" /> δέχονται παρ᾽ αὐτῶν <q direct="unspecified">ἐξελαθόμην <q direct="unspecified" /> ἠγνόησα</q> ὁ δὲ
+                  λέγων <q direct="unspecified">οὐ παρέστην σοι δίκην ἔχοντι, παριστάμην γὰρ ἑτέρῳ φίλῳ,</q>
+                  καὶ <q direct="unspecified">πυρέττοντά ς1᾽ οὐκ εἶδον, τῷ δεῖνι γὰρ φίλους ἑστιῶντι
+                     συνησχολούμην</q> αἰτίαν τῆς ἀμελείας τὴν ἑτέρων ἐπιμέλειαν
+                  ποιούμενος <milestone unit="tlnum" n="20" />
+                  </p></div2></div1></body></text></TEI.2>

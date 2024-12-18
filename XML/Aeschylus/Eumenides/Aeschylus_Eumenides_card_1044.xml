@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1044" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Προπομποί</speaker><p>
+<lb />σπονδαὶ δ᾽ ἐς τὸ πᾶν ἐκ μετοίκων
+<lb rend="displayNum" n="1045" />Παλλάδος ἀστοῖς. Ζεὺς <add>ὁ</add> πανόπτας
+<lb />οὕτω Μοῖρά τε συγκατέβα.
+<lb />ὀλολύξατε νῦν ἐπὶ μολπαῖς.</p></sp></div2>
+</div1></body></text>
+</TEI.2>

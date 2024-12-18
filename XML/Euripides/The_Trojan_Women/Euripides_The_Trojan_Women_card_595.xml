@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="595" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="3" org="uniform" sample="complete">
+<sp><speaker>Ἀνδρομάχη</speaker><p>
+<lb rend="displayNum" n="595" />οἵδε πόθοι μεγάλοι  <gap /> </p></sp>
+<sp><speaker>Ἑκάβη</speaker><p>
+σχετλία, τάδε πάσχομεν ἄλγη.</p></sp>
+<sp><speaker>Ἀνδρομάχη</speaker><p>
+<lb />οἰχομένας πόλεως  <gap /> </p></sp>
+<sp><speaker>Ἑκάβη</speaker><p>
+ἐπὶ δ᾽ ἄλγεσιν ἄλγεα κεῖται.</p></sp>
+<sp><speaker>Ἀνδρομάχη</speaker><p>
+<lb />δυσφροσύναισι θεῶν, ὅτε σὸς γόνος ἔκφυγεν Ἅιδαν,
+<lb />ὃς λεχέων στυγερῶν χάριν ὤλεσε
+<lb rend="displayNum" n="598b" />πέργαμα Τροίας: αἱματόεντα δὲ
+<lb />θεᾷ παρὰ Παλλάδι σώματα νεκρῶν
+<lb rend="displayNum" n="600" />γυψὶ φέρειν τέταται: ζυγὰ δ᾽ ἤνυσε
+<lb rend="displayNum" n="600b" />δούλια Τροίᾳ.
+</p></sp></div2></div1></body></text></TEI.2>

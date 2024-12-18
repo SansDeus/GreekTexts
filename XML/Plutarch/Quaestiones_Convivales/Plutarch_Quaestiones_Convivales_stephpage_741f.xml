@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="13" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-741f" n="741f" /> πᾶσι τὴν πρόκλησιν αὐτοῦ μονονουχὶ τοῖς αὐτοῖς ὀνόμασι
+                        κέχρηται: <quote rend="blockquote">
+                           <l> ἄλλους μὲν κέλεται Τρῶας καὶ πάντας Ἀχαιοὺς </l> <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">Γ</foreign> 88</note>
+                           <l> τεύχεα κάλ᾽ ἀποθέσθαι ἐπὶ χθονὶ πουλυβοτείρῃ, <milestone unit="tlnum" n="10" />
+                           </l>
+                           <l> αὐτὸν δ᾽ ἐν μέσσῳ καὶ ἀρηίφιλον Μενέλαον </l>
+                           <l>οἴους ἀμφ᾽ Ἑλένῃ καὶ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οἴους ἀμφ᾽ Ἑλένῃ καὶ</foreign> αδδιδι εχ ηομερο</note> κτήμασι πᾶσι μάχεσθαι. </l> <note resp="ed" place="unspecified" anchored="yes">ξφ. <foreign lang="greek">Γ</foreign> 92 ετ 93</note>
+                           <l>τῷ δέ κε νικήσαντι γυνὴ καὶ κτήμαθ᾽ ἕποιτο.</l>
+                        </quote> δεξαμένου δὲ τοῦ Μενελάου, ποιοῦνται τὰς συνθήκας
+                        ἐνόρκους, ἐξάρχει δ᾽ Ἀγαμέμνων <milestone unit="tlnum" n="15" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

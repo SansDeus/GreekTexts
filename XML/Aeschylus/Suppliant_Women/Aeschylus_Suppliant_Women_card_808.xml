@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="808" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="3" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἴυζε δ᾽ ὀμφὰν οὐρανίαν
+<lb /><add>μέλεα</add> μέλη λιτανὰ θεοῖς:
+<lb rend="displayNum" n="810" />τέλεα δέ πως πελόμενά μοι
+<lb />λύσιμά τ᾽ ἄχιμά τ᾽ ἔπιδε, πάτερ,
+<lb />βίαια μὴ φαιδρῶς ὁρῶν
+<lb />ὄμμασιν ἐνδίκοις.
+<lb rend="displayNum" n="815" />σεβίζου δ᾽ ἱκέτας σέθεν,
+<lb />γαιάοχε παγκρατὲς Ζεῦ.
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1325" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="1325" />φερέτω κάλαθον ταχύ τις πτερύγων,
+<lb />σὺ δ᾽ αὖθις ἐξόρμα —</p></sp>
+<sp><speaker>Πισθέταιρος</speaker><p>
+<lb />τύπτων γε τοῦτον ὡδί.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />πάνυ γὰρ βραδύς ἐστί τις ὥσπερ ὄνος.</p></sp>
+<sp><speaker>Πισθέταιρος</speaker><p>
+<lb />Μανῆς γάρ ἐστι δειλός.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="1330" />σὺ δὲ τὰ πτερὰ πρῶτον
+<lb />διάθες τάδε κόσμῳ,
+<lb />τά τε μουσίχ᾽ ὁμοῦ τά τε μαντικὰ καὶ
+<lb />τὰ θαλάττι᾽. ἔπειτα δ᾽ ὅπως φρονίμως
+<lb />πρὸς ἄνδρ᾽ ὁρῶν πτερώσεις.</p></sp></div2></div1>
+<div1 type="Episode" org="uniform" sample="complete">
+<sp>
+<speaker>Πισθέταιρος</speaker><p>
+<lb rend="displayNum" n="1335" />οὔ τοι μὰ τὰς κερχνῇδας ἔτι σοῦ σχήσομαι,
+<lb />οὕτως ὁρῶν σε δειλὸν ὄντα καὶ βραδύν.</p></sp></div1></body></text></TEI.2>

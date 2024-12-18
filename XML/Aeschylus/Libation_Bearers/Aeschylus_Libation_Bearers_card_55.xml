@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="55" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="55" />σέβας δ᾽ ἄμαχον ἀδάματον  ἀπόλεμον τὸ πρὶν
+<lb />δι᾽ ὤτων φρενός  τε
+<lb />δαμίας περαῖνον
+<lb />νῦν ἀφίσταται. φοβεῖ-
+<lb />ται δέ τις.  τὸ δ᾽ εὐτυχεῖν,
+<lb rend="displayNum" n="60" />τόδ᾽ ἐν βροτοῖς  θεός τε καὶ θεοῦ πλέον.
+<lb />ῥοπὴ δ᾽ ἐπισκοπεῖ δίκας
+<lb />ταχεῖα τοὺς  μὲν ἐν φάει,
+<lb />τὰ δ᾽ ἐν μεταιχμίῳ σκότου
+<lb />μένει χρονίζοντας  ἄχη <del status="unremarkable">βρύει</del>,
+<lb rend="displayNum" n="65" />τοὺς δ᾽ ἄκραντος ἔχει νύξ.
+</p></sp></div2></div1></body></text></TEI.2>

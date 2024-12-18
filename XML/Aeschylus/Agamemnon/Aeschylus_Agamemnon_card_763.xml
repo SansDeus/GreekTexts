@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="4" org="uniform" sample="complete"><milestone ed="p" n="763" unit="card" />
+<sp><speaker>Χορός</speaker><p>
+<lb />φιλεῖ δὲ τίκτειν Ὕβρις
+<lb />μὲν παλαιὰ νεά-
+<lb rend="displayNum" n="765" />ζουσαν ἐν κακοῖς βροτῶν
+<lb />ὕβριν τότ᾽ ἢ τόθ᾽, ὅτε τὸ κύρ-
+<lb />ιον μόλῃ φάος τόκου,
+<lb />δαίμονά τε τὰν ἄμαχον ἀπόλεμ-
+<lb />ον, ἀνίερον Θράσος, μελαί-
+<lb rend="displayNum" n="770" />νας μελάθροισιν Ἄτας,
+<lb />εἰδομένας τοκεῦσιν.</p></sp></div2>
+<div2 type="antistrophe" n="4" org="uniform" sample="complete">
+</div2></div1></body></text></TEI.2>

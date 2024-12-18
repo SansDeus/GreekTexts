@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parodos" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="291" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Παίς</speaker><p>
+<lb />ἐθελήσεις τί μοι οὖν ὦ
+<lb />πάτερ, ἤν σού τι δεηθῶ;</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />πάνυ γ᾽ ὦ παιδίον. ἀλλ᾽ εἰπέ,
+<lb />τί βούλει με πρίασθαι
+<lb rend="displayNum" n="295" />καλόν; οἶμαι δέ σ᾽ ἐρεῖν ἀστραγάλους
+<lb />δήπουθεν ὦ παῖ.</p></sp>
+<sp><speaker>Παίς</speaker><p>
+<lb />μὰ Δί᾽ ἀλλ᾽ ἰσχάδας ὦ παππία:
+<lb />ἥδιον γάρ.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+οὐκ ἂν
+<lb />μὰ Δί᾽, εἰ κρέμαισθέ γ᾽ ὑμεῖς.</p></sp>
+<sp><speaker>Παίς</speaker><p>
+<lb />μὰ Δί᾽ οὔ τἄρα προπέμψω σε τὸ λοιπόν.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="300" />ἀπὸ γὰρ τοῦδέ με τοῦ μισθαρίου
+<lb />τρίτον αὐτὸν ἔχειν ἄλφιτα δεῖ καὶ ξύλα κὤψον:
+<lb /><add>ἒ ἔ.</add> σὺ δὲ σῦκά μ᾽ αἰτεῖς.</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-717e" n="717e" />Ἑβδομαγενῆ
+                        καλεῖτε. διὸ τοὺς Ἀπόλλωνι τὴν Πλάτωνος τέκνωσιν ἀνατιθέντας
+                        οὐκ ἂν οἶμαί τινα <milestone unit="tlnum" n="20" /> φάναι
+                        καταισχύνειν τὸν θεόν, ἐπὶ μείζονα πάθη καὶ νοσήματα τοῦτον ἡμῖν
+                        διὰ Σωκράτους ἰατρὸν ὥσπερ ἑτέρου <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἑτέρους</foreign> μει</note> Χείρωνος ἀπειργασμένον.</q> ἅμα
+                     δὲ τῆς λεγομένης Ἀρίστωνι τῷ Πλάτωνος πατρὶ γενέσθαι καθ᾽ ὕπνον
+                     ὄψεως καὶ φωνῆς ἀπαγορευούσης μὴ <milestone unit="tlnum" n="25" />
+                     συγγενέσθαι τῇ γυναικὶ μηδ᾽ ἅψασθαι δέκα μηνῶν ἐμνημόνευσεν. <pb id="v.4.p.306" />
+                  </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <p>ὑπολαβὼν δὲ Τυνδάρης ὁ Λακεδαιμόνιος <q direct="unspecified">ἄξιον μέν ἐστιν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οὐκ
+                              ἔστιν</foreign> ρ</note></q> ἔφη <q direct="unspecified"> περὶ Πλάτωνος ᾁδειν
+                        καὶ </q></p></div3></div2></div1></body></text></TEI.2>

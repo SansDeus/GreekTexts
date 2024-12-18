@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="13" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-741e" n="741e" />
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>
+                     <q direct="unspecified">τίν᾽</q> ἔφη <q direct="unspecified">ταύτην;</q>
+                     <q direct="unspecified">ἐγώ σοι φράσω</q> εἶπον <q direct="unspecified">ἅμα καὶ τούτοις προβάλλων διὸ τὸν
+                        νοῦν ἤδη προσεχέτωσαν. ὁ γὰρ Ἀλέξανδρος ἐπὶ ῥητοῖς δήπου
+                        πεποίηται τὴν πρόκλησιν οὕτως <pb id="v.4.p.375" />
+                        <quote rend="blockquote">
+                           <l> αὐτὰρ ἔμ᾽ ἐν μέσσῳ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μέσω</foreign> μει</note> καὶ ἀρηίφιλον Μενέλαον </l> <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">Γ</foreign> 68</note>
+                           <l> συμβάλετ᾽ ἀμφ᾽ Ἑλένῃ καὶ κτήμασι πᾶσι μάχεσθαι. </l>
+                           <l>ὁππότερος δέ κε νικήσῃ κρείσσων τε γένηται, </l>
+                           <l> κτήμαθ᾽ ἑλὼν εὖ πάντα γυναῖκά τε οἴκαδ᾽ ἀγέσθω: </l>
+                        </quote>
+                        <milestone unit="tlnum" n="5" />καὶ πάλιν ὁ Ἕκτωρ ἀναγορεύων καὶ
+                        τιθεὶς εἰς μέσον </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Lyric-Scene" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="911" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Νεᾶνις</speaker><p>
+<lb />αἰαῖ τί ποτε πείσομαι;
+<lb />οὐχ ἥκει μοὐταῖρος:
+<lb />μόνη δ᾽ αὐτοῦ λείπομ᾽: ἡ
+<lb />γὰρ μοι μήτηρ ἄλλῃ
+<lb />βέβηκε: †καὶ τἄλλ᾽ οὐδὲν μετὰ ταῦτα δεῖ λέγειν†.
+<lb rend="displayNum" n="915" />ἀλλ᾽ ὦ μαῖ᾽ ἱκετεύομαι, κάλει
+<lb />τὸν Ὀρθαγόραν, ὅπως
+<lb />σαυτῆς κατόναι᾽, ἀντιβολῶ σε.
+</p></sp></div2></div1></body></text></TEI.2>

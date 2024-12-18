@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="10" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-789f" n="789f" /> καὶ τὸ <q direct="unspecified">γέρας</q>
+                  οἶμαι καὶ τὸ γεραίρειν <q direct="unspecified" /> ὄνομα σεμνὸν ἀπὸ τῶν γερόντων γενόμενον
+                  διαμένει, οὐχ ὅτι θερμολουτοῦσι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">θερμολουτοῦσι</foreign>] ξφ. κοξκ. 3 π. 410</note> καὶ καθεύδουσι μαλακώτερον, ἀλλ᾽ ὡς
+                  βασιλικὴν ἐχόντων τάξιν ἐν ταῖς πόλεσι κατὰ <milestone unit="tlnum" n="5" /> τὴν φρόνησιν, ἧς καθάπερ ὀψικάρπου φυτοῦ τὸ οἰκεῖον ἀγαθὸν καὶ
+                  τέλειον ἐν γήρᾳ μόλις ἡ φύσις ἀποδίδωσι. τὸν γοῦν βασιλέα τῶν
+                  βασιλέων εὐχόμενον τοῖς θεοῖς <quote rend="blockquote">
+                     <l>τοιοῦτοι δέκα μοι συμφράδμονες εἶεν Ἀχαιῶν</l> <note resp="ed" place="unspecified" anchored="yes">ηομ. β 372.</note>
+                  </quote>
+                  <milestone unit="tlnum" n="10" />
+                  </p></div2></div1></body></text></TEI.2>

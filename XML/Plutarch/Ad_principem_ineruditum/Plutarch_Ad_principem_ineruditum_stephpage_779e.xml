@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-779e" n="779e" /> χαλεπόν ἐστι σύμβουλον περὶ
+                  ἀρχῆς; γενέσθαι τὸν γὰρ λόγον ὥσπερ ἄρχοντα παραδέξασθαι φοβοῦνται,
+                  <milestone unit="tlnum" n="10" /> μὴ τῆς ἐξουσίας αὐτῶν τἀγαθὸν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τἀγαθὸν</foreign> *: <foreign lang="greek">τὸ ἀγαθὸν</foreign></note>
+                  κολούσῃ τῷ καθήκοντι δουλωσάμενος;. οὐ γὰρ ἴσασι τὰ Θεοπόμπου τοῦ
+                  Σπαρτιατῶν βασιλέως, ὃς πρῶτος ἐν Σπάρτῃ τοῖς βασιλεύουσι καταμίξας
+                  τοὺς Ἐφόρους, εἶτ᾽ ὀνειδιζόμενος ὑπὸ τῆς γυναικός, εἰ τοῖς παισὶν
+                     <milestone unit="tlnum" n="15" /> ἐλάττονα παραδώσει τὴν ἀρχὴν ἧς
+                  παρέλαβε, <q direct="unspecified"> μείζονα μὲν οὖν</q> εἶπεν <q direct="unspecified"> ὅσῳ καὶ βεβαιοτέραν</q>
+                  τὸ γὰρ σφοδρὸν ἀνεὶς καὶ ἄκρατον αὐτῆς ἅμα τῷ φθόνῳ </p></div2></div1></body></text></TEI.2>

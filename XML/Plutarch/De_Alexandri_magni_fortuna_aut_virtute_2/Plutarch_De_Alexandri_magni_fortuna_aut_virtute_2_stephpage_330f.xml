@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" n="1" org="uniform" sample="complete"><div2 type="section" n="9" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-330f" n="330f" /> εἶ</q> εἶπεν <q direct="unspecified">ὃς ὁρῶν με τὰς ἀλλοτρίας πόλεις
+                     τύπτοντα <milestone unit="tlnum" n="15" /> λέγεις περὶ δικαιοσύνης.</q>
+                  Διονύσιος δ᾽ ὁ τύραννος ἐκέλευε τοὺς μὲν παῖδας ἀστραγάλοις τοὺς δ᾽
+                  ἄνδρας ὅρκοις ἐξαπατᾶν. τοῖς δὲ Σαρδαναπάλου μνημείοις ἐπιγέγραπται
+                  <quote rend="blockquote"> ταῦτ᾽ ἔχω ὅσσ᾽ ἔφαγον καὶ ἐφύβρισα. <note resp="ed" place="unspecified" anchored="yes">ξφ. αντηολ. παλ. ϝιι 325</note>
+                        <milestone unit="tlnum" n="20" />
+                  </quote> τίς οὐκ ἂν εἴποι τῶν ἀποφθεγμάτων τούτων τῷ μὲν
+                  ἀποφαίνεσθαι φιληδονίαν, τῷ δ᾽ ἀθεότητα, τῷ δ᾽ ἀδικίαν καὶ
+                  πλεονεξίαν; τῶν δ᾽ Ἀλεξάνδρου φωνῶν </p></div2></div1></body></text></TEI.2>

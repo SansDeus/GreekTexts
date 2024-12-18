@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parodos" org="uniform" sample="complete"><div2 type="lyric" org="uniform" sample="complete"><sp><p><milestone ed="p" n="483" unit="card" /></p></sp></div2>
+<div2 type="strophe" org="uniform" sample="complete">
+<sp><speaker>Χορὸς</speaker><p>
+<lb />ἀλλ᾽ ὡς μάλιστα τοῖν ποδοῖν ἐπικτυπῶν βάδιζε:
+<lb />ἡμῖν δ᾽ ἂν αἰσχύνην φέροι
+<lb rend="displayNum" n="485" />πάσαισι παρὰ τοῖς ἀνδράσιν τὸ πρᾶγμα τοῦτ᾽ ἐλεγχθέν.
+<lb />πρὸς ταῦτα συστέλλου σεαυτὴν
+<lb />καὶ περισκοπουμένη
+<lb /><add>τἀνθένδε καὶ</add> τἀκεῖσε καὶ
+<lb />τἀκ δεξιᾶς, μὴ ξυμφορὰ γενήσεται τὸ πρᾶγμα.
+<lb />ἀλλ᾽ ἐγκονῶμεν: τοῦ τόπου γὰρ ἐγγύς ἐσμεν ἤδη,
+<lb rend="displayNum" n="490" />ὅθενπερ εἰς ἐκκλησίαν ὡρμώμεθ᾽ ἡνίκ᾽ ᾖμεν:
+<lb />τὴν δ᾽ οἰκίαν ἔξεσθ᾽ ὁρᾶν, ὅθενπερ ἡ στρατηγὸς
+<lb />ἔσθ᾽ ἡ τὸ πρᾶγμ᾽ εὑροῦσ᾽ ὃ νῦν ἔδοξε τοῖς πολίταις.
+</p></sp></div2></div1></body></text></TEI.2>

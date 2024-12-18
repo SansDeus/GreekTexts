@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="5" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-497d" n="497d" /> τὸν ἄνθρωπον λέγωμεν, <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">λέγωμεν</foreign> μ: <foreign lang="greek">λέγομεν</foreign></note> ὅτι πολλοὶ σφάττουσιν ἑαυτοὺς καὶ
+               κατακρημνίζουσιν; ὁ δ᾽ Οἰδίπους <quote rend="blockquote">
+                  <l> ἤρασσ᾽ βλέφαρα : φοίνιαι δ᾽ ὁμοῦ </l> <note resp="ed" place="unspecified" anchored="yes">σοπη. ορ 1275</note>
+                  <l> γλῆναι γένει᾽ ἔτεγγον. <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">φοίνιαι - ἔτεγγον</foreign> σοπηοξλες: <foreign lang="greek">φοίναι δόμου</foreign> ξυμ λαξυνα 18 λιττ. υρβινας</note> </l>
+               </quote>
+               <milestone unit="tlnum" n="5" />Ἡγησίας δὲ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δὲ</foreign> δυεβνερυς</note> διαλεγόμενος πολλοὺς ἔπεισεν
+               ἀποκαρτερῆσαι τῶν ἀκροωμένων <quote rend="blockquote"> πολλαὶ μορφαὶ τῶν
+                  δαιμονίων.</quote> <note resp="ed" place="unspecified" anchored="yes">ευρ. αλξ. 1159. πασσιμ</note> ταῦτα δ᾽ ἐστὶν ὥσπερ ἐκεῖνα νοσήματα καὶ πάθη ψυχῆς
+               τοῦ κατὰ φύσιν ἐξιστάντα τὸν ἄνθρωπον, ὡς <milestone unit="tlnum" n="10" />
+               αὐτοὶ καταμαρτυροῦσιν ἑαυτῶν: ἂν γὰρ ὗς τεκοῦσα δελφάκιον ἢ κύων
+               διασπαράξῃ σκυλάκιον, ἀθυμοῦσι καὶ ταράττονται, καὶ θεοῖς ἀποτρόπαια
+               θύουσι καὶ τέρας νομίζουσιν , ὡς πᾶσι κατὰ φύσιν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κατὰ φύσιν</foreign> ρ: <foreign lang="greek">καὶ κατὰ φύσιν</foreign></note> στέργειν τὰ </p></div1></body></text></TEI.2>

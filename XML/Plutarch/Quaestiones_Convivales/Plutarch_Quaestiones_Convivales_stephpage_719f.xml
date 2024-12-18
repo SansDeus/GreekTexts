@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><div2 type="chapter" n="2" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-719f" n="719f" />
+                     αὐτὴν καὶ περιγράφοντος καὶ διανέμοντος εἰς ἰδέας καὶ διαφοράς, ἐξ
+                     ὧν τὰ φυόμενα πάντα τὴν γένεσιν ἔσχε καὶ σύστασιν. </p>
+               </div3>
+               <div3 type="section" n="4" org="uniform" sample="complete">
+                  <p>ἐπὶ τούτοις ῥηθεῖσιν ἠξίουν <note resp="ed" place="unspecified" anchored="yes">εμ. μ: <foreign lang="greek">ἠξίου</foreign></note> κἀμὲ
+                        <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κἀμὲ</foreign> *: <foreign lang="greek">καὶ ἐμὲ</foreign></note>
+                     συμβαλέσθαι <milestone unit="tlnum" n="20" /> τι πρὸς τὸν λόγον αὐτοῖς.
+                     ἐγὼ δὲ τὰς μὲν εἰρημένας δόξας ὡς ἰθαγενεῖς καὶ ἰδίας αὐτῶν
+                     ἐκείνων ἐπῄνεσα καὶ τὸ εἰκὸς ἔφην ἔχειν ἱκανῶς: <q direct="unspecified">ὅπως δ᾽</q>
+                     εἶπον <q direct="unspecified">ἑαυτῶν μὴ καταφρονῆτε μηδ᾽ ἔξω βλέπητε παντάπασιν,
+                        ἀκούσατε τὸν μάλιστα παρὰ <milestone unit="tlnum" n="25" /> τοῖς
+                        καθηγηταῖς ἡμῶν εὐδοκιμοῦντα περὶ τούτου </q></p></div3></div2></div1></body></text></TEI.2>

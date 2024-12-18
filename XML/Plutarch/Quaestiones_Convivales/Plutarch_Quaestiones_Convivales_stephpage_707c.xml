@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="7" org="uniform" sample="complete"><div2 type="chapter" n="6" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-707c" n="707c" />
+                  <p>ἐμοῦ δὲ ταῦτα πρὸς τοὺς παρόντας ἀδολεσχοῦντος, ἔδοξε Φλώρῳ καὶ
+                     σπουδάσαι τι περὶ τῶν σκιῶν λεγομένων, διαπορήσαντας εἰ προσήκει τοῖς
+                        <milestone unit="tlnum" n="15" /> καλουμένοις οὕτω βαδίζειν καὶ
+                     συνακολουθεῖν. ὁ μὲν οὖν γαμβρὸς αὐτοῦ Καισέρνιος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Καισέννιος</foreign> ρ</note> ὅλως ἀπεδοκίμαζε τὸ πρᾶγμα.
+                     μάλιστα μὲν γὰρ τῷ Ἡσιόδῳ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἡσιόδῳ</foreign>] ο δ 342</note>
+                     πειθομένους ἔφη χρῆναι <quote rend="blockquote"> τὸν φιλέοντ᾽ ἐπὶ
+                        δαῖτα καλεῖν: </quote>
+                     <milestone unit="tlnum" n="20" />εἰ δὲ μή, γνωρίμους αὑτῶν καὶ
+                     ἐπιτηδείους παρακαλεῖν ἐπὶ κοινωνίαν σπονδῆς καὶ τραπέζης καὶ λόγων
+                     ἐν οἴνῳ γιγνομένων καὶ φιλοφροσύνης. <q direct="unspecified">νῦν </q></p></div3></div2></div1></body></text></TEI.2>

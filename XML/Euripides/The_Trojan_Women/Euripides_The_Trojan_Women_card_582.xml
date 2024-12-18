@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="582" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Ἑκάβη</speaker><p>
+<lb />βέβακ᾽ ὄλβος, βέβακε Τροία</p></sp>
+<sp><speaker>Ἀνδρομάχη</speaker><p>
+<lb />τλάμων.</p></sp>
+<sp><speaker>Ἑκάβη</speaker><p>
+ἐμῶν τ᾽ εὐγένεια παίδων.</p></sp>
+<sp><speaker>Ἀνδρομάχη</speaker><p>
+<lb />φεῦ φεῦ.</p></sp>
+<sp><speaker>Ἑκάβη</speaker><p>
+φεῦ δῆτ᾽ ἐμῶν</p></sp>
+<sp><speaker>Ἀνδρομάχη</speaker><p>
+<lb rend="displayNum" n="585" />κακῶν.</p></sp>
+<sp><speaker>Ἑκάβη</speaker><p>
+οἰκτρὰ τύχα</p></sp>
+<sp><speaker>Ἀνδρομάχη</speaker><p>
+<lb />πόλεος,</p></sp>
+<sp><speaker>Ἑκάβη</speaker><p>
+ἃ καπνοῦται.
+</p></sp></div2></div1></body></text></TEI.2>

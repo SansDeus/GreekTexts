@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" n="26" org="uniform" sample="complete"><div2 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-177c" n="177c" />Φίλιππον τὸν
+                  Ἀλεξάνδρου πατέρα Θεόφραστος ἱστόρηκεν οὐ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἱστόρηκε τῶν
+                        μεταξὺ βασιλέων οὐ μόνον τ̂ͅ τύξῃ μείζονα, ἀλλὰ καὶ τῷ τρόπῳ
+                        γενέσθαι μετριώτερον</foreign> ω</note> μόνον μεταξὺ τῶν βασιλέων,
+                  ἀλλὰ καὶ <milestone unit="tlnum" n="15" /> τῇ τύχῃ καὶ τῷ τρόπῳ
+                  μείζονα γενέσθαι καὶ μετριώτερον. </p>
+            </div2>
+            <div2 type="section" n="2" org="uniform" sample="complete">
+               <p>Ἀθηναίους μὲν οὖν μακαρίζειν ἔλεγεν, εἰ καθ᾽ ἕκαστον ἐνιαυτὸν
+                  αἱρεῖσθαι δέκα στρατηγοὺς; εὑρίσκουσιν αὐτὸς γὰρ ἐν πολλοῖς ἔτεσιν
+                  ἕνα μόνον <milestone unit="tlnum" n="20" /> στρατηγὸν εὑρηκέναι,
+                  Παρμενίωνα. </p>
+            </div2>
+            <div2 type="section" n="3" org="uniform" sample="complete">
+               <p>πολλῶν δὲ κατορθωμάτων αὐτῷ καὶ καλῶν ἐν μιᾷ ἡμέρᾳ προσαγγελθέντων,
+                     <q direct="unspecified">ὦ τύχη</q> εἶπε <q direct="unspecified">μικρὸν τι μοι κακὸν ἀντὶ τῶν τοσούτων καὶ
+                     τηλικούτων ἀγαθῶν ποίησον</q>
+               </p>
+            </div2>
+            <milestone unit="tlnum" n="25" />
+            <div2 type="section" n="4" org="uniform" sample="complete">
+               <p>ἐπεὶ δὲ νικήσαντι τοὺς Ἕλληνας αὐτῷ <pb id="v.2.p.16" /> συνεβούλευον
+                     </p></div2></div1></body></text></TEI.2>

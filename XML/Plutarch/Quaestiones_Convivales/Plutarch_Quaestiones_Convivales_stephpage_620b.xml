@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-620b" n="620b" /> περὶ τὰ συμπόσια καὶ
+                     διακόσμησιν. ἐδόκει δὲ ταῦτα καὶ τοῖς ἄλλοις, ὥστε θόρυβον ἐκ
+                     πάντων <milestone unit="tlnum" n="5" /> καὶ παράκλησιν γενέσθαι. <q direct="unspecified">ἐπεὶ
+                        τοίνυν</q> ἔφην ἐγὼ <q direct="unspecified">δοκεῖ ταῦτα πᾶσιν, ἐμαυτὸν αἱροῦμαι
+                        συμποσίαρχον ὑμῶν καὶ κελεύω τοὺς μὲν ἄλλους, ὡς βούλονται,
+                        πίνειν ἐν τῷ παρόντι, Κράτωνα δὲ καὶ Θέωνα, τοὺς εἰσηγητὰς
+                        καὶ νομοθέτας τοῦ δόγματος, ἒν <milestone unit="tlnum" n="10" /> τινι
+                        τύπῳ βραχέως διελθεῖν, ὁποῖον ὄντα δεῖ τὸν συμποσίαρχον
+                        αἱρεῖσθαι, καὶ τί ποιούμενος τέλος ὁ αἱρεθεὶς ἄρξει, καὶ πῶς
+                        χρήσεται <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">χρήσεται</foreign> μ: <foreign lang="greek">χρῆσθαι</foreign></note> τοῖς κατὰ συμπόσιον: διελέσθαι δὲ τὸν
+                        λόγον αὐτοῖς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὐτοῖς</foreign>] <foreign lang="greek">ἐ</foreign>
+                           λαξ. 4 ϝδ <foreign lang="greek">αὐτοῖς</foreign></note> ἐπιτρέπω.
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐπιτρέπω</foreign> μ: <foreign lang="greek">ἐπιτρέπων</foreign></note></q>
+                  </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>μικρὰ μὲν οὖν ἠκκίσαντο παραιτούμενοι: <milestone unit="tlnum" n="15" />
+                     </p></div3></div2></div1></body></text></TEI.2>

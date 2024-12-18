@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><sp><milestone ed="p" n="1268" unit="card" />
+</sp>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker>
+<l n="1268">σὺ τὰν θεῶν ἄκαμπτον φρένα καὶ βροτῶν</l>
+<l>ἄγεις, Κύπρι, σὺν δ᾽</l>
+<l n="1270">ὁ ποικιλόπτερος ἀμφιβαλὼν</l>
+<l>ὠκυτάτῳ πτερῷ.</l>
+<l>ποτᾶται δὲ γαῖαν εὐάχητόν θ᾽</l>
+<l>ἁλμυρὸν ἐπὶ πόντον,</l>
+<l>θέλγει δ᾽ Ἔρως ᾧ μαινομένᾳ κραδίᾳ</l>
+<l n="1275">πτανὸς ἐφορμάσῃ χρυσοφαής,</l>
+<l>φύσιν ὀρεσκόων σκύμνων πελαγίων θ᾽</l>
+<l>ὅσα τε γᾶ τρέφει</l>
+<l>τά τ᾽ αἰθόμενος ἅλιος δέρκεται,</l>
+<l n="1280">ἄνδρας τε: συμπάντων βασιληίδα τι-</l>
+<l>μάν, Κύπρι, τῶνδε μόνα κρατύνεις.</l>
+</sp></div2></div1></body></text></TEI.2>

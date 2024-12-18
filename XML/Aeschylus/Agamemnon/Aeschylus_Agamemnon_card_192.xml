@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="4" org="uniform" sample="complete"><milestone ed="p" n="192" unit="card" />
+<sp n="*xoro/s">
+<speaker>Χορός</speaker><p>
+<lb />πνοαὶ δ᾽ ἀπὸ Στρυμόνος μολοῦσαι
+<lb />κακόσχολοι νήστιδες δύσορμοι,
+<lb />βροτῶν ἄλαι, ναῶν <add>τε</add> καὶ
+<lb rend="displayNum" n="195" />πεισμάτων ἀφειδεῖς,
+<lb />παλιμμήκη χρόνον τιθεῖσαι
+<lb />τρίβῳ κατέξαινον ἄν-
+<lb />θος Ἀργείων: ἐπεὶ δὲ καὶ πικροῦ
+<lb />χείματος ἄλλο μῆχαρ
+<lb rend="displayNum" n="200" />βριθύτερον πρόμοισιν
+<lb />μάντις ἔκλαγξεν προφέρων
+<lb />Ἄρτεμιν, ὥστε χθόνα βάκ-
+<lb />τροις ἐπικρούσαντας Ἀτρεί-
+<lb />δας δάκρυ μὴ κατασχεῖν:</p></sp></div2>
+<div2 type="antistrophe" n="4" org="uniform" sample="complete">
+</div2></div1></body></text></TEI.2>

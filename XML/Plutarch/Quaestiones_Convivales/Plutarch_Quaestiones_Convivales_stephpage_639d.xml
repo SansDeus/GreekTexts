@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><div2 type="chapter" n="5" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-639d" n="639d" />
+                        <quote rend="blockquote">ἢ πύξ ἠὲ πάλῃ ἢ καὶ ποσίν,</quote>
+                        <note resp="ed" place="unspecified" anchored="yes">ιδ. <foreign lang="greek">θ</foreign> 206</note> τὸν δ᾽ Ἀλκίνουν ὑποτιμώμενον <quote rend="blockquote">
+                           <l>οὐ γὰρ πυγμάχοι εἰμὲν ἀμύμονες οὐδὲ παλαισταί, </l>
+                           <note resp="ed" place="unspecified" anchored="yes">ιβ. 246</note>
+                           <l>ἀλλὰ ποσὶ κραιπνοῖς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κραιπνῶς</foreign>
+                                 ηομερυς</note> θέομεν:</l>
+                        </quote> ὡς οὐ κατὰ τύχην ἐκ τοῦ παρισταμένου τῇ τάξει <milestone unit="tlnum" n="25" /> χρώμενος ἄλλοτ᾽ ἄλλως, ἀλλὰ τοῖς
+                        εἰθισμένοις τότε <pb id="v.4.p.79" /> καὶ δρωμένοις κατὰ νόμον
+                        ἐπακολουθῶν ἐδρᾶτο δ᾽ οὕτως, τὴν παλαιὰν ἔτι τάξιν αὐτῶν
+                        διαφυλαττόντων.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>παυσαμένου δὲ τἀδελφοῦ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τἀδελφοῦ</foreign> *: <foreign lang="greek">τοῦ
+                           ἀδελφοῦ</foreign></note>, τἄλλα μὲν ἔφην <milestone unit="tlnum" n="5" /> ἀληθῶς λέγεσθαι, τὴν δ᾽ αἰτίαν τῆς τάξεως οὐκ ἐπενόουν
+                        <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐπηνόουν</foreign> ϝελ <foreign lang="greek">ἐπήνουν</foreign>
+                        μει</note>. ἐδόκει δὲ καὶ τῶν ἄλλων τισὶ μὴ πιθανὸν εἶναι
+                     γεγονέναι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">γεγονέναι</foreign>*</note> τὸ πυκτεύειν καὶ παλαίειν
+                     πρότερον </p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="4" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-668d" n="668d" /> ζωγραφοῦντα τοὺς περὶ αὐτὴν ἰχθῦς ἐμπαθέστατα καὶ
+                        ζωτικώτατα δι᾽ ὀψοφαγίαν ἐξεργάσασθαι. Ἀνταγόρᾳ δ᾽ ὁ βασιλεὺς
+                        Ἀντίγονος ἐν τῷ στρατοπέδῳ <milestone unit="tlnum" n="10" /> λοπάδα
+                        γόγγρων ἕψοντι περιεζωσμένῳ παραστὰς <q direct="unspecified">ἆρά γ᾽</q> εἶπε <q direct="unspecified">τὸν
+                           Ὅμηρον οἴει τὰς τοῦ Ἀγαμέμνονος πράξεις ἀναγράφειν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἂν γράφειν</foreign> ρ. ποτιυς <foreign lang="greek">ἂν
+                                 ἀναγράφειν</foreign></note> γόγγρους ἕψοντα;</q> κἀκεῖνος
+                        οὐ φαύλως <q direct="unspecified">σὺ δ᾽ οἴει</q> ἔφησε <q direct="unspecified">τὸν Ἀγαμέμνονα τὰς πράξεις
+                           ἐκείνας ἐργάσασθαι πολυπραγμονοῦντα, τίς <milestone unit="tlnum" n="15" /> ἐν τῷ στρατοπέδῳ γόγγρον ἕψει <note resp="ed" place="unspecified" anchored="yes">*: <foreign lang="greek">ἑψε̂ι</foreign></note>;</q> ταῦτ᾽</q> εἶπεν ὁ Πολυκράτης
+                        <q direct="unspecified">ἔγωγε <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἔγωγε</foreign> μ: <foreign lang="greek">ἐγὼ
+                              δὲ</foreign></note> συμβάλλομαι καὶ ὑμῖν <note resp="ed" place="unspecified" anchored="yes">ιβ. <foreign lang="greek">κεὶ
+                              ὑμῖν</foreign> μαδϝιγιυς</note> καὶ νὴ Δία τοῖς ἰχθυοπώλαις
+                        ἀπὸ τῶν μαρτύρων καὶ τῆς συνηθείας.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  </div3></div2></div1></body></text></TEI.2>

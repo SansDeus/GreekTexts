@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" n="21" org="uniform" sample="complete"><div2 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-175d" n="175d" /> γράμμα τῶν δημηγορούντων, ὡς ἔλαχε τὸ
+                     <term>Μ</term>, πρὸς τὸν εἰπόντα <q direct="unspecified">μωρολογεῖς Διονύσιε</q>:
+                     <q direct="unspecified">μοναρχήσω μὲν οὖν</q> εἶπε, καὶ δημηγορήσας εὐθὺς ᾑρέθη
+                  στρατηγὸς <milestone unit="tlnum" n="15" /> ὑπὸ τῶν Συρακοσίων. </p>
+            </div2>
+            <div2 type="section" n="2" org="uniform" sample="complete">
+               <p>ἐπεὶ δ᾽ ἐν ἀρχῇ τῆς τυραννίδος ἐπολιορκεῖτο, συστάντων ἐπ᾽ αὐτὸν
+                  τῶν πολιτῶν, οἱ μὲν φίλοι συνεβούλευον ἀπαλλαγῆναι τῆς ἀρχῆς, εἰ μὴ
+                  βούλεται κρατηθεὶς ἀποθανεῖν ὁ δὲ βοῦν ἰδὼν σφαττόμενον <milestone unit="tlnum" n="20" /> ὑπὸ μαγείρου καὶ πίπτοντα ταχέως <q direct="unspecified">εἶτα οὐκ
+                     ἀηδές <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀηδές</foreign>] <foreign lang="greek">ὄνειδος</foreign>̣</note> ἐστιν</q> εἶπεν <q direct="unspecified">οὕτω βραχὺν ὄντα
+                     τὸν θάνατον φοβηθέντας ἡμᾶς ἀρχὴν ἐγκαταλιπεῖν τηλικαύτην;</q>
+               </p>
+            </div2>
+            <div2 type="section" n="3" org="uniform" sample="complete">
+               <p>τὸν δὲ υἱὸν αἰσθόμενος, ᾧ τὴν ἀρχὴν ἀπολιπεῖν <milestone unit="tlnum" n="25" />
+                  </p></div2></div1></body></text></TEI.2>

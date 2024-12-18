@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><milestone ed="p" n="167" unit="card" />
+<sp n="*xoro/s">
+<speaker>Χορός</speaker><p>
+<lb />οὐδ᾽ ὅστις πάροιθεν ἦν μέγας,
+<lb />παμμάχῳ θράσει βρύων,
+<lb rend="displayNum" n="170" />οὐδὲ λέξεται πρὶν ὤν:
+<lb />ὃς δ᾽ ἔπειτ᾽ ἔφυ, τρια-
+<lb />κτῆρος οἴχεται τυχών.
+<lb />Ζῆνα δέ τις προφρόνως ἐπινίκια κλάζων
+<lb rend="displayNum" n="175" />τεύξεται φρενῶν τὸ πᾶν:</p></sp></div2>
+<div2 type="strophe" n="3" org="uniform" sample="complete">
+</div2></div1></body></text></TEI.2>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-613c" n="613c" /> παραμύθιον: εἰ
+                        δὲ πάντων μὲν ὁ Διόνυσος Λύσιός ἐστι καὶ Λυαῖος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Λυαῖος</foreign> ρ: <foreign lang="greek">λύδιος</foreign></note>,
+                        μάλιστα δὲ τῆς γλώττης ἀφαιρεῖται <milestone unit="tlnum" n="20" /> τὰ
+                        χαλινὰ καὶ πλείστην ἐλευθερίαν τῇ φωνῇ δίδωσιν <note resp="ed" place="unspecified" anchored="yes">εμενδαϝιτ ς: <foreign lang="greek">πλεονάζον τὸ ἄκαιρον</foreign></note>, ἀβέλτερον οἶμαι καὶ
+                        ἀνόητον ἐν λόγοις πλεονάζοντα καιρὸν ἀποστερεῖν τῶν ἀρίστων
+                        λόγων, καὶ ζητεῖν μὲν ἐν ταῖς διατριβαῖς περὶ συμποτικῶν
+                        καθηκόντων καὶ τίς ἀρετὴ συμπότου καὶ πῶς οἴνῳ <milestone unit="tlnum" n="25" /> χρηστέον, ἐξ αὐτῶν δὲ τῶν συμποσίων
+                        ἀναιρεῖν <pb id="v.4.p.5" /> φιλοσοφίαν ὡς ἔργῳ βεβαιοῦν ἃ
+                        διδάσκει λόγῳ μὴ δυναμένην.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <p>σοῦ δ᾽ εἰπόντος οὐκ ἄξιον εἶναι Κράτωνι περὶ τούτων ἀντιλέγειν,
+                     ὅρον δέ τινα καὶ χαρακτῆρα <milestone unit="tlnum" n="5" /> τῶν παρὰ
+                     πότον φιλοσοφουμένων ζητεῖν ἐκφεύγοντα <note resp="ed" place="unspecified" anchored="yes">μαλιμ <foreign lang="greek">ἐκφεύγοντας</foreign></note>
+                     </p></div3></div2></div1></body></text></TEI.2>

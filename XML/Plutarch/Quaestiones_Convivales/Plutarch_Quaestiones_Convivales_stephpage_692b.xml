@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="6" org="uniform" sample="complete"><div2 type="chapter" n="6" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-692b" n="692b" />
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="7" org="uniform" sample="complete">
+               <head>Εἰ δεῖ τὸν οἶνον ἐνδιηθεῖν.</head>
+               <milestone unit="tlnum" n="5" />
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>Νίγρος <note resp="ed" place="unspecified" anchored="yes">χ: <foreign lang="greek">νίκρος</foreign></note> ὁ πολίτης ἡμῶν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἡμῶν</foreign>]
+                        φορτ. αδδ. <foreign lang="greek">μετ᾽ ἄλλων</foreign> αυτ <foreign lang="greek">μετὰ τῶν ἑταίρων</foreign></note> ἀπὸ σχολῆς ἀφῖκτο
+                     συγγεγονὼς ἐνδόξῳ φιλοσόφῳ χρόνον οὐ πολύν, <milestone unit="tlnum" n="10" /> ἀλλ᾽ ἐν ὅσῳ τὰ τάνδρὸς <note resp="ed" place="unspecified" anchored="yes">*: <foreign lang="greek">τοῦ ἀνδρὸς</foreign></note> οὐ
+                     καταλαμβάνοντες <note resp="ed" place="unspecified" anchored="yes">εμ. ρ:
+                           <foreign lang="greek">καταλαμβάνοντος</foreign></note> ἀνεπίμπλαντο
+                     τῶν ἐπαχθῶν ἀπ᾽ αὐτοῦ μιμούμενοι <note resp="ed" place="unspecified" anchored="yes">βασιλεενσις: <foreign lang="greek">μιμουμένου</foreign></note> τὸ ἐπιτιμητικὸν καὶ ἐλέγχοντες <note resp="ed" place="unspecified" anchored="yes">εαδεμ: <foreign lang="greek">λέγοντος</foreign> ϝελ <foreign lang="greek">ψέγοντος</foreign></note>
+                     ἐπὶ παντὶ πράγματι τοὺς συνόντας. ἑστιῶντος οὖν ἡμῖἱς
+                     Ἀριστίωνος <note resp="ed" place="unspecified" anchored="yes">χ: <foreign lang="greek">ἀρίστωνος</foreign></note>, τὴν τ᾽ ἄλλην χορηγίαν ὡς
+                     πολυτελῆ καὶ περίεργον <milestone unit="tlnum" n="15" /> ἐμέμφετο καὶ τὸν
+                     οἶνον οὐκ ἔφη δεῖν ἐγχεῖσθαι <note resp="ed" place="unspecified" anchored="yes">τυρνεβυς: <foreign lang="greek">ἐλέγχεσθαι</foreign></note>
+                     </p></div3></div2></div1></body></text></TEI.2>

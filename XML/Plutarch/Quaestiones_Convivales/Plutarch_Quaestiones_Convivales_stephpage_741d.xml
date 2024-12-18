@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="12" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-741d" n="741d" />εἶπε <q direct="unspecified">τοὺς
+                        ῥήτορας τούτους τρυφᾶν ἐῶμεν, ἑτέρων καταγελῶντας, αὐτοὺς δὲ
+                        μηδὲν ἐρωτωμένους μηδὲ συμβολὰς λόγων τιθέντας; εἰ μὴ νὴ Δία
+                        φήσουσι μηδὲν αὐτοῖς μετεῖναι τῆς ἐν οἴνῳ κοινωνίας,
+                        Δημοσθένους <milestone unit="tlnum" n="10" /> ἐπαινέταις καὶ ζηλωταῖς
+                        οὖσιν, ἀνδρὸς ἐν ἅπαντι τῷ βίῳ πιόντος οἶνον.</q>
+                     <q direct="unspecified">οὐκ αἴτιον</q> ἔφην ἐγώ <q direct="unspecified">τοῦτο τούτων, ἀλλ᾽ ἡμεῖς οὐδὲν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οὐδὲν</foreign>] μαλιμ <foreign lang="greek">οἳ οὐδὲν</foreign></note>
+                        αὐτοὺς ἠρωτήκαμεν εἰ δὲ μή τι σὺ χρησιμώτερον ἔχεις, ἐγώ μοι
+                        δοκῶ προβαλεῖν αὐτοῖς ἐκ τῶν Ὁμήρου <milestone unit="tlnum" n="15" /> ῥητορικῶν θέσεων μίαν ἀντινομικήν.</q>
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="13" org="uniform" sample="complete">
+               <head> περὶ τοῦ ἐν τῇ τρίτῃ ῥαψῳδίᾳ τῆς Ἰλιάδος ἀντινομικοῦ
+                  ζητήματος.</head>
+               </div2></div1></body></text></TEI.2>

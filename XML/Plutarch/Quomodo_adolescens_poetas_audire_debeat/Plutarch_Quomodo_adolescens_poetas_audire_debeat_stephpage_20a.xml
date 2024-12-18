@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="4" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-20a" n="20a" /> καὶ λόγοι μοχθηρὰς ὑποθέσεις
+                  λαμβάνοντες ἀκόλαστα ποιοῦσιν ἤθη καὶ βίους ἀνάνδρους καὶ ἀνθρώπους
+                  τρυφὴν καὶ μαλακίαν καὶ γυναικοκρασίαν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">γυναικοκρατίαν</foreign>
+                     μεζιριαξυς</note> ἀγαπῶντας <milestone unit="tlnum" n="20" />
+                  <quote rend="blockquote">
+                     <l>εἵματά τ᾽ ἐξημοιβὰ λοετρά τε θερμὰ καὶ εὐνάς</l>
+                     <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">θ</foreign> 249</note>
+                  </quote>. διὸ καὶ τὸν Ὀδυσσέα τῷ κιθαρῳδῷ προστάττοντα πεποίηκεν
+                     <quote rend="blockquote">
+                     <l>ἀλλ᾽ ἄγε δὴ μετάβηθι καὶ ἵππου κόσμον ἄεισον,</l>
+                     <note resp="ed" place="unspecified" anchored="yes">ιδ. <foreign lang="greek">θ</foreign> 492</note>
+                  </quote> καλῶς ὑφηγούμενος τὸ παρὰ τῶν φρονίμων καὶ νοῦν <milestone unit="tlnum" n="25" /> ἐχόντων χρῆναι λαμβάνειν τοὺς μουσικοὺς καὶ
+                  ποιητικοὺς τὰς ὑποθέσεις. ἐν δὲ τοῖς; περὶ τῆς Ἥρας </p></div2></div1></body></text></TEI.2>

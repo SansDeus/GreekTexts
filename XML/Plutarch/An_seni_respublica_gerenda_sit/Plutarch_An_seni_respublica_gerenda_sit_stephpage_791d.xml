@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="14" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-791d" n="791d" /> καὶ φιλεῖν οὐ φιλῆσαι τὴν πατρίδα καὶ
+                  τοὺς <milestone unit="tlnum" n="10" /> πολίτας. ἐπὶ ταῦτα γὰρ ἡ φύσις
+                  ἄγει, καὶ ταύτας ὑπαγορεύει τὰς φωνὰς τοῖς μὴ διεφθορόσι τελείως ὑπ᾽
+                  ἀργίας καὶ μαλακίας: καὶ <quote rend="blockquote">
+                     <l>πολλοῦ σε θνητοῖς ἄξιον τίκτει πατήρ</l> <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 917</note>
+                  </quote>
+                  <milestone unit="tlnum" n="15" />
+                  <quote rend="blockquote">
+                     <l>μή <note resp="ed" place="unspecified" anchored="yes">μ: <foreign lang="greek">μήτε</foreign></note> τι παυσώμεσθα <note resp="ed" place="unspecified" anchored="yes">ιβ. <foreign lang="greek">παυσώμεσθα</foreign> π. 1099α: <foreign lang="greek">παυσαίμεθα</foreign></note> δρῶντες εὖ βροτούς</l> <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 917</note>
+                  </quote>
+               </p>
+            </div2>
+            <div2 type="section" n="15" org="uniform" sample="complete">
+               <p>οἱ δὲ τὰς ἀρρωστίας προβαλλόμενοι καὶ τὰς ἀδυναμίας νόσου καὶ
+                  πηρώσεως μᾶλλον ἢ γήρως κατηγοροῦσι καὶ γὰρ νέοι πολλοὶ νοσώδεις καὶ
+                  ῥωμαλέοι γέροντες: ὥστε δεῖ μὴ τοὺς γέροντας ἀλλὰ <milestone unit="tlnum" n="20" /> τοὺς ἀδυνάτους ἀποτρέπειν, μηδὲ τοὺς νέους
+                  παρακαλεῖν </p></div2></div1></body></text></TEI.2>

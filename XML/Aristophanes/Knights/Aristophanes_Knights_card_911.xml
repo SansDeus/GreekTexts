@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Agon" org="uniform" sample="complete"><div2 type="antepirrheme" org="uniform" sample="complete"><sp><p><milestone ed="p" n="911" unit="card" /></p></sp></div2>
+<div2 type="antipnigos" org="uniform" sample="complete">
+<sp><speaker>Ἀλλαντοπώλης</speaker><p>
+<lb />ἐμοῦ μὲν οὖν.</p></sp>
+<sp><speaker>Κλέων</speaker><p>
+ἐμοῦ μὲν οὖν.
+<lb />ἐγώ σε ποιήσω τριηραρχεῖν
+<lb /><add>ἀναλίσκοντα τῶν
+<lb />σαυτοῦ,</add> παλαιὰν ναῦν ἔχοντ᾽,
+<lb rend="displayNum" n="915" />εἰς ἣν ἀναλῶν οὐκ ἐφέξεις
+<lb />οὐδὲ ναυπηγούμενος:
+<lb />διαμηχανήσομαί θ᾽ ὅπως
+<lb />ἂν ἱστίον σαπρὸν λάβῃς.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ἁνὴρ παφλάζει, παῦε παῦ᾽,
+<lb rend="displayNum" n="920" />ὑπερζέων: ὑφελκτέον
+<lb />τῶν δᾳδίων ἀπαρυστέον
+<lb />τε τῶν ἀπειλῶν ταυτῃί.</p></sp>
+<sp><speaker>Κλέων</speaker><p>
+<lb />δώσεις ἐμοὶ καλὴν δίκην
+<lb />ἰπούμενος ταῖς ἐσφοραῖς.
+<lb rend="displayNum" n="925" />ἐγὼ γὰρ ἐς τοὺς πλουσίους
+<lb />σπεύσω σ᾽ ὅπως ἂν ἐγγραφῇς.</p></sp>
+<sp><speaker>Ἀλλαντοπώλης</speaker><p>
+<lb />ἐγὼ δ᾽ ἀπειλήσω μὲν οὐδέν,
+<lb />εὔχομαι δέ σοι ταδί:
+<lb />τὸ μὲν τάγηνον τευθίδων
+<lb rend="displayNum" n="930" />ἐφεστάναι σίζον: σὲ δὲ
+<lb />γνώμην ἐρεῖν μέλλοντα περὶ
+<lb />Μιλησίων καὶ κερδανεῖν
+<lb />τάλαντον, ἢν κατεργάσῃ,
+<lb />σπεύδειν ὅπως τῶν τευθίδων
+<lb rend="displayNum" n="935" />ἐμπλήμενος φθαίης ἔτ᾽ εἰς
+<lb />ἐκκλησίαν ἐλθών: ἔπειτα
+<lb />πρὶν φαγεῖν ἀνὴρ μεθήκοι,
+<lb />καὶ σὺ τὸ τάλαντον λαβεῖν
+<lb />βουλόμενος ἐσθίων
+<lb rend="displayNum" n="940" />ἐναποπνιγείης.</p></sp></div2>
+<div2 type="sphragis" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />εὖ γε νὴ τὸν Δία καὶ τὸν Ἀπόλλω καὶ τὴν Δήμητρα.</p></sp></div2>
+</div1>
+</body></text></TEI.2>

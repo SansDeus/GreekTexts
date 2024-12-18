@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="6" org="uniform" sample="complete"><p><q direct="unspecified"><q direct="unspecified"><milestone unit="casaubonpage" id="casaubonpage-232c" n="232c" /> ἐκ Σικελίας.</q> <milestone unit="chapter" n="21" /> ἱστορεῖ τὰ αὐτὰ καὶ Φαινίας ἐν τῷ περὶ τῶν ἐν Σικελίᾳ τυράννων, ὡς χαλκῶν ὄντων τῶν παλαιῶν ἀναθημάτων καὶ τριπόδων καὶ λεβήτων καὶ ἐγχειριδίων, ὧν ἐφ᾽ ἑνὸς καὶ ἐπιγεγράφθαι φησίν
+
+<quote rend="blockquote">
+<lb />θάησαί μ᾽ : ἐτεὸν γὰρ ἐν Ἰλίου εὐρέι πύργῳ 
+<lb />ἦν ὅτε καλλικόμῳ μαρνάμεθ᾽ ἀμφ᾽ Ἑλένῃ:
+<lb />καὶ μ᾽ Ἀντηνορίδης ἐφόρει κρείων Ἑλικάων
+<lb /> νῦν δέ με Λητοΐδου θεῖον ἔχει δάπεδον.
+</quote></q></p></div1></body></text></TEI.2>

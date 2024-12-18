@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="689" unit="card" /></p></sp></div2></div1>
+<div1 type="Episode" org="uniform" sample="complete">
+<sp>
+<speaker>Γυνὴ Α</speaker><p>
+<lb />ἆ ποῖ σὺ φεύγεις; οὗτος οὗτος οὐ μενεῖς;
+<lb rend="displayNum" n="690" />τάλαιν᾽ ἐγὼ τάλαινα, καὶ τὸ παιδίον
+<lb />ἐξαρπάσας μοι φροῦδος ἀπὸ τοῦ τιτθίου.</p></sp>
+<sp>
+<speaker>Μνησίλοχος</speaker><p>
+<lb />κέκραχθι: τοῦτο δ᾽ οὐδέποτε σὺ ψωμιεῖς,
+<lb />ἢν μή μ᾽ ἀφῆτ᾽: ἀλλ᾽ ἐνθάδ᾽ ἐπὶ τῶν μηρίων
+<lb />πληγὲν μαχαίρᾳ τῇδε φοινίας φλέβας
+<lb rend="displayNum" n="695" />καθαιματώσει βωμόν.</p></sp>
+<sp>
+<speaker>Γυνὴ Α</speaker><p>
+ὦ τάλαιν᾽ ἐγώ.
+<lb />γυναῖκες, οὐκ ἀρήξετ᾽; οὐ πολλὴν βοὴν
+<lb />στήσεσθε καὶ τροπαῖον, ἀλλὰ τοῦ μόνου
+<lb />τέκνου με περιόψεσθ᾽ ἀποστερουμένην;</p></sp></div1></body></text></TEI.2>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="673" unit="card" /></p></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />αἰαῖ αἰαῖ:
+<lb />ὦ πολύκλαυτε φίλοισι θανών,
+<lb rend="displayNum" n="675" />†τί τάδε δυνάτα δυνάτα
+
+<lb />περὶ τᾷ σᾷ δίδυμα <del status="unremarkable"> διαγόεν </del> ἁμάρτια;†
+<lb />πᾶσαι γᾷ τᾷδ᾽
+<lb />ἐξέφθινται τρίσκαλμοι
+<lb rend="displayNum" n="680" />νᾶες ἄναες  ἄναες.
+</p></sp></div2></div1></body></text></TEI.2>

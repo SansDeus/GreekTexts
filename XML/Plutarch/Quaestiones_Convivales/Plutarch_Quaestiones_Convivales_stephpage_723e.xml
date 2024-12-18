@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-723e" n="723e" />
+                     <q direct="unspecified">διὸ καὶ μᾶλλον</q> ἔφη ὁ Σῶσπις <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὁ Σῶσπις</foreign> λεονιξυς</note>
+                     <q direct="unspecified">προθυμητέον, ὡς ἕκαστος αὑτόν τις ἔπεισε, συνεισενεγκεῖν <note resp="ed" place="unspecified" anchored="yes">ιβ. <foreign lang="greek">ὡς ἕκαστος - συνεισενεγκεῖν</foreign> ω: <foreign lang="greek">ὡς ἕκαστον αὐτῷ τις συνέπεισεν ἐνεγκεῖν</foreign> ῾<foreign lang="greek">ἐγκεῖν</foreign> ϝδ̓</note>
+                        <milestone unit="tlnum" n="15" /> εἰς τὸ ζητούμενον. ἐγὼ δ᾽ εἰσφέρω
+                        πρῶτος, ὅτι δεῖ τὴν τῶν νικηφόρων δόξαν ἄφθιτον, ὡς ἀνυστὸν
+                        ἐστι, καὶ ἀγήρων <note resp="ed" place="unspecified" anchored="yes">*:
+                              <foreign lang="greek">ἀγήρω</foreign></note> διαμένειν: ὁ δὲ
+                        φοῖνιξ μακρόβιον μέν ἐστιν ἐν τοῖς μάλιστα τῶν φυτῶν, ὥς που καὶ
+                        τὰ Ὀρφικὰ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ὀρφικὰ</foreign>] μυλλαξη. 1 π. 183</note> ταῦτα
+                        μεμαρτύρηκε <milestone unit="tlnum" n="20" />
+                        <quote rend="blockquote">
+                           <l>ζῶον δ᾽ ἴσον ἀκροκόμοισιν </l>
+                           <l>φοινίκων ἔρνεσσιν,</l>
+                        </quote>
+                        <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ζῶν δ᾽ ἴσον φοινίκων ἔρνεσιν ἀκροκ.</foreign> ω. αλιτερ
+                           μυλλαξηιυς</note> μόνῳ δ᾽ αὐτῷ σχεδὸν ὑπάρχει τὸ κατὰ πολλῶν
+                        ὡς ἀληθῶς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὡς ἀληθῶς</foreign>] ξολλοξατ ποστ <foreign lang="greek">ὑπάρχει</foreign> ηερωερδενυς; μελιυς φυισσετ ποστ
+                              <foreign lang="greek">σχεδὸν</foreign></note> λεγόμενον: τί δὲ
+                        τοῦτ᾽ ἔστι; τὸ <pb id="v.4.p.323" /> ἐμπεδόφυλλον εἶναι καὶ
+                        ἀείφυλλον: οὔτε γὰρ δάφνην οὔτ᾽ </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-50e" n="50e" /> βασιλέων ἀναβαίνειν ἐπὶ τὰς ἁμάξας δι᾽
+                  αὑτῶν ὑποκατακλινόμεναι παρεῖχον. <milestone unit="tlnum" n="15" />
+               </p>
+            </div2>
+            <div2 type="section" n="4" org="uniform" sample="complete">
+               <p>τίνα οὖν δεῖ φυλάττεσθαι; τὸν μὴ δοκοῦντα μηδ᾽ ὁμολογοῦντα κολακεύειν,
+                  ὃν οὐκ ἔστι λαβεῖν περὶ τοὐπτανεῖον, οὐδ᾽ ἁλίσκεται σκιὰν καταμετρῶν
+                  ἐπὶ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐπι</foreign>] <foreign lang="greek">τὴν ἐπὶ τὸ</foreign> η</note>
+                  δεῖπνον, οὐδ᾽ ἔρριπται μεθυσθεὶς; ὅπως ἔτυχεν, ἀλλὰ νήφει τὰ πολλὰ
+                  καὶ πολυπραγμονεῖ καὶ πράξεων <milestone unit="tlnum" n="20" /> μετέχειν
+                  οἴεται δεῖν καὶ λόγων ἀπορρήτων βούλεται κοινωνὸς εἶναι, καὶ ὅλως
+                  τραγικός ἐστιν οὐ σατυρικὸς φιλίας ὑποκριτὴς οὐδὲ κωμικός. ὡς γὰρ ὁ
+                  Πλάτων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Πλάτων</foreign>] ρεπ. π. 361 α</note> φησὶν <q direct="unspecified">ἐσχάτης ἀδικίας
+                     εἶναι δοκεῖν </q></p></div2></div1></body></text></TEI.2>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-629f" n="629f" /> γὰρ Γωβρύαν
+                     φησὶ συνδειπνοῦντα τῷ Κύρῳ τὰ τ᾽ <milestone unit="tlnum" n="10" />
+                     ἄλλα θαυμάζειν τῶν Περσῶν, καὶ ὅτι τοιαῦτα μὲν ἀλλήλους ἐπηρώτων
+                     ἃ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἃ</foreign>] <foreign lang="greek">οἶα</foreign> χ</note> ἥδιον
+                     ἦν ἐρωτηθῆναι ἢ μή, ἔσκωπτον δ᾽ ἃ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐσκωπτον δ᾽
+                           ἃ</foreign> *: 5 ϝδ 10 ε</note>
+                     <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἃ</foreign>] <foreign lang="greek">οἶα</foreign> χ</note> σκωφθῆναι
+                     κάλλιον ἢ μὴ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κάλλιον ἢ μή</foreign> *: <foreign lang="greek">και</foreign> 6 ϝδ 12 ε</note>: εἰ γὰρ ἐπαινοῦντες ἕτεροι
+                     πολλάκις λυποῦσι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">λυποῦσι</foreign> *: 7 ϝδ 5 π σολι</note> καὶ
+                     προσίστανται, πῶς οὐκ ἄξιον ἦν ἄγασθαι: τὴν εὐτραπελίαν <milestone unit="tlnum" n="15" /> ἐκείνων καὶ τὴν σύνεσιν, ὧν καὶ τὰ σκώμματα
+                     τοῖς σκωπτομένοις ἡδονὴν καὶ χάριν παρεῖχε; δεχόμενος οὖν ἡμᾶς ἐν
+                     Πάτραις, ἡδέως ἂν ἔφης <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἔφης</foreign> ω: <foreign lang="greek">ἔφυ</foreign> αυτ <foreign lang="greek">ἔφη</foreign></note> πυθέσθαι τὰ τοιαῦτα ἐρωτήματα ποίου γένους
+                     εἴη καί τίς αὐτῶν τύπος: <q direct="unspecified">οὐ γάρ τι μικρόν</q> ἔφης <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἔφης</foreign> ιδεμ: <foreign lang="greek">ἔφησεν</foreign></note>
+                     <q direct="unspecified">τῆς ὁμιλητικῆς <milestone unit="tlnum" n="20" /> μόριον ἡ περὶ τὰς
+                        ἐρωτήσεις καὶ τὰς παιδιὰς τοῦ ἐμμελοῦς ἐπιστήμη καὶ τήρησις.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <pb id="v.4.p.52" />
+                  </div3></div2></div1></body></text></TEI.2>

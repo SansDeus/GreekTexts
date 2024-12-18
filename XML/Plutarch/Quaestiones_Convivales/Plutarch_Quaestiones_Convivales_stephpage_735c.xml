@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><div2 type="chapter" n="10" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-735c" n="735c" /> ὥσπερ αὖ πάλιν πρὸς ὀργώντων καὶ διακαομένων
+                     ἐκθρώσκοντα πολλὰ καὶ ταχὺ κομιζόμενα τὰς ἐμφάσεις <milestone unit="tlnum" n="15" /> νεαρὰς καὶ σημαντικὰς ἀποδίδωσιν. </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <p>εἶτα διαβλέψας πρὸς τοὺς περὶ τὸν Αὐτόβουλον καὶ μειδιάσας <q direct="unspecified">ἀλλ᾽
+                        ὁρῶ</q> εἶπεν <q direct="unspecified">ὑμᾶς οἵους τ᾽ ὄντας ἤδη σκιαμαχεῖν πρὸς τὰ
+                        εἴδωλα καὶ δόξῃ παλαιᾷ καθάπερ γραφῇ προσφέροντας ἁφὴν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀφὴν</foreign> ϝελ <foreign lang="greek">ἁφῆν</foreign> μει.
+                              <foreign lang="greek">βαφὴν</foreign> ρ</note> οἴεσθαί <milestone unit="tlnum" n="20" /> τι ποιεῖν</q> καὶ ὁ Αὐτόβουλος <q direct="unspecified">παῦε
+                        ποικίλλων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ποικίλων</foreign> μει</note></q> ἔφη <q direct="unspecified">πρὸς ἡμᾶς
+                        οὐ γὰρ ἀγνοοῦμεν, ὅτι τὴν Ἀριστοτέλους δόξαν εὐδοκιμῆσαι
+                        βουλόμενος ὥσπερ σκιὰν αὐτῇ τὴν Δημοκρίτου παραβέβληκας. ἐπ᾽
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐπ᾽</foreign> μαδϝιγιυς</note> ἐκείνην οὖν τρεψόμεθα κἀκείνῃ
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κἀκείνη</foreign> ϝελ <foreign lang="greek">κἀκείνην</foreign>
+                           μει</note> μαχούμεθα κατηγορούσῃ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κατηγοροῦσι</foreign> ϝελ <foreign lang="greek">προσηγορούση</foreign> ιιδεμ</note> τῶν <milestone unit="tlnum" n="25" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1338" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἐπεὶ δ᾽ ἔπαυσ᾽ εἰλαπίνας
+<lb />θεοῖς βροτείῳ τε γένει,
+<lb />Ζεὺς μειλίσσων στυγίους
+<lb rend="displayNum" n="1340" />ματρὸς ὀργὰς ἐνέπει:
+<lb />βᾶτε, σεμναὶ Χάριτες,
+<lb />ἴτε, τᾷ περὶ παρθένῳ
+<lb />Δηοῖ θυμωσαμένᾳ
+<lb />λύπαν ἐξαλλάξατ᾽ ἀλαλᾷ,
+<lb rend="displayNum" n="1345" />Μοῦσαί θ᾽ ὕμνοισι χορῶν.
+<lb />χαλκοῦ δ᾽ αὐδὰν χθονίαν
+<lb />τύπανά τ᾽ ἔλαβε βυρσοτενῆ
+<lb />καλλίστα τότε πρῶτα μακά
+<lb />ρων Κύπρις: γέλασέν τε θεὰ 
+<lb rend="displayNum" n="1350" />δέξατό τ᾽ ἐς χέρας
+<lb />βαρύβρομον αὐλὸν
+<lb />τερφθεῖσ᾽ ἀλαλαγμῷ.
+</p></sp></div2></div1></body></text></TEI.2>

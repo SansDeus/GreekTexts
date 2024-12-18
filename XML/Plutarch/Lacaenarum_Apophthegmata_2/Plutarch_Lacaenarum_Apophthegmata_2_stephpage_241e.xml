@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="11" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-241e" n="241e" /> δὲ αὐτὸν ἡ μήτηρ αὐτοῦ Τελευτία καὶ
+                     <milestone unit="tlnum" n="10" /> ἀκούσασα ὧν ἐνεκάλουν, ἐπεὶ ἐδόκει
+                  αὐτῇ ἁμαρτάνειν ὁ υἱός, ἐπέστειλεν <q direct="unspecified">ἁ μάτηρ Παιδαρήτῳ. ἢ
+                     βελτίονα πρᾶσσε ἢ αὖθι μένε, ἀπογνοὺς τὰν ἐς Σπάρταν
+                     σωτηρίαν.</q>
+               </p>
+            </div2>
+            <div2 type="section" n="12" org="uniform" sample="complete">
+               <p>ἑτέρα ἐπ᾽ ἀδικήματι τῷ παιδὶ κρινομένῳ <milestone unit="tlnum" n="15" />
+                  <q direct="unspecified">τέκνον</q> εἶπεν ἢ τᾶς αἰτίας; <q direct="unspecified">ἢ σεαυτὸν τοῦ ζῆν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἢ τὰς αἰτίας - ζῆν</foreign>] μαλιμ <foreign lang="greek">ἢ τᾶς αἰτίας σεαυτὸν ἢ τοῦ ζῆν</foreign></note>
+                     ἀπόλυσον.</q>
+               </p>
+            </div2>
+            <div2 type="section" n="13" org="uniform" sample="complete">
+               <p>ἄλλη χωλὸν υἱὸν ἐπὶ παράταξιν προπέμπουσα, <q direct="unspecified">τέκνον</q> εἶπε <q direct="unspecified">κατὰ
+                     βῆμα τῆς ἀρετῆς μέμνησο.</q>
+               </p>
+            </div2>
+            <milestone unit="tlnum" n="20" />
+            <div2 type="section" n="14" org="uniform" sample="complete">
+               <p>ἄλλη, τοῦ παιδὸς αὐτῇ ἀφικομένου ἀπὸ παρατάξεως τετρωμένου τὸν πόδα
+                  καὶ σφόδρα ἀλγοῦντος, <q direct="unspecified">ἐὰν τῆς ἀρετῆς</q> εἶπε <q direct="unspecified">μέμνῃ, ὦ
+                     τέκνον, καὶ ἄπονος ἔσῃ καὶ θαρρήσεις.</q>
+               </p>
+            </div2>
+            <div2 type="section" n="15" org="uniform" sample="complete">
+               <p>Λάκων τρωθεὶς ἐν πολέμῳ καὶ βαδίζειν μὴ <milestone unit="tlnum" n="25" />
+                  δυνάμενος, τετραποδιστὶ ὥδευεν. αἰσχυνομένῳ δ᾽ αὐτῷ ἐπὶ τῷ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐπὶ τῷ</foreign> ω: <foreign lang="greek">ἐν</foreign></note> γελοίῳ
+                  ἡ μήτηρ <q direct="unspecified">καὶ πόσῳ βέλτιον, ὦ <pb id="v.2.p.196" /> τέκνον</q> εἶπε
+                     <q direct="unspecified">μᾶλλον ἐπὶ τῇ ἀνδρείᾳ γεγηθέναι ἢ αἰσχύνεσθαι ἐπὶ γέλωτι
+                     ἀνοήτῳ;</q>
+               </p>
+            </div2>
+            <div2 type="section" n="16" org="uniform" sample="complete">
+               <p>ἄλλη προσαναδιδοῦσα τῷ παιδὶ τὴν ἀσπίδα καὶ παρακελευομένη
+                     <q direct="unspecified">τέκνον</q> ἔφη <q direct="unspecified">ἢ ταύταν ἢ ἐπὶ ταύτας.</q>
+               </p>
+            </div2>
+            <div2 type="section" n="17" org="uniform" sample="complete">
+               <milestone unit="tlnum" n="5" />
+               <p>ἄλλη προϊόντι τῷ υἱῷ ἐπὶ πόλεμον ἀναδιδοῦσα τὴν ἀσπίδα
+                     <q direct="unspecified">ταύτην</q> ἔφη <q direct="unspecified">ὁ πατήρ σοι ἀεὶ ἔσῳζε: καὶ σὺ οὖν ἢ
+                     ταύτην σῷζε ἢ μὴ ἔσο.</q>
+               </p>
+            </div2>
+            <div2 type="section" n="18" org="uniform" sample="complete">
+               <p>ἄλλη πρὸς τὸν υἱὸν λέγοντα μικρὸν ἔχειν τὸ ξίφος εἶπε <q direct="unspecified">καὶ βῆμα
+                     πρόσθες.</q>
+                  </p></div2></div1></body></text></TEI.2>

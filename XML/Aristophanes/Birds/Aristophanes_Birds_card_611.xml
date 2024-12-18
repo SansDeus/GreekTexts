@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Agon" org="uniform" sample="complete"><div2 type="antepirrheme" org="uniform" sample="complete"><sp><p><milestone ed="p" n="611" unit="card" /></p></sp></div2>
+<div2 type="pnigos" org="uniform" sample="complete">
+<sp><speaker>Πισθέταιρος</speaker><p>
+<lb />οὐ γὰρ πολλῷ;
+<lb />πρῶτον μέν <add>γ᾽</add> οὐχὶ νεὼς ἡμᾶς
+<lb />οἰκοδομεῖν δεῖ λιθίνους αὐτοῖς,
+<lb />οὐδὲ θυρῶσαι χρυσαῖσι θύραις,
+<lb rend="displayNum" n="615" />ἀλλ᾽ ὑπὸ θάμνοις καὶ πρινιδίοις
+<lb />οἰκήσουσιν. τοῖς δ᾽ αὖ σεμνοῖς
+<lb />τῶν ὀρνίθων δένδρον ἐλάας
+<lb />ὁ νεὼς ἔσται: κοὐκ ἐς Δελφοὺς
+<lb />οὐδ᾽ εἰς Ἄμμων᾽ ἐλθόντες ἐκεῖ
+<lb rend="displayNum" n="620" />θύσομεν, ἀλλ᾽ ἐν ταῖσιν κομάροις
+<lb />καὶ τοῖς κοτίνοις στάντες ἔχοντες
+<lb />κριθὰς πυροὺς εὐξόμεθ᾽ αὐτοῖς
+<lb />ἀνατείνοντες τὼ χεῖρ᾽ ἀγαθῶν
+<lb />διδόναι τι μέρος: καὶ ταῦθ᾽ ἡμῖν
+<lb rend="displayNum" n="625" />παραχρῆμ᾽ ἔσται
+<lb />πυροὺς ὀλίγους προβαλοῦσιν.</p></sp></div2></div1></body></text></TEI.2>

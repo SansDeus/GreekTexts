@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Prologue" org="uniform" sample="complete"><sp><p><milestone ed="p" n="82" unit="card" /></p></sp>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+<lb />ἥσυχος ἥσυχος, ἠρέμα, κάνθων:
+<lb />μή μοι σοβαρῶς χώρει λίαν
+<lb />εὐθὺς ἀπ᾽ ἀρχῆς ῥώμῃ πίσυνος,
+<lb rend="displayNum" n="85" />πρὶν ἂν ἰδίῃς καὶ διαλύσῃς
+<lb />ἄρθρων ἶνας πτερύγων ῥύμῃ.
+<lb />καὶ μὴ πνεῖ μοι κακόν, ἀντιβολῶ σ᾽:
+<lb />εἰ δὲ ποιήσεις τοῦτο, κατ᾽ οἴκους
+<lb />αὐτοῦ μεῖνον τοὺς ἡμετέρους.</p></sp>
+<sp>
+<speaker>Οἰκέτης Α</speaker><p>
+<lb rend="displayNum" n="90" />ὦ δέσποτ᾽ ἄναξ ὡς παραπαίεις.</p></sp>
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+<lb />σίγα σίγα.</p></sp>
+<sp>
+<speaker>Οἰκέτης Α</speaker><p>
+<lb />ποῖ δῆτ᾽ ἄλλως μετεωροκοπεῖς;</p></sp>
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+<lb />ὑπὲρ Ἑλλήνων πάντων πέτομαι
+<lb />τόλμημα νέον παλαμησάμενος.</p></sp>
+<sp>
+<speaker>Οἰκέτης Α</speaker><p>
+<lb rend="displayNum" n="95" />τί πέτει; τί μάτην οὐχ ὑγιαίνεις;</p></sp>
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+<lb />εὐφημεῖν χρὴ καὶ μὴ φλαῦρον
+<lb />μηδὲν γρύζειν ἀλλ᾽ ὀλολύζειν:
+<lb />τοῖς τ᾽ ἀνθρώποισι φράσον σιγᾶν,
+<lb />τοὺς τε κοπρῶνας καὶ τὰς λαύρας
+<lb rend="displayNum" n="100" />καιναῖς πλίνθοισιν ἀνοικοδομεῖν
+<lb />καὶ τοὺς πρωκτοὺς ἐπικλῄειν.</p></sp></div2>
+<div2 type="iambics" org="uniform" sample="complete">
+<sp>
+<speaker>Οἰκέτης Α</speaker><p>
+<lb />οὐκ ἔσθ᾽ ὅπως σιγήσομ᾽, ἢν μή μοι φράσῃς
+<lb />ὅποι πέτεσθαι διανοεῖ.</p></sp>
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+τί δ᾽ ἄλλο γ᾽ ἢ
+<lb />ὡς τὸν Δί᾽ ἐς τὸν οὐρανόν;</p></sp>
+<sp>
+<speaker>Οἰκέτης Α</speaker><p>
+τίνα νοῦν ἔχων;</p></sp>
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+<lb rend="displayNum" n="105" />ἐρησόμενος ἐκεῖνον Ἑλλήνων πέρι
+<lb />ἁπαξαπάντων ὅ τι ποιεῖν βουλεύεται.</p></sp>
+<sp>
+<speaker>Οἰκέτης Α</speaker><p>
+<lb />ἐὰν δὲ μή σοι καταγορεύῃ;</p></sp>
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+γράψομαι
+<lb />Μήδοισιν αὐτὸν προδιδόναι τὴν Ἑλλάδα.</p></sp>
+<sp>
+<speaker>Οἰκέτης Α</speaker><p>
+<lb />μὰ τὸν Διόνυσον οὐδέποτε ζῶντός γ᾽ ἐμοῦ.</p></sp>
+<sp>
+<speaker>Τρυγαῖος</speaker><p>
+<lb rend="displayNum" n="110" />οὐκ ἔστι παρὰ ταῦτ᾽ ἄλλ᾽.</p></sp>
+<sp>
+<speaker>Οἰκέτης Α</speaker><p>
+ἰοὺ ἰοὺ ἰού:
+<lb />ὦ παιδί᾽ ὁ πατὴρ ἀπολιπὼν ἀπέρχεται
+<lb />ὑμᾶς ἐρήμους ἐς τὸν οὐρανὸν λάθρᾳ.
+<lb />ἀλλ᾽ ἀντιβολεῖτε τὸν πατέρ ὦ κακοδαίμονα.</p></sp></div2>
+<div2 type="dactyls" org="uniform" sample="complete">
+<sp>
+<speaker>Παιδίον</speaker><p>
+<lb />ὦ πάτερ ὦ πάτερ ἆρ᾽ ἔτυμός γε
+<lb rend="displayNum" n="115" />δώμασιν ἡμετέροις φάτις ἥκει,
+<lb />ὡς σὺ μετ᾽ ὀρνίθων προλιρὼν ἐμὲ
+<lb />ἐς κόρακας βαδιεῖ μεταμώνιος;</p></sp></div2></div1></body></text></TEI.2>

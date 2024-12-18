@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><milestone ed="p" n="1153" unit="card" />
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ἀναχορεύσωμεν Βάκχιον,
+<lb />ἀναβοάσωμεν ξυμφορὰν
+<lb rend="displayNum" n="1155" />τὰν τοῦ δράκοντος Πενθέος ἐκγενέτα:
+<lb />ὃς τὰν θηλυγενῆ στολὰν
+<lb />νάρθηκά τε, πιστὸν Ἅιδαν,
+<lb />ἔλαβεν εὔθυρσον,
+<lb />ταῦρον προηγητῆρα συμφορᾶς ἔχων.
+<lb rend="displayNum" n="1160" />βάκχαι Καδμεῖαι,
+<lb />τὸν καλλίνικον κλεινὸν ἐξεπράξατε
+<lb />ἐς στόνον, ἐς δάκρυα.
+<lb />καλὸς ἀγών, χέρ᾽ αἵματι στάζουσαν
+<lb />περιβαλεῖν τέκνου.
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="8" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-683e" n="683e" /> καὶ μάλιστα τἀνδρὸς
+                        <note resp="ed" place="unspecified" anchored="yes">*: <foreign lang="greek">τοῦ ἀνδρὸς</foreign></note> οὐ καλλιγραφίας ἕνεκα τοῖς
+                     εὐπροσωποτάτοις τῶν ἐπιθέτων, ὥσπερ ἀνθηροῖς χρώμασι, τὰ πράγματα
+                     γανοῦν εἰωθότος, ἀλλ᾽ <milestone unit="tlnum" n="25" /> ἕκαστον οὐσίας
+                     τινὸς ἢ δυνάμεως δήλωμα <pb id="v.4.p.208" /> ποιοῦντος, οἷον
+                        <q direct="unspecified">ἀμφιβρότην χθόνα</q> τὸ τῇ ψυχῇ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τῇ
+                           ψυχῇ</foreign> τυρνεβυς: <foreign lang="greek">τὴν
+                        ψυχὴν</foreign></note> περικείμενον σῶμα, καί <q direct="unspecified">νεφεληγερέτην</q> τὸν
+                     ἀέρα καὶ <q direct="unspecified">πολυαίματον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πολυαίματον</foreign>] ϝιδ. μυλλαξη. 1 π. 9
+                           ϝς. 306 ετ αδνοτ. π. 12 ϝς. 415</note></q> τὸ ἧπαρ, </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <p>εἰπόντος οὖν ἐμοῦ ταῦτα, γραμματικοί τινες <milestone unit="tlnum" n="5" />
+                     </p></div3></div2></div1></body></text></TEI.2>

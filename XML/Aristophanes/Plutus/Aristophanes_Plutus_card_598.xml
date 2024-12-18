@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Agon" org="uniform" sample="complete"><div2 type="epirrheme" org="uniform" sample="complete"><sp><p><milestone ed="p" n="598" unit="card" /></p></sp></div2>
+<div2 type="pnigos" org="uniform" sample="complete">
+<sp><speaker>Χρεμύλος</speaker><p>
+<lb />ἀλλὰ φθείρου καὶ μὴ γρύξῃς
+<lb />ἔτι μηδ᾽ ὁτιοῦν.
+<lb rend="displayNum" n="600" />οὐ γὰρ πείσεις, οὐδ᾽ ἢν πείσῃς.</p></sp>
+<sp><speaker>Πενία</speaker><p>
+<lb />ὦ πόλις Ἄργους, κλύεθ᾽ οἷα λέγει.</p></sp>
+<sp><speaker>Χρεμύλος</speaker><p>
+<lb />Παύσωνα κάλει τὸν ξύσσιτον.</p></sp>
+<sp><speaker>Πενία</speaker><p>
+<lb />τί πάθω τλήμων;</p></sp>
+<sp><speaker>Χρεμύλος</speaker><p>
+<lb />ἔρρ᾽ ἐς κόρακας θᾶττον ἀφ᾽ ἡμῶν.</p></sp>
+<sp><speaker>Πενία</speaker><p>
+<lb rend="displayNum" n="605" />εἶμι δὲ ποῖ γῆς;</p></sp>
+<sp><speaker>Χρεμύλος</speaker><p>
+<lb />ἐς τὸν κύφων᾽: ἀλλ᾽ οὐ μέλλειν
+<lb />χρῆν σ᾽, ἀλλ᾽ ἀνύειν.</p></sp>
+<sp><speaker>Πενία</speaker><p>
+<lb />ἦ μὴν ὑμεῖς γ᾽ ἔτι μ᾽ ἐνταυθοῖ
+<lb />μεταπέμψεσθον.</p></sp>
+<sp><speaker>Χρεμύλος</speaker><p>
+<lb rend="displayNum" n="610" />τότε νοστήσεις: νῦν δὲ φθείρου.
+<lb />κρεῖττον γάρ μοι πλουτεῖν ἐστίν,
+<lb />σὲ δ᾽ ἐᾶν κλάειν μακρὰ τὴν κεφαλήν.</p></sp>
+<sp><speaker>Βλεψίδημος</speaker><p>
+<lb />νὴ Δί᾽ ἐγὼ γοῦν ἐθέλω πλουτῶν
+<lb />εὐωχεῖσθαι μετὰ τῶν παίδων
+<lb rend="displayNum" n="615" />τῆς τε γυναικός, καὶ λουσάμενος
+<lb />λιπαρὸς χωρῶν ἐκ βαλανείου
+<lb />τῶν χειροτεχνῶν
+<lb />καὶ τῆς Πενίας καταπαρδεῖν.</p></sp></div2></div1>
+<div1 type="Episode" org="uniform" sample="complete">
+<sp>
+<speaker>Χρεμύλος</speaker><p>
+<lb />αὕτη μὲν ἡμῖν ἡπίτριπτος οἴχεται.
+<lb rend="displayNum" n="620" />ἐγὼ δὲ καὶ σύ γ᾽ ὡς τάχιοτα τὸν θεὸν
+<lb />ἐγκατακλινοῦντ᾽ ἄγωμεν εἰς Ἀσκληπιοῦ.</p></sp>
+<sp>
+<speaker>Βλεψίδημος</speaker><p>
+<lb />καὶ μὴ διατρίβωμέν γε, μὴ πάλιν τις αὖ
+<lb />ἐλθὼν διακωλύσῃ τι τῶν προὔργου ποιεῖν.</p></sp>
+<sp>
+<speaker>Χρεμύλος</speaker><p>
+<lb />παῖ Καρίων τὰ στρώματ᾽ ἐκφέρειν σ᾽ ἐχρῆν
+<lb rend="displayNum" n="625" />αὐτόν τ᾽ ἄγειν τὸν Πλοῦτον, ὡς νομίζεται,
+<lb />καὶ τἄλλ᾽ ὅσ᾽ ἐστὶν ἔνδον ηὐτρεπισμένα.</p></sp></div1></body></text></TEI.2>

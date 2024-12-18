@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><div2 type="chapter" n="3" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-638b" n="638b" />
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="4" org="uniform" sample="complete">
+               <head>Εἰ πρεσβύτατον ἡ πάλη τῶν ἀγωνισμάτων.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="5" />
+                  <p>Σωσικλέα τὸν Κορωνῆθεν, Πυθίοις νενικηκότα ποιητάς, εἱστιῶμεν τὰ
+                     ἐπινίκια. τοῦ δὲ γυμνικοῦ ἀγῶνος ἐγγὺς ὄντος, ὁ πλεῖστος ἦν
+                     λόγος περὶ τῶν παλαιστῶν πολλοὶ γὰρ ἐτύγχανον ἀφιγμένοι καὶ
+                     ἔνδοξοι. παρὼν οὖν ὁ Λυσίμαχος, εἷς τῶν <milestone unit="tlnum" n="10" />Ἀμφικτυόνων <note resp="ed" place="unspecified" anchored="yes">εμ. ρ: <foreign lang="greek">ἀρχαιοτέραν</foreign></note> ἐπιμελητής,
+                     ἔναγχος ἔφη γραμματικοῦ τινος ἀκοῦσαι τὴν πάλην ἀρχαιοτάτην
+                     ἀθλημάτων πάντων ἀποφαίνοντος, ὡς καὶ τοὔνομα μαρτυρεῖν ἐπιεικῶς
+                     γὰρ ἀπολαύειν τὰ νεώτερα πράγματα κειμένων </p></div3></div2></div1></body></text></TEI.2>

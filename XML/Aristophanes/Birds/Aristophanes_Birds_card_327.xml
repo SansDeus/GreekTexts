@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parodos" org="uniform" sample="complete"><div2 type="lyric" org="uniform" sample="complete"><sp><p><milestone ed="p" n="327" unit="card" /></p></sp></div2></div1>
+<div1 type="Agon" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἔα ἔα,
+<lb />προδεδόμεθ᾽ ἀνόσιά τ᾽ ἐπάθομεν:
+<lb />ὃς γὰρ φίλος ἦν ὁμότροφά θ᾽ ἡμῖν
+<lb rend="displayNum" n="330" />ἐνέμετο πεδία παρ᾽ ἡμῖν,
+<lb />παρέβη μὲν θεσμοὺς ἀρχαίους,
+<lb />παρέβη δ᾽ ὅρκους ὀρνίθων:
+<lb />ἐς δὲ δόλον ἐκάλεσε, παρέβαλέ τ᾽ ἐμὲ παρὰ
+<lb />γένος ἀνόσιον, ὅπερ ἐξότ᾽ ἐγένετ᾽ ἐπ᾽ ἐμοὶ
+<lb rend="displayNum" n="335" />πολέμιον ἐτράφη. </p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="1" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-783b" n="783b" />
+               <p>ὅτι μέν, ὦ Εὔφανες, ἐπαινέτης ὢν Πινδάρου πολλάκις ἔχεις διὰ
+                  στόματος ὡς εἰρημένον εὖ καὶ πιθανῶς ὑπ᾽ αὐτοῦ <milestone unit="tlnum" n="5" />
+                  <quote rend="blockquote">
+                     <l>τιθεμένων ἀγώνων πρόφασις </l> <note resp="ed" place="unspecified" anchored="yes">βεργκ. 1 π. 456</note>
+                     <l>ἀρετὰν <note resp="ed" place="unspecified" anchored="yes">αντε <foreign lang="greek">ἀρετὰν</foreign> 'αλιθυιδ ιντερξιδισσε νυμερυς ϝερσυς αργυιτ᾽ βεργκιυς</note> ἐς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐς</foreign> πινδαρυς: <foreign lang="greek">εἰς</foreign></note> αἰπὺν ἔβαλε σκότον</l>
+                  </quote> οὐκ ἀγνοοῦμεν. ἐπειδὴ δὲ πλείστας αἱ πρὸς τοὺς πολιτικοὺς
+                  ἀγῶνας ἀποκνήσεις καὶ μαλακίαι προφάσεις ἔχουσαι τελευταίαν ὥσπερ τὴν
+                  <q direct="unspecified">ἀφ᾽ ἱερᾶς</q> <note resp="ed" place="unspecified" anchored="yes">ξφ. λευτσξη. 2 π. 320</note> ἐπάγουσιν <milestone unit="tlnum" n="10" /> ἡμῖν τὸ
+                  γῆρας, καὶ μάλιστα δὴ τούτῳ τὸ φιλότιμον ἀμβλύνειν καὶ δυσωπεῖν
+                  δοκοῦσαι πείθουσιν εἶναί τινα πρέπουσαν οὐκ ἀθλητικῆς μόνον </p></div2></div1></body></text></TEI.2>

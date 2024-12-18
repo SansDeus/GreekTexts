@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="7" org="uniform" sample="complete"><div2 type="chapter" n="8" org="uniform" sample="complete"><div3 type="section" n="4" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-714a" n="714a" />
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="9" org="uniform" sample="complete">
+               <head>ὅτι βουλεύεσθαι παρὰ πότον οὐχ ἧττον ἦν Ἑλληνικὸν ἢ
+                  Περσικόν.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="5" />
+                  <p>περὶ ὧν ἔμελλον ἐκκλησιάζειν Ἀθηναῖοι λόγος ἦν παρὰ τὸ δεῖπνον,
+                     ἑστιῶντος ἡμᾶς Νικοστράτου: καί τινος εἰπόντος ὡς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὡς</foreign>] δελ.
+                        ρ</note>
+                     <q direct="unspecified">Περσικὸν πρᾶγμα ποιοῦμεν, ὦ ἄνδρες, βουλευόμενοι παρ᾽ οἶνον:</q>
+                     <q direct="unspecified">τί <milestone unit="tlnum" n="10" /> μᾶλλον</q> ἔφη ὁ Γλαυκίας
+                     ὑπολαβών <q direct="unspecified">ἢ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἢ</foreign> βασιλεενσις</note> Ἑλληνικόν; Ἕλλην
+                        μὲν γὰρ ἦν ὁ εἰπών <quote rend="blockquote">γαστρὸς ἀπὸ πλείης
+                           βουλὴ καὶ μῆτις ἀμείνων:</quote>
+                        <note resp="ed" place="unspecified" anchored="yes">ξφ. π. 700ε</note>
+                        Ἕλληνες δὲ σὺν Ἀγαμέμνονι Τροίαν ἐπολιόρκουν, οἷς φαγοῦσι
+                        καὶ πιοῦσιν <milestone unit="tlnum" n="15" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="11" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-31e" n="31e" /> ἀμελῶς
+                  ἀκούειν, ἀλλὰ τὴν μὲν Κλεάνθους παιδιὰν <milestone unit="tlnum" n="10" />
+                  παραιτεῖσθαι: κατειρωνεύεται γὰρ ἔστιν ὅτε προσποιούμενος ἐξηγεῖσθαι τὸ
+                     <quote rend="blockquote">
+                        <l>Ζεῦ πάτερ Ἴδηθεν μεδέων</l> <note resp="ed" place="unspecified" anchored="yes">ηομερ. <foreign lang="greek">Γ</foreign> 320</note>
+                  </quote> καὶ τὸ <quote rend="blockquote">
+                     <l>Ζεῦ ἄνα Δωδωναῖε</l> <note resp="ed" place="unspecified" anchored="yes">ιδ. <foreign lang="greek">Π</foreign> 233</note>
+                  </quote>
+                  <milestone unit="tlnum" n="15" /> κελεύων ἀναγιγνώσκειν ὑφ᾽ ἕν, ὡς τὸν ἐκ
+                  τῆς γῆς ἀναθυμιώμενον ἀέρα διὰ τὴν ἀνάδοσιν ἀναδωδωναῖον ὄντα. καὶ
+                  Χρύσιππος δὲ πολλαχοῦ γλίσχρος ἐστίν, οὐ παίζων ἀλλ᾽ εὑρησιλογῶν
+                  ἀπιθάνως, καὶ παραβιαζόμενος εὐρύοπα Κρονίδην εἶναι τὸν δεινὸν
+                     <milestone unit="tlnum" n="20" /> ἐν τῷ διαλέγεσθαι καὶ διαβεβηκότα τῇ
+                  δυνάμει τοῦ λόγου. βέλτιον δὲ ταῦτα τοῖς γραμματικοῖς παρέντας </p></div2></div1></body></text></TEI.2>

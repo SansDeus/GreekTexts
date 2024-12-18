@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="574" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="4" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />δι᾽  αἰῶνος κρέων ἀπαύστου
+<lb rend="displayNum" n="575" />Ζεὺς<gap />
+<lb />Διὸς δ᾽ ἀπημάντῳ σθένει
+<lb />καὶ θείαις ἐπιπνοίαις
+<lb />παύεται, δακρύων δ᾽ ἀπο-
+<lb />στάζει πένθιμον αἰδῶ.
+<lb rend="displayNum" n="580" />λαβοῦσα δ᾽ ἕρμα Δῖον ἀψευδεῖ λόγῳ
+<lb />γείνατο παῖδ᾽ ἀμεμφῆ,
+</p></sp></div2></div1></body></text></TEI.2>

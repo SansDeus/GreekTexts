@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parabasis" org="uniform" sample="complete"><div2 type="pnigos" org="uniform" sample="complete"><sp><p><milestone ed="p" n="774" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />Μοῦσα σὺ μὲν πολέμους ἀπωσαμένη μετ᾽ ἐμοῦ
+<lb rend="displayNum" n="775" />τοῦ φίλου χόρευσον,
+<lb />κλείουσα θεῶν τε γάμους ἀνδρῶν τε δαῖτας
+<lb rend="displayNum" n="780" />καὶ θαλίας μακάρων: σοὶ γὰρ τάδ᾽ ἐξ ἀρχῆς μέλει.
+<lb />ἢν δέ σε Καρκίνος ἐλθὼν
+<lb />ἀντιβολῇ μετὰ τῶν παίδων χορεῦσαι,
+<lb rend="displayNum" n="785" />μήθ᾽ ὑπάκουε μήτ᾽ ἔλθῃς
+<lb />συνέριθος αὐτοῖς,
+<lb />ἀλλὰ νόμιζε πάντας
+<lb />ὄρτυγας οἰκογενεῖς γυλιαύχενας ὀρχηστὰς
+<lb rend="displayNum" n="790" />ναννοφυεῖς σφυράδων ἀποκνίσματα μηχανοδίφας.
+<lb />καὶ γὰρ ἔφασχ᾽ ὁ πατὴρ ὃ παρ᾽ ἐλπίδας
+<lb rend="displayNum" n="795" />εἶχε τὸ δρᾶμα γαλῆν τῆς ἑσπέρας ἀπάγξαι.
+</p></sp></div2></div1></body></text></TEI.2>

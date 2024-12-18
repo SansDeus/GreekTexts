@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" n="84" org="uniform" sample="complete"><div2 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-202c" n="202c" />
+                  <milestone unit="tlnum" n="20" /> κελεύσας ὁ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὁ</foreign> *: <foreign lang="greek">οὗν ὁ</foreign></note> Μάριος τὸν ἐπὶ ταῖς
+                  ἀριστείαις διδόμενον στέφανον κομισθῆναι τῷ Τρεβωνίῳ περιέθηκε. </p>
+            </div2>
+            <div2 type="section" n="4" org="uniform" sample="complete">
+               <p>τοῖς δὲ Τεύτοσι παραστρατοπεδεύσας ἐν χωρίῳ ὀλίγον ὕδωρ ἔχοντι, τῶν
+                  στρατιωτῶν διψῆν <milestone unit="tlnum" n="25" /> λεγόντων, δείξας αὐτοῖς
+                  ποταμὸν ἐγγὺς ῥέοντα τῷ χάρακι τῶν πολεμίων <q direct="unspecified">ἐκεῖθεν ὑμῖν
+                     ἔστιν</q> εἶπε <pb id="v.2.p.84" />
+                  <q direct="unspecified">ποτὸν ὤνιον αἵματος.</q> οἱ δὲ ἄγειν παρεκάλουν, ἕως ὑγρὸν
+                  ἔχωσι τὸ αἷμα καὶ μήπω πᾶν ὑπὸ τοῦ διψῆν ἐκπεπηγός </p>
+            </div2>
+            <div2 type="section" n="5" org="uniform" sample="complete">
+               <p>ἐν δὲ τοῖς Κιμβρικοῖς πολέμοις Καμαρίνων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Καμερίνων</foreign> ϝιτ. μαρ ξ. 28</note> <milestone unit="tlnum" n="5" />
+                  </p></div2></div1></body></text></TEI.2>

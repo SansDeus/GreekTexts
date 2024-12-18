@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="6" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-830b" n="830b" />
+                  γράμματα διδάσκων, καὶ παιδαγωγῶν, καὶ θυρωρῶν, πλέων, παραπλέων οὐδέν
+                  ἐστι τούτων αἴσχιον οὐδὲ δυσχερέστερον τοῦ ἀκοῦσαι <q direct="unspecified">ἀπόδος</q>
+               </p>
+            </div2>
+            <div2 type="section" n="7" org="uniform" sample="complete">
+               <p>ὁ Ῥουτίλιος ἐκεῖνος ἐν Ῥώμῃ τῷ Μουσωνίῳ <milestone unit="tlnum" n="25" /> προσελθὼν <q direct="unspecified">Μουσώνιε</q> εἶπεν <q direct="unspecified">ὁ Ζεὺς ὁ σωτήρ, ὃν σὺ
+                     μιμῇ καὶ ζηλοῖς, οὐ δανείζεται</q> καὶ ὁ Μουσώνιος μειδιάσας εἶπεν
+                     <q direct="unspecified"> οὐδὲ δανείζει</q> ὁ γὰρ <pb id="v.5.p.141" /> Ῥουτίλιος, δανείζων
+                  αὐτὸς ὠνείδιζεν ἐκείνῳ δανειζομένῳ. Στωική <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Στωϊκή</foreign> ω: <foreign lang="greek">ὡς στωϊκή</foreign></note> τις αὕτη τυφομανία: τί
+                  γάρ σε δεῖ <note resp="ed" place="unspecified" anchored="yes">ιβ. <foreign lang="greek">σ᾽ ἔδει</foreign> ρ πραετερ νεξεσσιτατεμ</note> τὸν Δία τὸν σωτῆρα κινεῖν, αὐτόθεν ὑπομνῆσαι τοῖς
+                  φαινομένοις ἐνόν; οὐ,δανείζονται χελιδόνες, οὐ δανείζονται <milestone unit="tlnum" n="5" /> μύρμηκες, οἷς ἡ φύσις οὐ χεῖρας, οὐ λόγον,
+                     </p></div2></div1></body></text></TEI.2>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-651c" n="651c" /> τῶν
+                        παίδων ὀργῶσι πρότερον καὶ σαλεύονται πρὸς τὸ γεννᾶν, οὐδ᾽ αὕτη
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὕτη</foreign> ρ: <foreign lang="greek">αὐτὴ</foreign></note> τις
+                        ἀσθενὴς ἀπόδειξις <milestone unit="tlnum" n="5" /> ἂν εἴη τῆς
+                        θερμότητος. ἔτι δὲ μείζων καὶ πιθανωτέρα τὸ πρὸς τὰ κρύη καὶ
+                        τοὺς χειμῶνας εὐφόρως ἔχειν: ἧττον γὰρ αἱ πλεῖσται ῥιγοῦσι τῶν
+                        ἀνδρῶν καὶ παντάπασιν ἱματίων ὀλίγων δέονται.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <p>
+                     <q direct="unspecified">ἀλλ᾽ ἀπ᾽ αὐτῶν οἶμαι τούτων</q> ὁ Φλῶρος <milestone unit="tlnum" n="10" /> ἔφη <q direct="unspecified">τῶν ἐπιχειρημάτων ἐλέγχεσθαι τὸ δόγμα. πρῶτον μὲν
+                        γὰρ ἀντέχουσι τῷ ψύχει μᾶλλον, ὅτι πολλάκις τὸ ὅμοιον ὑπὸ
+                        τοῦ ὁμοίου δυσπαθέστερόν ἐστιν: ἔπειτα μέντοι καὶ τὸ σπέρμα μὴ
+                        προγεγονέναι <note resp="ed" place="unspecified" anchored="yes">συππλενδυμ
+                           ϝιδ. αυτ <foreign lang="greek">προγεγονέναι φαίνεται</foreign> αυτ
+                              <foreign lang="greek">ἀπὸ τοῦ ἄρρενος εἰκός</foreign></note>
+                        τὸ γόνιμον διὰ κατάψυξιν, ἀλλ᾽ ὕλην μόνον <milestone unit="tlnum" n="15" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

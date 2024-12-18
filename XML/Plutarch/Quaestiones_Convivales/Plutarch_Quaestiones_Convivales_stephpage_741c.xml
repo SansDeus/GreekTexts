@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="6" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-741c" n="741c" /> ἡττώ <gap /> <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀλλ᾽ ἡττώ ** ὅρκοις</foreign>] ιτα λιβρι; δε λαξυνα ϝιδ. πραεφατ. π. χλιι; ξφ. σψμβ.</note>
+                     </q>
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="7" org="uniform" sample="complete">
+               <head>Τίς αἰτία τῆς εἰς τριάδα διαιρέσεως τῶν μελῶν.</head>
+               <p />
+            </div2>
+            <div2 type="chapter" n="8" org="uniform" sample="complete">
+               <head> Τίνι διαφέρει τὰ ἐμμελῆ διαστήματα τῶν συμφώνων.</head>
+               <p />
+               <pb id="v.4.p.373" />
+            </div2>
+            <div2 type="chapter" n="9" org="uniform" sample="complete">
+               <head>Τίς αἰτία συμφωνήσεως ἐν ᾧ καί, διὰ τί, τῶν συμφώνων ὁμοῦ
+                  κρουομένων, τοῦ βαρυτέρου γίγνεται τὸ μέλος.</head>
+               <p />
+            </div2>
+            <div2 type="chapter" n="10" org="uniform" sample="complete">
+               <head>
+                  <milestone unit="tlnum" n="5" />διὰ τί, τῶν ἐκλειπτικῶν περιόδων ἡλίου καὶ
+                  σελήνης ἰσαρίθμων ὄντων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὄντων</foreign>] ξορρ. ϝιδ. <foreign lang="greek">οὐσῶν</foreign></note>, ἡ σελήνη φαίνεται πλεονάκις ἐκλείπουσα τοῦ
+                  ἡλίου.</head>
+               <p />
+            </div2>
+            <div2 type="chapter" n="11" org="uniform" sample="complete">
+               <head> Περὶ τοῦ μὴ τοὺς αὐτοὺς μένειν ἡμᾶς, ἀεὶ τῆς οὐσίας <milestone unit="tlnum" n="10" /> ῥεούσης.</head>
+               <p />
+            </div2>
+            <div2 type="chapter" n="12" org="uniform" sample="complete">
+               <head>Πότερόν ἐστι πιθανώτερον τὸ ἀρτίους εἶναι τοὺς σύμπαντας ἀστέρας
+                  ἢ περιττούς.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>
+                     <q direct="unspecified">
+                        <gap /> ὅρκοις δ᾽ ἄνδρας ἐξαπατητέον.</q> καὶ ὁ Γλαυκίας <milestone unit="tlnum" n="15" />
+                     <q direct="unspecified">ἐγὼ μέν</q> ἔφη <q direct="unspecified">κατὰ Πολυκράτους ἀκήκοα τοῦ τυράννου
+                        λεγόμενον τὸν λόγον τοῦτον: εἰκὸς δὲ καὶ καθ᾽ ἑτέρων λέγεσθαι:
+                        σὺ δὲ πρὸς τί τοῦτ᾽ ἐρωτᾷς;</q>
+                     <q direct="unspecified">ὅτι νὴ Δί᾽</q> ὁ Σῶσπις ἔφη <q direct="unspecified">τοὺς μὲν παῖδας <pb id="v.4.p.374" /> ἀστραγάλοις ὁρῶ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὁρῶν</foreign> μει</note> τοὺς δ᾽ Ἀκαδημαϊκοὺς λόγοις
+                        ἀρτιάζοντας <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">λόγοις ἀρτιάζοντας</foreign> ω: <foreign lang="greek">λόγους ἀρπάζοντας</foreign></note>: οὐδὲν γὰρ οἱ τοιοῦτοι στόμαχοι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">στόμαχοι</foreign>] <foreign lang="greek">λογομάχοι</foreign> δοεηνερυς</note> διαφέρουσι τῶν
+                        ἐρωτώντων, πότερον ἄρτια τῇ χειρὶ συνειληφότες ἢ περιττὰ
+                        συντείνουσιν</q> ἐπαναστὰς οὖν ὁ Πρωτογένης <milestone unit="tlnum" n="5" /> καί με καλέσας ἐξ ὀνόματος <q direct="unspecified">τί παθόντες </q>
+                     </p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-640b" n="640b" />
+            <div2 type="chapter" n="6" org="uniform" sample="complete">
+               <head>Διὰ τί πεύκη καὶ πίτυς καὶ τὰ ὅμοια τούτοις οὐκ <milestone unit="tlnum" n="20" /> ἐνοφθαλμιάζεται. <note resp="ed" place="unspecified" anchored="yes">ιν λεμματε μαλιμ <foreign lang="greek">ἐνοφθαλμίζεται</foreign></note></head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>Σώκλαρος ἑστιῶν ἡμᾶς ἐν κήποις ὑπὸ τοῦ Κηφισοῦ ποταμοῦ
+                     περιρρεομένοις ἐπεδείκνυτο δένδρα παντοδαπῶς πεποικιλμένα τοῖς
+                     λεγομένοις <pb id="v.4.p.81" /> ἐνοφθαλμισμοῖς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐνόφθαλμις</foreign> σιξ ϝδ <foreign lang="greek">ἐν
+                           ὀφθάλμοις</foreign> ρ</note>: καὶ γὰρ ἐκ σχίνων ἐλαίας
+                     ἀναβλαστανούσας ἑωρῶμεν καὶ ῥοιὰς ἐκ μυρρίνης: ἦσαν δὲ καὶ δρύες
+                     ἀπίους ἀγαθὰς ἐκφέρουσαι καὶ πλάτανοι μηλεῶν </p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="lyric" org="uniform" sample="complete"><sp><p><milestone ed="p" n="278" unit="card" />
+</p></sp>
+<sp>
+<speaker>Ἑκάβη</speaker><p>
+<lb />ἒ ἔ.
+<lb />ἄρασσε κρᾶτα κούριμον,
+<lb rend="displayNum" n="280" />ἕλκ᾽ ὀνύχεσσι δίπτυχον παρειάν.
+<lb />ἰώ μοί μοι.
+<lb />μυσαρῷ δολίῳ λέλογχα φωτὶ δουλεύειν,
+<lb />πολεμίῳ δίκας, παρανόμῳ δάκει,
+<lb rend="displayNum" n="285" />ὃς πάντα τἀκεῖθεν ἐνθάδ<add>ε στρέφει, τὰ δ᾽</add>
+<lb />ἀντίπαλ᾽ αὖθις ἐκεῖσε διπτύχῳ γλώσσᾳ
+<lb />φίλα τὰ πρότερ᾽ ἄφιλα τιθέμενος πάντων.
+<lb />γοᾶσθ᾽, ὦ Τρῳάδες, με.
+<lb />βέβακα δύσποτμος. <del status="unremarkable">οἴχομαι</del> ἁ
+<lb rend="displayNum" n="290" />τάλαινα, δυστυχεστάτῳ
+<lb />προσέπεσον κλήρῳ.
+</p></sp>
+</div2></div1></body></text></TEI.2>

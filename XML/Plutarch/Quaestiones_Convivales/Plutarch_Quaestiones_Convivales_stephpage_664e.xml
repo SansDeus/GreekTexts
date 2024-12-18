@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="4" org="uniform" sample="complete"><div2 type="chapter" n="2" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-664e" n="664e" /> καθαρὸν τοῦ πυρὸς ἄπεισιν ἀστραπὴ
+                     γενόμενον, τὸ δ᾽ ἐμβριθὲς καὶ πνευματῶδες ἐνειλούμενον τῷ νέφει
+                        <milestone unit="tlnum" n="25" /> καὶ συμμεταβάλλον ἐξαιρεῖ <note resp="ed" place="unspecified" anchored="yes">εμ. εμπεριυς: <foreign lang="greek">ἐξαιρεῖ</foreign></note> τὴν ψυχρότητα καὶ <pb id="v.4.p.152" /> συνεκπονεῖ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">συνεκπονεῖ</foreign> *: <foreign lang="greek">συνεκπίνει</foreign> ξφ. χεν. ξψρ. 1, 2, 16: <foreign lang="greek">ἐκπονοῦντες τὸ ὑγρόν</foreign></note> τὸ ὑγρόν:
+                     ὥστε μάλιστα τὸ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τὸ μάλιστα</foreign> αυτ <foreign lang="greek">μάλιστα</foreign> ρ</note> προσηνὲς ἐνδύεσθαι τοῖς βλαστάνουσι
+                     καὶ ταχὺ παχύνειν. ἐπεὶ δὲ καὶ κράσεων ἰδιότητα καὶ χυμοῦ διαφορὰν
+                     ἐμποιεῖ <note resp="ed" place="unspecified" anchored="yes">ρ: <foreign lang="greek">ἐμποιεῖν</foreign></note> τὰ τοιαῦτα τοῖς ἀρδομένοις
+                        <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀρχομένοις</foreign> μει</note>: ὥσπερ αἵ τε <milestone unit="tlnum" n="5" /> δρόσοι γλυκυτέραν ποιοῦσι τοῖς θρέμμασι τὴν
+                     πόαν, </p></div3></div2></div1></body></text></TEI.2>

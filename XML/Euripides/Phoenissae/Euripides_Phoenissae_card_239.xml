@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="mesode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="239" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />νῦν δέ μοι πρὸ τειχέων
+<lb rend="displayNum" n="240" />θούριος μολὼν Ἄρης
+<lb />αἷμα δάιον φλέγει
+<lb />τᾷδ᾽, ὃ μὴ τύχοι, πόλει:
+<lb />κοινὰ γὰρ φίλων ἄχη,
+<lb />κοινὰ δ᾽, εἴ τι πείσεται
+<lb rend="displayNum" n="245" />ἑπτάπυργος ἅδε γᾶ,
+<lb />Φοινίσσᾳ χώρᾳ. φεῦ φεῦ.
+<lb />κοινὸν αἷμα, κοινὰ τέκεα
+<lb />τᾶς κερασφόρου πέφυκεν Ἰοῦς:
+<lb />ὧν μέτεστί μοι πόνων.
+</p></sp></div2></div1></body></text></TEI.2>

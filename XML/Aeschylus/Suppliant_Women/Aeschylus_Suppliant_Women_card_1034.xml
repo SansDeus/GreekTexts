@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1034" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker><add>Χορός Θεραπαινῶν</add></speaker><p>
+<lb />Κύπριδος <add>δ᾽</add> οὐκ ἀμελεῖ θεσμὸς ὅδ᾽ εὔφρων
+<lb rend="displayNum" n="1035" />δύναται γὰρ Διὸς ἄγχιστα σὺν Ἥρᾳ.
+<lb />τίεται δ᾽ αἰολόμητις
+<lb />θεὸς ἔργοις ἐπὶ σεμνοῖς.
+<lb />μετάκοινοι δὲ φίλᾷ ματρὶ πάρεισιν
+<lb />Πόθος <add>ᾇ</add> τ᾽ οὐδὲν ἄπαρνον
+<lb rend="displayNum" n="1040" />τελέθει θέλκτορι Πειθοῖ.
+<lb />δέδοται δ᾽ Ἁρμονίᾳ μοῖρ᾽ Ἀφροδίτας
+<lb />ψεδυρᾷ τρίβῳ τ᾽ Ἐρώτων.
+</p></sp></div2></div1></body></text></TEI.2>

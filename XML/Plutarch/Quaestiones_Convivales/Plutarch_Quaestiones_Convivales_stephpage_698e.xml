@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="7" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-698e" n="698e" /> πρωτογένης ἔφη
+                        <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἔφη</foreign> τυρνεβυς</note> συνεωρακέναι πρῶτον Ὅμηρον, ὅτι
+                     τῆς μὲν τροφῆς ὁ στόμαχος ἀγγεῖόν ἐστι, τοῦ δὲ πνεύματος ὁ
+                     βρόγχος, ὃν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὁ</foreign> ρ</note> ἀσφάραγον ἐκάλουν οἱ παλαιοί:
+                     διὸ καὶ τοὺς μεγαλοφώνους <q direct="unspecified">ἐρισφαράγους</q> ἐπονομάζειν εἰώθασιν:
+                     εἰπὼν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">εἶπεν</foreign> ω</note> οὖν ὅτι τοῦ Ἕκτορος
+                        <milestone unit="tlnum" n="10" /> ὁ Ἀχιλλεὺς ἤλασε <quote rend="blockquote">
+                        <l>λευκανίην, ἵνα τε ψυχῆς ὤκιστος ὄλεθρος: </l>
+                        <note resp="ed" place="unspecified" anchored="yes">ηομ. χ 325. 328.
+                           329</note>
+                        <l>οὐδ᾽ ἄρ᾽ ἀπ᾽ ἀσφάραγον μελίη τάμε χαλκοβάρεια, </l>
+                        <l>ὄφρα τί μιν προτιείποι ἀμειβόμενος ἐπέεσσιν.</l>
+                     </quote> ὡς τὸν ἀσφάραγον ὄντα φωνῆς ἴδιον ὀχετὸν καὶ <milestone unit="tlnum" n="15" /> πνεύματος, τὴν δὲ λευκανίην: ἐσέθηκα. </p>
+                  <note resp="ed" place="unspecified" anchored="yes">λοξυμ μυτιλυμ συππλετ ω ιτα:
+                        <foreign lang="greek">τὴν δὲ λευκανίην τροφῆς ἀγγεῖον λέγει ἐν
+                        τούτοις 'νῦν δὴ καὶ σίτου πασάμην καὶ αἴθοπα οἶνον λευκανίην
+                        ἐσίθηκα᾽</foreign> σεδ ιν ηομ. <foreign lang="greek">Ω</foreign> 642 εστ:
+                        <foreign lang="greek">λαυκανίης καθέηκα</foreign> συππλεϝεριμ: <foreign lang="greek">τὴν δὲ λευκανίην</foreign> [<foreign lang="greek">λέγει
+                        πόρον τροφῆς ὡς ἐν τούτοις 'νῦν δὲ καὶ σίτου -
+                     λευκανίης</foreign>] <foreign lang="greek">καθέηκα</foreign>' υνδε σιγναϝι
+                     λαξυναμ</note>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <p>γενομένης οὖν ἐπὶ τῷ λόγῳ σιωπῆς, ὁ Φλῶρος εἶπεν οὕτως <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">εἶθ᾽
+                           οὕτως</foreign> ρ</note>
+                     <q direct="unspecified">ὑφησόμεθα τοῦ Πλάτωνος ἐρήμην ὀφλισκάνοντος;</q>
+                     <q direct="unspecified">οὐχ ἡμεῖς γ᾽</q> ἔφην ἐγώ: <q direct="unspecified">προησόμεθα </q></p></div3></div2></div1></body></text></TEI.2>

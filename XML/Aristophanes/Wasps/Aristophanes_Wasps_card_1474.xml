@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="antistrophe" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1474" unit="card" /></p></sp></div2></div1>
+<div1 type="Episode" org="uniform" sample="complete">
+<sp><speaker>Ξανθίας</speaker><p>
+<lb />νὴ τὸν Διόνυσον ἄπορά γ᾽ ἡμῖν πράγματα
+<lb rend="displayNum" n="1475" />δαίμων τις ἐσκεκύκληκεν ἐς τὴν οἰκίαν.
+<lb />ὁ γὰρ γέρων ὡς ἔπιε διὰ πολλοῦ χρόνου
+<lb />ἤκουσέ τ᾽ αὐλοῦ, περιχαρὴς τῷ πράγματι
+<lb />ὀρχούμενος τῆς νυκτὸς οὐδὲν παύεται
+<lb />τἀρχαἶ ἐκεῖν᾽ οἷς Θέσπις ἠγωνίζετο:
+<lb rend="displayNum" n="1480" />καὶ τοὺς τραγῳδούς φησιν ἀποδείξειν κρόνους
+<lb />τοὺς νῦν διορχησάμενος ὀλίγον ὕστερον.</p></sp>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+<lb />τίς ἐπ᾽ αὐλείοισι θύραις θάσσει;</p></sp>
+<sp>
+<speaker>Ξανθίας</speaker><p>
+<lb />τουτὶ καὶ δὴ χωρεῖ τὸ κακόν.</p></sp>
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+<lb />κλῇθρα χαλάσθω τάδε. καὶ δὴ γὰρ
+<lb rend="displayNum" n="1485" />σχήματος ἀρχὴ —</p></sp>
+<sp>
+<speaker>Ξανθίας</speaker><p>
+<lb />μᾶλλον δέ γ᾽ ἴσως μανίας ἀρχή.</p></sp>
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+<lb />πλευρὰν λυγίσαντος ὑπὸ ῥώμης:
+<lb />οἶον μυκτὴρ μυκᾶται καὶ
+<lb />σφόνδυλος ἀχεῖ.</p></sp>
+<sp>
+<speaker>Ξανθίας</speaker><p>
+πῖθ᾽ ἑλλέβορον.</p></sp>
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+<lb rend="displayNum" n="1490" />πτήσσει Φρύνιχος ὥς τις ἀλέκτωρ —</p></sp>
+<sp>
+<speaker>Ξανθίας</speaker><p>
+<lb />τάχα βαλλήσεις.</p></sp>
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+<lb />σκέλος οὐράνιόν γ᾽ ἐκλακτίζων.
+<lb />πρωκτὸς χάσκει.</p></sp>
+<sp>
+<speaker>Ξανθίας</speaker><p>
+κατὰ σαυτὸν ὅρα.</p></sp>
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+<lb />νῦν γὰρ ἐν ἄρθροις τοῖς ἡμετέροις
+<lb rend="displayNum" n="1495" />στρέφεται χαλαρὰ κοτυληδών.</p></sp></div2>
+<div2 type="iambics" org="uniform" sample="complete">
+<sp><speaker>Φιλοκλέων</speaker><p>
+<lb />οὐκ εὖ;</p></sp>
+<sp>
+<speaker>Βδελυκλέων</speaker><p>
+μὰ Δί᾽ οὐ δῆτ᾽, ἀλλὰ μανικὰ πράγματα.</p></sp>
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+<lb />θέρε νυν ἀνείπω κἀνταγωνιστὰς καλῶ.
+<lb />εἴ τις τραγῳδός φησιν ὀρχεῖσθαι καλῶς,
+<lb />ἐμοὶ διορχησόμενος ἐνθάδ᾽ εἰσίτω.
+<lb rend="displayNum" n="1500" />φησίν τις ἢ οὐδείς;</p></sp>
+<sp>
+<speaker>Ξανθίας</speaker><p>
+εἶς γ᾽ ἐκεινοσὶ μόνος.</p></sp>
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+<lb />τίς ὁ κακοδαίμων ἐστίν;</p></sp>
+<sp>
+<speaker>Ξανθίας</speaker><p>
+υἱὸς Καρκίνου
+<lb />ὁ μέσατος.</p></sp>
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+ἀλλ᾽ οὗτός γε καταποθήσεται:
+<lb />ἀπολῶ γὰρ αὐτὸν ἐμμελείᾳ κονδύλου.
+<lb />ἐν τῷ ῥυθμῷ γὰρ οὐδέν ἐστ᾽.</p></sp>
+<sp>
+<speaker>Ξανθίας</speaker><p>
+ἀλλ᾽ ᾠζυρὲ
+<lb rend="displayNum" n="1505" />ἕτερος τραγῳδὸς Καρκινίτης ἔρχεται,
+<lb />ἀδελφὸς αὐτοῦ.</p></sp>
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+νὴ Δί᾽ ὠψώνηκ᾽ ἄρα.</p></sp>
+<sp>
+<speaker>Ξανθίας</speaker><p>
+<lb />μὰ τὸν Δί᾽ οὐδέν γ᾽ ἄλλο πλήν γε καρκίνους:
+<lb />προσέρχεται γὰρ ἕτερος αὖ τῶν Καρκίνου.</p></sp>
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+<lb />τουτὶ τί ἦν τὸ προσέρπον; ὀξὶς ἢ φάλαγξ;</p></sp>
+<sp>
+<speaker>Ξανθίας</speaker><p>
+<lb rend="displayNum" n="1510" />ὁ πινοτήρης οὗτός ἐστι τοῦ γένους,
+<lb />ὁ σμικρότατος, ὃς τὴν τραγῳδίαν ποιεῖ.</p></sp>
+<sp>
+<speaker>Φιλοκλέων</speaker><p>
+<lb />ὦ Καρκίν᾽ ὦ μακάριε τῆς εὐπαιδίας,
+<lb />ὅσον τὸ πλῆθος κατέπεσεν τῶν ὀρχίλων.
+<lb />ἀτὰρ καταβατέον γ᾽ ἐπ᾽ αὐτούς μ᾽: ᾠζυρέ,
+<lb rend="displayNum" n="1515" />ἅλμην κύκα τούτοισιν, ἢν ἐγὼ κρατῶ.</p></sp></div2></div1></body></text></TEI.2>

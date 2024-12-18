@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="7" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-710b" n="710b" />
+            <div2 type="chapter" n="7" org="uniform" sample="complete">
+               <head>Εἰ δεῖ παρὰ πότον αὐλητρίσι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">αὐλητρίδι</foreign> ϝελ <foreign lang="greek">αὐλιστρίσι</foreign> ιιδεμ ῾σεδ ρεξτε π̓</note>
+                  χρῆσθαι.</head>
+               <milestone unit="tlnum" n="15" />
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>περὶ ἀκροαμάτων ἐν Χαιρωνείᾳ λόγοι παρὰ πότον ἐγένοντο
+                     Διογενιανοῦ τοῦ Περγαμηνοῦ παρόντος, καὶ πράγματ᾽ εἴχομεν
+                     ἀμυνόμενοι βαθυπώγωνα σοφιστὴν ἀπὸ τῆς Στοᾶς, ὃς ἐπήγαγε τὸν
+                        <milestone unit="tlnum" n="20" />Πλάτωνα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Πλάτωνα</foreign>] σψμπ. π. 176ε</note> κατηγοροῦντα τῶν αὐλητρίσι
+                     χρωμένων παρ᾽ οἶνον, ἀλλήλοις δὲ συγγίγνεσθαι διὰ λόγου μὴ
+                     δυναμένων. καίτοι παρὼν ἀπὸ τῆς αὐτῆς <pb id="v.4.p.285" /> παλαίστρας
+                     Φίλιππος ὁ Προυσιεὺς ἐᾶν ἐκέλευσε τοὺς παρ᾽ Ἀγάθωνι δαιτυμόνας
+                     ἐκείνους παντὸς αὐλοῦ καὶ </p></div3></div2></div1></body></text></TEI.2>

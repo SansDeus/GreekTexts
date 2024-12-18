@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><milestone ed="p" n="471" unit="card" /></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker>
+<l>οὐδέ γ᾽ ἐνὶ πόλεσι δίπτυχοι τυραννίδες</l>
+<l>μιᾶς ἀμείνονες φέρειν,</l>
+<l n="475">ἄχθος ἐπ᾽ ἄχθει καὶ στάσιν πολίταις:</l>
+<l>τεκόντοιν θ᾽ ὕμνον ἐργάταιν δυοῖν</l>
+<l>ἔριν Μοῦσαι φιλοῦσι κραίνειν.</l>
+</sp></div2></div1></body></text></TEI.2>

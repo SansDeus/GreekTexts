@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="546" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="547" />καὶ μὴν ἀΐω: Σιμόεντος
+<lb />ἡμένα κοίτας
+<lb />φοινίας ὑμνεῖ πολυχορδοτάτᾳ
+<lb rend="displayNum" n="550" />γήρυϊ παιδολέτωρ μελοποιὸν ἀηδονὶς μέριμναν.
+<lb /> — ἤδη δὲ νέμουσι κατ᾽ Ἴδαν
+<lb />ποίμνια: νυκτιβρόμου
+<lb />σύριγγος ἰὰν κατακούω.
+<lb /> — θέλγει δ᾽ ὄμματος ἕδραν
+<lb rend="displayNum" n="555" />ὕπνος: ἅδιστος γὰρ ἔβα
+<lb />βλεφάροις πρὸς ἀοῦς.
+<lb /> — τί ποτ᾽ οὐ πλάθει σκοπός, ὃν ναῶν
+<lb />Ἕκτωρ ὤτρυνε κατόπταν;
+<lb /> — ταρβῶ: χρόνιος γὰρ ἄπεστιν.
+<lb rend="displayNum" n="560" /> — ἀλλ᾽ ἦ κρυπτὸν λόχον ἐσπαίσας
+<lb />διόλωλε;
+ — τάχ᾽ ἄν. φοβερόν μοι.
+<lb /> — αὐδῶ Λυκίους πέμπτην φυλακὴν
+<lb />βάντας ἐγείρειν
+<lb />ἡμᾶς κλήρου κατὰ μοῖραν.</p></sp></div2>
+</div1>
+</body></text></TEI.2>

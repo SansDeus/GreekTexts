@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="12" org="uniform" sample="complete"><p><q direct="unspecified"><q direct="unspecified"><milestone unit="casaubonpage" id="casaubonpage-527c" n="527c" /> τῶν λοιπῶν ἑτοιμότερον ἔχουσι πρὸς θάνατον ὅσῳπερ καὶ ζῆν πολυτελῶς ἐκτενέστερον ζητοῦσι τῶν ἄλλων.</q> <milestone unit="chapter" n="34" /> διαβόητοι δ᾽ εἰσὶ περὶ τρυφὴν <hi rend="uppercase">Σικελιῶται</hi> τε καὶ <hi rend="uppercase">Συρακόσιοι</hi>, ὡς καὶ Ἀριστοφάνης φησὶν ἐν Δαιταλεῦσιν
+
+<quote rend="blockquote">
+<lb /> ἀλλ᾽ οὐ γὰρ ἔμαθε ταῦτ᾽ ἐμοῦ πέμποντος, ἀλλὰ
+<lb /> μᾶλλον
+<lb /> πίνειν, ἔπειτ᾽ ᾁδειν κακῶς, Συρακοσίαν τράπεζαν 
+<lb />Συβαρίτιδὰς τ᾽ εὐωχίας καὶ Χῖον ἐκ Λακαινᾶν <gap /> </quote>
+ Πλάτων δ᾽ ἐν ταῖς Ἐπιστολαῖς φησιν <q direct="unspecified"> ταύτην δὴ τὴν διάνοιαν ἔχων εἰς Ἰταλίαν τε καὶ Σικελίαν
+</q></q></p></div1></body></text></TEI.2>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><milestone ed="p" n="837" unit="card" />
+</sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Ἑρμιόνη</speaker>
+<l>κατὰ μὲν οὖν στένω τόλμαν δαΐαν,</l>
+<l>ἃν ἔρξ᾽ ἁ κατάρατος ἐγὼ κατά-</l>
+<l>ρατος ἀνθρώποις.</l></sp>
+<sp>
+<speaker>Τροφός</speaker>
+<l n="840">συγγνώσεταί σοι τήνδ᾽ ἁμαρτίαν πόσις.</l>
+</sp></div2></div1></body></text></TEI.2>

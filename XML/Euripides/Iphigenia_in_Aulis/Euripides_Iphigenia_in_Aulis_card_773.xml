@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="773" unit="card" /></p></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />Πέργαμον δὲ Φρυγῶν πόλιν
+<lb />λαΐνους περὶ πύργους
+<lb rend="displayNum" n="775" />κυκλώσας Ἄρει φονίῳ,
+<lb />λαιμοτόμου κεφαλᾶς
+<lb />σπάσας <add>Πάριν Ἀτρεΐδας,</add>
+<lb />πέρσας κατάκρας πόλιν,
+<lb />θήσει κόρας πολυκλαύτους
+<lb rend="displayNum" n="780" />δάμαρτά τε Πριάμου.
+<lb />ἁ δὲ Διὸς Ἑλένα κόρα
+<lb />πολύκλαυτος ἑδεῖται
+<lb />πόσιν προλιποῦσα.
+<lb />μήτ᾽ ἐμοὶ
+<lb />μήτ᾽ ἐμοῖσι τέκνων τέκνοις
+<lb rend="displayNum" n="785" />ἐλπὶς ἅδε ποτ᾽ ἔλθοι,
+<lb />οἵαν αἱ πολύχρυσοι
+<lb />Λυδαὶ καὶ Φρυγῶν ἄλοχοι
+<lb />στήσουσι παρ᾽ ἱστοῖς
+<lb />μυθεῦσαι τάδ᾽ ἐς ἀλλήλας:
+<lb rend="displayNum" n="790" />Τίς ἄρα μ᾽ εὐπλοκάμου κόμας
+<lb />ῥῦμα δακρυόεν τανύσας
+<lb />πατρίδος ὀλλυμένας ἀπολωτιεῖ;
+<lb />διὰ σέ, τὰν κύκνου δολιχαύχενος γόνον,
+<lb />εἰ δὴ φάτις ἔτυμος ὡς
+<lb rend="displayNum" n="795" />ἔτυχεν, <del status="unremarkable">Λήδα</del> ὄρνιθι πταμένῳ
+<lb rend="displayNum" n="797" />Διὸς ὅτ᾽ ἠλλάχθη δέμας, εἴτ᾽
+<lb />ἐν δέλτοις Πιερίσιν
+<lb />μῦθοι τάδ᾽ ἐς ἀνθρώπους
+<lb rend="displayNum" n="800" />ἤνεγκαν παρὰ καιρὸν ἄλλως.</p></sp></div2>
+</div1>
+</body></text></TEI.2>

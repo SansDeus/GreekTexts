@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="359" unit="card" /></p></sp></div2>
+<div2 type="ephymnion" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />πρῶτον μὲν Διὸς ἄλσος
+<lb rend="displayNum" n="360" />ἠρήμωσε λέοντος,
+<lb />πυρσῷ δ᾽ ἀμφεκαλύφθη
+<lb />ξανθὸν κρᾶτ᾽ ἐπινωτίσας
+<lb />δεινῷ χάσματι θηρός:
+</p></sp></div2></div1></body></text></TEI.2>

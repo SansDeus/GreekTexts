@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Prologue" org="uniform" sample="complete"><sp><p><milestone ed="p" n="204" unit="card" /></p></sp></div1>
+<div1 type="Parodos" org="uniform" sample="complete">
+<div2 type="trochees" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />τῇδε πᾶς ἕπου δίωκε καὶ τὸν ἄνδρα πυνθάνου
+<lb rend="displayNum" n="205" />τῶν ὁδοιπόρων ἁπάντων: τῇ πόλει γὰρ ἄξιον
+<lb />ξυλλαβεῖν τὸν ἄνδρα τοῦτον. ἀλλά μοι μηνύσατε,
+<lb />εἴ τις οἶδ᾽ ὅποι τέτραπται γῆς ὁ τὰς σπονδὰς φέρων.</p></sp></div2></div1></body></text></TEI.2>

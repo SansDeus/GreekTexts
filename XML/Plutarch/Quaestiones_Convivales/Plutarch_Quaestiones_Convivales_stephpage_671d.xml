@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="4" org="uniform" sample="complete"><div2 type="chapter" n="6" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-671d" n="671d" /> πολλὰ τῶν εἰς τοῦτο
+                        τεκμηρίων μόνοις ἐστὶ ῥητὰ καὶ διδακτὰ τοῖς μυουμένοις παρ᾽ ἡμῖν
+                        εἰς τὴν τριετηρικὴν παντέλειαν: ἃ δὲ λόγῳ διελθεῖν οὐ κεκώλυται
+                           <milestone unit="tlnum" n="10" /> πρὸς φίλους ἄνδρας, ἄλλως τε καὶ
+                        παρ᾽ οἶνον ἐπὶ τοῖς τοῦ θεοῦ δώροις, ἂν οὗτοι κελεύωσι, λέγειν
+                        ἕτοιμος.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>πάντων οὖν κελευόντων καὶ δεομένων <q direct="unspecified">πρῶτον μέν</q> ἔφη <q direct="unspecified">τῆς
+                        μεγίστης καὶ τελειοτάτης ἑορτῆς <milestone unit="tlnum" n="15" /> παρ᾽
+                        αὐτοῖς ὁ καιρός ἐστι καὶ ὁ τρόπος Διονύσῳ προσήκων. τὴν γὰρ
+                        λεγομένην νηστείαν ἄγοντες <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἄγοντες</foreign> μαδϝιγιυς
+                        </note> ἀκμάζοντι τρυγητῷ τραπέζας τε προτίθενται παντοδαπῆς ὀπώρας
+                        ὑπὸ σκηναῖς καὶ καλιάσιν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καλιάσιν</foreign> σξαλιγερυς:
+                              <foreign lang="greek">καθιᾶσιν</foreign></note> ἐκ
+                           κλημάτων</q></p></div3></div2></div1></body></text></TEI.2>

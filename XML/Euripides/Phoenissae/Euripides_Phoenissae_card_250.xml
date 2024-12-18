@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="250" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="250" />ἀμφὶ δὲ πτόλιν νέφος
+<lb />ἀσπίδων πυκνὸν φλέγει
+<lb />σχῆμα φοινίου μάχης,
+<lb />ἃν Ἄρης τάχ᾽ εἴσεται
+<lb />παισὶν Οἰδίπου φέρων
+<lb rend="displayNum" n="255" />πημονὰν Ἐρινύων.
+<lb />Ἄργος ὦ Πελασγικόν,
+<lb />δειμαίνω τὰν σὰν ἀλκάν,
+<lb />καὶ τὸ θεόθεν: οὐ γὰρ ἄδικον
+<lb />εἰς ἀγῶνα τόνδ᾽ ἔνοπλος ὁρμᾷ <del status="unremarkable">παῖς</del>
+<lb rend="displayNum" n="260" />ὃς μετέρχεται δόμους.
+</p></sp></div2></div1></body></text></TEI.2>

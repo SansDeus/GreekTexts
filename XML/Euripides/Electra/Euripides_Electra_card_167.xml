@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="167" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="3" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />Ἀγαμέμνονος ὦ κόρα,
+<lb />ἤλυθον, Ἠλέκτρα, ποτὶ
+<lb />σὰν ἀγρότειραν αὐλάν.
+<lb />ἔμολέ τις ἔμολεν γαλακτοπότας ἀνὴρ
+<lb rend="displayNum" n="170" />Μυκηναῖος ὀρειβάτας:
+<lb />ἀγγέλλει δ᾽ ὅτι νῦν τριταί-
+<lb />αν καρύσσουσιν θυσίαν
+<lb />Ἀργεῖοι, πᾶσαι δὲ παρ᾽ Ἥ-
+<lb />ραν μέλλουσιν παρθενικαὶ στείχειν.</p></sp>
+<sp><speaker>Ἠλέκτρα</speaker><p>
+<lb rend="displayNum" n="175" />οὐκ ἐπ᾽ ἀγλαΐαις, φίλαι,
+<lb />θυμὸν οὐδ᾽ ἐπὶ χρυσέοις
+<lb />ὅρμοις ἐκπεπόταμαι
+<lb />τάλαιν᾽, οὐδ᾽ ἱστᾶσα χοροὺς
+<lb />Ἀργείαις ἅμα νύμφαις
+<lb rend="displayNum" n="180" />εἱλικτὸν κρούσω πόδ᾽ ἐμόν.
+<lb />δάκρυσι νυχεύ-
+<lb />ω, δακρύων δέ μοι μέλει
+<lb />δειλαίᾳ τὸ κατ᾽ ἦμαρ.
+<lb />σκέψαι μου πιναρὰν κόμαν
+<lb rend="displayNum" n="185" />καὶ τρύχη τάδ᾽ ἐμῶν πέπλων,
+<lb />εἰ πρέποντ᾽ Ἀγαμέμνονος
+<lb />κούρᾳ 'σται βασιλείᾳ
+<lb />τᾷ Τροίᾳ θ᾽, ἃ 'μοῦ πατέρος
+<lb />μέμναταί ποθ᾽ ἁλοῦσα.
+</p></sp></div2></div1></body></text></TEI.2>

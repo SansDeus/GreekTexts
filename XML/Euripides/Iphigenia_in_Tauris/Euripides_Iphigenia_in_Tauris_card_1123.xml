@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1123" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />καὶ σὲ μέν, πότνι᾽, Ἀργεία
+<lb />πεντηκόντορος οἶκον ἄξει:
+<lb rend="displayNum" n="1125" />συρίζων θ᾽ ὁ κηροδέτας
+<lb />κάλαμος οὐρείου Πανὸς
+<lb />κώπαις ἐπιθωΰξει,
+<lb />ὁ Φοῖβός θ᾽ ὁ μάντις ἔχων
+<lb />κέλαδον ἑπτατόνου λύρας
+<lb rend="displayNum" n="1130" />ἀείδων ἄξει λιπαρὰν
+<lb />εὖ σ᾽ Ἀθηναίων ἐπὶ γᾶν.
+<lb />ἐμὲ δ᾽ αὐτοῦ λιποῦσα
+<lb />βήσῃ ῥοθίοισι πλάταις:
+<lb />ἀέρι δὲ <del status="unremarkable">ἱστία</del> πρότονοι κατὰ πρῷραν ὑ-
+<lb rend="displayNum" n="1135" />πὲρ στόλον ἐκπετάσουσι πόδα
+<lb />ναὸς ὠκυπόμπου.
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="lyric" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1168" unit="card" />
+</p></sp></div2>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Ἀγαύη</speaker><p>
+<lb />Ἀσιάδες βάκχαι — </p></sp>
+<sp><speaker>Χορός</speaker><p>
+τί μ᾽ ὀροθύνεις, ὤ;</p></sp>
+<sp><speaker>Ἀγαύη</speaker><p>
+<lb />φέρομεν ἐξ ὀρέων
+<lb rend="displayNum" n="1170" />ἕλικα νεότομον ἐπὶ μέλαθρα,
+<lb />μακάριον θήραν.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ὁρῶ καί σε δέξομαι σύγκωμον.</p></sp>
+<sp><speaker>Ἀγαύη</speaker><p>
+<lb />ἔμαρψα τόνδ᾽ ἄνευ βρόχων
+<lb /><add>λέοντος ἀγροτέρου</add> νέον ἶνιν:
+<lb rend="displayNum" n="1175" />ὡς ὁρᾶν πάρα.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />πόθεν ἐρημίας;</p></sp>
+<sp><speaker>Ἀγαύη</speaker><p>
+<lb />Κιθαιρὼν  <gap /> </p></sp>
+<sp><speaker>Χορός</speaker><p>
+Κιθαιρών;</p></sp>
+<sp><speaker>Ἀγαύη</speaker><p>
+<lb />κατεφόνευσέ νιν.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />τίς ἁ βαλοῦσα;</p></sp>
+<sp><speaker>Ἀγαύη</speaker><p>
+πρῶτον ἐμὸν τὸ γέρας.
+<lb rend="displayNum" n="1180" />μάκαιρ᾽ Ἀγαύη κλῃζόμεθ᾽ ἐν θιάσοις.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />τίς ἄλλα;</p></sp>
+<sp><speaker>Ἀγαύη</speaker><p>
+τὰ Κάδμου  <gap /> </p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />τί Κάδμου;</p></sp>
+<sp><speaker>Ἀγαύη</speaker><p>
+γένεθλα
+<lb rend="displayNum" n="1182b" />μετ᾽ ἐμὲ μετ᾽ ἐμὲ τοῦδ᾽
+<lb />ἔθιγε θηρός: εὐτυχής γ᾽ ἅδ᾽ ἄγρα.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb /><gap desc="*" />
+</p></sp></div2></div1></body></text></TEI.2>

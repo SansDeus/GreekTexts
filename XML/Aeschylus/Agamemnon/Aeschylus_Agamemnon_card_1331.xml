@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1331" unit="card" />
+</p></sp>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />τὸ μὲν εὖ πράσσειν ἀκόρεστον ἔφυ
+<lb />πᾶσι βροτοῖσιν: δακτυλοδείκτων δ᾽
+<lb />οὔτις ἀπειπὼν εἴργει μελάθρων,
+<lb />μηκέτ᾽ ἐσέλθῃς, τάδε φωνῶν.
+<lb rend="displayNum" n="1335" />καὶ τῷδε πόλιν μὲν ἑλεῖν ἔδοσαν
+<lb />μάκαρες Πριάμου:
+<lb />θεοτίμητος δ᾽ οἴκαδ᾽ ἱκάνει.
+<lb />νῦν δ᾽ εἰ προτέρων αἷμ᾽ ἀποτείσῃ
+<lb />καὶ τοῖσι θανοῦσι θανὼν ἄλλων
+<lb rend="displayNum" n="1340" />ποινὰς θανάτων ἐπικράνῃ,
+<lb />τίς ἂν <add>ἐξ</add>εύξαιτο βροτῶν ἀσινεῖ
+<lb />δαίμονι φῦναι τάδ᾽ ἀκούων;
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="211" unit="card" />
+</p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἀλλ᾽ ἐπὶ δαιμόνων πρόδρομος ἦλθον ἀρ-
+<lb />χαῖα βρέτη, θεοῖσι πίσυνος,  νιφάδος
+<lb />ὅτ᾽ ὀλοᾶς νειφομένας  βρόμος ἐν πύλαις:
+<lb />δὴ τότ᾽ ἤρθην φόβῳ πρὸς μακάρων λιτάς, πόλεως
+<lb rend="displayNum" n="215" />ἵν᾽ ὑπερέχοιεν ἀλκάν.</p></sp>
+<sp>
+<speaker>Ἐτεοκλής</speaker><p>
+<lb />πύργον στέγειν εὔχεσθε πολέμιον δόρυ.
+<lb />οὐκοῦν  τάδ᾽ ἔσται πρὸς θεῶν: ἀλλ᾽ οὖν θεοὺς
+<lb />τοὺς τῆς ἁλούσης πόλεος  ἐκλείπειν λόγος.
+</p></sp></div2></div1></body></text></TEI.2>

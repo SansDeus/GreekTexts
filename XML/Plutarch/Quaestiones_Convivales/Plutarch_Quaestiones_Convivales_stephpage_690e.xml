@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="6" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-690e" n="690e" />
+                     θερμαίνεσθαι τὸ ὕδωρ: ἀλλὰ μᾶλλον ὁ ψυχρὸς οὗτος ἀὴρ τὴν μὲν
+                     πηγὴν διὰ πλῆθος οὐ δύναται μεταβάλλειν ἂν δέ τις ἀφαιρῇ κατ᾽
+                     ὀλίγον, μᾶλλον κρατῶν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐρατῶν</foreign> μει</note> περιψύξει. <pb id="v.4.p.229" />
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="5" org="uniform" sample="complete">
+               <head> Διὰ τίν᾽ αἰτίαν οἱ χάλικες καὶ αἱ μολιβδίδες ἐμβαλλόμεναι
+                  ψυχρότερον τὸ ὕδωρ ποιοῦσιν.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  </div3></div2></div1></body></text></TEI.2>

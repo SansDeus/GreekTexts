@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="13" org="uniform" sample="complete">
+            <div2 type="chapter" n="1" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-1589"><foreign lang="la">philippus</foreign></persName>
+               </docAuthor>
+               <label>Πεντάμετρον μόνον</label>
+               <p>
+                  <lb />Ἰίαίρβ θεὰ Παφίη: σὴν γὰ^ ἀεὶ δύναμιν
+<lb />κάλλος τ᾽ ἀθάνατον καὶ σέβας ἰμβρόβν
+<lb />πάντες τιμῶσιν θνατοὶ ἐφαμέριοι
+<lb />ἐν πᾶσιν μύθοις ἔργοισίν τε καλοῖς:
+<milestone unit="lnum" n="5" />
+                  <lb />πάντῃ γὰρ πᾶσιν σὴν δηλοῖς τιμήν.
+</p>
+            </div2>
+            <div2 type="chapter" n="2" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-1577"><foreign lang="la">phaedimus</foreign></persName>
+               </docAuthor>
+               <label>τρίμετρον</label>
+               <p>
+                  <lb />Καλλίστρατός σοι, Ζηνὸς ὦ διάκτορε,
+<lb /> ἔθηκε μορφῆς ξυνὸν ἥλικος τύπον
+<lb /> Κηφισιεὺς ὁ κοῦρος: ᾧ χαρείς, ἄναξ,
+<lb />Ἀπολλοδώρου παῖδα καὶ πάτραν σάω.
+</p>
+            </div2>
+            <div2 type="chapter" n="3" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0005"><foreign lang="la">theocritus</foreign></persName>
+               </docAuthor>
+               <label>χωλὸν τρίμετρον</label>
+               <p>
+                  <lb />ὁ μουσοποιὸς ἐνθάδ᾽ Ἱππῶναξ κεῖται.
+<lb />εἰ μὲν πονηρός, μὴ ποτέρχευ τῷ τύμβῳ:
+<lb />εἰ δ᾽ ἐσσὶ κρήγυός τε καὶ παρὰ χρηστῶν,
+<lb />θαρσέων καθίζευ, κἢν θέλῃς, ἀπόβριξον.
+<pb id="v.5.p.4" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="4" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0237"><foreign lang="la">anacreon</foreign></persName>
+               </docAuthor>
+               <label>τετράμετρον</label>
+               <p>
+                  <lb /> ἀλκίμων ς1᾽, ὦ 'ριστοκλείδη, πρῶτον οἰκτείρω φίλων
+<lb />ὤλεσας δ᾽ ἥβην, ἀμύνων πατρίδος δουληίην.
+</p>
+            </div2>
+            <div2 type="chapter" n="5" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-1581"><foreign lang="la">phalaecus</foreign></persName>
+               </docAuthor>
+               <label>τρίμετρον μείουρον ἢ κόλουρον</label>
+               <p>
+                  <lb /> νικῶ δίαυλον.  ἀλλ᾽ ἐγὼ παλαίων.
+<lb /> ἐγὼ δὲ πεντάεθλον. ἀλλ᾽ ἐγὼ πύξ. —
+<lb /> καὶ τίς  τύ; —  Τιμόδημος. ἀλλ᾽ ἐγὼ Κρής.
+ἐγὼ δὲ Κρηθεύς. ἀλλ᾽ ἐγὼ Διοκλῆς. — 
+<milestone unit="lnum" n="5" />
+                  <lb /> καὶ τίς  πατήρ τοι; — Κλεῖνος.  ὥσπερ ἄμμιν. — Ἔμπη δὲ νικῇς; — Ἰσθμοῖ. — τὺ δ᾽ ἔμπη; —
+<lb /> Νέμειον ἂν λειμῶνα, καὶ παρ᾽ Ἥρᾳ.
+</p>
+            </div2>
+            <div2 type="chapter" n="6" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-1581"><foreign lang="la">phalaecus</foreign></persName>
+               </docAuthor>
+               <label>ἑνδεκασυλλάβιον τρίμετρον οὕτω καλούμενον</label>
+               <p>
+                  <lb /> τοῦτ᾽ ἐγὼ τὸ περισσὸν εἰκόνισμα
+<lb /> τοῦ κωμῳδογέλωτος, εἰς θρίαμβον
+<lb />κισσῷ καὶ στεφάνοισιν ἀμπυκασθέν,
+<lb />ἔστας1᾽, ὄφρα Λύκωνι σᾶμ᾽ ἐπείη.
+<milestone unit="lnum" n="5" />
+                  <lb />ὅσσα γὰρ †  καθύπερθε λαμπρὸς ἁνήρ:
+<lb /> μνᾶμα τοῦ χαρίεντος ἔν τε λέσχᾳ
+<lb />ἒν τ᾽ οἴνῳ τόδε κἄτι τοῖς ἔπειτα
+<lb />ἄγκειται, παράδειγμα τᾶς ὀπωπᾶς.
+<pb id="v.5.p.6" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="7" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0533"><foreign lang="la">callimachus</foreign></persName>
+               </docAuthor>
+               <label>κωμικὸν τετράμετρον</label>
+               <p>
+                  <lb />ὁ Λύκτιος Μενοίτας τὰ τόξα ταῦτ᾽ ἐπειπὼν
+<lb /> ἔθηκε: <quote rend="blockquote">
+                     <l>τῆ, κέρας τοι δίδωμι καὶ φαρέτρην,
+</l>
+                     <l>Σάραπι: τοὺς δ᾽ ὀιστοὺς ἔχουσιν Ἑσπερῖται.</l>
+                  </quote> 
+               </p>
+            </div2>
+            <div2 type="chapter" n="8" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-1715"><foreign lang="la">theodoridas</foreign></persName>
+               </docAuthor>
+               <label>Ἑσπερῖται</label>
+               <label>τετράμετρον Ἀρχιλόχειον</label>
+               <p>
+                  <lb />ἐκ δολίχου τόνδε σφυρήλατον, ὡς τάχει κρατήσας,
+<lb />Πᾶις Ἀριστομάχειος ἀνείλετο χάλκεον λέβητα.
+</p>
+            </div2>
+            <div2 type="chapter" n="9" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0533"><foreign lang="la">callimachus</foreign></persName>
+               </docAuthor>
+               <label>Πεντάμετρον βακχικόν. ἔστι δ᾽ οὐ τέλειον τὸ ἐπίγραμμα</label>
+               <p>
+                  <lb />ἔρχεται πολὺς μὲν Αἰγαῖον διατμήξας ἀπ᾽ οἰνηρῆς Χίου
+<lb />ἀμφορεύς, πολὺς δὲ Λεσβίης ἄωτον νέκταρ οἰνάνθης ἄγων.
+</p>
+            </div2>
+            <div2 type="chapter" n="10" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0533"><foreign lang="la">callimachus</foreign></persName>
+               </docAuthor>
+               <label>τετράμετρον ἑκκαίδεκα συλλαβῶν. οὐ δὲ τοῦτο τέλειον</label>
+               <p>
+                  <lb />ἁ ναῦς, ἃ τὸ μόνον φέγγος ἐμὶν τὸ γλυκὺ τᾶς ζόας
+<lb />ἅρπαξας, ποτὶ τὲ Ζανὸς ἱκνεῦμαι λιμενοσκόπω <gap />
+                  <pb id="v.5.p.8" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="11" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0261"><foreign lang="la">simonides</foreign></persName>
+               </docAuthor>
+               <label>πεντάμετρον ὑπορχηματικόν</label>
+               <p>
+                  <lb />
+                  <note type="speaker" place="unspecified" anchored="yes">α.</note> τίς εἰκόνα τάνδ᾽ ἀνέθηκεν; <note type="speaker" place="unspecified" anchored="yes">β.</note> Δωριεὺς ὁ Θούριος.
+<lb />
+                  <note type="speaker" place="unspecified" anchored="yes">α.</note> οὐ Ῥόδιος γένος ἦν; <note type="speaker" place="unspecified" anchored="yes">β.</note> ναί, πρὶν φυγεῖν γε πατρίδα,
+<lb />δεινᾷ γε χειρὶ πολλὰ ῥέξας ἔργα καὶ βίαια. </p>
+            </div2>
+            <div2 type="chapter" n="12" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-1396"><foreign lang="la">hegesippus</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ ἑξαμέτρου τρίμετρον ἐπαδόμενον</label>
+               <p>
+                  <lb />ἐρρέτω ἦμαρ ἐκεῖνο, καὶ οὐλομένη σκοτόμαινα,
+<lb />βρόμος τε δεινὸς ἠνεμωμένης ἁλός,
+<lb />οἵ ποτε νῆ᾽ ἐκύλισαν, ἐφ᾽ ἧς ὁ τὰ πολλὰ μελίφρων
+<lb /> Ἀβδηρίων ἄπρηκτα θεοῖσιν εὔχετο:
+<milestone unit="lnum" n="5" />
+                  <lb />ῥαίσθη γὰρ διὰ πάντα, προσηνέχθη δὲ κλύδωνι
+<lb /> τρηχεῖαν εἰς Σέριφον, αἰδοίων ὅθι
+<lb />προξείνων ὑπὸ χερσὶ λαχὼν πυρός, ἵκετο πάτρην
+<lb />Ἄβδηρα, κρωσσῷ χαλκέῳ περισταλείς.
+</p>
+            </div2>
+            <div2 type="chapter" n="13" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ ἑξαμέτρῳ πεντάμετρον, εἶτα τρίμετρον</label>
+               <p>
+                  <lb /> τόνδε Πύρης ἀνέθηκε Πολυμνήστου φίλος υἱός,
+<lb />εὐξάμενος δεκάτην Παλλάδι Τριτογενεῖ,
+<lb />Κυδωνιάτας Κρησίλας εἰργάξατο.
+</p>
+            </div2>
+            <div2 type="chapter" n="14" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0261"><foreign lang="la">simonides</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ ἑξαμέτρῳ πεντάμετρον καὶ δύο τρίμετροι, εἶτα ἑξάμετρον</label>
+               <p>
+                  <lb /> Ἀργεῖος Δάνδης σταδιοδρόμος ἐνθάδε κεῖται,
+<lb /> νίκαις ἱππόβοτον πατρίδ᾽ ἐπευκλεΐσας,
+<pb id="v.5.p.10" />
+                  <lb /> Ὀλυμπίᾳ δίς, ἐν δὲ Πυθῶνι τρία,
+<lb /> δύω δ᾽ ἐν Ἰσθμῷ, πεντεκαίδεκ᾽ ἐν Νεμέᾳ:
+<milestone unit="lnum" n="5" />
+                  <lb /> τὰς δ᾽ ἄλλας νίκας οὐκ εὐμαρές ἐστ᾽ ἀριθμῆσαι.
+</p>
+            </div2>
+            <div2 type="chapter" n="15" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ δύο ἑξαμέτροις πεντάμετρον</label>
+               <p>
+                  <lb /> εἰμὶ Δίκων υἱὸς Καλλιμβρότου: αὐτὰρ ἐνίκων
+<lb />τετράκις ἐν Νεμέᾳ, δὶς Ὀλύμπια, πεντάκι Πυθοῖ,
+<lb /> τρὶς δ᾽ Ἰσθμῷ: στεφανῶ δ᾽ ἄστυ Συρακοσίων.
+</p>
+            </div2>
+            <div2 type="chapter" n="16" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ τρισὶν ἑξαμέτροις πεντάμετρον.	</label>
+               <p>
+                  <lb />Σπάρτας μὲν βασιλῆες ἐμοὶ πατέρες καὶ ἀδελφοί:
+<lb />ἅρμασι δ᾽ ὠκυπόδων ἵππων νικῶσα Κυνίσκα
+<lb /> εἰκόνα τάνδ᾽ ἔστησα. μόναν δέ με φαμι γυναικῶν
+<lb /> Ἑλλάδος ἐκ πάσας τόνδε λαβεῖν στέφανον.
+</p>
+            </div2>
+            <div2 type="chapter" n="17" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ ἑξαμέτρῳ δίμετρον</label>
+               <p>
+                  <lb /> Ἰφίων ἔγραψεν ἑᾷ χερί, τόν ποκα ὕδωρ
+<lb />ἔθρεψε Πειρήνης ἄπο.
+</p>
+            </div2>
+            <div2 type="chapter" n="18" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-1565"><foreign lang="la">parmeniscus</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ ἑξαμέτρῳ ἑνδεκασύλλαβον</label>
+               <p>
+                  <lb /> χάλκεα ἔργα, λέγοισθε θοῆς ἐπινίκια πώλου,
+<lb />ἥτις κεντροραγὴς βαλοῦσα παῖδα,
+<pb id="v.5.p.12" />
+                  <lb /> ψιλὴ λευρὸν ἔθυσε περὶ δρόμον. ἐκ δ᾽ ἄρ᾽ ἐκείνου
+<lb />Παρμένων χρυσέης κύρησε νίκης.
+<milestone unit="lnum" n="5" />
+                  <lb /> Φώκριτε, σῷ δ᾽ ἄρα παιδὶ Ἀμυκλαΐδαι ^ βασιλῆες
+<lb />πατρῴων ἔδοσαν λαχεῖν ἀέθλων.
+</p>
+            </div2>
+            <div2 type="chapter" n="19" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0261"><foreign lang="la">simonides</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ ἑξαμέτρῳ ἑννεασύλλαβον</label>
+               <p>
+                  <lb />ἄνθηκεν τόδ᾽ ἄγαλμα Κορίνθιος ὅσπερ ἐνίκα
+<lb />ἐν Δελφοῖς ποσὶ Νικολᾴδας,
+<lb /> καὶ Παναθηναίοις στεφάνους λάβε πέντ᾽ ἐπ᾽ ἀέθλοις
+<lb /> ἑξῆς ἀμφιφορεῖς ἐλαίου:
+<milestone unit="lnum" n="5" />
+                  <lb /> Ἰσθμῷ δ᾽ ἐν ζαθέᾳ τρὶς ἐπισχερὼ οἶδεν ἑλόντα
+<lb />ἀκτὴ Ποντομέδοντος ἆθλον: 
+<lb /> καὶ Νεμέᾳ τρὶς ἐνίκησεν, καὶ τετράκις ἄλλα
+<lb />Πελλάνᾳ, δύο δ᾽ ἐν Λυκαίῳ,
+<lb />καὶ Τεγέᾳ, καὶ ἐν Αἰγίνᾳ, κρατερᾷ τ᾽ Ἐπιδαύρῳ,
+<milestone unit="lnum" n="10" />
+                  <lb />καὶ Θήβᾳ, Μεγάρων τε δάμῳ:
+<lb />ἐν δὲ Φλιοῦντι σταδίῳ, τά τε πέντε κρατήσας
+<lb />ηὔφρανεν μεγάλαν Κόρινθον.
+</p>
+            </div2>
+            <div2 type="chapter" n="20" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0261"><foreign lang="la">simonides</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ ἑξαμέτρῳ ἐναλλὰξ τό τε κωμικὸν τετράμετρον δύο</label>
+               <p>
+                  <lb />συλλαβαῖς λεῖπον καὶ τὸ Ἀρχιλόχειον σκάζον τρίμετρον
+<lb />πατρίδα κυδαίνων ἱερὴν πόλιν Ὦπις Ἀθανᾶς,
+<lb /> τέκνον μελαίνης γῆς, χαρίεντας αὐλοὺς
+<lb /> τούσδε σὺν Ἡφαίστῳ τελέσας, ἀνέθηκ᾽ Ἀφροδίτῃ.καλοῦ,
+<lb />δαμασθεὶς ἱμέρῳ Βρύσωνος.
+<pb id="v.5.p.14" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="21" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-1715"><foreign lang="la">theodoridas</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ τῷ ἀρτίῳ τριμέτρῳ δίμετρον ἀπὸ τοῦ ὑπορχηματικοῦ πενταμέτρου</label>
+               <p>
+                  <lb /> Μνασάλκεος τὸ σᾶμα τῶ Πλαταΐδα,
+<lb />τῶ λεγῃοποιῶ:
+<lb />ἁ Μῶσα δ᾽ αὐτῶ τᾶς Σιμωνίδα πλάτας
+<lb />ἦς ἀποσπάραγμα:
+<lb />κενά τε κλαγγὰν κἀπιλακυθίστρια<note n="marg" place="unspecified" anchored="yes">5</note> διθυραμβοχάνα.
+<lb /> τέθνακε, μὴ βάλωμες: εἰ δέ κε ζόεν,
+<lb />τύμπανὸν κ᾽ ἐφύση.
+</p>
+            </div2>
+            <div2 type="chapter" n="22" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-1577"><foreign lang="la">phaedimus</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ τριμέτρῳ ἀρτίῳ ἐπῳδὸν τετράμετρον ἡρωικὸν κατὰ τὴν παρεσχάτην σκάζον</label>
+               <p>
+                  <lb /> τόξον μέν, ᾧ Γίγαντος ὤλεσας σθένος,
+<lb /> ἴσχε βίης, Ἑκάεργ᾽ ἀνάσσων:
+<lb />†   οὒ οἱ φαρέτρη λύεται λυκοκτόνος:
+<lb /> τοῖσδε δ᾽ ἐπ᾽ ἠιθέοις ὀιστὸν ^
+<milestone unit="lnum" n="5" />
+                  <lb />στρέφειν Ἔρωτος, τόφρ᾽ ἀλέξωνται πάτρῃ,
+<lb />θαρσαλέοι φιλότατι κούρων
+<lb />πυροῖ γὰρ ἀλκήν,^ καὶ θεῶν ὑπέρτατος
+<lb /> αἰὲν ὅδε προμάχους ἀέξειν.
+<lb /> Μελιστίωνος δ᾽, ὦ πατρώιον σέβας
+<milestone unit="lnum" n="10" />
+                  <lb /> Σχοινιέων, ἐπίηρα δέχθαι.
+<pb id="v.5.p.16" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="23" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0137"><foreign lang="la">asclepiades</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ τετραμέτρῳ τῷ γεγονότι ἀπὸ ἀρτίου τριμέτρου κατὰ πρόσθεσιν βάσεως τελευταίας μείουρον τρίμετρον</label>
+               <p>
+                  <lb /> ἰὼ παρέρπων, μικρόν, εἴ τι κἀγκονεῖς, ἄκουσον
+<lb />τὰ Βότρυος περισσὰ δῆτα κήδη,
+<lb />ὃς πρέσβυς ὀγδώκοντ᾽ ἐτῶν τὸν ἐννέων ἔθαψεν
+<lb /> ἤδη τι τέχνᾳ καὶ σοφὸν λέγοντα.
+<milestone unit="lnum" n="5" />
+                  <lb /> φεῦ τὸν τεκόντα, φεῦ δὲ καὶ σέ, Βότρυος φίλος παῖ,
+<lb /> ὅσων ἄμοιρος ἡδονῶν ἀπώλευ.
+</p>
+            </div2>
+            <div2 type="chapter" n="24" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0533"><foreign lang="la">callimachus</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ τῇ τοὖ προάγοντος τετραμέτρου ἐσχάτῃ διποδίᾳ ἑνδεκασύλλαβον</label>
+               <p>
+                  <lb />τὰ δῶρα τῇ Ἀφροδίτῃ
+<lb /> Σῖμον ἡ περίφοιτος εἰκόν᾽ αὑτῆς
+<lb /> ἔθηκε, τήν τε μίτρην,
+<lb />ἣ μαστοὺς ἐφίλησε τόν τε πανὸν
+                  <milestone unit="lnum" n="5" />
+                  <lb /> καὶ τοὺς <add>ποτ᾽ ἀντίναξεν</add>
+                  <lb /> ἀυτοῦς1᾽ <add>ἀν</add> ὄρη τάλαινα θύρσους.
+               </p>
+            </div2>
+            <div2 type="chapter" n="25" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0533"><foreign lang="la">callimachus</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ διπλασιασθείσῃ τᾖ διποδίᾳ ἐπῳδὸς τετράμετρος, πλεονάζων μίᾳ συλλαβῇ τοὖ ἑξαμέτρου</label>
+               <p>
+                  <lb /> Δήμητρι τῇ Πυλαίῃ, τῇ τοῦτον οὑκ Πελασγῶν
+<lb /> Ἀκρίσιος τὸν νηὸν ἐδείματο, ταῦθ᾽ ὁ Ναυκρατίτης
+<lb /> καὶ τῇ κάτω θυγατρὶ τὰ δῶρα Τιμόδημος
+<lb />εἵσατο, τῶν κερδέων δεκατεύματα: καὶ γὰρ εὔξαθ᾽ οὕτως.
+<pb id="v.5.p.18" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="26" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0261"><foreign lang="la">simonides</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ τῷ αὐτῷ ^ τετραμέτρῳ μείουρον τρίμετρον</label>
+               <p>
+                  <lb /> μνήσομαι: οὐ γὰρ ἔοικεν ἀνώνυμον ἐνθάδ᾽ Ἀρχεναύτεω
+<lb /> κεῖσθαι θανοῦσαν ἀγλαὰν ἄκοιτιν,
+<lb /> Ξανθίππην Περιάνδρου ἀπέκγονον, ὃς ποθ᾽ ὑψιπύργου
+<lb /> σήμαινε λαοῖς τέρμ᾽ ἔχων Κορίνθου.
+</p>
+            </div2>
+            <div2 type="chapter" n="27" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-1581"><foreign lang="la">phalaecus</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ τετραμέτρῳ τρίμετρον ἄρτιον, εἶθ᾽ ἑξάμετρον ἐναλλάξ</label>
+               <p>
+                  <lb /> Φῶκος ἐπὶ ξείνῃ μὲν ἀπέφθιτο: κῦμα γὰρ μέλαινα
+<lb /> νεῦς οὐχ ὑπεξήνεικεν, οὐδ᾽ %   ἐδέξατο,
+<lb /> ἀλλὰ κατ᾽ Αἰγαίοιο πολὺν βυθὸν ^ ᾤχετο πόντου,
+<lb /> βίῃ Νότου πρήσαντος ἐσχάτην ἅλα.
+<milestone unit="lnum" n="5" />
+                  <lb /> τύμβου δ᾽ ἐν πατέρων κενεοῦ λάχεν ὃν πέρι Προμηθὶς
+<lb /> μήτηρ, λυγρῇ ὄρνιθι πότμον εἰκέλη,
+<lb /> αἰαῖ κωκύει τὸν ἑὸν γόνον ἤματα πάντα,
+<lb /> λέγουσα τὸν πρόωρον ὡς ἀπέφθιτο.
+</p>
+            </div2>
+            <div2 type="chapter" n="27a" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0533"><foreign lang="la">callimachus</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ τῷ αὐτῷ τετραμέτρῳ ἐνδεκασύλλαβον </label>
+               <p>
+                  <pb id="v.5.p.20" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="28" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0261"><foreign lang="la">simonides</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ τῷ αὐτῷ τετραμέτρῳ τετράμετρον ὅμοιον τῷ <title>εἴ μοι γένοιτο παρθένος καλή τε καί τέρεινα</title> μία δὲ μόνον συλλαβῇ πλεονάζον: ἐπὶ τοῦ τετάρτου ποδὸς οὐκ ἔχει ἴαμβον, ἀλλ᾽ ἀνάπαιστον</label>
+               <p>
+                  <lb /> πολλάκι δὴ φυλῆς Ἀκαμαντίδος ἐν χοροῖσιν Ὧραι
+<lb /> ἀνωλόλυξαν κισσοφόροις ἐπὶ διθυράμβοις
+<lb />αἱ Διονυσιάδες, μίτραισι δὲ καὶ ῥόδων ἀώτοις
+<lb /> σοφῶν ἀοιδῶν ἐσκίασαν λιπαρὰν ἔθειραν,
+<milestone unit="lnum" n="5" />
+                  <lb />οἳ τόνδε τρίποδά σφισι μάρτυρα Βακχίων ἀέθλων
+<lb /> ἔθηκαν: κείνους δ᾽ Ἀντιγένης ἐδίδασκεν ἄνδρας.
+<lb />εὖ δ᾽ ἐτιθηνεῖτο γλυκερὰν ὄπα Δωρίοις Ἀρίστων
+<lb />Ἀργεῖος ἡδὺ πνεῦμα χέων καθαρῶς ἐν αὐλοῖς:
+<lb /> τῶν ἐχορήγησεν κύκλον μελίγηρυν Ἱππόνικος
+<milestone unit="lnum" n="10" />
+                  <lb /> Στρούθωνος υἱός, ἅρμασιν ἐν Χαρίτων φορηθείς,
+<lb />αἳ οἱ ἐπ᾽ ἀνθρώπους ὄνομα κλυτὸν ἀγλαάν τε νίκαν
+<lb /> θῆκαν ἰοστεφάνων θεᾶν ἕκατι Μοισᾶν.
+</p>
+            </div2>
+            <div2 type="chapter" n="29" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0218"><foreign lang="la">nicaenetus</foreign></persName>
+               </docAuthor>
+               <label>ἐπὶ ἑξαμέτρῳ τρίμετρον</label>
+               <p>
+                  <lb />οἶνός τοι χαρίεντι πέλει ταχὺς ἵππος ἀοιδῷ:
+<lb />ὕδωρ δὲ πίνων οὐδὲν ἂν τέκοις σοφόν.
+<lb /> τοῦτ᾽ ἔλεγεν, Διόνυσε, καὶ ἔπνεεν οὐχ ἑνὸς ἀσκοῦ
+<lb /> Κρατῖνος, ἀλλὰ παντὸς ὠδώδει πίθου.
+<milestone unit="lnum" n="5" />
+                  <lb /> τοιγὰρ ὑπὸ στεφάνοις μέγας ἔβρυεν, εἶχε δὲ κισσῷ
+<lb /> μέτωπον ὥσπερ καὶ σὺ κεκροκωμένον.
+<pb id="v.5.p.22" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="30" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0261"><foreign lang="la">simonides</foreign></persName>
+               </docAuthor>
+               <label>ἑξάμετρος καὶ οὗτος τροχαϊκὸς τετράμετρος κατὰ</label>
+               <p>
+                  <lb />μετάθεσιν τῆς λέξεως
+<lb />Μοῦσά μοι Ἀλκμήνης καλλισφύρου υἱὸν ἄειδε.
+<lb />υἱὸν Ἀλκμήνης ἄειδε Μοῦσά μοι καλλισφύρου.
+</p>
+            </div2>
+            <div2 type="chapter" n="31" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0265"><foreign lang="la">timocreon</foreign></persName>
+               </docAuthor>
+               <label>ὁμοίως</label>
+               <p>
+                  <lb />Κηία με προσῆλθε φλυαρία οὐκ ἐθέλοντα.
+<lb />οὐκ ἐθέλοντά με προσῆλθε Κηΐα φλυαρία.</p>
+            </div2>
+         </div1></body></text></TEI.2>

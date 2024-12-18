@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="10" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-555a" n="555a" /> τῶν ἀδικημάτων ἰσχυρόν ἐστι καὶ πρόχειρον,
+               εἶτα <milestone unit="tlnum" n="10" /> τοῦ πάθους ὥσπερ πνεύματος
+               ὑπολείποντος, ἀσθενὲς καὶ ταπεινὸν ὑποπίπτει τοῖς φόβοις καὶ ταῖς
+               δεισιδαιμονίαις: ὥστε πρὸς τὰ γιγνόμενα καὶ πρὸς τὴν ἀλήθειαν
+               ἀποπλάττεσθαι τὸ τῆς Κλυταιμνήστρας ἐνύπνιον τὸν Στησίχορον, οὑτωσί πως
+               λέγοντα <milestone unit="tlnum" n="15" />
+               <quote rend="blockquote">
+                  <l> τᾷ δὲ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τᾷ δὲ</foreign> ρ: <foreign lang="greek">τάδε</foreign></note> δράκων ἐδόκησεν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐδόκησεν</foreign> βεργκιυς: <foreign lang="greek">ἐδόκησε</foreign></note> μολεῖν κάρα βεβροτωμένος ἄκρον, </l> <note resp="ed" place="unspecified" anchored="yes">βεργκ. 3 π. 222</note>
+                  <l>ἐκ δ᾽ ἄρα τοῦ βασιλεὺς Πλεισθενίδας ἐφάνη. </l>
+               </quote> καὶ γὰρ ὄψεις ἐνυπνίων καὶ φάσματα μεθημερινὰ καὶ χρησμοὶ καὶ
+               καταιβασίαι, καὶ ὅ τι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὅ τι</foreign> χ: <foreign lang="greek">ὅτι</foreign></note> δόξαν ἔσχεν <milestone unit="tlnum" n="20" /> αἰτίᾳ
+               θεοῦ περαίνεσθαι, χειμῶνας ἐπάγει καὶ φόβους </p></div1></body></text></TEI.2>

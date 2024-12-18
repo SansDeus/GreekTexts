@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="573" unit="card" /></p></sp></div2>
+<div2 type="epode" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἔμολες, ὦ Πάρις, ᾗτε σύ γε
+<lb />βουκόλος ἀργενναῖς ἐτράφης
+<lb rend="displayNum" n="575" />Ἰδαίαις παρὰ μόσχοις,
+<lb />βάρβαρα συρίζων, Φρυγίων
+<lb />αὐλῶν Ὀλύμπου καλάμοις
+<lb />μιμήματα πνείων.
+<lb />εὔθηλοι δὲ τρέφοντο βόες,
+<lb rend="displayNum" n="580" />ὅτε σε κρίσις ἔμηνε θεᾶν,
+<lb />ἅ σ᾽ Ἑλλάδα πέμπει:
+<lb />ἐλεφαντοδέτων πάροι-
+<lb />θεν δόμων δὲ στὰς Ἑλένας
+<lb />ἐν ἀντωποῖς βλεφάροισιν
+<lb rend="displayNum" n="585" />ἔρωτά τ᾽ ἔδωκας, ἔρωτι δ᾽
+<lb />αὐτὸς ἐπτοάθης.
+<lb />ὅθεν ἔρις ἔριν
+<lb />Ἑλλάδα σὺν δορὶ ναυσί τ᾽ ἄγει
+<lb /><del status="unremarkable">ἐς</del> Τροίας πέργαμα <gap /> </p></sp></div2>
+</div1>
+</body></text></TEI.2>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="6" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-690d" n="690d" /> μεταβολὴν ὅταν οὖν ὑποπλασθῇ ὑπὸ
+                     τῆς πηγῆς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πηγῆς</foreign>] <foreign lang="greek">πληγῆς</foreign>
+                        μει</note>
+                     <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὑποπλασθῇ ὑπὸ τῆς πηγῆς</foreign>] φορτ. <foreign lang="greek">ἀποσπασθῇ τῆς πηγῆς</foreign> ξφ. π. 949 δ</note> τὸ <milestone unit="tlnum" n="10" /> ὕδωρ, ἐν τῷ ἀέρι, προθερμανθέν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐν τῷ ἀέρι,
+                           προθερμανθέν κἑ</foreign>] ϝιδ. π. 949ε</note>, περιψύχεται ταχέως.
+                  </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>τὸν μὲν οὖν ξένον ἐπῃνέσαμεν ὡς ἀνδρικῶς καταμνημονεύσαντα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καταμνημονεύσαντα</foreign> ρ: <foreign lang="greek">καὶ
+                           μνημονεύσαντα</foreign></note>: περὶ δὲ τοῦ λόγου διηποροῦμεν. ὁ
+                     γὰρ ἀήρ, ἐν ᾧ κρέμαται τὸ ἀγγεῖον, εἰ μὲν ψυχρός ἐστι, πῶς
+                     θερμαίνει τὸ ὕδωρ; εἰ δὲ <milestone unit="tlnum" n="15" /> θερμός, πῶς
+                     περιψύχει πάλιν; ἄλογον γὰρ ὑπὸ ταὐτοῦ ταὐτὸ <note resp="ed" place="unspecified" anchored="yes">*: <foreign lang="greek">τοῦ αὐτοῦ τὸ
+                           αὐτὸ</foreign></note> πάσχειν τἀναντία <note resp="ed" place="unspecified" anchored="yes">*: <foreign lang="greek">τὰ
+                           ἐναντία</foreign></note>, μηδεμιᾶς διαφορᾶς γενομένης. σιωπῶντος δ᾽
+                     αὐτοῦ καὶ διαποροῦντος, οὐδὲν ἔφην <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἔφην</foreign> τυρνεβυς: <foreign lang="greek">ἔφη</foreign></note> δεῖν περὶ τοῦ ἀέρος διαπορεῖν
+                     ἡ γὰρ αἴσθησις λέγει ὅτι ψυχρός ἐστι, καὶ μάλιστά τῶν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τῶν</foreign>] <foreign lang="greek">ὁ τῶν</foreign> ρ</note>
+                     <milestone unit="tlnum" n="20" /> ἐν βάθει φρεάτων ὥστ᾽ ἀμήχανον ὑπ᾽
+                     ἀέρος ψυχροῦ </p></div3></div2></div1></body></text></TEI.2>

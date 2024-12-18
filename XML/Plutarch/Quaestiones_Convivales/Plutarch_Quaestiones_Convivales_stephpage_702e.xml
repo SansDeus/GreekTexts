@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="7" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-702e" n="702e" /> τοὔλαιον οἱ
+                        παῖδες, ἐξευρεῖν μόλις: εὐθὺς γὰρ ἀποπληροῦν τοὺς λύχνους
+                        ἀποσβεσθέντας, εἶτ᾽ ἐπισκοπεῖν τῇ ὑστεραίᾳ πάλιν, εἰ πλήρεις
+                           <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πλῆρες</foreign> μει</note> διαμένουσι.</q> γελάσας δ᾽ ὁ Φλῶρος
+                        <q direct="unspecified">οὐκοῦν</q> εἶπεν <q direct="unspecified">ἐπεὶ τοῦτο τὸ πρόβλημα λέλυται, σκεψώμεθα
+                        τὸν λόγον, <milestone unit="tlnum" n="15" /> τοὺς παλαιοὺς εἰκός ἐστι
+                        καὶ περὶ τοὺς λύχνους καὶ περὶ τὰς τραπέζας οὕτως εὐλαβεῖς
+                        γεγονέναι.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>πρότερον οὖν ἐζητεῖτο περὶ τῶν λύχνων καὶ </p></div3></div2></div1></body></text></TEI.2>

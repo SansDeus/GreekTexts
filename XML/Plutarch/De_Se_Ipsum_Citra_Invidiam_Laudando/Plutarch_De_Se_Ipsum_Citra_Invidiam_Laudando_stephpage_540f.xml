@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="4" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-540f" n="540f" /> μεμνημένους τοῦ <quote rend="blockquote">
+                  <l> ὤ μοι, Τυδέος υἱὲ δαΐφρονος ἱπποδάμοιο, </l>
+                  <note resp="ed" place="unspecified" anchored="yes">ιδεμ <foreign lang="greek">Δ</foreign> 370</note>
+                  <l>τί πτώσσεις; τί δ᾽ ὀπιπεύεις πολέμοιο γεφύρας; </l>
+               </quote> οὐδὲ γὰρ αὐτὸς ἀκούσας κακῶς ἀλλ᾽ ὑπὲρ τοῦ φίλου λοιδορηθέντος
+               ἠμύνατο, τῇ περιαυτολογίᾳ παρρησίαν <milestone unit="tlnum" n="20" />
+               συγγνώμονα τῆς αἰτίας διδούσης. ἀλλὰ μὴν καὶ Ῥωμαῖοι Κικέρωνι μὲν
+               ἐδυσχέραινον ἐγκωμιάζοντι πολλάκις ἑαυτοῦ τὰς περὶ Κατιλίναν πράξεις,
+               Σκιπίωνι δ᾽ εἰπόντι μὴ πρέπειν αὐτοῖς κρίνειν περὶ Σκιπίωνος, δι᾽ ὃν
+               ἔχουσι τὸ κρίνειν πᾶσιν ἀνθρώποις, <milestone unit="tlnum" n="25" />
+               στεφανωσάμενοι συνανέβησαν εἰς τὸ Καπιτώλιον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Καπετώλιον</foreign> *:
+                     <foreign lang="greek">καπιτώλιον</foreign></note>
+               </p></div1></body></text></TEI.2>

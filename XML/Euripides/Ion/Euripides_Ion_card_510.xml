@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="epode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="510" unit="card" /></p></sp></div2>
+</div1>
+<div1 type="episode" org="uniform" sample="complete">
+<div2 type="trochees" org="uniform" sample="complete">
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb rend="displayNum" n="510" />πρόσπολοι γυναῖκες, αἳ τῶνδ᾽ ἀμφὶ κρηπῖδας δόμων
+<lb />θυοδόκων φρούρημ᾽ ἔχουσαι δεσπότιν φυλάσσετε,
+<lb />ἐκλέλοιπ᾽ ἤδη τὸν ἱερὸν τρίποδα καὶ χρηστήριον
+<lb />Ξοῦθος, ἢ μίμνει κατ᾽ οἶκον ἱστορῶν ἀπαιδίαν;
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ἐν δόμοις ἔστ᾽, ὦ ξέν᾽: οὔπω δῶμ᾽ ὑπερβαίνει τόδε.
+<lb rend="displayNum" n="515" />ὡς δ᾽ ἐπ᾽ ἐξόδοισιν ὄντος, τῶνδ᾽ ἀκούομεν πυλῶν
+<lb />δοῦπον, ἐξιόντα τ᾽ ἤδη δεσπότην ὁρᾶν πάρα.
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+<lb />ὦ τέκνον, χαῖρ᾽: ἡ γὰρ ἀρχὴ τοῦ λόγου πρέπουσά μοι.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb />χαίρομεν: σὺ δ᾽ εὖ φρόνει γε, καὶ δύ᾽ ὄντ᾽ εὖ πράξομεν.
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+<lb />δὸς χερὸς φίλημά μοι σῆς σώματός τ᾽ ἀμφιπτυχάς.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb rend="displayNum" n="520" />εὖ φρονεῖς μέν; ἤ σ᾽ ἔμηνε θεοῦ τις, ὦ ξένε, βλάβη;
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+<lb />σωφρονῶ: τὰ φίλταθ᾽ εὑρὼν οὐ φυγεῖν ἐφίεμαι.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb />παῦε, μὴ ψαύσας τὰ τοῦ θεοῦ στέμματα ῥήξῃς χερί.
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+<lb />ἅψομαι: κοὐ ῥυσιάζω, τἀμὰ δ᾽ εὑρίσκω φίλα.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb />οὐκ ἀπαλλάξῃ, πρὶν εἴσω τόξα πλευμόνων λαβεῖν;
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+<lb rend="displayNum" n="525" />ὡς τί δὴ φεύγεις με; σαυτοῦ γνωρίσας τὰ φίλτατα — 
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb />οὐ φιλῶ φρενοῦν ἀμούσους καὶ μεμηνότας ξένους.
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+<lb />κτεῖνε καὶ πίμπρη: πατρὸς γάρ, ἢν κτάνῃς, ἔσῃ φονεύς.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb />ποῦ δέ μοι πατὴρ σύ; ταῦτ᾽ οὖν οὐ γέλως κλύειν ἐμοῦ;
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+<lb />οὔ: τρέχων ὁ μῦθος ἄν σοι τἀμὰ σημήνειεν ἄν.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb rend="displayNum" n="530" />καὶ τί μοι λέξεις;
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+πατὴρ σός εἰμι καὶ σὺ παῖς ἐμός.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb />τίς λέγει τάδε;
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+ὅς σ᾽ ἔθρεψεν ὄντα Λοξίας ἐμόν.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb />μαρτυρεῖς σαυτῷ.
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+τὰ τοῦ θεοῦ γ᾽ ἐκμαθὼν χρηστήρια.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb />ἐσφάλης αἴνιγμ᾽ ἀκούσας.
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+οὐκ ἄρ᾽ ὄρθ᾽ ἀκούομεν.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb />ὁ δὲ λόγος τίς ἐστι Φοίβου;
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+τὸν συναντήσαντά μοι — 
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb rend="displayNum" n="535" />τίνα συνάντησιν;
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+δόμων τῶνδ᾽ ἐξιόντι τοῦ θεοῦ
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb />συμφορᾶς τίνος κυρῆσαι;
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+παῖδ᾽ ἐμὸν πεφυκέναι.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb />σὸν γεγῶτ᾽, ἢ δῶρον ἄλλως;
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+δῶρον, ὄντα δ᾽ ἐξ ἐμοῦ.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb />πρῶτα δῆτ᾽ ἐμοὶ ξυνάπτεις πόδα σόν;
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+οὐκ ἄλλῳ, τέκνον.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb />ἡ τύχη πόθεν ποθ᾽ ἥκει;
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+δύο μίαν θαυμάζομεν.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb rend="displayNum" n="540" />ἔα. τίνος δέ σοι πέφυκα μητρός;
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+οὐκ ἔχω φράσαι.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb />οὐδὲ Φοῖβος εἶπε;
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+τερφθεὶς τοῦτο, κεῖν᾽ οὐκ ἠρόμην.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb />γῆς ἄρ᾽ ἐκπέφυκα μητρός.
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+οὐ πέδον τίκτει τέκνα.
+</p></sp>
+<sp>
+<speaker>Ἴων</speaker><p>
+<lb />πῶς ἂν οὖν εἴην σός;
+</p></sp>
+<sp>
+<speaker>Ξοῦθος</speaker><p>
+οὐκ οἶδ᾽, ἀναφέρω δ᾽ ἐς τὸν θεόν.
+</p></sp></div2></div1></body></text></TEI.2>

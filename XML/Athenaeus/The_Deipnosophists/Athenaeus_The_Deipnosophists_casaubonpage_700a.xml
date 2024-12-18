@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="15" org="uniform" sample="complete"><p><milestone unit="casaubonpage" id="casaubonpage-700a" n="700a" />
+
+<quote rend="blockquote">
+<lb /> ὁ πρῶτος εὑρὼν μετὰ λυχνούχου περιπατεῖν
+<lb /> τῆς νυκτὸς ἦν τις κηδεμὼν τῶν δακτύλων.
+
+</quote>
+<milestone unit="chapter" n="59" />
+
+<quote rend="blockquote">
+<lb />ἐν δὲ Θεοφορήτῳ ὁ αὐτὸς Ἄλεξις:
+<lb />οἶμαὶ γ᾽ ἐπιτιμᾶν τῶν ἀπαντώντων τινὰς 
+<lb />ἡμῖν ὅτι τηνικαῦτα μεθύων περιπατῶ, 
+<lb />ποῖος γάρ ἐστιν φανός, ὦ πρὸς τῶν θεῶν, 
+<lb />τοιοῦτος οἷος ὁ γλυκύτατος ἥλιος;
+
+</quote>
+Ἀναξανδρίδης δὲ ἐν Ὕβρει::
+
+<quote rend="blockquote">
+<lb /> οὔκουν λαβὼν τὸν φανὸν ἅψεις μοι λύχνον;
+</quote></p></div1></body></text></TEI.2>

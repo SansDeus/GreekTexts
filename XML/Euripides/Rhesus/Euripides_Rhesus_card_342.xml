@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><milestone ed="p" n="342" unit="card" />
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />Ἀδράστεια μὲν ἁ Διὸς
+<lb />παῖς εἴργοι στομάτων φθόνον:
+<lb />φράσω γὰρ δὴ ὅσον μοι ψυχᾷ
+<lb rend="displayNum" n="345" />προσφιλές ἐστιν εἰπεῖν.
+<lb />ἥκεις, ὦ ποταμοῦ παῖ,
+<lb />ἥκεις, ἐπλάθης Φιλίου πρὸς αὐλὰν
+<lb />ἀσπαστός, ἐπεί σε χρόνῳ
+<lb />Πιερὶς μάτηρ ὅ τε καλλιγέφυ-
+<lb rend="displayNum" n="350" />ρος ποταμὸς πορεύει
+</p></sp></div2></div1></body></text></TEI.2>

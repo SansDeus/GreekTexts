@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="467" unit="card" /></p></sp></div1>
+<div1 type="Agon" org="uniform" sample="complete">
+<div2 type="prelude" org="uniform" sample="complete">
+<sp><speaker>Χορὸς γερόντων</speaker><p>
+<lb />ὦ πόλλ᾽ ἀναλώσας ἔπη πρόβουλε τῆσδε <add>τῆς</add> γῆς,
+<lb />τί τοῖσδε σαυτὸν ἐς λόγους τοῖς θηρίοις συνάπτεις;
+<lb />οὐκ οἶσθα λουτρὸν οἷον αἵδ᾽ ἡμᾶς ἔλουσαν ἄρτι
+<lb rend="displayNum" n="470" />ἐν τοῖσιν ἱματιδίοις, καὶ ταῦτ᾽ ἄνευ κονίας;</p></sp>
+<sp><speaker>Χορὸς Γυναικῶν</speaker><p>
+<lb />ἀλλ᾽ ὦ μέλ᾽ οὐ χρὴ προσφέρειν τοῖς πλησίοισιν εἰκῇ
+<lb />τὴν χεῖρ᾽: ἐὰν δὲ τοῦτο δρᾷς, κυλοιδιᾶν ἀνάγκη.
+<lb />ἐπεὶ 'θέλω 'γὼ σωφρόνως ὥσπερ κόρη καθῆσθαι,
+<lb />λυποῦσα μηδέν᾽ ἐνθαδί, κινοῦσα μηδὲ κάρφος,
+<lb rend="displayNum" n="475" />ἢν μή τις ὥσπερ σφηκιὰν βλίττῃ με κἀρεθίζῃ.
+</p></sp></div2></div1></body></text></TEI.2>

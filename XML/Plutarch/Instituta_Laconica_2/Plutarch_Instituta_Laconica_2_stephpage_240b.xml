@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="42" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-240b" n="240b" /> νομοθεσίας, οὔτε συνεστράτευσαν οὔτε τούτοις
+               οὔτε τοῖς μεταξὺ Μακεδονικοῖς βασιλεῦσιν, οὔτ᾽ εἰς συνέδριον <milestone unit="tlnum" n="10" /> κοινὸν εἰσῆλθον οὔτε <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οὔτε</foreign> *: <foreign lang="greek">οὐδὲ</foreign></note> φόρον ἤνεγκαν ἕως οὗ
+               παντάπασιν ὑπεριδόντες; τὴν Λυκούργου νομοθεσίαν ὑπὸ τῶν ἰδίων πολιτῶν
+               ἐτυραννεύθησαν μηδὲν ἔτι σῴζοντες τῆς πατρίου ἀγωγῆς, καὶ παραπλήσιοι
+               τοῖς ἄλλοις γενόμενοι τὴν πρόσθεν εὔκλειαν καὶ παρρησίαν <milestone unit="tlnum" n="15" /> ἀπέθεντο καὶ εἰς δουλείαν μετέστησαν καὶ νῦν ὑπὸ
+               Ῥωμαίοις καθάπερ οἱ ἄλλοι Ἕλληνες ἐγένοντο.</p>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

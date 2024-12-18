@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="825" unit="card" /></p></sp></div2>
+</div1>
+<div1 type="episode" org="uniform" sample="complete">
+<div2 type="lyric" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+
+<lb rend="displayNum" n="825" />ό ό ό, ά ά ά:
+<lb />ὅδε μάρπτις νάιος γάιος.
+<lb />τῶν πρό, μάρπτι, κάμνοις:
+<lb />†ἰόφ .. ὀμ .. αὖθι κάκκας νυ
+<lb />δυϊαν βοᾶν ἀμφαίνω.†
+<lb />ὁρῶ τάδε φροίμια †πράξαν πόνων
+<lb />βιαίων ἐμῶν.  ἠὲ ἠέ.
+<lb />βαῖνε φυγᾷ πρὸς ἀλκάν:
+<lb />†βλοσυρόφρονα χλιδᾷ
+<lb />δύσφορα ναῒ κἀν γᾷ.
+<lb />γαϊάναξ προτάσσου.†
+</p></sp></div2></div1></body></text></TEI.2>

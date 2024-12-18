@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="119" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />μὴ προκάμητε πόδα βαρύ τε
+<lb rend="displayNum" n="120" />κῶλον ὥστε πρὸς πετραῖον
+<lb />λέπας † ζυγηφόρον πῶλον
+<lb />ἀνέντες ὡς βάρος φέρον
+<lb />τροχηλάτοιο πώλου †.
+<lb />λαβοῦ χερῶν καὶ πέπλων,
+<lb />ὅτου λέλοιπε ποδὸς ἀμαυρὸν ἴχνος:
+<lb rend="displayNum" n="125" />γέρων γέροντα παρακόμιζ᾽,
+<lb rend="displayNum" n="127" />ᾧ ξύνοπλα δόρατα νέα νέῳ
+<lb rend="displayNum" n="126" />τὸ πάρος ἐν ἡλίκων πόνοις
+<lb rend="displayNum" n="128" />ξυνῆν ποτ᾽, εὐκλεεστάτας
+<lb />πατρίδος οὐκ ὀνείδη.
+</p></sp></div2></div1></body></text></TEI.2>

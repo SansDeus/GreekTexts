@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><milestone unit="stephpage" id="stephpage-215b" n="215b" />
+         <div1 type="chapter" n="3" org="uniform" sample="complete">
+            <head>Ἁγησιπολίδος τοῦ Κλεομβποτου.</head>
+            <div2 type="section" n="1" org="uniform" sample="complete">
+               <p>Ἀγησίπολις ὁ Κλεομβρότου, εἰπόντος τινὸς
+ὅτι Φίλιππος ἐν ὀλίγαις ἡμέραις Ὄλυνθον
+κατέσκαψε, <q direct="unspecified">μὰ τοὺς θεούς,</q> εἶπεν, <q direct="unspecified">ἄλλην τοιαύτην
+ἐν πολλαπλασίονι χρόνῳ οὐκ οἰκοδομήσει.</q> 
+               </p>
+            </div2>
+            <div2 type="section" n="2" org="uniform" sample="complete">
+               <p>ἄλλου δὲ εἰπόντος ὅτι μετὰ τῶν ἀκμαζόντων βασιλεύων ὡμήρευσε καὶ οὐχ οἱ παῖδες οὐδ᾽ αἱ γυναῖκες αὐτῶν, <q direct="unspecified">δικαίως,</q> εἶπεν, <q direct="unspecified">αὐτοὺς γὰρ ἡμᾶς καλῶς ἔχον ἐστὶ τὰς αὑτῶν ἁμαρτίας φέρειν.</q> 
+               </p>
+            </div2>
+            <div2 type="section" n="3" org="uniform" sample="complete">
+               <p>βουλομένου δ᾽ αὐτοῦ σκύλακας οἴκοθεν
+μεταπέμψασθαι, ὥς τις εἶπεν, <q direct="unspecified">οὐκ ἔστιν ἐξαγωγὴ
+παρ᾽ αὐτῶν,</q> 
+                  </p></div2></div1></body></text></TEI.2>

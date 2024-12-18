@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="136" unit="card" /></p></sp></div2>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Προμηθεύς</speaker><p>
+<lb />αἰαῖ αἰαῖ,
+<lb />τῆς πολυτέκνου Τηθύος ἔκγονα,
+<lb />τοῦ περὶ πᾶσάν θ᾽ εἱλισσομένου
+<lb />χθόν᾽ ἀκοιμήτῳ ῥεύματι παῖδες
+<lb rend="displayNum" n="140" />πατρὸς, Ὠκεανοῦ,
+<lb />δέρχθητ᾽, ἐσίδεσθ᾽ οἵῳ δεσμῷ,
+<lb />προσπορπατὸς  τῆσδε φάραγγος
+<lb />σκοπέλοις ἐν ἄκροις
+<lb rend="displayNum" n="143b" />φρουρὰν ἄζηλον ὀχήσω.
+</p></sp></div2></div1></body></text></TEI.2>

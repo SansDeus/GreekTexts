@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="2" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-675a" n="675a" /> πράγματα, τὰς Οἰολύκου τοῦ Θετταλοῦ
+                     ταφὰς καὶ τὰς Ἀμφιδάμαντος τοῦ Χαλκιδέως ἐν αἷς Ὅμηρον καὶ
+                     Ἡσίοδον ἱστοροῦσιν ἔπεσι διαγωνίσασθαι. <milestone unit="tlnum" n="15" /> καταβαλὼν δὲ ταῦτα τῷ διατεθρυλῆσθαι πάνθ᾽ ὑπὸ τῶν γραμματικῶν,
+                     καὶ τοὺς ἐπὶ ταῖς Πατρόκλου ταφαῖς ἀναγιγνωσκομένους ὑπό τινων οὐχ
+                        <q direct="unspecified">ἥμονας <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οὐχ ἥμονας</foreign> ω εχ ηομ. <foreign lang="greek">Ψ</foreign> 886: <foreign lang="greek">οὐχημονας</foreign>
+                           ῾ϝδ̓</note></q> ἀλλὰ <q direct="unspecified">ῥήμονας,</q> ὡς δὴ καὶ λόγων ἆθλα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἆθλα</foreign> *: <foreign lang="greek">ἄθλα</foreign></note> τοῦ
+                     Ἀχιλλέως προθέντος, ἀφείς, εἶπον ὅτι καὶ Πελίαν θάπτων <milestone unit="tlnum" n="20" />Ἄκαστος ὁ υἱὸς ἀγῶνα ποιήματος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ποιημάτων</foreign> ηερωερδενυς</note> παράσχοι καὶ Σίβυλλα
+                     νικήσειεν. ἐπιφυομένων δὲ πολλῶν καὶ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">καὶ</foreign>] ομ. μει</note> τὸν
+                     βεβαιωτὴν ὡς ἀπίστου καὶ παραλόγου τῆς ἱστορίας ἀπαιτούντων,
+                     ἐπιτυχῶς ἀναμνησθεὶς ἀπέφαινον Ἀκέσανδρον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἀκέσανδρον</foreign>] μυελλερ. 4 π. 285</note>
+                     </p></div3></div2></div1></body></text></TEI.2>

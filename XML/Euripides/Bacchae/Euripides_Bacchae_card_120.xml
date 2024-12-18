@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="120" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="120" />ὦ θαλάμευμα Κουρή-
+<lb />των ζάθεοί τε Κρήτας
+<lb />Διογενέτορες ἔναυλοι,
+<lb />ἔνθα τρικόρυθες ἄντροις
+<lb />βυρσότονον κύκλωμα τόδε
+<lb rend="displayNum" n="125" />μοι Κορύβαντες ηὗρον:
+<lb />βακχείᾳ δ᾽ ἀνὰ συντόνῳ
+<lb />κέρασαν ἁδυβόᾳ Φρυγίων
+<lb />αὐλῶν πνεύματι ματρός τε Ῥέας ἐς
+<lb />χέρα θῆκαν, κτύπον εὐάσμασι Βακχᾶν:
+<lb rend="displayNum" n="130" />παρὰ δὲ μαινόμενοι Σάτυροι
+<lb />ματέρος ἐξανύσαντο θεᾶς,
+<lb />ἐς δὲ χορεύματα
+<lb />συνῆψαν τριετηρίδων,
+<lb />αἷς χαίρει Διόνυσος.
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1110" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />εἰ δὲ τοῦτο καταφοβεῖσθον, μή τις ἀμαθία προσῇ
+<lb rend="displayNum" n="1110" />τοῖς θεωμένοισιν, ὡς τὰ
+<lb />λεπτὰ μὴ γνῶναι λεγόντοιν,
+<lb />μηδὲν ὀρρωδεῖτε τοῦθ᾽: ὡς οὐκέθ᾽ οὕτω ταῦτ᾽ ἔχει.
+<lb />ἐστρατευμένοι γάρ εἰσι,
+<lb />βιβλίον τ᾽ ἔχων ἕκαστος μανθάνει τὰ δεξιά:
+<lb rend="displayNum" n="1115" />αἱ φύσεις τ᾽ ἄλλως κράτισται,
+<lb />νῦν δὲ καὶ παρηκόνηνται.
+<lb />μηδὲν οὖν δείσητον, ἀλλὰ
+<lb />πάντ᾽ ἐπέξιτον θεατῶν γ᾽ οὕνεχ᾽ ὡς ὄντων σοφῶν.</p></sp></div2></div1></body></text></TEI.2>

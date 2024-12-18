@@ -1,0 +1,1938 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="14" org="uniform" sample="complete">
+            <div2 type="chapter" n="1" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-1677"><foreign lang="la">socrates</foreign></persName>
+               </docAuthor>
+               <sp>
+                  <speaker>Πολυκράτης</speaker>
+                  <l>ὄλβιε Πυθαγόρη, Μουσέων Ἑλικώνιον ἔρνος,</l>
+                  <l>εἰπέ μοι εἰρομένῳ, ὁπόσοι σοφίης κατ᾽ ἀγῶνα</l>
+                  <l> σοῖσι δόμοισιν ἔασιν, ἀεθλεύοντες ἄριστα.</l>
+               </sp>
+               <sp>
+                  <speaker>Πυθαγόρας</speaker>
+                  <l>τοιγὰρ ἐγὼν εἴποιμι, Πολύκρατες: ἡμίσεες μὲν</l>
+                  <l>ἀμφὶ καλὰ σπεύδουσι μαθήματα: τέτρατοι αὖτε</l>
+                  <l>ἀθανάτου φύσεως πεπονήαται: ἑβδομάτοις δὲ</l>
+                  <l>σιγὴ πᾶσα μέμηλε, καὶ ἄφθιτοι ἔνδοθι μῦθοι:</l>
+                  <milestone unit="lnum" n="5" />
+                  <l> τρεῖς δὲ γυναῖκες ἔασι, Θεανὼ δ᾽ ἔξοχος ἄλλων.</l>
+                  <l> τόσσους Πιερίδων ὑποφήτορας αὐτὸς ἀγινῶ. </l>
+               </sp>
+            </div2>
+            <div2 type="chapter" n="2" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>εἰς ἄγαλμα Παλλάδος</label>
+               <p>
+                  <lb /> Παλλὰς ἐγὼ χρυσῆ σφυρήλατος: αὐτὰρ ὁ χρυσὸς
+<lb /> αἰζηῶν πέλεται δῶρον ἀοιδοπόλων.
+<lb />ἥμισυ μὲν χρυσοῖο Χαρίσιος, ὀγδοάτην δὲ
+<lb /> Θέσπις, καὶ δεκάτην μοῖραν ἔδωκε Σόλων,
+<milestone unit="lnum" n="5" />
+                  <lb />αὐτὰρ ἐεικοστὴν Θεμίσων τὰ δὲ λοιπὰ τάλαντα
+<lb /> ἐννέα, καὶ τέχνη δῶρον Ἀριστοδίκου.
+<pb id="v.5.p.28" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="3" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />ἁ Κύπρις τὸν Ἔρωτα κατηφιόωντα προσηύδα:
+<lb />
+                  <q direct="unspecified"> τίπτε τοι, ὦ τέκος, ἄλγος ἐπέχραεν;</q> ὃς δ᾽ ἀπάμειπτο:
+<lb />
+                  <quote rend="blockquote">
+                     <l> Πιερίδες μοι μῆλα διήρπασαν ἄλλυδις ἄλλη,
+</l>
+                     <l> αἰνύμεναι κόλποιο, τὰ δὴ φέρον ἐξ Ἑλικῶνος.
+<milestone unit="lnum" n="5" />
+                     </l>
+                     <l> Κλειὼ μὲν μήλων πέμπτον λάβε: δωδέκατον δὲ
+</l>
+                     <l>Εὐτέρπη: ἀτὰρ ὀγδοάτην λάχε δῖα Θάλεια:
+</l>
+                     <l> Μελπομένη δ᾽ εἰκοστὸν ἀπαίνυτο: Τερψιχόρη δὲ
+</l>
+                     <l> τέτρατον ἑβδομάτην δ᾽ Ἐρατὼ μετεκίαθε μοίρην
+</l>
+                     <l>ἡ δὲ τριηκόντων με Πολύμνια νόσφισε μήλων,
+<milestone unit="lnum" n="10" />
+                     </l>
+                     <l>Οὐρανίη δ᾽ ἑκατόν τε καὶ εἴκοσι: Καλλιόπη δὲ
+</l>
+                     <l> βριθομένη μήλοισι τριηκοσίοισι βέβηκε.
+</l>
+                     <l> σοὶ δ᾽ ἄρα κουφοτέρῃσιν ἐγὼ σὺν χερσὶν ἱκάνω,
+</l>
+                     <l>πεντήκοντα φέρων τάδε λείψανα μῆλα θεάων.</l>
+                  </quote> 
+               </p>
+            </div2>
+            <div2 type="chapter" n="4" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν Αὐγείου κόπρον</label>
+               <p>
+                  <lb />Αὐγείην ἐρέεινε μέγα σθένος Ἀλκεΐδαο,
+<lb />πληθὺν βουκολίων διζήμενος: ὃς δ᾽ ἀπάμειπτο:
+<lb />
+                  <quote rend="blockquote">
+                     <l> ἀμφὶ μὲν Ἀλφειοῖο ῥοάς, φίλος, ἥμισυ τῶνδε:
+</l>
+                     <l> μοίρη δ᾽ ὀγδοάτη ὄχθον Κρόνου ἀμφινέμονται:
+<milestone unit="lnum" n="5" />
+                     </l>
+                     <l>δωδεκάτη δ᾽ ἀπάνευθε Ταραξίπποιο παρ᾽ ἱρὸν
+</l>
+                     <l> ἀμφὶ δ᾽ ἄρ᾽ Ἤλιδα δῖαν ἐεικοστὴ νεμέθονται:
+</l>
+                     <l>αὐτὰρ ἐν Ἀρκαδίῃ <add>γε</add> τριηκοστὴν προλέλοιπα:
+</l>
+                     <l> λοιπὰς δ᾽ αὖ λεύσσεις ἀγέλας τόδε πεντήκοντα.</l>
+                  </quote> 
+                  <pb id="v.5.p.30" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="5" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> εἰμὶ πατρὸς λευκοῖο μέλαν τέκος, ἄπτερος ὄρνις,
+<lb /> ἄχρι καὶ οὐρανίων ἱπτάμενος νεφέων
+<lb />κούραις δ᾽ ἀντομένῃσιν ἀπενθέα δάκρυα τίκτω:
+<lb /> εὐθὺ δὲ γεννηθεὶς λύομαι εἰς ἀέρα.
+</p>
+            </div2>
+            <div2 type="chapter" n="6" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>Ὡρονόμων ὄχ᾽ ἄριστε, πόσον παρελήλυθεν ἠοῦς;
+<lb />
+                  <q direct="unspecified">ὅσσον  ἀποιχομένοιο δύο τρίτα, δὶς τόσα λείπει.</q> 
+               </p>
+            </div2>
+            <div2 type="chapter" n="7" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />χάλκεός εἰμι λέων κρουνοὶ δέ μοι ὄμματα δοιά,
+<lb />καὶ στόμα, καὶ δὲ θέναρ δεξιτεροῖο ποδός.
+<lb /> πλήθει δὲ κρητῆρα δύ᾽ ἤμασι δεξιὸν ὄμμα,
+<lb />καὶ λαιὸν τρισσοῖς, καὶ πισύροισι θέναρ:
+<milestone unit="lnum" n="5" />
+                  <lb /> ἄρκιον ἓξ ὥραις πλῆσαι στόμα: σὺν δ᾽ ἅμα πάντα,
+<lb />καὶ στόμα καὶ γλῆναι καὶ θέναρ, εἰπὲ πόσον.
+</p>
+            </div2>
+            <div2 type="chapter" n="8" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>ἕξ, ἕν, πέντε, δύο, τρία, τέσσαρα κῦβος ἐλαύνει.
+</p>
+            </div2>
+            <div2 type="chapter" n="9" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>ἄνδρ᾽ ἐμὸν ἔκταν᾽ ἑκυρός, ἑκυρὸν δ᾽ ἔκτανεν ἀνὴρ,
+<lb /> καὶ δαὴρ ἑκυρόν, καὶ ἑκυρὸς γενέτην.
+<pb id="v.5.p.32" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="10" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />λέβητας ἔγνων μὴ σιωπᾶν εἰδότας,
+<lb /> πλὴν ἄρτια τὸν χαλκὸν ἠχεῖν προτρέπειν,
+<lb /> ἀντικτυποῦντος τοῦ πρώτου τῷ δευτέρῳ,
+<lb /> καὶ μεταδιδόντος τῷ τετάρτῳ τοῦ τρίτου.
+<milestone unit="lnum" n="5" />
+                  <lb /> ἐὰν δὲ τὸ κινοῦν ἠρεμῇ καὶ μὴ πνέῃ,
+<lb /> ἄφωνος ὁ λέβης: τῇ φύσει γὰρ οὐ λάλος.
+<lb /> τῶν σῶν δὲ λεβήτων ἡ φύσις μὲν εὔστομος:
+<lb />σῇ ^ δ᾽ ἐντυχοῦσα γίνετ᾽ εὐστομωτέρα,
+<lb /> σιγῶς1᾽ ὅταν δεῖ, καὶ λαλοῦς1᾽ ὅταν δέοι.
+</p>
+            </div2>
+            <div2 type="chapter" n="11" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> τοὺς χιλίους στατῆρας, οὓς ἐκτησάμην,
+<lb /> λαβεῖν κελεύω τοὺς ἐμοὺς παῖδας δύο:
+<lb /> πλὴν γνησίου τὸ πέμπτον ηὐξήσθω δέκα
+<lb /> μέτρου τετάρτου τῶν λαχόντων τῷ νόθῳ.
+</p>
+            </div2>
+            <div2 type="chapter" n="12" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>ἓξ μνῶν ἓξ φιάλας Κροῖσος βασιλεὺς ἀνέθηκεν
+<lb /> δραχμῇ τὴν ἑτέρην μείζονα τῆς ἑτέρης.
+</p>
+            </div2>
+            <div2 type="chapter" n="13" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>ἄμφω μὲν ἡμεῖς εἴκοσι μνᾶς ἕλκομεν,
+<lb />Ζῆθός τε χὠ ξύναιμος: ἢν δέ μου λάβῃς
+<pb id="v.5.p.34" />
+                  <lb /> τρίτον, τό τέτρατον τε τοῦδ᾽ Ἀμφίονος,
+<lb />ἓξ πάντ᾽ ἀνευρὼν, μητρὸς εὑρήσεις σταθμόν.
+</p>
+            </div2>
+            <div2 type="chapter" n="14" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> εἷς ἄνεμος: δύο νῆες: ἐρέττουσιν δέκα ναῦται:
+<lb /> εἷς δὲ κυβερνήτης ἀμφοτέρας ἐλάει.
+</p>
+            </div2>
+            <div2 type="chapter" n="15" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />ἓξ πόδες ἐν χώραισι τόσαις μετροῦσιν ἴαμβον,
+<lb /> σπονδεῖος, χόριος, καὶ δάκτυλος ἠδ᾽ ἀνάπαιστος,
+<lb />πυρρίχιος καὶ ἴαμβος: ἔχει δέ τε οἶκον ἕκαστος.
+<lb /> πυρριχίου τέλος ἔσθ᾽  ὃς μακρὰν οἶδεν ἐν ἀρχῇ,
+<milestone unit="lnum" n="5" />
+                  <lb /> πρώτη καὶ τριτάτη, πέμπτη δέ τε τούσδε κατίσχει.
+<lb />οἱ δ᾽ ἄλλοι κατὰ πᾶσαν ὁμῶς βαίνουσιν ἀταρπόν:
+<lb />μοῦνον ἴαμβον ἄνακτα φέρει τόπος, ὃν κ᾽ ἐθελήσῃ.
+</p>
+            </div2>
+            <div2 type="chapter" n="16" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> νῆσος ὅλη, μύκημα βοός, φωνή τε δανειστοῦ.
+</p>
+            </div2>
+            <div2 type="chapter" n="17" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> Θήρη μὲν πολέμου μελέτη: θήρη δὲ διδάσκει
+<lb />κρυπτὸν ἑλεῖν, ἐπιόντα μένειν, φεύγοντα, διώκειν.
+<pb id="v.5.p.36" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="18" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>Ἕκτορα τὸν Ἕκτορα Διομήδης ἔκτανεν ἀνὴρ
+<lb /> Αἴας πρὸ Τρώων ἔγχεϊ μαρνάμενον.
+</p>
+            </div2>
+            <div2 type="chapter" n="19" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>εἶδον ἐγώ ποτε θῆρα δι᾽ ὕλης τμητοσιδήρου
+<lb />ὕπτιον ὀρθὰ τρέχοντα, ποσὶν δ᾽ οὐχ ἥπτετο γαίης.
+</p>
+            </div2>
+            <div2 type="chapter" n="20" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>εἰ πυρὸς αἰθομένου μέσσην ἑκατοντάδα θείης,
+<lb />παρθένου εὑρήσεις υἱέα καὶ φονέα.
+</p>
+            </div2>
+            <div2 type="chapter" n="21" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>ἐς μέσον Ἡφαίστοιο βαλὼν ἑκατοντάδα μούνην,
+<lb />παρθένου εὑρήσεις υἱέα καὶ φονέα.
+</p>
+            </div2>
+            <div2 type="chapter" n="22" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>μὴ λέγε, καὶ λέξεις ἐμὸν οὔνομα. δεῖ δέ σε λέξαι;
+<lb /> ὧδε πάλιν, μέγα θαῦμα, λέγων ἐμὸν οὔνομα λέξεις.
+</p>
+            </div2>
+            <div2 type="chapter" n="23" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> Νηρέος ὄντα με παῖδα φέρει γαιήιος υἱός,
+<lb /> τὸν Στυγὸς ἱμερτοῖς νάμασι δυόμενον.
+<pb id="v.5.p.38" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="24" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />
+                  <gap />μεον Διόνυσον ὁρᾷς ἐμέ: τίκτε με νηδὺς
+<lb /> διχθαδίη, μνήμης δὲ πατήρ ἐμὸς ἡγεμονεύει.
+<lb /> θηροφόρον δέ με πρῶτον ἐγείνατο νηλεόθυμον
+<lb />αὐτοκασιγνήτης δὲ προκὸς φίλον υἷα κατακτάς,
+<milestone unit="lnum" n="5" />
+                  <lb />οὐκέτι θῆρα φέρω, ἀλλ᾽ οὐρανὸν ἠδὲ θάλασσαν,
+<lb />καὶ χθόνα, καὶ μακάρων ἱερὸν χορὸν ἄφθιτον αἰεί.
+</p>
+            </div2>
+            <div2 type="chapter" n="25" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>ὀφθαλμοὺς Σκύλλης ποθέω, τοὺς ἔσβεσεν αὐτὸς
+<lb /> ἠέλιος, μήνη τε: πατὴρ δέ με δείδιε κούρην
+<lb /> λοῦμαι δ᾽ ἀενάοισι δύω ποταμοῖσι θανοῦσα,
+<lb />οὓς κορυφὴ προΐησιν ἐπ᾽ ὀφρυόεντι κολωνῷ.
+</p>
+            </div2>
+            <div2 type="chapter" n="26" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>ξανθὴ μέν τις ἐγὼν ἤμην πάρος, ἀλλὰ κοπεῖσα
+<lb />γίνομαι ἀργεννῆς λευκοτέρη χιόνος:
+<lb /> χαίρω δὲ γλυκερῷ τε καὶ ἰχθυόεντι λοετρῷ,
+<lb /> πρώτη δαιτυμόνων ἐς χορὸν ἐρχομένη.
+<pb id="v.5.p.40" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="27" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> παρθένον ἐν πελάγει ζητῶν τὴν πρόσθε λέοντα,
+<lb /> τηθὴν εὑρήσεις παιδοφόνου Ἑκάβης.
+</p>
+            </div2>
+            <div2 type="chapter" n="28" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />ἐξ ἁλὸς ἰχθυόεν γένος ἔλλαχον: εἷς δὲ μ᾽ ἄεθλος
+<lb /> εἰς Διονυσιακοὺς οἶδεν ἀγῶνας ἄγειν:
+<lb /> καὶ δέμας ἐν σταδίοισιν ἀλειψάμενος λίπ᾽ ἐλαίῳ,
+<lb /> υἱέα μὲν Δηοῦς ὤλεσα χερσὶν ἐμαῖς:
+<milestone unit="lnum" n="5" />
+                  <lb /> δεύτερον αὖτε Γίγαντας ἀολλέας ἄλλοθεν ἄλλους
+<lb /> ἐκπέμπω πολλαῖς χείρεσιν ἑλκομένους.
+</p>
+            </div2>
+            <div2 type="chapter" n="29" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> μούνῳ μοι φίλον ἐστὶ γυναιξί περ ἐν φιλότητι
+<lb /> μίγνυσθαι, αὐτῶν λισσομένων ποσίων.
+</p>
+            </div2>
+            <div2 type="chapter" n="30" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> κριὸν ἔχω γενετῆρα, τέκεν δέ με τῷδε χελώνη:
+<lb />τικτομένη δ᾽ ἄμφω πέφνον ἐμοὺς γονέας.
+<pb id="v.5.p.42" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="31" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> οἴνου τὴν ἑτέρην γράφε μητέρα, καὶ θὲς ἐπ᾽ ἄρθρῳ
+<lb /> ἄρθρον τοῦ πάτρη πατρὸς ἄκοιτις ὁρᾷς.
+</p>
+            </div2>
+            <div2 type="chapter" n="32" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> Κτανθεὶς τὸν κτείναντα κατέκτανον: ἀλλ᾽ ὁ μὲν οὐδ᾽ ὣς
+<lb /> ἤλυθεν εἰς Ἀίδην αὐτάρ ἔγωγ᾽ ἔθανον.
+</p>
+            </div2>
+            <div2 type="chapter" n="33" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>τόν με κατακτείναντα κατέκτανον, οὐ δέ μοι ἦδος:
+<lb /> θῆκε γὰρ ἀθάνατον τὸν κτάμενον θάνατος.
+</p>
+            </div2>
+            <div2 type="chapter" n="34" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />νῆσός τις πόλις ἐστὶ φυτώνυμον αἷμα λαχοῦσα,
+<lb />ἰσθμὸν ὁμοῦ καὶ πορθμὸν ἐπ᾽ ἠπείροιο φέρουσα:
+<lb />ἔνθ᾽ ἀπ᾽ ἐμῆς ἔσθ᾽ αἷμα ὁμοῦ καὶ Κέκροπος αἷμα:
+<lb />ἔνθ᾽ Ἥφαιστος ἔχει χαίρων γλαυκῶπιν Ἀθήνην
+<milestone unit="lnum" n="5" />
+                  <lb /> κεῖθι θυηπολίην πέμπειν κελόμην Ἡρακλεῖ.
+<pb id="v.5.p.44" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="35" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>ἀνθρώπου μέλος εἰμί ὃ καὶ τέμνει με σίδηρος:
+<lb />γράμματος αἰρομένου δύεται ἠέλιος.
+</p>
+            </div2>
+            <div2 type="chapter" n="36" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>πικρή μοι ζωή, θάνατος γλυκύς, ὕδατα δ᾽ ἄμφω:
+<lb />θνῄσκω ἀναιμάκτοις ἔγχεσι νυσσόμενος:
+<lb />ἢν δέ τις ἐν ζώοντι νέκυν τύμβῳ με καλύψῃ,
+<lb />αἵματι συγγενέων πρῶτον ἀποβρέχομαι.
+</p>
+            </div2>
+            <div2 type="chapter" n="37" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> Παλλάδος εἰμὶ φίλη, τίκτω δ᾽ ἀπερείσια τέκνα,
+<lb />ἃ κατὰ πετράων ἄνδρες βάλον ὀλλυμένων δέ,
+<lb /> Πηλείδῃ φάος ἔσκε, βροτῶν ἄκος, ἕρκος ἀγώνων.
+</p>
+            </div2>
+            <div2 type="chapter" n="38" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> κτεῖνα κάσιν, κτάνε δ᾽ αὖ με κάσις, θάνομεν δ᾽ ὑπὸ πατρός:
+<lb /> μητέρα δ᾽ ἀμφότεροι τεθναότες κτάνομεν.
+</p>
+            </div2>
+            <div2 type="chapter" n="39" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>νῆσόν τις καλέων μ᾽ οὐ ψεύσεται: ὡς ἐτεὸν γὰρ
+<lb /> πολλοὺς ἐς κελάδους οὔνομ᾽ ἔθηκεν ἐμόν.
+<pb id="v.5.p.46" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="40" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> εἰσὶ κασίγνηται δύ᾽ ἀδελφεαί: ἡ μία τίκτει
+<lb /> τὴν ἑτέρην, αὐτὴ δὲ τεκοῦς1᾽ ἀπὸ τῆσδε τεκνοῦται:
+<lb />ὥστε κασιγνήτας οὔσας ἅμα καὶ συνομαίμους,
+<lb />αὐτοκασιγνήτας κοινῇ καὶ μητέρας εἶναι.
+</p>
+            </div2>
+            <div2 type="chapter" n="41" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> μητέρ᾽ ἐμὴν τίκτω καὶ τίκτομαι εἰμὶ δὲ ταύτης
+<lb />ἄλλοτε μὲν μείζων, ἄλλοτε μειοτέρη.
+</p>
+            </div2>
+            <div2 type="chapter" n="42" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> παρθένος εἰμὶ γυνή, καὶ παρθένου εἰμὶ γυναικός,
+<lb /> καὶ κατ᾽ ἔτος τίκτω παρθένος οὖσα γυνή.
+</p>
+            </div2>
+            <div2 type="chapter" n="43" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> εἰμὶ πόλου μίμημα: δύω δέ με θῆρες ἄγουσι,
+<lb /> πρόσθε μὲν Ἠριγόνης, Πασιφάης δ᾽ ὄπιθεν
+<lb /> Ἡρακλέους τηρεῖ με συνευνέτις, ἡ δέ με Φοίβου
+<lb />τείρει νύμφα φίλη πολλάκι δαιομένη.
+</p>
+            </div2>
+            <div2 type="chapter" n="44" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> 
+                  <lb />νυκτὶ μιῇ καὶ Τρωσὶν ἐπήλυθα, καὶ τὰ Πελασγῶν
+<lb /> φῦλα διατμήξας εἷλον ἄνευ δόρατος:
+<pb id="v.5.p.48" />
+                  <lb />οὐ μὲν ὁ Τυδείδης, οὐδ᾽ ὁ πτολίπορθος Ὀδυσσεὺς
+<lb /> τὸν θρασὺν ἐκ νηῶν ἔσθενον ἐξελάσαι:
+<milestone unit="lnum" n="5" />
+                  <lb />ἀλλὰ μένος καὶ θάρσος ἐνὶ στήθεσσιν ἀέξων
+<lb />Ἀργείων στρατιὴν ὤλεσα καὶ Φρυγίων.
+</p>
+            </div2>
+            <div2 type="chapter" n="45" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> εἰμὶ μέλας, λευκός, ξανθός, ξηρός τε καὶ ὑγρός:
+<lb />εὖτε δὲ δουρατέων πεδίων ὕπερ ἐντανύσῃς με,
+<lb />Ἄρεϊ καὶ παλάμῃ φθέγγομαι οὐ λαλέων.
+</p>
+            </div2>
+            <div2 type="chapter" n="46" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p> γράμματος ἀρνυμένου πληγὴν ποδὸς οὔνομα τεύχει
+<lb /> ἡμέτερον: πταίειν δὲ βροτῶν πόδας οὔποτ᾽ ἐάσει.
+</p>
+            </div2>
+            <div2 type="chapter" n="47" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>εἵνεκα φωτὸς ἐγὼ φῶς ὤλεσα: φὼς δὲ παραστὰς
+<lb /> φῶς μοι ὄπασσε φίλον ποσσὶ χαριζόμενος.
+</p>
+            </div2>
+            <div2 type="chapter" n="48" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />αἱ Χάριτες μήλων καλάθους φέρον, ἐν δὲ ἑκάστῃ
+<lb />ἶσον ἔην πλῆθος. Μοῦσαι σφίσιν ἀντεβόλησαν
+<pb id="v.5.p.50" />
+                  <lb /> ἐννέα, καὶ μήλων σφέας ᾔτεον αἳ δ᾽ ἄρ᾽ ἔδωκαν
+<lb />ἶσον ἑκάστῃ πλῆθος, ἔχον δ᾽ ἴσα ἐννέα καὶ τρεῖς.
+<milestone unit="lnum" n="5" />
+                  <lb />εἰπὲ πόσον μὲν δῶκαν, ὅπως δ᾽ ἴσα πᾶσαι ἔχεσκον.
+</p>
+            </div2>
+            <div2 type="chapter" n="49" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />τεῦξόν μοι στέφανον, χρυσὸν χαλκόν τε κεράσσας,
+<lb />κασσίτερὸν θ᾽ ἅμα τοῖσι, πολύκμητόν τε σίδηρον,
+<lb /> μνῶν ἑξήκοντα: χρυσὸς δ᾽ ἐχέτω μετὰ χαλκοῦ
+<lb /> δοιὰ μέρη τρισσῶν χρυσὸς δ᾽ ἅμα κασσίτερός τε
+<milestone unit="lnum" n="5" />
+                  <lb /> τρισσὰ μέρη τετόρων χρυσὸς δ᾽ αὖτ᾽ ἠδὲ σίδηρος
+<lb /> τόσσα μέρη τῶν πέντε. πόσον δ᾽ ἄρα δεῖ σε κεράσσαι
+<lb /> λέξον τοῦ χρυσοῦ, χαλκοῦ πόσον, ἀλλ᾽ ἔτι λέξον
+<lb /> κασσιτέροιο πόσον, λοιποῦ πόσον εἰπὲ σιδήρου,
+<lb />ὥστε σε τὸν στέφανον τεῦξαι μνῶν ἑξήκοντα.
+</p>
+            </div2>
+            <div2 type="chapter" n="50" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>τὸ τρίτον, ἀργυροποιέ, προσέμβαλε καὶ τὸ τέταρτον
+<lb /> τῆς φιάλης εἰς ἕν, καὶ τὸ δυωδέκατον,
+<lb />εἰς δὲ κάμινον ἔλαυνε βαλὼν, καὶ πάντα κυκήσας
+<lb />ἔξελέ μοι βῶλον μνᾶν δέ μοι ἑλκυσάτω.
+</p>
+            </div2>
+            <div2 type="chapter" n="51" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />
+                  <note type="speaker" place="unspecified" anchored="yes">α.</note> ἔχω τὸν ἑξῆς, καὶ τὸ τοῦ τρίτου τρίτον.
+<lb />
+                  <note type="speaker" place="unspecified" anchored="yes">β.</note> κἀγὼ τὸν ἑξῆς, καὶ τὸ τοῦ πρώτου τρίτον.
+<lb />
+                  <note type="speaker" place="unspecified" anchored="yes">γ.</note> κἀγὼ δέκα μνᾶς, καὶ τὸ τοῦ μέσου τρίτον.
+<pb id="v.5.p.52" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="52" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>εἰς οἶνον</label>
+               <p>
+                  <lb />ἦν ὅτε σὺν Λαπίθῃσι καὶ ἀλκίμῳ Ἡρακλῆι
+<lb /> Κενταύρους διφυεῖς ὤλεσα μαρνάμενος:
+<lb />ἦν ὅτε μουνογένεια κόρη θάνεν ἐν τρισὶ πληγαῖς
+<lb />ἡμετέραις, Κρονίδην δ᾽ ἤκαχον εἰνάλιον
+<milestone unit="lnum" n="5" />
+                  <lb /> νῦν δέ με Μοῦσα τρίτη πυρίναις Νύμφαισι μιγέντα
+<lb />δέρκεται ὑελίνῳ κείμενον ἐν δαπέδῳ.
+</p>
+            </div2>
+            <div2 type="chapter" n="53" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>εἰς λύχνον</label>
+               <p>
+                  <lb /> Ἡφαίστῳ ποτὲ Παλλὰς ὑπ᾽ ἀγκοίνῃσι δαμεῖσα
+<lb /> εἰς εὐνὴν ἐμίγη Πηλέος ἐν θαλάμοις:
+<lb /> τοὶ δ᾽ ὡς οὖν λιπαρῇσι καλυφθήτην ὀθόνῃσιν,
+<lb />αὐτίκ᾽ ἐγεννήθη νυκτιπόλος Φαέθων.
+</p>
+            </div2>
+            <div2 type="chapter" n="54" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>εἰς σικύαν</label>
+               <p>
+                  <lb /> κἀμὲ σοφὴ ποίησε τέχνη Παιήονος ἔμπνουν
+<lb />πῦρ ὑπὸ χαλκελάτοις χείλεσι κευθομένην
+<lb /> δειλῶν δ᾽ αἷμα κελαινὸν ἀπ᾽ ἀνθρώπων ἐρύουσα,
+<lb />Ἥφαιστον κτείνω γαστρὶ περισχομένη.
+</p>
+            </div2>
+            <div2 type="chapter" n="55" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>εἰς κλυστῆρα.</label>
+               <p>
+                  <lb /> μούνῳ μοι θέμις ἐστὶ γυναικῶν ἐν φιλότητι
+<lb /> μίσγεσθαι φανερῶς, λισσομένων ποσίων
+<lb /> μοῦνος δ᾽ ἠιθέοισι, καὶ ἀνδράσιν, ἠδὲ γέρουσιν,
+<lb />παρθενικαῖς τ᾽ ἐπέβην ἀχνυμένων τοκέων.
+<pb id="v.5.p.54" />
+                  <milestone unit="lnum" n="5" />
+                  <lb /> μαχλοσύνην ἤχθηρα: φιλεῖ δέ με παιονίη χείρ,
+<lb />Ἀμφιτρυωνιάδην ἐκτελέοντα πόνον.
+<lb /> ἀμφὶ δ᾽ ὀπυιομένοισι καὶ ἂν Πλουτῆι μαχοίμην
+<lb /> αἰὲν ὑπὲρ ψυχῆς τῶν ὁπόσοις ἐμίγην.
+<lb /> εὔρινον δέ με παῖδα καὶ ἀργιόδοντα τίθησιν
+<milestone unit="lnum" n="10" />
+                  <lb /> ἰδρείῃ μερόπων αἰγὶ μιγεὶς ἐλέφας.
+</p>
+            </div2>
+            <div2 type="chapter" n="56" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>εἰς εἴσοπτρον</label>
+               <p>
+                  <lb />ἄν μ᾽ ἐσίδῃς, καὶ ἐγὼ σέ. σὺ μὲν βλεφάροισι δέδορκας,
+<lb /> ἀλλ᾽ ἐγὼ οὐ βλεφάροις: οὐ γὰρ ἔχω βλέφαρα.
+<lb />ἂν δ᾽ ἐθέλῃς, λαλέω φωνῆς δίχα: σοὶ γὰρ ὑπάρχει
+<lb /> φωνή, ἐμοὶ δὲ μάτην χείλε᾽ ἀνοιγόμενα.
+</p>
+            </div2>
+            <div2 type="chapter" n="57" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>εἰς φοινίκων βάλανον</label>
+               <p>
+                  <lb /> οὔνομα μητρὸς ἔχω: γλυκερώτερός εἰμι τεκούσης:
+<lb /> ἀλλ᾽ ἡ μὲν δολιχή, τυτθὸς ἐγὼ δὲ πέλω:
+<lb /> ἄβρωτος κείνη πλὴν κράατος: εἰμὶ δ᾽ ἔγωγε
+<lb /> τρωκτὸς ἅπας, μοῦνον δ᾽ ἔντερ᾽ ἄβρωτα φέρω.
+</p>
+            </div2>
+            <div2 type="chapter" n="58" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>εἰς κινάραν</label>
+               <p>
+                  <lb />ἐγκέφαλον φορέω κεφαλῆς ἄτερ: εἰμὶ δὲ χλωρὴ
+<lb />αὐχένος ἐκ δολιχοῦ γῆθεν ἀειρομένη:
+<lb /> σφαίρῃ δ᾽ ὡς ὑπὲρ αὐλὸν ἐείδομαι: ἢν δὲ ματεύσῃς
+<lb /> ἔνδον ἐμῶν λαγόνων, μητρὸς ἔχω πατέρα.
+<pb id="v.5.p.56" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="59" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>εἰς τὴν Ἀργώ</label>
+               <p>
+                  <lb />υἷας πεντήκοντα μιῇ ἐνὶ γαστρὶ λαβοῦσα
+<lb />†   μηληστῶν πάντων ἔκτανον ἡγεμόνα.
+<lb />αὐτὰρ ὃ δὶς τέθνηκεν, ἐπεὶ δύο γαστέρες αὐτὸν
+<lb /> τίκτον, χαλκείη, καὶ πάρος ἀνδρομέη.
+</p>
+            </div2>
+            <div2 type="chapter" n="60" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>Δελτός</label>
+               <p>
+                  <lb /> ὕλη μέν με τέκεν, καινούργησεν δὲ σίδηρος:
+<lb /> εἰμὶ δὲ Μουσάων μυστικὸν ἐκδόχιον:
+<lb /> κλειομένη σιγῶ: λαλέω δ᾽, ὅταν ἐκπετάσῃς με,
+<lb /> κοινωνὸν τὸν Ἄρη μοῦνον ἔχουσα λόγων.
+</p>
+            </div2>
+            <div2 type="chapter" n="61" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> οὔρεσι μὲν γενόμην, δένδρον δέ μοι ἔπλετο μήτηρ,
+<lb /> πῦρ δὲ πατήρ, βῶλος δ᾽ εἰμὶ μελαινομένη:
+<lb />ἢν δὲ μ᾽ ἔσω κεράμοιο πατήρ τήξῃσι βαθείης,
+<lb />ἅρματος ὠτειλὰς ῥύομαι εἰναλίου.
+</p>
+            </div2>
+            <div2 type="chapter" n="62" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>εἰς σφαῖραν</label>
+               <p>
+                  <lb />λίην ἔντριχός εἰμι, τὰ φύλλα δέ μου κατακρύπτει
+<lb /> τὰς τρίχας, εἰ τρύπη φαίνεται οὐδαμόθεν
+<lb /> πολλοῖς παιδαρίοις ἐμπαίζομαι: εἰ δὲ τίς  ἐστιν
+<lb /> εἰς τὸ βαλεῖν ἀφυής, ἵσταται ὥσπερ ὄνος..
+<pb id="v.5.p.58" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="63" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0268"><foreign lang="la">mesomedes</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> ἕρπουσα, πετωμένα, βεβῶσα κούρα,
+<lb /> νόθον ἴχνος ἀραμένα δρομαία λέαινα,
+<lb /> πτερόεσσα μὲν ἦν τὰ πρόσω γυνά,
+<lb />τὰ δὲ μέσσα βρέμουσα λέαινα θήρ.
+<milestone unit="lnum" n="5" />
+                  <lb />τὰ δ᾽ ὄπισθεν ἑλισσόμενος δράκων.
+<lb /> οὔθ᾽ ὁλκὸς ἀπέτρεχεν, οὐ γυνά,
+<lb /> οὔτ᾽ ὄρνις ὅλον δέμας, οὔτε θήρ:
+<lb />κόρη γὰρ ἐφαίνετ᾽ ἄνευ ποδῶν,
+<lb /> κεφαλὰν δ᾽ οὐκ ἔσχε βρέμουσα θήρ.
+<milestone unit="lnum" n="10" />
+                  <lb /> φύσιν εἶχεν ἄτακτα κεκραμέναν,
+<lb /> ἀτέλεστα τέλεια μεμιγμέναν.
+</p>
+            </div2>
+            <div2 type="chapter" n="64" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>τὸ αἴνιγμα τῆς Σφιγγός</label>
+               <p>
+                  <lb />ἔστι δίπουν ἐπὶ γῆς, καὶ τετράπον, οὗ μία φωνή,
+<lb /> καὶ τρίπον: ἀλλάσσει δὲ φυὴν μόνον, ὅσς1᾽ ἐπὶ γαῖαν
+<lb /> ἑρπετὰ κινεῖται, ἀνὰ τ᾽ αἰθέρα καὶ κατὰ πόντον.
+<lb /> ἀλλ᾽ ὁπόταν πλείστοισιν ἐρειδόμενον ποσὶ βαίνῃ,
+<milestone unit="lnum" n="5" />
+                  <lb /> ἔνθα τάχος γυίοισιν ἀφαυρότατον πέλει αὐτοῦ.
+</p>
+            </div2>
+            <div2 type="chapter" n="65" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς δοθεὶς Ὁμήρῳ</label>
+               <p>
+                  <lb />ἔστιν Ἴος νῆσος μητρὸς πατρίς, ἥ σε θανόντα
+<lb />δέξεται: ἀλλὰ νέων παίδων αἴνιγμα φύλαξαι.
+</p>
+            </div2>
+            <div2 type="chapter" n="66" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>ἕτερος πρὸς τὸν αὐτόν</label>
+               <p>
+                  <lb />ὄλβιε καὶ δύσδαιμον ῾ ἔφυς γὰρ ἐπ᾽ ἀμφοτέροισἰ,
+<lb /> πατρίδα δίζηαι: μητρὸς δέ τοι, οὐ πατρός ἐστι
+<lb /> μητρόπολις ἐν νήσῳ ἀπὸ Κρήτης εὐρείης
+<lb /> Μίνωος γαίης οὔτε σχεδόν, οὔτ᾽ ἀποτηλοῦ
+<pb id="v.5.p.60" />
+                  <milestone unit="lnum" n="5" />
+                  <lb />ἐν τῇ μοῖρ᾽ ἐστίν σε τελευτῆσαι βιότοιο,
+<lb />εὖτ᾽ ἂν ἀπὸ γλώσσης παίδων μὴ γνῷς ἐσακούσας
+<lb /> δυσξύνετον σκολιοῖσι λόγοις εἰρημένον ὕμνον
+<lb /> δοιὰς γὰρ ζωῆς μοίρας λάχες: ἣν μὲν ἀμαυρὰν
+<lb /> ἠελίων δισσῶν, τὴν δ᾽ ἀθανάτοις ἰσόμοιρον,
+<milestone unit="lnum" n="10" />
+                  <lb />ζῶντί τε καὶ φθιμένῳ: φθίμενος δ᾽ ἔτι πολλὸν ἀγήρως.
+</p>
+            </div2>
+            <div2 type="chapter" n="67" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς δοθεὶς Λαΐῳ τῷ Θηβαίῳ</label>
+               <p>
+                  <lb />Λάϊε Λαβδακίδη, παίδων γένος ὄλβιον αἰτεῖς.
+<lb /> δώσω τοι φίλον υἱὸν ἀτὰρ πεπρωμένον ἐστί,
+<lb />τοῦ παιδὸς χερσὶν λείψειν φάος: ὣς γὰρ ἔνευσα.
+</p>
+            </div2>
+            <div2 type="chapter" n="68" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς δοθεὶς Καρύστῳ</label>
+               <p>
+                  <lb /> Χείρωνος φίλε τέκνον ἀγακλειτοῖο, Κάρυστε,
+<lb /> Πηλίον ἐκπρολιπὼν Εὐβοίας ἄκρον ἱκέσθαι:
+<lb /> ἔνθ᾽ ἱερὰν χώραν κτίζειν σοι θέσφατόν ἐστιν.
+</p>
+            </div2>
+            <div2 type="chapter" n="69" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς δοθεὶς Λυκούργῳ</label>
+               <p>
+                  <lb />ἥκεις, ὦ Λυκόοργε, ἐμὸν ποτὶ πίονα νηόν,
+<lb /> Ζηνὶ φίλος καὶ πᾶσιν Ὀλύμπια δώματ᾽ ἔχουσιν.
+<lb /> δίζω ἤ σε θεὸν μαντεύσομαι, ἠέπερ ἄνδρα:
+<lb /> ἀλλ᾽ ἔτι καὶ μᾶλλον θεὸν ἔλπομαι, ὦ Λυκόοργε.
+</p>
+            </div2>
+            <div2 type="chapter" n="70" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς δοθεὶς ἐκ τοῦ Σαράπιδος</label>
+               <p>
+                  <lb />μὴ μεμψιμοίρει μὴ θεοὺς μηδέν, ξένε:
+<lb />ὥρην δὲ μέμφου, ᾗ πατὴρ ἔσπειρέ σε.
+<pb id="v.5.p.62" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="71" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς τῆς Πυθίας</label>
+               <p>
+                  <lb />ἁγνὸς πρὸς τέμενος καθαροῦ ξένε, δαίμονος ἔρχου
+<lb />ψυχήν, νυμφαίου νάματος ἁψάμενος:
+<lb />ὡς ἀγαθοῖς ἀρκεῖ βαιὴ λιβάς: ἄνδρα δὲ φαῦλον
+<lb />οὐδ᾽ ἂν ὁ πᾶς νίψαι νάμασιν Ὠκεανός.
+</p>
+            </div2>
+            <div2 type="chapter" n="72" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς ἐρωτήσαντι Ῥουφίνῳ, πῶς ἂν λάβοι ὅρκον παρὰ τοῦ ἰδίου ναυκλήρου</label>
+               <p>
+                  <lb />εὖτ᾽ ἂν ὑπὲρ γαίης ἀνέχῃ δρόμον ὄρθρια Τιτάν,
+<lb /> λύσας ἀκτῖσι ζοφερῆς δηλήματα νυκτός,
+<lb /> λάμπῃ δ᾽ αἰγλήεσσα νέον φάος Ἠριγένεια,
+<lb />δὴ τότ᾽ ἄγων παρὰ θῖνας, ἁλιρράντους τε παρ᾽ ἀκτὰς
+<milestone unit="lnum" n="5" />
+                  <lb />φῶτα στῆσον ἔναντα δεδορκότα πρὸς φάος αὐγῆς
+<lb /> ἠελίου. καὶ τὸν μὲν ἔσω πόδα χεύματος ἐντὸς
+<lb /> δεξιὸν ἐν δίναις ἐχέτω, λαιὸν δ᾽ ἐπὶ γαίης
+<lb /> στηρισάτω: χείρεσσι δ᾽ ἐπιψαύων ἑκάτερθε,
+<lb />τῇ μὲν ἁλός, τραφερῆς δ᾽ ἑτέρῃ, πιστούμενος ὅρκον
+<milestone unit="lnum" n="10" />
+                  <lb />οὐρανὸν ὀμνυέτω, χθόνα τ᾽ ἄσπετον, ἠδ᾽ ἁλὸς ὅρμους,
+<lb />αἰθερίου τε πυρὸς βιοδώτορα ἡγεμονῆα:
+<lb /> τοῖον γὰρ θεοὶ ὅρκον ὑπὸ στομάτεσσιν ἀτίζειν
+<lb />οὐδ᾽ αὐτοὶ τολμῶσιν, ἀγήνορες Οὐρανίωνες.
+</p>
+            </div2>
+            <div2 type="chapter" n="73" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς δοθεὶς τοῖς Μεγαρεῦσι</label>
+               <p>
+                  <lb /> γαίης μὲν πάσης τὸ Πελασγικὸν Ἄργος ἄμεινον,
+<lb /> ἵπποι Θεσσαλικαί, Λακεδαιμόνιαί τε γυναῖκες,
+<lb /> ἄνδρες δ᾽ οἳ πίνουσιν ὕδωρ καλῆς Ἀρεθούσης:
+<lb /> ἀλλ᾽ ἔτι καὶ τῶν εἰσιν ἀμείνονες, οἳ τὸ μεσηγὺ
+<milestone unit="lnum" n="5" />
+                  <lb /> Τίρυνθος ναίουσι καὶ Ἀρκαδίης πολυμήλου,
+<lb /> Ἀργεῖοι λινοθώρηκες, κέντρα πτολέμοιο:
+<lb />ὑμεῖς δ᾽, ὦ Μεγαρεῖς, οὐδὲ τρίτοι, οὐδὲ τέταρτοι,
+<lb />οὐδὲ δυωδέκατοι, οὔτ᾽ ἐν λόγῳ, οὔτ᾽ ἐν ἀριθμῷ.
+<pb id="v.5.p.64" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="74" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς τῆς Πυθίας</label>
+               <p>
+                  <lb />ἱρὰ θεῶν ἀγαθοῖς ἀναπέπταται, οὐδὲ καθαρμῶν
+<lb />χρειώ: τῆς ἀρετῆς ἥψατο οὐδὲν ἄγος.
+<lb /> ὅστις δ᾽ οὐλοὸς ἦτορ, ἀπόστιχε: οὔποτε γὰρ σὴν
+<lb />ψυχὴν ἐκνίψει σῶμα διαινόμενον.
+</p>
+            </div2>
+            <div2 type="chapter" n="75" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς δοθεὶς ἐν Ἡλίου πόλει, ὅτε ἐναυάγησαν οἱ κίονες τοῦ ἱεροῦ Διὸς τοῦ ὄντος ἐκεῖσε, οἳ νῦν ἐν Βηρύτῳ</label>
+               <p>
+                  <lb /> εἰπὲ Ποσειδάωνι: <quote rend="blockquote">
+                     <l>κασιηνήτοις πεπιθέσθαι
+</l>
+                     <l>πρεσβυτέροις ἐπέοικεν: ἐμῆς ἐρικυδέος αὐλῆς
+</l>
+                     <l> κίοσιν οὐ κατὰ κόσμον ἀγάλλεαι:</l>
+                  </quote> εἰπὲ τινάξας
+<lb /> τρὶς ἅλα μαρμαρέην, καὶ πείσεται. ἢν δ᾽ ἀπιθήσῃ,
+<milestone unit="lnum" n="5" />
+                  <lb />φραζέσθω, μὴ πᾶσαν ἐνιπρήσαιμι θάλασσαν
+<lb />οὐδὲ γὰρ οὐδὲ θάλασσα Διὸς σβέννυσι κεραυνόν.
+</p>
+            </div2>
+            <div2 type="chapter" n="76" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς Πυθίας</label>
+               <p>
+                  <lb /> Ἀρκαδίην μ᾽ αἰτεῖς: μέγα μ᾽ αἰτεῖς: οὔ τοι δώσω:
+<lb /> πολλοὶ ἐν Ἀρκαδίῃ βαλανηφάγοι ἄνδρες ἔασιν,
+<lb />οἳ ς1᾽ ἀποκωλύσουσιν ἐγὼ δέ τοι οὔτι μεγαίρω.
+<lb /> δώσω τοι Τεγέην ποσσίκροτον ὀρχήσασθαι,
+<milestone unit="lnum" n="5" /> καὶ καλὸν πεδίον σχοίνῳ διαμετρήσασθαι.
+</p>
+            </div2>
+            <div2 type="chapter" n="77" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς ἐν τοῖς Θήσεως βίοις ἀναφερόμενος</label>
+               <p>
+                  <lb /> ὄλβιος οὗτος ἀνήρ, ὃς νῦν κατὰ λάινον οὐδὸν
+<lb /> Φοίβου Ἀπόλλωνος χρηστήριον εἰσαναβαίνει,
+<lb /> ἤλυθεν εὐνομίην διζήμενος: αὐτὰρ ἐγώ τοι
+<lb /> δώσω ἣν οὐκ ἄλλη ἐπιχθονίων πόλις ἕξει.
+<pb id="v.5.p.66" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="78" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς Πυθίας</label>
+               <p>
+                  <lb />ἔστι τις Ἀρκαδίης Τεγέη λευρῷ ἐνὶ χώρῳ:
+<lb /> ἔνθ᾽ ἄνεμοι πνείουσι δύο κρατερῆς ὑπ᾽ ἀνάγκης,
+<lb />καὶ τύπος ἀντίτυπος καὶ πῆμ᾽ ἐπὶ πήματι κεῖται:
+<lb /> ἔνθ᾽ Ἀγαμεμνονίδην κατέχει φυσίζοος αἶα:
+<milestone unit="lnum" n="5" />
+                  <lb /> τὸν σὺ κομισσάμενος, Τεγέης ἐπιτάρροθος ἔσσῃ.
+</p>
+            </div2>
+            <div2 type="chapter" n="79" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> Λυδὲ γένος, πολλῶν βασιλεῦ, μέγα νήπιε Κροῖσε,
+<lb />μὴ βούλου πολύευκτον ἰὴν ἀνὰ δώματ᾽ ἀκούειν
+<lb /> παιδὸς φθεγγομένου: τὸ δέ σοι πολὺ λώιον ἀμφὶς
+<lb /> ἔμμεναι: αὐδήσει γὰρ ἐν ἤματι πρῶτον ἀνόλβῳ.
+</p>
+            </div2>
+            <div2 type="chapter" n="80" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> τὴν πεπρωμένην μοίρην ἀδύνατά ἐστιν
+<lb /> ἀποφυγέειν καὶ θεῷ.
+</p>
+            </div2>
+            <div2 type="chapter" n="81" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> ἰσθμὸν δὲ μὴ πυριγοῦτε, μηδ᾽ ὀρύσσετε:
+<lb /> Ζεὺς γάρ κ᾽ ἔθηκε νῆσον, εἲ κ᾽ ἐβούλετο.
+</p>
+            </div2>
+            <div2 type="chapter" n="82" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> ἀλλ᾽ ὅταν ἐν Σίφνῳ πρυτανήϊα λευκὰ γένηται,
+<lb />λεύκοφρύς τ᾽ ἀγορή, τότε δὴ δεῖ φράδμονος ἀνδρὸς
+<lb /> φράσσασθαι ξύλινόν τε λόχον κήρυκὰ τ᾽ ἐρυθρόν.
+<pb id="v.5.p.68" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="83" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />Βάττ᾽, ἐπὶ φωνὴν ἦλθες: ἄναξ δέ σε Φοῖβος Ἀπόλλων
+<lb />ἐς Λιβύην πέμπει μηλοτρόφον οἰκιστῆρα.
+</p>
+            </div2>
+            <div2 type="chapter" n="84" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> αἰ τὺ ἐμεῦ Λιβύην μηλοτρόφον οἶδας ἄμεινον
+<lb />μὴ ἐλθὼν ἐλθόντος, ἄγαν ἄγαμαι σοφίην σεῦ.
+</p>
+            </div2>
+            <div2 type="chapter" n="85" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />ὃς δέ κεν ἐς Λιβύην πολυήρατον ὕστερον ἔλθῃ
+<lb /> γᾶς ἀναδαιομένας, μετὰ οἱ ποκά φημι μελήσειν.
+</p>
+            </div2>
+            <div2 type="chapter" n="86" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />Ἠετίων, οὔ τίς σε τίει πολύτιτον ἐόντα.
+<lb /> λάβδα κύει, τέξει δ᾽ ὀλοίτροχον: ἐν δὲ πεσεῖται
+<lb /> ἀνδράσι μουνάρχοισι, δικαιώσει δὲ Κόρινθον.
+</p>
+            </div2>
+            <div2 type="chapter" n="87" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμός</label>
+               <p>
+                  <lb /> αἰετὸς ἐν πέτρῃσι κύει, τέξει δὲ λέοντα
+<lb />καρτερόν, ὠμηστὴν πολλῶν δ᾽ ὑπὸ γούνατα λύσει.
+<pb id="v.5.p.70" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="88" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />ὄλβιος οὗτος ἀνήρ, ὃς ἐμὸν δόμον ἐσκαταβαίνει,
+<lb /> Κύψελος Ἠετίδης, βασιλεὺς κλειτοῖο Κορίνθου,
+<lb />αὐτὸς καὶ παῖδες, παίδων γε μὲν οὐκέτι παῖδες.
+</p>
+            </div2>
+            <div2 type="chapter" n="89" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> καὶ τότε δή, Μίλητε, κακῶν ἐπιμήχανε ἔργων,
+<lb /> πολλοῖσιν δεῖπνόν τε καὶ ἀγλαὰ δῶρα γενήσῃ:
+<lb /> σαὶ δ᾽ ἄλοχοι πολλοῖσι πόδας νίψουσι κομήταις:
+<lb /> νηοῦ δ᾽ ἡμετέρου Διδύμοις ἄλλοισι μελήσει.
+</p>
+            </div2>
+            <div2 type="chapter" n="90" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> ἀλλ᾽ ὅταν ἡ θήλεια τὸν ἄρσενα νικήσασα
+<lb /> ἐξελάσῃ, καὶ κῦδος ἐν Ἀργείοισιν ἄρηται,
+<lb /> πολλὰς Ἀργείων ἀμφιδρυφέας τότε θήσει:
+<lb />ὥς ποτέ τις ἐρέει καὶ ἐπεσσομένων ἀνθρώπων:
+<milestone unit="lnum" n="5" />
+                  <lb />
+                  <q direct="unspecified"> δεινὸς ὄφις ἀέλικτος ἀπώλετο δουρὶ δαμασθείς.</q> 
+               </p>
+            </div2>
+            <div2 type="chapter" n="91" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> γλαῦκ᾽ Ἐπικυδείδη, τὸ μὲν αὐτίκα κέρδιον οὕτως,
+<lb />ὅρκῳ νικῆσαι καὶ χρήματα ληίσσασθαι.
+<lb />ὄμνυ᾽, ἐπεὶ θάνατός γε καὶ εὔορκον μένει ἄνδρα.
+<lb /> ἀλλ᾽ Ὅρκου πάις ἐστὶν ἀνώνυμος, οὐδ᾽ ἔπι χεῖρες
+<milestone unit="lnum" n="5" />
+                  <lb />οὐδὲ πόδες: κραιπνὸς δὲ μετέρχεται, εἰσόκε πᾶσαν
+<lb /> συμμάρψας ὀλέσῃ γενεὴν καὶ οἶκον ἅπαντα:
+<lb />ἀνδρὸς δ᾽ εὐόρκου γενεὴ μετόπισθεν ἀμείνων.
+<pb id="v.5.p.72" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="92" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />ὦ μέλεοι, τί κάθησθε; λιπὼν φεῦγ᾽ ἔσχατα γαίης
+<lb /> δώματα καὶ πόλιος τροχοειδέος ἄκρα κάρηνα.
+<lb /> οὔτε γὰρ ἡ κεφαλὴ μενεῖ ἔμπεδον, οὔτε τὸ σῶμα,
+<lb />οὔτε πόδες νέατοι, οὔτ᾽ ὦν χέρες, οὔτε τι μέσσης
+<milestone unit="lnum" n="5" />
+                  <lb /> λείπεται, ἀλλ᾽ ἄζηλα πέλει: κατὰ γάρ μιν ἐρείπει
+<lb /> πῦρ τε καὶ ὀξὺς Ἄρης, Συριηγενὲς ἅρμα διώκων
+<lb /> πολλὰ δὲ κἆλλ᾽ ἀπολεῖ πυργώματα, κοὐ τὸ σὸν οἶον
+<lb /> πολλοὺς δ᾽ ἀθανάτων ναοὺς μαλερῷ πυρὶ δώσει,
+<lb />οἵ που νῦν ἱδρῶτι ῥεούμενοι ἑστήκασι,
+<milestone unit="lnum" n="10" />
+                  <lb />δείματι παλλόμενοι: κατὰ δ᾽ ἀκροτάτοις ὀρόφοισιν
+<lb /> αἷμα μέλαν κέχυται, προϊδὸν κακότητος ἀνάγκην.
+<lb /> ἀλλ᾽ ἴτον ἐξ ἀδύτοιο, κακοῖς δ᾽ ἐπικίδνατε θυμόν.
+</p>
+            </div2>
+            <div2 type="chapter" n="93" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />οὐ δύναται Παλλὰς Δί᾽ Ὀλύμπιον ἐξιλάσασθαι,
+<lb /> λισσομένη πολλοῖσι λόγοις καὶ μήτιδι πυκνῇ:
+<lb /> σοὶ δὲ τόδ᾽ αὖτις ἔπος ἐρέω, ἀδάμαντι πελάσσας.
+<lb /> τῶν ἄλλων γὰρ ἁλισκομένων, ὅσα Κέκροπος οὖρος
+<milestone unit="lnum" n="5" />
+                  <lb /> ἐντὸς ἔχει, κευθμών τε Κιθαιρῶνος ζαθέοιο,
+<lb /> τεῖχος Τριτογενεῖ ξύλινον διδοῖ εὐρύοπα Ζεὺς
+<lb />μοῦνον ἀπόρθητον τελέθειν, τὸ σὲ τέκνα τ᾽ ὀνήσει.
+<lb /> μηδὲ σὺ γ᾽ ἱπποσύνην τε μένειν καὶ πεζὸν ἰόντα
+<lb /> πολλὸν ἀπ᾽ ἠπείρου στρατὸν ἥσυχος, ἀλλ᾽ ὑποχωρεῖν,
+<milestone unit="lnum" n="10" />
+                  <lb /> νῶτον ἐπιστρέψας: ἔτι τοί ποτε κἀντίος ἔσσῃ.
+<lb />ὦ θείη Σαλαμίς, ἀπολεῖς δὲ σὺ τέκνα γυναικῶν,
+<lb />ἤ που σκιδναμένης Δημήτερος, ἢ συνιούσης.
+<pb id="v.5.p.74" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="94" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς Πυθίας</label>
+               <p>
+                  <lb />ἐχθρὲ περικτιόνεσσι, φίλ᾽ ἀθανάτοισι θεοῖσι,
+<lb /> εἴσω τὸν προβόλαιον ἔχων, πεφυλαγμένος ἧσο,
+<lb /> καὶ κεφαλὴν πεφύλαξο: καὶ δὲ τὸ σῶμα σαώσει.
+</p>
+            </div2>
+            <div2 type="chapter" n="95" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμός</label>
+               <p>
+                  <lb />ὦ νήπιοι, ἐπιμέμφεσθε ὅσα ὑμῖν ἐκ τῶν
+<lb />Μενελάου τιμωρημάτων Μίνως ἔπεμψε μηνίων
+<lb />δακρύματα, ὅτι οἱ μὲν οὐ συνεξεπροήξαντο αὐτῷ τὸν
+<lb />ἐν Καμικῷ θάνατον γενόμενον, ὑμεῖς δὲ ἐκείνοισι
+<milestone unit="lnum" n="5" />
+                  <lb />τὴν ἐκ Σπάρτης ἁρπαχθεῖσαν ὑπ᾽ ἀνδρὸς βαρβάρου γυναῖκα.
+</p>
+            </div2>
+            <div2 type="chapter" n="96" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />ὑμῖν δ᾽, ὦ Σπάρτης οἰκήτορες εὐρυχόροιο,
+<lb />ἢ μέγα ἄστυ ἐρικυδὲς ὑπ᾽ ἀνδράσι Περσεΐδῃσι
+<lb /> πέρθεται: ἢ τὸ μὲν οὐχί, ἀφ᾽ Ἡρακλέους δὲ γενέθλης
+<lb /> πενθήσει βασιλῆ φθίμενον Λακεδαίμονος οὖρος.
+<milestone unit="lnum" n="5" />
+                  <lb />οὐ γὰρ τὸν ταύρων σχήσει μένος οὐδὲ λεόντων
+<lb /> ἀντιβίην Ζηνὸς γὰρ ἔχει μένος: οὐδέ ἑ φημι
+<lb /> σχήσεσθαι, πρὶν τῶνδ᾽ ἕτερον διὰ πάντα δάσηται.
+</p>
+            </div2>
+            <div2 type="chapter" n="97" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0142"><foreign lang="la">athenaeus</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς Πυθίας</label>
+               <p>
+                  <lb />φράζεο βαρβαρόφωνος ὅταν ζυγὸν εἰς ἅλα βάλλῃ
+<lb /> βύβλινον, Εὐβοΐης ἀπέχειν πολυμηκάδας αἶγας.
+<pb id="v.5.p.76" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="98" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0142"><foreign lang="la">athenaeus</foreign></persName>
+               </docAuthor>
+               <label>—Βάκιδος χρησμὸς περὶ τῆς τῶν Ἑλλήνων νίκης</label>
+               <p>
+                  <lb /> ἀλλ᾽ ὅταν Ἀρτέμιδος χρυσαόρου ἱερὸν ἀκτὴν
+<lb /> νηυσὶ γεφυρώσωσι καὶ εἰναλίην Κυνόσουραν
+<lb /> ἐλπίδι μαινομένῃ, λιπαρὰς πέρσαντες Ἀθήνας,
+<lb /> δῖα Δίκη σβέσσει κρατερὸν Κόρον,Ὕβριος υἱόν,
+<milestone unit="lnum" n="5" />
+                  <lb /> δεινὸν μαιμώωντα, δοκεῦντ᾽ ἀνὰ πάντα πιθέσθαι.
+<lb /> χαλκὸς γὰρ χαλκῷ συμμίξεται, αἵματι δ᾽ Ἄρης
+<lb /> πόντον φοινίξει: τότ᾽ ἐλεύθερον Ἑλλάδος ἦμαρ
+<lb />εὐτύοπα Κρονίδης ἐπάγει καὶ πότνια Νίκη.
+</p>
+            </div2>
+            <div2 type="chapter" n="99" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0142"><foreign lang="la">athenaeus</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />τὴν δ᾽ ἐπὶ Θερμώδοντι καὶ Ἀσωπῷ λεχεποίῃ
+<lb /> Ἑλλήνων σύνοδον καὶ βαρβαρόφωνον ἰυγήν,
+<lb />τῇ πολλοὶ πεσέονται ὑπὲρ λάχεσίν τε μόρον τε
+<lb /> τοξοφόρων Μήδων, ὅταν αἴσιμον ἦμαρ ἐπέλθῃ.
+</p>
+            </div2>
+            <div2 type="chapter" n="100" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς δοθεὶς Μενελάῳ καὶ Ἀλεξάνδρῳ</label>
+               <p>
+                  <lb /> τίπτε δύω βασιλῆες, ὁ μὲν Τρώων, ὁ δ᾽ Ἀχαιῶν,
+<lb />οὐ ταὐτὰ φρονέοντες ἐμὸν δόμον εἰσανέβητε,
+<lb /> ἤτοι ὁ μὲν πώλοιο γόνον διζήμενος εὑρεῖν,
+<lb />αὐτὰρ ὁ πῶλον ἄγειν; τί νυ μήσεαι, ὦ μεγάλε Ζεῦ;
+</p>
+            </div2>
+            <div2 type="chapter" n="101" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-1274"><foreign lang="la">cleobulus</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> εἷς ὁ πατήρ, παῖδες δυοκαίδεκα: τῶν δὲ ἑκάστῳ
+<lb /> παῖδες <add>δὶς</add> τριήκοντα διάνδιχα εἶδος ἔχουσαι:
+<lb />αἱ μὲν λευκαὶ ἔασιν ἰδεῖν, αἱ δ᾽ αὖτε μέλαιναι:
+<lb />ἀθάνατοι δὲ τ᾽ ἐοῦσαι, ἀποφθινύθουσιν ἅπασαι.
+<pb id="v.5.p.78" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="102" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>ἐκ τῆς Πυθίας τῷ βασιλεῖ Ἀδριανῷ</label>
+               <p>
+                  <lb />ἄγνωστόν μ᾽ ἐρέεις γενεῆς καὶ πατρίδος αἴης
+<lb />ἀμβροσίου Σειρῆνος: ἕδος δ᾽ Ἰθάκη τις Ὁμήρου:
+<lb /> Τηλέμαχος δὲ πατήρ, καὶ Νεστορέη Πολυκάστη
+<lb /> μήτηρ, ἥ μιν ἔτικτε βροτῶν πολυπάνσοφον ἄλλων.
+</p>
+            </div2>
+            <div2 type="chapter" n="103" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>εἰς σταφίδα</label>
+               <p>
+                  <lb />εἴ με νέην ἔλαβες, τάχα μου πίες ἐκχυθὲν αἷμα
+<lb /> νῦν δ᾽ ὅτε γηραλέην μ᾽ ἐξετέλεσσε χρόνος,
+<lb /> ἔσθιε τὴν ῥυσαινομένην, ὑγρὸν οὐδὲν ἔχουσαν,
+<lb /> ὀστέα συνθραύων σαρκὶ σὺν ἡμετέρῃ.
+</p>
+            </div2>
+            <div2 type="chapter" n="104" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> πήρην σὴν ὀπίσω, κάλαθον χερί, τὸν τράγον ὤμοις,
+<lb /> αἰπόλε, σῶν ἀγρῶν σύμβολα πάντα φέρεις.
+</p>
+            </div2>
+            <div2 type="chapter" n="105" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> εἰμὶ χαμαίζηλον ζῴων μέλος: ἢν δ᾽ ἀφέλῃς μου
+<lb /> γράμμα μόνον, κεφαλῆς γίνομαι ἄλλο μέρος:
+<lb />ἢν δ᾽ ἕτερον, ζῷον πάλιν ἔσσομαι: ἢν δὲ καὶ ἄλλο,
+<lb />οὐ μόνον εὑρήσεις, ἀλλὰ διηκόσια.
+<pb id="v.5.p.80" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="106" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> τέσσαρα γράμματ᾽ ἔχων ἀνύω τρίβον ἢν δὲ τὸ πρῶτον
+<lb /> γράμμ᾽ ἀφέλῃς, ἀίω: καὶ τὸ μετ᾽ αὐτὸ πάλιν,
+<lb /> βορβόρῳ εὑρήσεις ἐμὲ φίλτατον: ἢν δὲ τὸ λοῖσθον
+<lb /> αἴρῃς, εὑρήσεις ἐπίρρημα τόπου.
+</p>
+            </div2>
+            <div2 type="chapter" n="107" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> λαμπάδα μὲν προέηκεν Ἔρως καὶ τόξα καὶ ἰούς,
+<lb /> Αἰθιόπων δὲ κόνιν ἀντὶ βελῶν προχέει.
+</p>
+            </div2>
+            <div2 type="chapter" n="108" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />οὐδὲν ἔσωθεν ἔχω, καὶ πάντα μοι ἔνδοθέν ἐστι,
+<lb />προῖκα δ᾽ ἐμῆς ἀρετῆς πᾶσι δίδωμι χάριν.
+</p>
+            </div2>
+            <div2 type="chapter" n="109" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />ἐν πυρὶ κοιμηθεῖσα κόρη θάνεν ὁ προδότης δὲ
+<lb />οἶνος: ὑφ᾽ οὗ δὲ θάνεν, Παλλάδος ἦν στέλεχος:
+<lb />ὁ κτείνας ναυηγός: ἐνὶ ζώοντι δὲ τύμβῳ
+<lb /> κεῖται μεμφομένη τὰς Βρομίου χάριτας.</p>
+            </div2>
+            <div2 type="chapter" n="109a" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> Παλλὰς καὶ Βρόμιος τε καὶ ὁ κλυτὸς Ἀμφιγυήεις,
+<lb />οἱ τρεῖς τὴν μούνην παρθένον ἠφάνισαν.
+<pb id="v.5.p.82" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="110" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />οὐδεὶς βλέπων βλέπει με, μὴ βλέπων δ᾽ ὁρᾷ:
+<lb />ὁ μὴ λαλῶν λαλεῖ, ὁ μὴ τρέχων τρέχει: ^
+<lb /> ψευδὴς δ᾽ ὑπάρχω, πάντα τἀληθῆ λέγων.^
+</p>
+            </div2>
+            <div2 type="chapter" n="111" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />ἄγονος ἐξ ἀγόνων, βελεηφόρος, ἔμβρεφος, ἄρσις.
+</p>
+            </div2>
+            <div2 type="chapter" n="112" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς δοθεὶς Κροίσῳ τῷ Λυδῷ</label>
+               <p>
+                  <lb /> ἀλλ᾽ ὅταν ἡμίονος βασιλεὺς Μήδοισι γένηται,
+<lb /> καὶ τότε, Λυδὲ ποδαβρέ, πολυψήφιδα παρ᾽ Ἕρμον
+<lb /> φεύγειν, μηδὲ μένειν, μηδ᾽ αἰδεῖσθαι κακὸς εἶναι.
+</p>
+            </div2>
+            <div2 type="chapter" n="113" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς δοθεὶς Ἀρχιλόχῳ</label>
+               <p>
+                  <lb />ἀθάνατός σοι παῖς καὶ ἀοίδιμος, ὦ Τελεσίκλεις,
+<lb /> ἔσσετ᾽ ἐν ἀνθρώποισιν, ὃς ἂν πρῶτός σε προσείπῃ
+<lb /> νηὸς σῆς ἀποβάντα φίλῃ ἐν πατρίδι γαίῃ.
+</p>
+            </div2>
+            <div2 type="chapter" n="114" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς δοθεὶς τῇ μητρὶ Ἀλεξάνδρου ἐν Κυζίκῳ</label>
+               <p>
+                  <lb /> Πέρσαι λάτριν ἐμὸν σημάντορα χειρὶ βιαίῃ
+<lb />ἔκτανον, οἰκεία δὲ κόνις νέκυν ἀμφικαλύπτει:
+<lb /> τοῦ δ᾽ ἤν τις Φαέθοντι θοῶς λεύκ᾽ ὀστέα δείξῃ,
+<lb />οὗτός τοι Περσῶν τὸ μέγα κράτος ἔνδοθι θραύσει:
+<pb id="v.5.p.84" />
+                  <milestone unit="lnum" n="5" />
+                  <lb /> κεῖται δ᾽ Ἀσίδος ἐντὸς ὁριζομένᾐ ἐνὶ νήσῳ
+<lb /> δάφνῃ καὶ ῥείθροισι παραὶ Πελίοιο γέροντος:
+<lb /> φράζεο δ᾽ ἀνέρα μάντιν ὑφηγητῆρα κελεύθου
+<lb /> Φωκέα, ὃς ψαμάθοισιν Ἀπαρνίδος οἰκία ναίει.
+</p>
+            </div2>
+            <div2 type="chapter" n="115" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>Κωνσταντῖνος, ἐλθὼν ἐν τῇ Τροίᾳ πλησίον, ἠβουλήθη</label>
+               <p>
+                  <lb />λήθη κτίσαι πόλιν βασιλικήν, καὶ λαβὼν τὸν
+<lb />χρησμὸν ἀνεχώρησεν καὶ κτίζει Κωνσταντινούπολιν
+<lb />οὐ θέμις ἐν Τροίης σε πάλαι τμηθέντι θεμείλῳ
+<lb /> Ῥώμης ἱδρῦσαι νέον οὔνομα: βαῖνε δὲ χαίρων
+<lb />ἐς Μεγαρήιον ἄστυ Προποντίδος ἄγχι θαλάσσης,
+<lb /> ἔνθ᾽ ἰχθῦς ἔλαφός τε νομὸν βόσκουσι τὸν αὐτόν.
+</p>
+            </div2>
+            <div2 type="chapter" n="116" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> τίπτε με τῶν καρύων ἕνεκεν πληγῇσι πιέζεις,
+<lb />ὦ μῆτερ; τάδε πάντα καλαὶ διεμοιρήσαντο
+<lb /> παρθένοι. ἦ γὰρ ἐμεῖο Μελίσσιον ἕβδομα δοιά,
+<lb />ἡ δὲ δυωδέκατον Τιτάνη λάβεν: ἕκτον ἔχουσιν
+<milestone unit="lnum" n="5" />
+                  <lb /> καὶ τρίτον Ἀστυόχη φιλοπαίγμονες ἠδὲ Φίλιννα:
+<lb />εἴκοσι δ᾽ ἁρπάξασα Θέτις λάβε, δώδεκα Θίσβη:
+<lb />ἡ δ᾽, ὅρα, ἡδὺ γελᾷ Γλαύκη παλάμῃσιν ἔχουσα
+<lb />ἕνδεκα: τοῦτο δέ μοι κάρυον περιλείπεται οἶον.
+</p>
+            </div2>
+            <div2 type="chapter" n="117" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />
+                  <note type="speaker" place="unspecified" anchored="yes">α.</note> ποῦ σοι μῆλα βέβηκεν, ἐμὸν τέκος; <note type="speaker" place="unspecified" anchored="yes">β.</note> ἕκτα μὲν Ἰνὼ
+<lb />δοιά, καὶ ὀγδοάτην μοῖραν ἔχει Σεμέλη:
+<pb id="v.5.p.86" />
+                  <lb />Αὐτονόη δὲ τέταρτον ἀφήρπασεν αὐτάρ Ἀγαυὴ
+<lb /> πέμπτον ἐμῶν κόλπων ᾤχετ᾽ ἀπαινυμένη:
+<milestone unit="lnum" n="5" />
+                  <lb /> σοὶ δ᾽ αὐτῇ δέκα μῆλα φυλάσσεται: αὐτάρ ἔγωγε,
+<lb /> ναὶ μὰ φίλην Κύπριν, ἓν τόδε μοῦνον ἔχω. </p>
+            </div2>
+            <div2 type="chapter" n="118" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />Δρεψαμένη ποτὲ μῆλα φίλαις διεδάσσατο Μυρτώ:
+<lb /> Χρυσίδι μὲν μήλων πέμπτον πόρε, τέτρατον Ἡροῖ,
+<lb /> ἐννεακαιδέκατον Ψαμάθῃ, δέκατον Κλεοπάτρῃ:
+<lb />αὐτάρ ἐεικοστον δωρήσατο Παρθενοπείῃ:
+<milestone unit="lnum" n="5" />
+                  <lb /> δώδεκα δ᾽ Εὐάδνῃ μοῦνον πόρεν αὐτάρ ἐς αὐτὴν
+<lb /> ἤλυθον ἐκ πάντων ἑκατὸν καὶ εἴκοσι μῆλα.
+</p>
+            </div2>
+            <div2 type="chapter" n="119" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> Ἀντομέναις ποτὲ μῆλα φίλαις διεμοιρήσαντο
+<lb /> Ἰνὼ καὶ Σεμέλη δώδεκα παρθενικαῖς.
+<lb />καὶ ταῖς μὲν Σεμέλη πόρεν ἄρτια: ταῖς δὲ περισσὰ
+<lb /> δῶκε κασιγνήτη: μῆλα δ᾽ ἔχεν πλέονα.
+<milestone unit="lnum" n="5" />
+                  <lb />ἡ μὲν γὰρ τρισσῇσι τρί᾽ ἕβδομα δῶκεν ἑταίραις,
+<lb /> ταῖς δὲ δύο πάντων πέμπτον ἔδωκε λάχος:
+<lb />ἕνδεκα δ᾽ Ἀστυνόμη μιν ἀφείλατο, καὶ οἱ ἔλειπεν
+<lb /> μοῦνα κασιγνήταις μῆλα δύω φερέμεν.
+<lb />ἡ δ᾽ ἑτέρη πισύρεσσι πόρεν δύο τέτρατα μήλων,
+<milestone unit="lnum" n="10" />
+                  <lb /> πέμπτῃ δ᾽ ἑκταίην μοῖραν ἔδωκεν ἔχειν:
+<lb />τέσσαρα δ᾽ Εὐρυχόρῃ δῶρον πόρε: τέτρασι δ᾽ ἄλλοις
+<lb />μήλοισιν Σεμέλη μίμνεν ἀγαλλομένη.
+<pb id="v.5.p.88" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="120" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />ἡ καρύη πολλοῖσιν ἐβεβρίθει καρύοισιν:
+<lb />νῦν δέ τις ἐξαπίνης μιν ἀπέθρισεν ἀλλὰ τί φησιν;
+<lb />
+                  <quote rend="blockquote">
+                     <l> ἐκ μὲν ἐμεῦ καρύων πέμπτον λάβε Παρθενόπεια:
+</l>
+                     <l> ὀγδόατον δὲ Φίλιννα φέρει λάχος: ἡ δ᾽ Ἀγανίππη
+<milestone unit="lnum" n="5" />
+                     </l>
+                     <l>τέτρατον: ἑβδομάτῳ δ᾽ ἐπιτέρπεται Ὠρείθυια:
+</l>
+                     <l>ἕκτην δ᾽ Εὐρυνόμη καρύων ἐδρέψατο μοίρην
+</l>
+                     <l> τρισσαὶ δ᾽ ἓξ ἑκατὸν Χάριτες διεμοιρήσαντο:
+</l>
+                     <l> ἐννάκι δ᾽ ἐννέα Μοῦσαι ἐμεῦ λάβον ἑπτὰ δὲ λοιπὰ
+</l>
+                     <l> δήεις ἀκρεμόνεσσιν ἐφήμενα τηλοτέροισιν.</l>
+                  </quote> 
+               </p>
+            </div2>
+            <div2 type="chapter" n="121" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> ἑπτάλοφον ποτὶ ἄστυ Γαδειρόθεν, ἕκτον ὁδοῖο
+<lb /> Βαίτιος εὐμύκους ἄχρις ἐς ἠιόνας:
+<lb /> κεῖθεν δ᾽ αὖ πέμπτον Πυλάδου μετὰ Φώκιον οὖδας,
+<lb /> Ταύρη χθὼν, βοέης οὔνομ᾽ ἀπ᾽ εὐετίης:
+<milestone unit="lnum" n="5" />
+                  <lb /> Πυρήνην δέ τοι ἔνθεν ἐπ᾽ ὀρθόκραιρον ἰόντι
+<lb />ὄγδοον, ἠδὲ μιῆς δωδέκατον δεκάτης.
+<lb /> Πυρήνης δὲ μεσηγὺ καὶ Ἄλπιος ὑψικαρήνου
+<lb />τέτρατον: Αὐσονίης αἶψα δυωδέκατον
+<lb />ἀρχομένης ἤλεκτρα φαείνεται Ἠριδανοῖο.
+<milestone unit="lnum" n="10" />
+                  <lb />ὦ μάκαρ, ὃς δισσὰς ἤνυσα χιλιάδας,
+<lb /> πρὸς δ᾽ ἔτι πέντ᾽ ἐπὶ ταῖς ἑκατοντάδας ἔνθεν ἐλαύνων
+<lb />ἡ γὰρ Ταρπείη μέμβλετ᾽ ἀνακτορίη.
+<pb id="v.5.p.90" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="122" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />Εὐβλεφάροιο Δίκης ἱερὰ κρήδεμνα μιήνας,
+<lb />ὄφρα σε, πανδαμάτωρ χρυσέ, βλέποιμι τόσον,
+<lb />οὐδὲν ἔχω: πίσυρας γὰρ ἐπ᾽ οὐκ ἀγαθοῖσι ταλάντων
+<lb /> οἰωνοῖσι μάτην δῶκα φίλοις δεκάδας:
+<milestone unit="lnum" n="5" />
+                  <lb />ἥμισυ δ᾽ αὖ, τρίτατόν τε καὶ ὄγδοον, ὦ πολύμορφοι
+<lb /> ἀνθρώπων κῆρες, ἐχθρὸν ἔχοντα βλέπω.
+</p>
+            </div2>
+            <div2 type="chapter" n="123" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> πέμπτον μοι κλήρου, παῖ, λάμβανε: δωδέκατον δὲ
+<lb /> δέξο, δάμαρ: πίσυρες δ᾽ υἱέος οἰχομένου
+<lb /> παῖδες, ἀδελφειοί τε δύω, καὶ ἀγάστονε μῆτερ,
+<lb /> ἑνδεκάτην κλήρου μοῖραν ἕκαστος ἔχε.
+<milestone unit="lnum" n="5" />
+                  <lb />αὐτὰρ, ἀνεψιαδοῖ, δυοκαίδεκα δέχθε τάλαντα:
+<lb /> Εὔβουλος δ᾽ ἐχέτω πέντε τάλαντα φίλος.
+<lb /> πιστοτάτοις δμώεσσιν ἐλευθερίην καὶ ἄποινα,
+<lb /> μισθὸν ὑπηρεσίης, τοῖσδε δίδωμι τάδε:
+<lb /> ὧδε δὲ λαμβανέτωσαν Ὀνήσιμος εἴκοσι πέντε
+<milestone unit="lnum" n="10" />
+                  <lb />μνᾶς ἐχέτω: Δᾶος δ᾽ εἴκοσι μνᾶς ἐχέτω,
+<lb />πεντήκοντα Σύρος, Συνετὴ δέκα, Τίβιος ὀκτώ:
+<lb /> ἑπτὰ δὲ μνᾶς Συνετῷ παιδὶ δίδωμι Σύρου.
+<lb />ἐκ δὲ τριηκόντων κοσμήσατε σῆμα ταλάντων,
+<lb /> ῥέζετε δ᾽ Οὐδαίῳ Ζανὶ θυηπολίην
+<milestone unit="lnum" n="15" />
+                  <lb /> δισσῶν ἔς τε πυρὴν καὶ ἄλφιτα καὶ τελαμῶνας,
+<lb /> εἰκαίην δοιῶν σῶμα χάριν λαβέτω.
+<pb id="v.5.p.92" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="124" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />ἠέλιος, μήνη τε καὶ ἀμφίθέοντος ἀλῆται
+<lb />ξωοφόρου τοίην τοι ἐπεκλώσαντο γενέθλην
+<lb />ἕκτην μὲν βιότοιο φίλῃ παρὰ μητέρι μεῖναι
+<lb />ὀρφανὸν ὀγδοάτην δὲ μετ᾽ ἀντιβίοισιν ἀνάγκῃ
+<milestone unit="lnum" n="5" />
+                  <lb /> θητεύειν, νόστον τε γυναῖκά τε παῖδά τ᾽ ἐπ᾽ αὐτῇ
+<lb /> τηλύγετον δώσουσι θεοὶ τριτάτῃ ἐπὶ μοίρῃ:
+<lb />δὴ τότε σοι Σκυθικοῖσιν ὑπ᾽ ἔγχεσι παῖς τε δάμαρ τε
+<lb />ὄλλυνται. σὺ δὲ τοῖσιν ἐπ᾽ ἄλγεσι δάκρυα χεύσας,
+<lb /> ἑπτὰ καὶ εἴκος1᾽ ἔτεσσι βίου ποτὶ τέρμα περήσεις.
+</p>
+            </div2>
+            <div2 type="chapter" n="125" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> τύμβος ἐγώ: κεύθω δὲ πολύστονα τέκνα Φιλίννης,
+<lb /> τοῖον μαψιτόκων καρπὸν ἔχων λαγόνων
+<lb /> πέμπτον ἐν ἠιθέοις, τρίτατον δ᾽ ἐνὶ παρθενικῇσιν,
+<lb /> τρεῖς δέ μοι ἀρτιγάμους δῶκε Φίλιννα κόρας:
+<milestone unit="lnum" n="5" />
+                  <lb /> λοιποὶ δ᾽ ἠελίοιο πανάμμοροι ἠδὲ καὶ αὐδῆς
+<lb /> τέσσαρες ἐκ λαγόνων εἰς Ἀχέροντα πέσον.
+</p>
+            </div2>
+            <div2 type="chapter" n="126" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />οὗτός τοι Διόφαντον ἔχει τάφος: ἆ μέγα θαῦμα:
+<lb />καὶ τάφος ἐκ τέχνης μέτρα βίοιο λέγει.
+<lb />ἕκτην κουρίζειν βιότου θεὸς ὤπασε μοίρην
+<lb /> δωδεκάτην δ᾽ ἐπιθείς, μῆλα πόρεν χνοάειν:
+<milestone unit="lnum" n="5" />
+                  <lb />τᾖ δ᾽ ἄρ᾽ ἐφ᾽ ἑβδομάτῃ τὸ γαμήλιον ἥψατο φέγγος,
+<lb />ἐκ δὲ γάμων πέμπτῳ παῖδ᾽ ἐπένευσεν ἔτει.
+<pb id="v.5.p.94" />
+                  <lb /> αἰαῖ, τηλύγετον δειλὸν τέκος, ἥμισυ πατρὸς
+<lb /> †   τοῦδε καὶ ἡ κρυερὸς μέτρον ἑλὼν βιότου.
+<lb /> πένθος δ᾽ αὖ πισύρεσσι παρηγορέων ἐνιαντοῖς
+<milestone unit="lnum" n="10" />
+                  <lb /> τῇδε πόσου σοφίᾐ τέρμ᾽ ἐπέρησε βίου.
+</p>
+            </div2>
+            <div2 type="chapter" n="127" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />παντός ὅσου βεβίωκε χρόνου παῖς μὲν τὸ τέταρτον
+<lb /> Δημοχάρης βεβίωκε: νεηνίσκος δὲ τὸ πέμπτον
+<lb />τὸ τρίτον εἰς ἄνδρας: πολιὸν δ᾽ ὅτ᾽ ἀφίκετο γῆρας
+<lb /> ἔζησεν λοιπὰ τρισκαίδεκα γήραος οὐδῷ.
+</p>
+            </div2>
+            <div2 type="chapter" n="128" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> οἷον ἀδελφειὸς μ᾽ ἐβιήσατο, πέντε τάλαντα
+<lb />οὐχ ὁσίῃ μοίρῃ πατρικὰ δασσάμενος.
+<lb /> ἑπτὰ κασιγνήτοιο τόδ᾽ ἑνδεκάτων πολύδακρυς
+<lb /> πέμπτον ἔχω μοίρης. Ζεῦ, βαθὺν ὕπνον ἔχεις.
+</p>
+            </div2>
+            <div2 type="chapter" n="129" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />εἶπε κυβερνητῆρι, πλατὺν πόρον Ἀδριακοῖο
+<lb /> τέμνων νηί, <q direct="unspecified">ἁλὸς πόσα λείπεται εἰσέτι μέτρα;</q>
+                  <lb /> τὸν δ᾽ ἀπαμείβετο: <quote rend="blockquote">
+                     <l> Ναῦτα, μέσον Κριοῖο μετώπου
+</l>
+                     <l> Κρηταίου, Σικελῆς τε Πελωρίδος ἑξάκι μέτρα
+<milestone unit="lnum" n="5" />
+                     </l>
+                     <l> χίλια, δοιῶν δ᾽ αὖτε παροιχομένοιο δρόμοιο
+</l>
+                     <l> πέμπτων διπλάσιον Σικελὴν ἐπὶ πορθμίδα λείπει.</l>
+                  </quote> 
+                  <pb id="v.5.p.96" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="130" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> τῶν πισύρων κρουνῶν ὁ μὲν ἤματι πλῆσεν ἅπασαν
+<lb /> δεξαμενήν, δυσὶ δ᾽ οὗτος, ὃ δ᾽ ἐν τρισὶν ἤμασιν οὗτος,
+<lb /> τέτρατος ἐν τετόρεσσι: πόσῳ πλήσουσιν ἅπαντες;
+</p>
+            </div2>
+            <div2 type="chapter" n="131" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />οἶγέ με, καὶ πισύρεσσιν ἐνιπλήσω παρεοῦσαν
+<lb /> δεξαμενὴν ὥραις, κρουνὸς ἅλις προρέων:
+<lb /> δεξιτερὸς δ᾽ ἄρ᾽ ἐμεῖο τόσαις ἀπολείπεται ὥραις,
+<lb />ὄφρα μιν ἐμπλήσει: δὶς δὲ τόσαις ὁ τρίτος.
+<milestone unit="lnum" n="5" />
+                  <lb />εἰ δ᾽ ἄμφω σὺν ἐμοὶ προχέειν ῥόου ἑσμὸν ἀνώγοις,
+<lb /> εἰν ὀλίγῃ μοίρῃ πλήσομεν ἠματίῃ.
+</p>
+            </div2>
+            <div2 type="chapter" n="132" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> Κύκλωψ  †   ἐγὼ Πολύφημος ὁ χάλκεος: οἷα δ᾽ ἐπ᾽ αὐτῷ
+<lb />τεῦξέ τις ὀφθαλμὸν καὶ στόμα καὶ παλάμην,
+<lb /> κρουνοῖς συζεύξας: στάζοντι δὲ πάμπαν ἔοικεν,
+<lb />ἠδ᾽ ἔτι καὶ βλύζων φαίνετ᾽ ἀπὸ στόματος.
+<milestone unit="lnum" n="5" />
+                  <lb />κρουνῶν δ᾽ οὔτις ἄτακτος: ὁ μὲν παλάμης τρισὶ μούνοις
+<lb />ἤμασιν ἐμπλήσει δεξαμενὴν προρέων
+<lb /> ἠμάτιος γλήνης: στόμα δ᾽ ἤματος ἐν δύο πέμπτοις.
+<lb />τίς  κ᾽ ἐνέποι τρισσοῖς ἶσα θέοντα χρόνον;
+</p>
+            </div2>
+            <div2 type="chapter" n="133" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />ὡς ἀγαθὸν κρητῆρι θοοὶ κρητῆρι ῥέεθρον
+<lb />οἵδε δύω ποταμοί, καὶ Βρομίοιο Χάρις.
+<lb />ἶσος δ᾽ οὐ πάντεσσι ῥόου δρόμος: ἀλλά μιν οἶος
+<lb /> Νεῖλος μὲν προρέων ἠμάτιος κορέσει,
+<pb id="v.5.p.98" />
+                  <milestone unit="lnum" n="5" />
+                  <lb /> τόσσον ὕδωρ μαζῶν ἀπερεύγεται: ἐκ δ᾽ ἄρα Βάκχου;θύρσος
+<lb /> ἐνὶ τρισσοῖς ἤμασιν οἶνον ἱείς:
+<lb /> σὸν δὲ κέρας, Ἀχελῷε, δύ᾽ ἤμασι. νῦν δ᾽ ἅμα πάντες
+<lb /> ῥεῖτε καὶ εἰν ὥραις πλήσετέ μιν ὀλίγαις.
+</p>
+            </div2>
+            <div2 type="chapter" n="134" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />ὦ γύναι, ὡς πενίης ἐπελήσαο: ἣ δ᾽ ἐπίκειται
+<lb /> αἰὲν ἀναγκαίῃ κέντρα φέρουσα πόνων.
+<lb />μνᾶν ἐρίων νήθεσκες ἐν ἤματι πρεσβυτέρη δὲ
+<lb /> θυγατέρων καὶ μνᾶν καὶ τρίτον εἷλκε κρόκης:
+<milestone unit="lnum" n="5" />
+                  <lb /> ὁπλοτέρη δὲ μιῆς φέρεν ἥμισυ. νῦν δ᾽ ἅμα πάσαις
+<lb />δόρπον ἐφοπλίζεις μνᾶν ἐρύσασα μόνον.
+</p>
+            </div2>
+            <div2 type="chapter" n="135" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />οἵδε λοετροχόοι τρεῖς ἕσταμεν ἐνθάδ᾽ Ἔρωτες,
+<lb />καλλιρόου πέμποντες ἐπ᾽ εὐρίποιο λοετρά.
+<lb /> δεξιτερὸς μὲν ἔγωγε τανυπτερύγων ἀπὸ ταρσῶν
+<lb />ἤματος ἑκταίῃ μοίρῃ ἔνι τόνδε κορέσσω: 
+<milestone unit="lnum" n="5" />
+                  <lb />λαιὸς δ᾽ αὖ πισύρεσσιν ἀπ᾽ ἀμφιφορῆος ἐν ὥραις:
+<lb />ἐκ δ᾽ ὁ μέσος τόξοιο κατ᾽ ἤματος αὐτὸ τὸ μέσσον.
+<lb />φράζεο δ᾽, ὡς ὀλίγῃ κεν ἐνιπλήσαιμεν ἐν ὥρῃ,
+<lb />ἐκ πτερύγων τόξου τε καὶ ἀμφιφορῆος ἱέντες.
+</p>
+            </div2>
+            <div2 type="chapter" n="136" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> Πλινθουργοί, μάλα τοῦτον Πλινθουργοί οἶκον ἐγεῖραι,
+<lb />ἦμαρ δ᾽ ἀννέφελον τόδε σήμερον, οὐδ᾽ ἔτι πολλῶν
+<lb /> χρηίζω, πᾶσαν δὲ τριηκοσίῃσι δέουσαν
+<lb />πλίνθον ἔχω. σὺ δὲ μοῦνος ἐν ἤματι τόσσον ἔτευχες:
+<pb id="v.5.p.100" />
+                  <milestone unit="lnum" n="5" />
+                  <lb /> παῖς δέ τοι ἐκ καμάτοιο διηκοσίαις ἀπέληγεν
+<lb />γαμβρὸς δ᾽ αὖ τόσσῃσι καὶ εἰσέτι πεντήκοντα.
+<lb />τρισσαῖς συζυγίαις πόσσαις τόδε τεύχεται ὥραις;
+</p>
+            </div2>
+            <div2 type="chapter" n="137" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> δάκρυ παρὰ στάξαντες ἀμείβετε: οἵδε γὰρ ἡμεῖς,
+<lb />οὓς τόδε δῶμα πεσὸν ὤλεσεν Ἀντιόχου
+<lb /> δαιτυμόνας, ἴσης τε ^ θεὸς δαιτός τε τάφου τε
+<lb /> τόνδ᾽ ἔπορεν χῶρον. τέσσαρες ἐκ Τεγέης
+<milestone unit="lnum" n="5" />
+                  <lb /> κείμεθα: Μεσσήνης δὲ δυώδεκα: ἐκ δέ τε πέντε
+<lb /> Ἄργεος: ἐκ Σπάρτης δ᾽ ἥμισυ δαιτυμόνων,
+<lb />αὐτός τ᾽ Ἀντίοχος: πέμπτου δέ τε πέμπτον ὄλοντο
+<lb /> Κεκροπίδαι: σὺ δ᾽ Ὕλαν κλαῖε, Κόρινθε, μόνον.
+</p>
+            </div2>
+            <div2 type="chapter" n="138" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> Νικαρέτη παίζουσα σὺν ἡλικιώτισι πέντε,
+<lb />ὧν εἶχεν καρύων Κλεῖτ᾽ ἔπορεν τὸ τρίτον,
+<lb /> καὶ Σαπφοῖ τὸ τέταρτον, Ἀριστοδίκᾐ δὲ τὸ πέμπτον,
+<lb /> εἰκοστὸν Θεανοῖ καὶ πάλι δωδέκατον,
+<milestone unit="lnum" n="5" />
+                  <lb />εἰκοστὸν τέτρατον δὲ Φιλιννίδι: καὶ περιῆν δὲ
+<lb /> πεντήκοντ᾽ αὐτῇ Νικαρέτῃ κάρυα.
+</p>
+            </div2>
+            <div2 type="chapter" n="139" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />γνωμονικῶν Διόδωρε μέγα κλέος, εἰπέ μοι ὥρην,
+<lb /> ἡνίκ᾽ ἀπ᾽ ἀντολίης πόλον ἥλατο χρύσεα κύκλα
+<lb /> ἠελίου. <quote rend="blockquote">
+                     <l>τοῦ δῆτοι ὅσον τρία πέμπτα δρόμοιο,
+</l>
+                     <l>τετράκι τόσσον ἔπειτα μεθ᾽ Ἑσπερίην ἅλα λείπει.
+<pb id="v.5.p.102" />
+                     </l>
+                  </quote> 
+               </p>
+            </div2>
+            <div2 type="chapter" n="140" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> Ζεῦ μάκαρ, ἦ ῥά τοι ἔργα τάδ᾽ εὔαδεν, οἷα γυναῖκες
+<lb /> Θεσσαλικαὶ παίζουσι; μαραίνεται ὄμμα Σελήνης
+<lb />ἐκ μερόπων ἴδον αὐτός: ἔην δ᾽ ἔτι νυκτὸς ἐπ᾽ ἠῶ
+<lb /> δὶς τόσον ὅσσα δύ᾽ ἕκτα καὶ ἕβδομον οἰχομένοιο.
+</p>
+            </div2>
+            <div2 type="chapter" n="141" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb /> Ἀπλανέων ἄστρων, παρόδους τ ἐπὶ τοῖσιν ἀλητῶν
+<lb />εἰπέ μοι, ἡνίκ᾽ ἐμὴ χθιζὸν ἔτικτε δάμαρ.
+<lb />ἦμαρ <quote rend="blockquote">
+                     <l> ἔην, ὅσσον τε δὶς ἕβδομον ἀντολίηθεν,
+</l>
+                     <l> ἑξάκι τόσσον ἔην Ἑσπερίην ἐς ἅλα.</l>
+                  </quote> 
+               </p>
+            </div2>
+            <div2 type="chapter" n="142" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />ἔγρεσθ᾽, Ἠριγένεια παρέδραμε: πέμπτον, ἔριθοι,
+<lb />λειπομένης τρισσῶν οἴχεται ὀγδοάτων.
+</p>
+            </div2>
+            <div2 type="chapter" n="143" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />Σύρτιος ἐν τενάγεσσι πατήρ θάνεν. ἐκ δ᾽ ἄρ᾽ ἐκείνης
+<lb /> πέντε τάλαντα φέρων ἤλυθε ναυτιλίης
+<lb /> οὗτος ἀδελφειῶν προφερέστατος: ἦ γὰρ ἔμοιγε
+<lb /> δῶκεν ἑῆς μοίρης διπλάσιον τριτάτων
+<milestone unit="lnum" n="5" />
+                  <lb /> δοιῶν, ἡμετέρης δὲ δύ᾽ ὄγδοα μητέρι μοίρης
+<lb />ὤπασεν, οὐδὲ δίκης ἤμβροτεν ἀθανάτων.
+<pb id="v.5.p.104" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="144" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />
+                  <note type="speaker" place="unspecified" anchored="yes">α.</note> ἁ βάσις ἃν πατέω σὺν ἐμοὶ βάρος ἁλίκον ἕλκει.
+<lb />
+                  <note type="speaker" place="unspecified" anchored="yes">β.</note> χἀ κρηπὶς σὺν ἐμοὶ τόσσα τάλαντα φέρει.
+<lb />
+                  <note type="speaker" place="unspecified" anchored="yes">α.</note> ἀλλ᾽ ἐγὼ οἶος ἅπαξ τὰν σὰν βάσιν ἐς δὶς ἀνέλκω.
+<lb />
+                  <note type="speaker" place="unspecified" anchored="yes">β.</note>  κἠγὼ μοῦνος ἐὼν σὰν βάσιν ἐς τρὶς ἄγω. </p>
+            </div2>
+            <div2 type="chapter" n="145" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />
+                  <note type="speaker" place="unspecified" anchored="yes">α.</note> δός μοι δέκα μνᾶς, καὶ τριπλοῦς σοῦ γίνομαι.
+<lb />
+                  <note type="speaker" place="unspecified" anchored="yes">β.</note> κἀγὼ λαβὼν σοῦ τὰς ἴσας, σοῦ πενταπλοῦς.
+</p>
+            </div2>
+            <div2 type="chapter" n="146" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <p>
+                  <lb />
+                  <note type="speaker" place="unspecified" anchored="yes">α.</note> δός μοι δύο μνᾶς, καὶ διπλοῦς σοῦ γίνομαι.
+<lb />
+                  <note type="speaker" place="unspecified" anchored="yes">β.</note>  κἀγὼ λαβὼν σοῦ τὰς ἴσας, σοῦ τετραπλοῦς. </p>
+            </div2>
+            <div2 type="chapter" n="147" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0012"><foreign lang="la">homerus</foreign></persName>
+               </docAuthor>
+               <label>Ὅμηρος Ἡσιόδῳ ἐρωτήσαντι, πόσον τὸ τῶν</label>
+               <p>
+                  <lb />Ἑλλήνων πλῆθος τὸ κατὰ τῆς Ἰλίου στρατεῦσαν
+<lb />ἑπτὰ ἔσαν μαλεροῦ πυρὸς ἐσχάραι: ἐν δὲ ἑκάστῃ
+<lb /> πεντήκοντ᾽ ὀβελοί, περὶ δὲ κρέα πεντήκοντα:
+<lb /> τρὶς δὲ τριηκόσιοι περὶ ἓν κρέας ἦσαν Ἀχαιοί.
+<pb id="v.5.p.106" />
+               </p>
+            </div2>
+            <div2 type="chapter" n="148" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-4070"><foreign lang="la">germanus</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς δοθεὶς Ἰουλιανῷ τῷ ἀποστάτῃ, ὅτε τὴν</label>
+               <p>
+                  <lb />γενέθλιον ἡμέραν ἐπιτελῶν ἑαυτοῦ διῆγεν περὶ
+<lb />Κτησιφῶντα ἀγῶνας ἱππικοὺς θεώμενος
+<lb /> γηγενέων ποτὲ φῦλον ἐνήρατο μητίετα Ζεύς,
+<lb /> ἔχθιστον μακάρεσσιν Ὀλύμπια δώματ᾽ ἔχουσιν.
+<milestone unit="lnum" n="5" />
+                  <lb /> Ῥωμαίων βασιλεὺς Ἰουλιανὸς θεοειδὴς
+<lb />μαρνάμενος πόλιας πόλιας καὶ τείχεα μακρὰ
+<lb /> ἀγχεμάχων διέπερσε πυρὶ κρατερῷ τε σιδήρῳ,
+<lb /> νωλεμέως δ᾽ ἐδάμασσε καὶ ἔθνεα πολλὰ καὶ ἄλλα:
+<lb />ὃς ῥα καὶ ἑσπερίων ἀνδρῶν Ἀλαμανικὸν οὖδας
+<lb /> ὑσμίναις πυκναῖσιν ἑλὼν ἀλάπαξεν ἀρούρας.
+</p>
+            </div2>
+            <div2 type="chapter" n="149" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς δοθεὶς Τιμοκράτῃ Ἀθηναίῳ ἐρωτήσαντι</label>
+               <p>
+                  <lb />περὶ ἐπιληψίας
+<lb /> μείζον᾽ ἀειράμενος κεφαλῆς ποιμνηίου εὐλὴν
+<lb /> μηκάδος, ἀγρονόμοιο δέμας περικάββαλε μήλου,
+<lb /> ἑρπηστὰν πολύπλαγκτον ἐϋρρήνου ἀπὸ κόρσης.
+</p>
+            </div2>
+            <div2 type="chapter" n="150" org="uniform" sample="complete">
+               <docAuthor lang="la">
+                  <persName lang="la" key="tlg-0138"><foreign lang="la">anonymi epigrammatici</foreign></persName>
+               </docAuthor>
+               <label>χρησμὸς δοθεὶς τῷ Αἰγεῖ ἐρωτήσαντι περὶ παιδοποιΐας</label>
+               <p>
+                  <lb /> ἀσκοῦ τὸν προὔχοντα ποδαιόνα, φίλτατε λαῶν,
+<lb />μὴ λῦσαι, πρὶν γουνὸν Ἀθηναίων ἀφικέσθαι.</p>
+            </div2>
+         </div1></body></text></TEI.2>

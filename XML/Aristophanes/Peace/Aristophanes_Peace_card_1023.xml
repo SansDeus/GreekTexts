@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Lyric-Scene" org="uniform" sample="complete"><div2 type="iambics" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1023" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />σέ τοι θύρασι χρὴ  <gap /> μένοντα τοίνυν
+<lb />σχίζας δευρὶ τιθέναι ταχέως
+<lb rend="displayNum" n="1025" />τά τε πρόσφορα πάντ᾽ ἐπὶ τούτοις.</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb />οὔκουν δοκῶ σοι μαντικῶς τὸ φρύγανον τίθεσθαι;</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />πῶς δ᾽ οὐχί; τί γάρ σε πέφευγ᾽
+<lb />ὅσα χρὴ σοφὸν ἄνδρα; τί δ᾽ οὐ
+<lb />σὺ φρονεῖς ὁπόσα χρεών ἐστιν
+<lb rend="displayNum" n="1030" />τόν γε σοφῇ δόκιμον
+<lb />φρενὶ πορίμῳ τε τόλμῃ;</p></sp>
+<sp><speaker>Τρυγαῖος</speaker><p>
+<lb />ἡ σχίζα γοῦν ἐνημμένη τὸν Στιλβίδην πιέζει,
+<lb />καὶ τὴν τράπεζαν οἴσομαι, καὶ παιδὸς οὐ δεήσει.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />τίς οὖν ἂν οὐκ ἐπαινέσειεν
+<lb />ἄνδρα τοιοῦτον, ὅστις
+<lb rend="displayNum" n="1035" />πόλλ᾽ ἀνατλὰς ἔσωσε
+<lb />τὴν ἱερὰν πόλιν;
+<lb />ὥστ᾽ οὐχὶ μὴ παύσῃ ποτ᾽ ὢν
+<lb />ζηλωτὸς ἅπασιν.
+</p></sp></div2></div1></body></text></TEI.2>

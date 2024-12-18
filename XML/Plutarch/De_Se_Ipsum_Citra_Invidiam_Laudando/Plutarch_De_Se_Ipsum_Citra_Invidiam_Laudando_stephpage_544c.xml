@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="13" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-544c" n="544c" /> καὶ ἀνδρεῖον: ἡμεῖς πάλαι ταῦτα, νῦν δ᾽ <milestone unit="tlnum" n="10" /> ἐκεῖνα ποιοῦμεν</q> <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἡμεῖς πάλαι ταῦτα ἐποιοῦμεν, νῦν δ᾽ ἐκεῖνα ἔχομεν</foreign> ξοβετυς</note> ἐδόκει γὰρ ἐν κεραμείῳ
+               τεθράφθαι διὰ δυσγένειαν καὶ πενίαν ὁ Ἀγαθοκλῆς, εἶτα συμπάσης ὀλίγου
+               δεῖν ἐβασίλευσε Σικελίας. </p>
+         </div1>
+         <div1 type="section" n="14" org="uniform" sample="complete">
+            <p>καὶ ταῦτα μὲν ἔξωθεν ἔστιν ἐπεισάγεσθαι φάρμακα τῆς περιαυτολογίας.
+               ἕτερα δ᾽ αὐτοῖς τρόπον <milestone unit="tlnum" n="15" /> τινὰ τοῖς
+               ἐπαινουμένοις ἔνεστιν: οἷς καὶ Κάτων ἐχρῆτο φθονεῖσθαι λέγων, ὅτι τῶν
+               ἰδίων ἀμελεῖ καὶ τὰς νύκτας ἀγρυπνεῖ διὰ τὴν πατρίδα καὶ τὸ <quote rend="blockquote">
+                  <l> πῶς δ᾽ ἂν φρονοίην, ᾧ παρῆν ἀπραγμόνως </l> <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 616</note>
+                  <l>ἐν τοῖσι πολλοῖς ἠριθμημένῳ στρατοῦ <milestone unit="tlnum" n="20" />
+                  </l>
+                  <l> ἴσον μετασχεῖν τῷ σοφωτάτῳ τύχης. </l>
+               </quote> καὶ τὸ <quote rend="blockquote">
+                  <l> ὀκνῶν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὀκνῶν</foreign> ξοβετυς: <foreign lang="greek">ὀκνῶ</foreign></note> δὲ μόχθων τῶν πρὶν ἐκχέαι χάριν, </l> <note resp="ed" place="unspecified" anchored="yes">ιδ. π. 617</note>
+                  <l> καὶ τοὺς παρόντας οὐκ ἀπωθοῦμαι πόνους. </l></quote></p></div1></body></text></TEI.2>

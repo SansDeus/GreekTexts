@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Agon" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="367" unit="card" /></p></sp></div2>
+<div2 type="antiproepirrheme" org="uniform" sample="complete">
+<sp><speaker>Φιλοκλέων</speaker><p>
+<lb />διατραγεῖν τοίνυν κράτιστόν ἐστί μοι τὸ δίκτυον.
+<lb />ἡ δέ μοι Δίκτυννα συγγνώμην ἔχοι τοῦ δικτύου.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ταῦτα μὲν πρὸς ἀνδρός ἐστ᾽ ἄνοντος ἐς σωτηρίαν.
+<lb rend="displayNum" n="370" />ἀλλ᾽ ἔπαγε τὴν γνάθον.</p></sp>
+<sp><speaker>Φιλοκλέων</speaker><p>
+<lb />διατέτρωκται τοῦτό γ᾽. ἀλλὰ μὴ βοᾶτε μηδαμῶς,
+<lb />ἀλλὰ τηρώμεσθ᾽ ὅπως μὴ Βδελυκλέων αἰσθήσεται.</p></sp></div2></div1></body></text></TEI.2>

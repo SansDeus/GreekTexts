@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-651a" n="651a" /> πλῆττον καὶ πυρῶδες. πιθανοῦ δὲ καὶ
+                     τούτου δοκοῦντος, <milestone unit="tlnum" n="5" />Ἀθρΐλατος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀθρύιτος</foreign> ϝδ. <foreign lang="greek">Ἀουίτος</foreign>
+                        ῾αϝιτυς᾿ ρ</note> ὁ Θάσιος; ἰατρὸς ἐμβαλών τινα τῇ ζητήσει
+                     διατριβὴν εἶναί τινας ἔφησεν, οἳ τὰς γυναῖκας οὐ ψυχρὰς ἀλλὰ
+                     θερμοτέρας τῶν ἀνδρῶν ὑπολαμβάνουσιν, ἑτέρους δὲ μᾶλλον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μᾶλλον</foreign>] ποστ <foreign lang="greek">ψυχρὸν</foreign> ξολλοξατ
+                        ω. <foreign lang="greek">πάλιν</foreign> εμπεριυς</note> οἳ τὸν οἶνον
+                     οὐ θερμὸν ἀλλὰ καὶ ψυχρὸν ἡγοῦνται. </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="10" />
+                  <p>θαυμάσαντος δὲ τοῦ Φλώρου, <q direct="unspecified">τὸν μὲν περὶ τοῦ οἴνου λόγον</q>
+                     εἶπεν <q direct="unspecified">ἀφίημι τούτῳ</q> δείξας ἐμέ: καὶ γὰρ ἐτυγχάνομεν
+                     ὀλίγαις ἡμέραις πρότερον εἰς τοῦτο διειλεγμένοι: <q direct="unspecified">τῶν δὲ
+                        γυναικῶν</q> ἔφη <q direct="unspecified">τὴν θερμότητα πρῶτον ἀπὸ τῆς ψιλότητος
+                        οἴονται δεικνύναι, <milestone unit="tlnum" n="15" /> καταναλισκομένου
+                        τοῦ περιττώματος ὑπὸ </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-905b" n="905b" />
+               <head>Εἰ σῶμα τὸ σπέρμα.</head>
+               <p>
+                  <milestone unit="tlnum" n="10" />Λεύκιππος καὶ Ζήνων σῶμα: ψυχῆς γὰρ εἶναι ἀπόσπασμα.
+</p>
+               <p>Πυθαγόρας Πλάτων Ἀριστοτέλης ἀσώματον μὲν
+εἶναι τὴν δύναμιν τοῦ σπέρματος ὥσπερ νοῦν τὸν κινοῦντα, σωματικὴν δὲ τὴν ὕλην τὴν προχεομένην.
+</p>
+               <p>
+                  <milestone unit="tlnum" n="15" />Στράτων καὶ Δημόκριτος καὶ τὴν δύναμιν σῶμα πνευματικὴ γάρ.</p>
+            </div2>
+            <div2 type="chapter" n="5" org="uniform" sample="complete">
+               <head>Εἰ καὶ αἱ θήλειαι προΐενται σπέρμα.</head>
+               <p>Πυθαγόρας Ἐπίκουρος Δημόκριτος καὶ τὸ θῆλυ
+προΐεσθαι σπέρμα: ἔχει γὰρ παραστάτας ἀπεστραμμένους
+<milestone unit="tlnum" n="20" /> διὰ τοῦτο καὶ ὄρεξιν ἔχει παρὰ τὰς χρήσεις
+</p>
+               <p>
+                  </p></div2></div1></body></text></TEI.2>

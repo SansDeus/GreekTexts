@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="strophe" org="uniform" sample="complete"><sp><milestone ed="p" n="515" unit="card" /></sp></div2>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Μενέλαος</speaker>
+<l n="515">ἴθ᾽ ὑποχθόνιοι: καὶ γὰρ ἀπ᾽ ἐχθρῶν</l>
+<l>ἥκετε πύργων: δύο δ᾽ ἐκ δισσαῖν</l>
+<l>θνῄσκετ᾽ ἀνάγκαιν: σὲ μὲν ἡμετέρα</l>
+<l>ψῆφος ἀναιρεῖ, παῖδα δ᾽ ἐμὴ παῖς</l>
+<l>τόνδ᾽ Ἑρμιόνη: καὶ γὰρ ἀνοία</l>
+<l n="520">μεγάλη λείπειν ἐχθροὺς ἐχθρῶν,</l>
+<l>ἐξὸν κτείνειν</l>
+<l>καὶ φόβον οἴκων ἀφελέσθαι.</l>
+</sp></div2></div1></body></text></TEI.2>

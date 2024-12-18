@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="9" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-657f" n="657f" />
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="10" org="uniform" sample="complete">
+               <head>Διὰ τί τὰ κρέα σήπεται μᾶλλον ὑπὸ τὴν σελήνην ἢ τὸν
+                  ἥλιον.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="10" />
+                  <p>Εὐθύδημος ὁ Σουνιεὺς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Σουνιεὺς</foreign>] <foreign lang="greek">συνιερεὺς</foreign> ω εχ π. 700ε</note> ἑστιῶν ἡμᾶς σῦν ἄγριον
+                     εὐμεγέθη παρέθηκεν ἐπιθαυμασάντων δὲ τῶν παρόντων, ἄλλον ἔφη πολὺ
+                     μείζονα κομιζόμενον ὑπὸ τῆς σελήνης διαφθαρῆναι καὶ σφόδρα γε
+                        <milestone unit="tlnum" n="15" /> περὶ τῆς αἰτίας διαπορεῖν οὐ γὰρ
+                     εἰκὸς εἶναι μὴ </p></div3></div2></div1></body></text></TEI.2>

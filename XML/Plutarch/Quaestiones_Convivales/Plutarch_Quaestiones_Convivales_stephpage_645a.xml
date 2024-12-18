@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="3" org="uniform" sample="complete"><div2 type="chapter" n="0" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-645a" n="645a" />
+                     <quote rend="blockquote">
+                        <l> ὅστ᾽ ἐφέηκε πολύφρονά περ μάλ᾽ ἀεῖσαι, </l>
+                        <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">ξ</foreign> 464</note>
+                        <l>καὶ θ᾽ ἁπαλὸν γελάσαι καὶ τ᾽ ὀρχήσασθαι ἀνῆκε: </l>
+                        <l>καί τι ἔπος προέηκεν, ὅπερ τ᾽ ἄρρητον ἄμεινον:</l>
+                     </quote> οἰνώσεως ἐνταῦθα τοῦ ποιητοῦ καὶ μέθης, ὡς ἐμοὶ δοκεῖ,
+                     διαφορὰν ὑποδεικνύντος. ᾠδὴ μὲν γὰρ καὶ <milestone unit="tlnum" n="15" /> γέλως καὶ ὄρχησις οἰνωμένοις <note resp="ed" place="unspecified" anchored="yes">
+                        <foreign lang="greek">οἰνουμένοις</foreign>
+                     </note> μετρίως ἔπεισι: τὸ δὲ λαλεῖν καὶ λέγειν, ἃ βέλτιον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἃ
+                           βέλτιον</foreign> ω: <foreign lang="greek">ἀβέλτερον</foreign></note>
+                     ἦν σιωπᾶν, παροινίας ἢδη καὶ μέθης ἔργον ἐστί. διὸ καὶ Πλάτων
+                        <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Πλάτων</foreign>] δε λεγγ. π. 650 α σθθ.</note> ἐν οἴνῳ μάλιστα
+                     καθορᾶσθαι τὰ ἤθη <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἤθη</foreign> πλυτ. φραγμ. 22, 1: <foreign lang="greek">πάθη</foreign></note> τῶν πολλῶν νομίζει, καὶ Ὅμηρος
+                        <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ὁμήρος</foreign>
+                        <foreign lang="greek">φ</foreign> 35</note> εἰπὼν <milestone unit="tlnum" n="20" />
+                     <quote rend="blockquote">
+                        <l>οὐδὲ τραπέζῃ </l>
+                        <l>γνώτην ἀλλήλων</l>
+                     </quote>
+                     <pb id="v.4.p.95" />
+                     </p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="15" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-748c" n="748c" /> καὶ τὰ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τὰ</foreign>] <foreign lang="greek">τὰς</foreign> μει</note> ἑξῆς
+                     μονονοὺ λειόθεν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">λειόθεν</foreign>] λεγ. ϝιδ. <foreign lang="greek">λέγει</foreign> ῟<foreign lang="greek">λε</foreign>᾿ <foreign lang="greek">ποθεῖν</foreign></note> τὴν ἐν ὀρχήσει διάθεσιν τὰ ποιήματα καὶ παρακαλεῖν
+                     τὼ χεῖρε καὶ τὼ πόδε, μᾶλλον δ᾽ ὅλον ὥσπερ τισὶ μηρίνθοις ἕλκειν
+                     τὸ σῶμα τοῖς μέλεσι καὶ ἐντείνειν, τούτων δὲ λεγομένων <milestone unit="tlnum" n="10" /> καὶ ᾀδομένων, ἡσυχίαν ἄγειν μὴ δυναμένοις.
+                     αὐτὸς γοῦν ἑαυτὸν οὐκ αἰσχύνεται περὶ τὴν ὄρχησιν οὐχ ἧττον ἢ
+                     τὴν ποίησιν ἐγκωμιάζων, ὅταν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὅταν</foreign>] <foreign lang="greek">ὅτ᾽ ἂν</foreign> μει</note> δὲ γηρῶσαι νῦν <quote rend="blockquote">
+                        <l>ἐλαφρὸν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὄπα δὲ γαρῦσαι σύν τ᾽ ἐλαφρὸν</foreign> σξηνειδεωινυς. <foreign lang="greek">ὅταν λέγῃ: Ῥῶσαι νῦν</foreign> βλασσιυς</note> ὄρχημ᾽ ἀοιδᾷ <note resp="ed" place="unspecified" anchored="yes">εμ. βεργκιυς: <foreign lang="greek">ὄρχημα οἶδα</foreign></note> ποδῶν μιγνύμεν <note resp="ed" place="unspecified" anchored="yes">ιβ. <foreign lang="greek">μίγνυμεν</foreign> ξοδδ.</note>, <milestone unit="tlnum" n="15" />
+                        </l>
+                        <l>Κρῆτα μιν <note resp="ed" place="unspecified" anchored="yes">εμ. ξασαυβονυς: <foreign lang="greek">κρῆτα μὲν</foreign></note> καλέοισι <note resp="ed" place="unspecified" anchored="yes">ιβ. εμ. σξηνειδεωινυς: <foreign lang="greek">καλέουσι</foreign> ξφ. ατηεν. π. 181β</note> τρόπον.</l>
+                     </quote> ἀλλ᾽ οὐδὲν οὕτως τὸ νῦν ἀπολέλαυκε τῆς κακομουσίας ὡς ἡ
+                     ὄρχησις. διὸ καὶ πέπονθεν ὃ φοβηθεὶς Ἴβυκος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἰβυκος</foreign>] βεργκ. 3 π. 245</note> ἐποίησε <pb id="v.4.p.395" />
+                     <quote rend="blockquote">
+                        <l> δέδοικα μή τι πὰρ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πὰρ</foreign> δυεβνερυς: <foreign lang="greek">παρὰ</foreign></note> θεοῖς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">θεοὶς</foreign> βεργκιυς υτ αξξυσατιϝυς σιτ</note> </l>
+                        <l>ἀμπλακὼν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀμβλακὼν</foreign> ιδεμ εχ πλατ. πηαεδρ. π. 242ξ. <foreign lang="greek">ἀπλάκων</foreign> μει</note> τιμὰν πρὸς ἀνθρώπων ἀμείψω. </l>
+                     </quote>
+                     </p></div3></div2></div1></body></text></TEI.2>

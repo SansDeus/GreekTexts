@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="epode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1024" unit="card" /></p></sp></div2>
+</div1>
+<div1 type="episode" org="uniform" sample="complete">
+<sp>
+<speaker>Ἄγγελος Β</speaker><p>
+<lb />ὦ δῶμ᾽ ὃ πρίν ποτ᾽ εὐτύχεις ἀν᾽ Ἑλλάδα,
+<lb rend="displayNum" n="1025" />Σιδωνίου γέροντος, ὃς τὸ γηγενὲς
+<lb />δράκοντος ἔσπειρ᾽ Ὄφεος ἐν γαίᾳ θέρος,
+<lb />ὥς σε στενάζω, δοῦλος ὢν μέν, ἀλλ᾽ ὅμως
+<lb /><del status="unremarkable">χρηστοῖσι δούλοις συμφορὰ τὰ δεσποτῶν</del>.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />τί δ᾽ ἔστιν; ἐκ βακχῶν τι μηνύεις νέον;
+</p></sp>
+<sp>
+<speaker>Ἄγγελος</speaker><p>
+<lb rend="displayNum" n="1030" />Πενθεὺς ὄλωλεν, παῖς Ἐχίονος πατρός.
+</p></sp>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ὦναξ Βρόμιε, θεὸς φαίνῃ μέγας.
+</p></sp>
+<sp>
+<speaker>Ἄγγελος</speaker><p>
+<lb />πῶς φῄς; τί τοῦτ᾽ ἔλεξας; ἦ 'πὶ τοῖς ἐμοῖς
+<lb />χαίρεις κακῶς πράσσουσι δεσπόταις, γύναι;
+</p></sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />εὐάζω ξένα μέλεσι βαρβάροις:
+<lb rend="displayNum" n="1035" />οὐκέτι γὰρ δεσμῶν ὑπὸ φόβῳ πτήσσω.
+</p></sp>
+<sp>
+<speaker>Ἄγγελος</speaker><p>
+<lb />Θήβας δ᾽ ἀνάνδρους ὧδ᾽ ἄγεις  <gap /> 
+<lb /><gap desc="*" />
+</p></sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ὁ Διόνυσος ὁ Διόνυσος, οὐ Θῆβαι
+<lb />κράτος ἔχουσ᾽ ἐμόν.
+</p></sp>
+<sp>
+<speaker>Ἄγγελος</speaker><p>
+<lb />συγγνωστὰ μέν σοι, πλὴν ἐπ᾽ ἐξειργασμένοις
+<lb rend="displayNum" n="1040" />κακοῖσι χαίρειν, ὦ γυναῖκες, οὐ καλόν.
+</p></sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ἔννεπέ μοι, φράσον, τίνι μόρῳ θνῄσκει
+<lb />ἄδικος ἄδικά τ᾽ ἐκπορίζων ἀνήρ;
+</p></sp></div2></div1></body></text></TEI.2>

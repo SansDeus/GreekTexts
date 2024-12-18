@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><div2 type="chapter" n="2" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-635d" n="635d" /> ξηρὰν τροφὴν τῇ κράσει τοῦ σώματος:
+                     ἀνταποδίδωσιν. οὐ μὴν οὐδὲ τὰ σιτία φήσαι τις ἂν αἰτίας ἀμοιρεῖν
+                     παντάπασιν, ἀλλ᾽ ἐκ νέων καὶ προσφάτων <milestone unit="tlnum" n="25" />
+                     γενόμενα <note resp="ed" place="unspecified" anchored="yes">μαλιμ <foreign lang="greek">γιγνόμενα</foreign></note> καρπῶν οὐ μόνον μάζας καὶ
+                     ὄσπρια καὶ ἄρτους καὶ πυροὺς, ἀλλὰ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀλλὰ</foreign> χ</note> καὶ κρέα
+                     ζῴων <pb id="v.4.p.68" /> εὐωχουμένων τὰ ἐπέτεια τοῖς τε χυμοῖς
+                     διαφέρειν <note resp="ed" place="unspecified" anchored="yes">εμ. βασιλεενσις:
+                           <foreign lang="greek">διαφέρει</foreign></note> τῶν παλαιῶν καὶ
+                     μᾶλλον ἐπάγεσθαι τοὺς χρωμένους καὶ ἀπολαύοντας. </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="3" org="uniform" sample="complete">
+               <head> Πότερον ἡ ὄρνις πρότερον ἢ τὸ ᾠὸν ἐγένετο.</head>
+               <milestone unit="tlnum" n="5" />
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>ἐξ ἐνυπνίου <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐξυπνίου</foreign> ϝελ <foreign lang="greek">ξυπνίου</foreign> μει</note> τινὸς ἀπειχόμην <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀπειχόμην</foreign> τυρνεβυς: <foreign lang="greek">ἀπε</foreign> 2-3
+                        ϝδ 5 ε <foreign lang="greek">μην</foreign></note> ᾠῶν πολὺν <milestone unit="tlnum" n="10" />
+                     </p></div3></div2></div1></body></text></TEI.2>

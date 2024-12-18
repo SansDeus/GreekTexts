@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="ephymn" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="334" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />τοῦτο γὰρ λάχος διανταία
+<lb rend="displayNum" n="335" />Μοῖρ᾽ ἐπέκλωσεν ἐμπέδως ἔχειν,
+<lb />θνατῶν τοῖσιν αὐτουργίαι
+<lb />ξυμπέσωσιν μάταιοι,
+<lb />τοῖς ὁμαρτεῖν, ὄφρ᾽ ἂν
+<lb />γᾶν ὑπέλθῃ: θανὼν δ᾽
+<lb rend="displayNum" n="340" />οὐκ ἄγαν ἐλεύθερος.
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parabasis" org="uniform" sample="complete"><div2 type="epirrheme" org="uniform" sample="complete"><sp><p><milestone ed="p" n="706" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />εἰ δ᾽ ἐγὼ ὀρθὸς ἰδεῖν βίον ἀνέρος ἢ τρόπον ὅστις ἔτ᾽
+<lb />οἰμώξεται,
+<lb />οὐ πολὺν οὐδ᾽ ὁ πίθηκος οὗτος ὁ νῦν ἐνοχλῶν,
+<lb />Κλειγένης ὁ μικρός,
+<lb />ὁ πονηρότατος βαλανεὺς ὁπόσοι κρατοῦσι κυκησιτέφρου
+<lb rend="displayNum" n="711" />ψευδολίτρου κονίας
+<lb />καὶ Κιμωλίας γῆς,
+<lb />χρόνον ἐνδιατρίψει: ἰδὼν δὲ τάδ᾽ οὐκ
+<lb rend="displayNum" n="715" />εἰρηνικὸς ἔσθ᾽, ἵνα μή ποτε κἀποδυθῇ μεθύων ἄνευ
+<lb />ξύλου βαδίζων.</p></sp></div2></div1></body></text></TEI.2>

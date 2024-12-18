@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="antistrophe" org="uniform" sample="complete"><sp><p><milestone ed="p" n="477" unit="card" /></p></sp></div2>
+<div2 type="trochees" org="uniform" sample="complete">
+<sp>
+<speaker>Βδελυκλέων</speaker><p>
+<lb />νὴ Δί᾽ ἦ μοι κρεῖττον ἐκστῆναι τὸ παράπαν τοῦ πατρὸς
+<lb />μᾶλλον ἢ κακοῖς τοσούτοις ναυμαχεῖν ὁσημέραι.</p></sp></div2>
+<div2 type="trochees" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="480" />οὐδὲ μὴν οὐδ᾽ ἐν σελίνῳ σοὐστὶν οὐδ᾽ ἐν πηγάνῳ:
+<lb />τοῦτο γὰρ παρεμβαλοῦμεν τῶν τριχοινίκων ἐπῶν.
+<lb />ἀλλὰ νῦν μὲν οὐδὲν ἀλγεῖς, ἀλλ᾽ ὅταν ξυνήγορος
+<lb />ταὐτὰ ταῦτα σου καταντλῇ καὶ ξυνωμότας καλῇ.</p></sp>
+<sp>
+<speaker>Βδελυκλέων</speaker><p>
+<lb />ἆρ᾽ ἂν ὦ πρὸς τῶν θεῶν ὑμεῖς ἀπαλλαχθεῖτέ μου;
+<lb rend="displayNum" n="485" />ἢ δέδοκταί μοι δέρεσθαι καὶ δέρειν δι᾽ ἡμέρας;</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />οὐδέποτέ γ᾽, οὐχ ἕως ἄν τί μου λοιπὸν ᾖ,
+<lb />ὅστις ἡμῶν ἐπὶ τυραννίδ᾽ ὧδ᾽ ἐστάλης.</p></sp></div2></div1></body></text></TEI.2>

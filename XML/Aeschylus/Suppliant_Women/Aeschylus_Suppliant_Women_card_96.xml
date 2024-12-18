@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="4" org="uniform" sample="complete"><sp><p><milestone ed="p" n="96" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="5" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἰάπτει δ᾽ ἐλπίδων
+<lb />ἀφ᾽ ὑψιπύργων πανώλεις
+<lb />βροτούς, βίαν δ᾽
+<lb />οὔτιν᾽ ἐξοπλίζει:
+<lb rend="displayNum" n="100" />πᾶν ἄπονον δαιμονίων.
+<lb />ἥμενος ὃν φρόνημά πως
+<lb />αὐτόθεν ἐξέπραξεν ἔμπας
+<lb />ἑδράνων ἐφ᾽ ἁγνῶν.
+</p></sp></div2></div1></body></text></TEI.2>

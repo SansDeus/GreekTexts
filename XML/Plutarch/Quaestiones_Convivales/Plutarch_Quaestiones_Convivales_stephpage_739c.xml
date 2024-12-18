@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-739c" n="739c" /> καὶ τὸν Μάξιμον,
+                     ἐκείνου σιωπῶντος, ἠξιοῦμεν ἐπιδεικνύναι. </p>
+               </div3>
+               <div3 type="section" n="2" org="uniform" sample="complete">
+                  <p>
+                     <q direct="unspecified">πρῶτον οὖν</q> ὁ Μάξιμος ἔφη <q direct="unspecified">τῶν ἐπῶν οὕτως ἐχόντων <quote rend="blockquote">
+                           <l>ἔνθ᾽ ἐπορεξάμενος μεγαθύμου Τυδέος υἱὸς <note resp="ed" place="unspecified" anchored="yes">ηομ. ε 335</note>
+                              <milestone unit="tlnum" n="25" />
+                           </l>
+                           <l>ἄκρην οὔτασε χεῖρα, μετάλμενος ὀξέι δουρί,</l>
+                        </quote>
+                        <pb id="v.4.p.367" /> δῆλόν ἐστιν, ὅτι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὅτι</foreign>]
+                              <foreign lang="greek">οὐ</foreign> μει</note> τὴν ἀριστερὰν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀριστερὰν</foreign>] ομ. μει</note> πατάξαι βουλόμενος οὐκ
+                        ἐδεῖτο μεταπηδήσεως <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μεταδήσεως</foreign> μει</note>, ἐπεὶ κατὰ
+                        τὴν ἀριστερὰν τὴν δεξιὰν εἶχεν ἐξ ἐναντίου προσφερόμενος: καὶ
+                        γὰρ εὔλογον ἦν τὴν ἐρρωμενεστέραν χεῖρα καὶ μᾶλλον <milestone unit="tlnum" n="5" /> τοῦ Αἰνείου φερομένου περιεχομένην ἐκεῖνόν
+                        τε τρῶσαι καὶ τὴν τρωθεῖσαν προέσθαι τὸ σῶμα. δεύτερον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">δεύτερον δέ</foreign>̣</note>, </q></p></div3></div2></div1></body></text></TEI.2>

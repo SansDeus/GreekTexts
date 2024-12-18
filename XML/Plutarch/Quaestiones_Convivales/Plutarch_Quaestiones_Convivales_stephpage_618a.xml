@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="2" org="uniform" sample="complete"><div3 type="section" n="5" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-618a" n="618a" /> ἄν</q> ἔφη
+                        <q direct="unspecified">φείσαιτο φιλοσόφου γένεσι καὶ πλούτοις καὶ ἀρχαῖς ὥσπερ θέαν
+                        ἐν συμποσίῳ κατανέμοντος <milestone unit="tlnum" n="10" /> ἢ προεδρίας
+                        ψηφισμάτων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀπὸ ψηφισμάτων</foreign> ρ</note> ἀμφικτυονικῶν
+                        διδόντος, ὅπως μηδ᾽ ἐν οἴνῳ τὸν τῦφον ἀποφύγωμεν <note resp="ed" place="unspecified" anchored="yes">μαλιμ <foreign lang="greek">ἀποφεύγωμεν</foreign></note>; οὔτε γὰρ πρὸς τὸ ἔνδοξον
+                        ἀλλὰ πρὸς τὸ ἡδὺ δεῖ ποιεῖσθαι τὰς κατακλίσεις, οὔτε τὴν ἑνὸς
+                        ἑκάστου σκοπεῖν ἀξίαν, ἀλλὰ τὴν ἑτέρου πρὲις ἕτερον σχέσιν
+                        καὶ <milestone unit="tlnum" n="15" /> ἁρμονίαν, ὥσπερ ἄλλων <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἄλλων</foreign>] <foreign lang="greek">πολλῶν</foreign> δοεηνερυς.
+                           φορτ. <foreign lang="greek">αὐλῶν</foreign></note> τινῶν εἰς μίαν
+                        κοινωνίαν παραλαμβανομένων. οὐδὲ γὰρ ὁ οἰκοδόμος τὸν Ἀττικὸν
+                        λίθον ἢ τὸν Λακωνικὸν πρὸ τοῦ βαρβαρικοῦ διὰ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">διὰ</foreign>]
+                           ϝυλξοβιυς</note> τὴν εὐγένειαν τίθησιν, οὐδ᾽ ὁ ζωγράφος τῷ
+                        πολυτελεστάτῳ χρώματι τὴν ἡγουμένην ἀποδίδωσι <milestone unit="tlnum" n="20" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

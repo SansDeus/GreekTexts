@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1448" unit="card" />
+</p></sp>
+</div1>
+<div1 type="choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />φεῦ, τίς ἂν ἐν τάχει, μὴ περιώδυνος,
+<lb />μηδὲ δεμνιοτήρης,
+<lb rend="displayNum" n="1450" />μόλοι τὸν αἰεὶ φέρουσ᾽ ἐν ἡμῖν
+<lb />Μοῖρ᾽ ἀτέλευτον ὕπνον, δαμέντος
+<lb />φύλακος εὐμενεστάτου <del status="unremarkable">καὶ</del>
+<lb />πολλὰ τλάντος γυναικὸς διαί:
+<lb />πρὸς γυναικὸς δ᾽ ἀπέφθισεν βίον.</p></sp></div2>
+<div2 type="ephymn." n="1" org="uniform" sample="complete">
+</div2></div1></body></text></TEI.2>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-723f" n="723f" /> ἐλαίαν οὔτε μυρσίνην οὔτ᾽ ἄλλο τι
+                        τῶν μὴ φυλλορροεῖν λεγομένων ὁρῶμεν ἀεὶ ταὐτὰ φύλλα διατηροῦν,
+                        ἀλλὰ τοῖς πρώτοις ἀπορρέουσιν ἑτέρων ἐπιβλαστανόντων, <milestone unit="tlnum" n="5" /> ὥσπερ πόλεις <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πόλις</foreign> ρ</note>, ἕκαστον
+                        ἀείζωον <note resp="ed" place="unspecified" anchored="yes">ιβ. εμ.
+                           μαδϝιγιυς: <foreign lang="greek">ἀεὶ ζῶον</foreign></note> διαμένει
+                        καὶ ἀμείλικτον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀμείλικτον</foreign>] <foreign lang="greek">ἀνέκλειπτον</foreign> ρ</note> ὁ δὲ φοῖνιξ οὐθὲν ἀποβάλλων
+                        ἀφ᾽ αὑτοῦ τῶν φυομένων, βεβαίως ἀείφυλλός ἐστι: καὶ τοῦτο δὴ
+                        τὸ κράτος αὐτοῦ μάλιστα τῆς νίκης τῷ ἰσχυρῷ συνοικειοῦσι.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <milestone unit="tlnum" n="10" />
+                  <p>παυσαμένου δὲ τοῦ Σώσπιδος, Πρωτογένης ὁ γραμματικός, ὀνόματι
+                     καλέσας Πραξιτέλην τὸν </p></div3></div2></div1></body></text></TEI.2>

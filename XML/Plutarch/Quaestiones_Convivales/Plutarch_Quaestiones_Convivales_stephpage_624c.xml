@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="6" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-624c" n="624c" /> πατέρας ἡμῶν γενόμενον.
+                     οὗτος ἀπορῶν συμπότου παραμένοντος, ἐκάλει τοὺς μὲν ἐπὶ πρόπωμα
+                        <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πρόπωμα</foreign> *: <foreign lang="greek">πρόπομα</foreign></note>
+                     τοὺς δ᾽ ἐπ᾽ ἄριστον ἄλλους δ᾽ ἐπὶ δεῖπνον, ἐσχάτους <milestone unit="tlnum" n="20" /> δέ τινας ἐπὶ κῶμον: ἀπαλλαττομένων δὲ τῶν
+                     πρώτων, δεύτεροι συνῆπτον εἶτ᾽ ἐφεξῆς οἱ τρίτοι καὶ τέταρτοι:
+                     κἀκεῖνος οὐθὲν διάλειμμα ποιῶν ἅπασιν ἐξήρκει καὶ τοὺς τέσσαρας
+                     πότους συνδιέφερε. </p>
+               </div3>
+               <div3 type="section" n="4" org="uniform" sample="complete">
+                  <p>τῶν δὲ Δρούσῳ τῷ Τιβερίου Καίσαρος <milestone unit="tlnum" n="25" />
+                     υἱῷ συμβιούντων ὁ πάντας ἐν τῷ πίνειν <pb id="v.4.p.35" />
+                     προτρεπόμενος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">παρερχόμενος</foreign>̣</note> ἰατρὸς ἑάλω τῶν πικρῶν
+                     ἀμυγδαλῶν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀμυγδαλῶν</foreign> *: <foreign lang="greek">ἀμυγδάλων</foreign> ξφ. ατηεν. π. 52 δ</note> πέντ᾽ ἢ ἓξ
+                     ἑκάστοτε προλαμβάνων ἕνεκα τοῦ μὴ μεθύσκεσθαι: κωλυθεὶς δὲ καὶ
+                     παραφυλαχθεὶς οὐδ᾽ ἐπὶ </p></div3></div2></div1></body></text></TEI.2>

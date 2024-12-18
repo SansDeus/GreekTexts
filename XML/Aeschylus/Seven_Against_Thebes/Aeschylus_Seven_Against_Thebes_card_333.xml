@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="333" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />κλαυτὸν δ᾽ ἀρτιτρόποις  ὠμοδρόποις
+<lb />νομίμων προπάροιθεν διαμεῖψαι
+<lb rend="displayNum" n="335" />δωμάτων στυγερὰν ὁδόν:
+<lb />τί; τὸν φθίμενον γὰρ προλέγω
+<lb />βέλτερα τῶνδε πράσσειν:
+<lb />πολλὰ γάρ, εὖτε πτόλις  δαμασθῇ,
+<lb />ἒ ἔ, δυστυχῆ τε πράσσει.
+<lb rend="displayNum" n="340" />ἄλλος δ᾽ ἄλλον ἄγει, φονεύ-
+<lb />ει, τὰ δὲ πυρφορεῖ: καπνῷ
+<lb /><del status="unremarkable">δὲ</del>  χραίνεται πόλισμ᾽ ἅπαν:
+<lb />μαινόμενος δ᾽ ἐπιπνεῖ λαοδάμας
+<lb />μιαίνων εὐσέβειαν Ἄρης.
+</p></sp></div2></div1></body></text></TEI.2>

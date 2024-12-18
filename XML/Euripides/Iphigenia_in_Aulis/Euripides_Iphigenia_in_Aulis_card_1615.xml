@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="episode" org="uniform" sample="complete"><div2 type="dialogue" org="uniform" sample="complete"><milestone ed="p" n="1615" unit="card" /></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Κλυταιμήστρα</speaker><p>
+<del status="unremarkable"><lb rend="displayNum" n="1615" />ὦ παῖ, θεῶν τοῦ κλέμμα γέγονας;
+<lb />πῶς σε προσείπω; πῶς δ᾽ οὐ φῶ
+<lb />παραμυθεῖσθαι τούσδε μάτην μύθους,
+<lb />ὥς σου πένθους λυγροῦ παυσαίμαν;</del>
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb /><del status="unremarkable">καὶ μὴν Ἀγαμέμνων ἄναξ στείχει,
+<lb rend="displayNum" n="1620" />τούσδ᾽ αὐτοὺς ἔχων σοι φράζειν μύθους.</del>
+</p></sp>
+</div2></div1></body></text></TEI.2>

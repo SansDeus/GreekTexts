@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Lyric-Scene" org="uniform" sample="complete"><div2 type="iambics" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1206" unit="card" /></p></sp></div2>
+<div2 type="monody" org="uniform" sample="complete">
+<sp><speaker>Στρεψιάδης</speaker><p>
+<lb /><q direct="unspecified">μάκαρ ὦ Στρεψίαδες,
+<lb />αὐτός τ᾽ ἔφυς ὡς σοφὸς
+<lb />χοἶον τὸν υἱὸν τρέφεις,</q>
+<lb />φήσουσι δή μ᾽ οἱ φίλοι
+<lb rend="displayNum" n="1210" />χοἰ δημόται
+<lb />ζηλοῦντες ἡνίκ᾽ ἂν σὺ νικᾷς λέγων τὰς δίκας.
+<lb />ἀλλ᾽ εἰσάγων σε βούλομαι πρῶτον ἑστιᾶσαι.</p></sp></div2></div1></body></text></TEI.2>

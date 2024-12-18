@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="7" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-803f" n="803f" />
+                  </q>
+               </p>
+            </div2>
+            <div2 type="section" n="8" org="uniform" sample="complete">
+               <p>μάλιστα μὲν οὖν ἐσκεμμένῳ πειρῶ καὶ μὴ <pb id="v.5.p.75" /> διακένῳ
+                  τῷ λόγῳ χρῆσθαι πρὸς; τοὺς πολλοὺς μετ᾽ ἀσφαλείας, εἰδὼς ὅτι καὶ
+                  Περικλῆς ἐκεῖνος εὔχετο <note resp="ed" place="unspecified" anchored="yes">*: <foreign lang="greek">ηὔχετο</foreign></note> πρὸ τοῦ δημηγορεῖν μηδὲ
+                  ῥῆμα μηδὲν ἀλλότριον τῶν πραγμάτων ἐπελθεῖν αὐτῷ. δεῖ δ᾽ ὅμως καὶ
+                     <milestone unit="tlnum" n="5" /> πρὸς τὰς ἀπαντήσεις τὸν λόγον εὔστροφον
+                  ἔχειν </p></div2></div1></body></text></TEI.2>

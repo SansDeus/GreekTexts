@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="7" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-680c" n="680c" />
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>περὶ τῶν καταβασκαίνειν, καὶ βάσκανον <milestone unit="tlnum" n="20" />
+                     ἔχειν ὀφθαλμὸν ἐμπεσόντος λόγου παρὰ δεῖπνον, οἱ μὲν ἄλλοι
+                     παντάπασιν ἐξεφλαύριζον <note resp="ed" place="unspecified" anchored="yes">εμ. τυρνεβυς: <foreign lang="greek">ἐξεφλυάριζον</foreign></note> τὸ
+                     πρᾶγμα καὶ κατεγέλων: ὁ δ᾽ ἑστιῶν ἡμᾶς Μέστριος <note resp="ed" place="unspecified" anchored="yes">ϝυλξοβιυς: <foreign lang="greek">μέτριος</foreign></note> Φλῶρος ἔφη τὰ μὲν γιγνόμενα τῇ φήμῃ
+                     θαυμαστῶς <pb id="v.4.p.199" /> βοηθεῖν: τῷ δ᾽ αἰτίας ἀπορεῖν
+                     ἀπιστεῖσθαι τὴν ἱστορίαν οὐ δικαίως, ὅπου, μυρίων ἐμφανῆ τὴν
+                     οὐσίαν ἐχόντων, ὁ τῆς αἰτίας λόγος ἡμᾶς διαπέφευγεν: <q direct="unspecified">ὅλως
+                        δ᾽</q> εἶπεν <q direct="unspecified">ὁ ζητῶν ἐν ἑκάστῳ τὸ εὔλογον ἐκ <milestone unit="tlnum" n="5" />
+                        </q></p></div3></div2></div1></body></text></TEI.2>

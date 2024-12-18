@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-612f" n="612f" />
+                  <p>πρῶτον δὲ πάντων τέτακται τὸ περὶ τοῦ <milestone unit="tlnum" n="5" />
+                     φιλοσοφεῖν παρὰ πότον. μέμνησαι γὰρ ὅτι, ζητήσεως Ἀθήνησι μετὰ
+                     δεῖπνον γενομένης εἰ χρηστέον ἐν οἴνῳ φιλοσόφοις λόγοις καὶ τί
+                     μέτρον ἔστι χρωμένοις, <milestone unit="tlnum" n="10" />ἀρίστων παρών
+                        <q direct="unspecified">εἰσὶ γάρ</q> ἔφησε <q direct="unspecified">πρὸς τῶν θεῶν οἱ φιλοσόφοις χώραν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">χῶρον</foreign> μει</note> ἐπ᾽ οἴνῳ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐν
+                              οἴνῳ</foreign>̣</note> μὴ διδόντες;</q> ἐγὼ δ᾽ εἶπον
+                        <q direct="unspecified">ἀλλ</q> οὐ γὰρ εἰσίν, ὦ ἑταῖῤ, οἳ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οἵ</foreign>] ομ.
+                        μει</note> καὶ πάνυ γε σεμνῶς κατειρωνευόμενοι λέγουσι μὴ δεῖν
+                        </p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="7" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-700b" n="700b" /> ἕλκων τοῦ
+                        παροδεύοντος ὑγροῦ τὸ ἱκανὸν καὶ τὸ μέτριον ἀποχρῆσθαι πρὸς
+                        μάλαξιν καὶ χύλωσιν τῆς <milestone unit="tlnum" n="15" /> τροφῆς, διὸ
+                        μηδὲν ὑγροῦ περίττωμα ποιεῖν: ὁ δὲ πλεύμων ὡσπερεὶ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὥσπερ</foreign> ρ</note> τὸ πνεῦμα καὶ τὸ ὑγρὸν ἐξ αὑτοῦ
+                        διανέμων τοῖς δεομένοις τὸ λοιπὸν ἐκκρίνειν εἰς τὴν κύστιν.
+                        εἰκότα γὰρ μακρῷ ταῦτα μᾶλλον ἐκείνων. τὸ δ᾽ ἀληθὲς ἴσως
+                        ἄληπτον ἔν γε τούτοις, <milestone unit="tlnum" n="20" /> καὶ οὐκ
+                        ἔδει πρὸς φιλόσοφον δόξῃ τε καὶ δυνάμει πρῶτον οὕτως
+                        ἀπαυθαδίσασθαι περὶ πράγματος ἀδήλου καὶ τοσαύτην ἀντιλογίαν <note resp="ed" place="unspecified" anchored="yes">*: <foreign lang="greek">αἰτιολογίαν</foreign></note> ἔχοντος.</q>
+                  </p>
+               </div3>
+            </div2>
+            <pb id="v.4.p.257" />
+            <div2 type="chapter" n="2" org="uniform" sample="complete">
+               <head>Τίς ὁ παρὰ τῷ Πλάτωνι κερασβόλος, καὶ διὰ τί τῶν σπερμάτων
+                  ἀτεράμονα γίγνεται τὰ προσπίπτοντα τοῖς <milestone unit="tlnum" n="5" />
+                  κέρασι τῶν βοῶν.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>ἐν ταῖς Πλατωνικαῖς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Πλατωνικαῖς</foreign> δε λεγγ. π. 853δ</note>
+                     συναναγνώσεσιν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀναγνώσεσιν</foreign> ρ</note> ὁ λεγόμενος
+                        <q direct="unspecified">κερασβόλος</q> καὶ <q direct="unspecified">ἀτεράμων</q> ζήτησιν ἀεὶ παρεῖχεν,
+                        <milestone unit="tlnum" n="10" /> οὐχ ὅστις εἴη: δῆλον γὰρ ἦν, ὅτι
+                     τῶν σπερμάτων τὰ προσπίπτοντα τοῖς τῶν βοῶν κέρασιν ἀτεράμονα τὸν
+                     καρπὸν ἐκφύειν νομίζοντες, οὕτω τὸν αὐθάδη καὶ σκληρὸν ἄνθρωπον
+                     ἐκ μεταφορᾶς κερασβόλον καὶ ἀτεράμονα προσηγόρευον ἀλλὰ περὶ
+                        <milestone unit="tlnum" n="15" /> αὐτῆς διηπορεῖτο τῆς αἰτίας, καθ᾽
+                     ἣν τοῦτο πάσχει τὰ προσπίπτοντα τοῖς κέρασι τῶν βοῶν σπέρματα.
+                        </p></div3></div2></div1></body></text></TEI.2>

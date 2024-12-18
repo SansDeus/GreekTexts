@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><div2 type="chapter" n="9" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-732b" n="732b" /> τὸν γάρ
+                           <q direct="unspecified">λυσσητῆρα κύνα</q> δῆλός ἐστιν ἀπὸ τοῦ πάθους τούτου
+                        προσαγορεύων, ἀφ᾽ οὗ καὶ ἄνθρωποι λυσσᾶν λέγονται.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="3" org="uniform" sample="complete">
+                  <p>ταῦτα τοῦ Διογενιανοῦ διελθόντος, ὁ Φίλων αὐτός τε μέτρια διελέχθη
+                     πρὸς τὸν λόγον αὐτοῦ, <milestone unit="tlnum" n="25" /> κἀμὲ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κάμὲ</foreign> *: <foreign lang="greek">καί με</foreign></note>
+                     συνειπεῖν παρεκάλει τοῖς ἀρχαίοις ἰατροῖς, <pb id="v.4.p.346" /> ὡς
+                     ἀμελείας ἢ ἀγνοίας τῶν μεγίστων ὀφλισκάνουσιν, εἴ γε μὴ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μὴ</foreign> τυρνεβυς: <foreign lang="greek">δὴ</foreign></note>
+                     ταῦτα τὰ πάθη νεώτερα φαίνεται τῆς ἐκείνων ἡλικίας. πρῶτον οὖν ὁ
+                     Διογενιανὸς οὐκ ὀρθῶς ἀξιοῦν ἔδοξεν ἡμῖν τὰς ἐπιτάσεις καὶ
+                     ἀνέσεις <milestone unit="tlnum" n="5" /> μὴ ποιεῖν διαφορὰς μηδὲ τοῦ
+                     γένους ἐκβιβάζειν: οὕτω γὰρ οὔτ᾽ ὄξος ὀξίνου φήσομεν διαφέρειν
+                     οὔτε πικρότητα στρυφνότητος; οὔτε πυρῶν αἴραν </p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1061" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />εἰ δ᾽ ἀτελὴς θάνατος σπουδαί τε δεσποί-
+<lb />νας, ὅ τε καιρὸς ἄπεισι τόλμας,
+<lb />ᾇ νῦν ἐλπὶς ἐφαίνετ᾽, ἢ θη-
+<lb />κτὸν ξίφος ἢ δαίμων ἐξά-
+<lb rend="displayNum" n="1065" />ψει βρόχον ἀμφὶ δειρήν,
+<lb />πάθεσι πάθεα δ᾽ ἐξανύτουσ᾽
+<lb />εἰς ἄλλας βιότου κάτει-
+<lb />σι μορφάς.
+<lb />οὐ γὰρ δόμων γ᾽ ἑτέρους
+<lb rend="displayNum" n="1070" />ἄρχοντας ἀλλοδαποὺς
+<lb />ζῶσά ποτ᾽ <del status="unremarkable">ὄμμασι</del> ἐν φαεν-
+<lb />ναῖς ἀνέχοιτ᾽ ἂν αὐγαῖς
+<lb />ἁ τῶν εὐπατριδᾶν γεγῶσ᾽ οἴκων.
+</p></sp></div2></div1></body></text></TEI.2>

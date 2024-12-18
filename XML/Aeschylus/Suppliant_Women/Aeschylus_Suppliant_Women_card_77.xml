@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="77" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="3" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἀλλά, θεοὶ γενέται
+<lb />κλύετ᾽ εὖ τὸ δίκαιον ἰδόντες:
+<lb />ἥβᾳ μὴ τέλεον
+<lb rend="displayNum" n="80" />δόντες ἔχειν παρ᾽ αἶσαν,
+<lb />ὕβριν δ᾽ ἑτοίμως στυγοῦντες,
+<lb />πέλοιτ᾽ ἂν ἔνδικοι γάμοις.
+<lb />ἔστι δὲ κἀκ πολέμου τειρομένοις
+<lb />βωμὸς ἀρῆς φυγάσιν
+<lb rend="displayNum" n="85" />ῥῦμα, δαιμόνων σέβας.
+</p></sp></div2></div1></body></text></TEI.2>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="1" org="uniform" sample="complete"><div3 type="section" n="4" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-614c" n="614c" /> κἀκεῖνος <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κἀκείνοις</foreign> ρ</note> ὁ μῦθος ἐκπεριελθὼν ἀπ᾽
+                        Αἰγύπτου μακρὰν <milestone unit="tlnum" n="10" /> ὁδὸν εἰς λόγους
+                        ἐπιεικεῖς καὶ πρέποντας ἐτελεύτησεν ἡ γὰρ Ἑλένη πίνουσιν
+                        αὐτοῖς διηγεῖται περὶ τοῦ Ὀδυσσέως: <quote rend="blockquote">
+                           <l> οἷον τόδ᾽ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τόδ᾽</foreign> τυρνεβυς</note> ἔρεξε
+                              καὶ ἔτλη καρτερὸς ἀνήρ, </l>
+                           <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">δ</foreign> 271, 273</note>
+                           <l>αὐτόν μιν πληγῇσιν ἀεικελίῃσι δαμάσσας: </l>
+                        </quote>
+                        <milestone unit="tlnum" n="15" />τοῦτο γὰρ ἦν ὡς ἔοικε τὸ νηπενθὲς
+                        φάρμακον καὶ ἀνώδυνον, λόγος ἔχων καιρὸν ἁρμόζοντα τοῖς
+                        ὑποκειμένοις πάθεσι καὶ πράγμασιν. οἱ δὲ χαρίεντες, κἂν ἀπ᾽
+                        εὐθείας φιλοσοφῶσι, τηνικαῦτα διὰ τοῦ πιθανοῦ μᾶλλον ἢ βιαστικοῦ
+                        τῶν ἀποδείξεων ἄγουσι <milestone unit="tlnum" n="25" /> τὸν λόγον.
+                        ὁρᾷς γὰρ ὅτι καὶ Πλάτων ἐν τῷ Συμποσίῳ περὶ τέλους
+                        διαλεγόμενος καὶ τοῦ πρώτου </q></p></div3></div2></div1></body></text></TEI.2>

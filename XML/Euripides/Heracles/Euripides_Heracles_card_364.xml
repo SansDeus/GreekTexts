@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="ephymnion" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="364" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />τάν τ᾽ ὀρεινόμον ἀγρίων
+<lb rend="displayNum" n="365" />Κενταύρων ποτὲ γένναν
+<lb />ἔστρωσεν τόξοις φονίοις,
+<lb />ἐναίρων πτανοῖς βέλεσιν.
+<lb />ξύνοιδε Πηνειὸς ὁ καλ-
+<lb />λιδίνας μακραί τ᾽ ἄρου-
+<lb />ραι πεδίων ἄκαρποι
+<lb rend="displayNum" n="370" />καὶ Πηλιάδες θεράπναι
+<lb />σύγχορτοί τ᾽ Ὀμόλας ἔναυ-
+<lb />λοι, πεύκαισιν ὅθεν χέρας
+<lb />πληροῦντες χθόνα Θεσσαλῶν
+<lb />ἱππείαις ἐδάμαζον:
+</p></sp></div2></div1></body></text></TEI.2>

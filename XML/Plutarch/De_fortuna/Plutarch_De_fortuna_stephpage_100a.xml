@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="6" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-100a" n="100a" /> τὰ τυχηρὰ λέγων καὶ
+                  τὰ ἐκτός, ὡς εἰ παρεκελεύετο μὴ συρίζειν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">λυρίζειν</foreign> η</note> ἄμουσον ὄντα μηδ᾽
+                  ἀναγιγνώσκειν <pb id="v.1.p.243" /> ἀγράμματον μηδ᾽ ἱππεύειν ἄνιππον,
+                  οὕτω παρακελευόμενος αὐτῷ μὴ ἄρχειν ἀνόητον ὄντα μηδὲ πλουτεῖν
+                  ἀνελεύθερον μηδὲ γαμεῖν κρατούμενον ὑπὸ γυναικός. οὐ γὰρ μόνον <q direct="unspecified">τὸ
+                     εὖ πράσσειν παρὰ τὴν <milestone unit="tlnum" n="5" /> ἀξίαν ἀφορμὴ τοῦ
+                     κακῶς φρονεῖν τοῖς ἀνοήτοις γίγνεται,</q> ὡς Δημοσθένης <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Δημοσθένης</foreign>] ολψντη. ι 23</note> εἶπεν,
+                  ἀλλὰ τὸ εὐτυχεῖν παρὰ τὴν ἀξίαν ἀφορμὴ τοῦ κακῶς πράττειν τοῖς μὴ
+                  φρονοῦσιν.</p>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

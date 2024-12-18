@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="168" unit="card" /></p></sp></div2>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Προμηθεύς</speaker><p>
+<lb />ἦ μὴν ἔτ᾽ ἐμοῦ, καίπερ κρατεραῖς
+<lb />ἐν γυιοπέδαις  αἰκιζομένου,
+<lb rend="displayNum" n="170" />χρείαν ἕξει μακάρων πρύτανις,
+<lb />δεῖξαι τὸ νέον βούλευμ᾽ ὑφ᾽  ὅτου
+<lb />σκῆπτρον τιμάς τ᾽ ἀποσυλᾶται.
+<lb />καί μ᾽ οὔτι  μελιγλώσσοις πειθοῦς
+<lb />ἐπαοιδαῖσιν θέλξει, στερεάς τ᾽
+<lb rend="displayNum" n="175" />οὔποτ᾽  ἀπειλὰς πτήξας τόδ᾽ ἐγὼ
+<lb />καταμηνύσω,
+<lb />πρὶν ἂν ἐξ ἀγρίων δεσμῶν χαλάσῃ
+<lb />ποινάς τε τίνειν
+<lb />τῆσδ᾽  αἰκείας  ἐθελήσῃ.
+</p></sp></div2></div1></body></text></TEI.2>

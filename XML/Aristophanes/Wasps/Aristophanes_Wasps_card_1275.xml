@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="strophe" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1275" unit="card" /></p></sp></div2>
+<div2 type="epirrheme" org="uniform" sample="complete"> 
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="1275" />ὦ μακάρι᾽ Αὐτόμενες ὥς σε μακαρίζομεν,
+<lb />παῖδας ἐφύτευσας ὅτι χειροτεχνικωτάτους:
+<lb />πρῶτα μὲν ἅπασι φίλον ἄνδρα τε σοφώτατον,
+<lb />τὸν κιφαραοιδότατον, ᾧ χάρις ἐφέσπετο:
+<lb />τὸν δ᾽ ὑποκριτὴν ἕτερον ἀργαλέον ὡς σοφόν:
+<lb rend="displayNum" n="1280" />εἶτ᾽ Ἀριφράδην πολύ τι θυμοσοφικώτατον,
+<lb />ὅντινά ποτ᾽ ὤμοσε μαθόντα παρὰ μηδενός,
+<lb />ἀλλ᾽ ἀπὸ σοφῆς φύσεος αὐτόματον ἐκμαθεῖν
+<lb />γλωττοποιεῖν ἐς τὰ πορνεῖ᾽ εἰσιόνθ᾽ ἑκάστοτε.</p></sp></div2></div1></body></text></TEI.2>

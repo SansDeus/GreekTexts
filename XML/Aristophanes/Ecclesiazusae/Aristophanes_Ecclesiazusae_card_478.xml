@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="478" unit="card" /></p></sp></div1>
+<div1 type="Parodos" org="uniform" sample="complete">
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Χορὸς</speaker><p><lb />ἔμβα χώρει.
+<lb />ἆρ᾽ ἔστι τῶν ἀνδρῶν τις ἡμῖν ὅστις ἐπακολουθεῖ;
+<lb rend="displayNum" n="480" />στρέφου σκόπει,
+<lb />φύλαττε σαυτὴν ἀσφαλῶς, πολλοὶ γὰρ οἱ πανοῦργοι,
+<lb />μή πού τις ἐκ τοὔπισθεν ὢν τὸ σχῆμα καταφυλάξῃ.
+</p></sp></div2></div1></body></text></TEI.2>

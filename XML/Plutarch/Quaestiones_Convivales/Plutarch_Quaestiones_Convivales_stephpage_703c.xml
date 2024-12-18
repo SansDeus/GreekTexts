@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="7" org="uniform" sample="complete"><div2 type="chapter" n="4" org="uniform" sample="complete"><div3 type="section" n="4" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-703c" n="703c" /> διὰ μικρολογίαν καλόν,
+                        ἀλλὰ τηρεῖν καὶ ἀπολείπειν, εἴ τις ἔλθοι δεόμενος παρόντος ἔτι
+                        καὶ λάμποντος: καὶ γὰρ ὄψιν, εἰ δυνατὸν ἦν, καὶ ἀκοὴν χρῆσαι
+                        καλῶς; εἶχεν ἑτέρῳ, καὶ νὴ Δία τὴν φρόνησιν <milestone unit="tlnum" n="5" /> καὶ τὴν ἀνδρείαν, μέλλοντας αὐτοὺς καθεύδειν
+                        καὶ ἡσυχάζειν. ὅρα δέ, εἰ καὶ μελέτης ἕνεκα τοῦ εὐχαρίστου
+                           <note resp="ed" place="unspecified" anchored="yes">ω: <foreign lang="greek">τῷ εὐχαρίστῳ</foreign></note> τὰς τοιαύτας
+                        ἐφιέντες ὑπερβολὰς οὐκ ἀτόπως οἱ παλαιοὶ καὶ δρῦς ἐσέβοντο
+                        καρποφόρους, καὶ συκῆν τινα προσηγόρευσαν ἱερὰν Ἀθηναῖοι καὶ
+                           <milestone unit="tlnum" n="10" /> μορίαν <note resp="ed" place="unspecified" anchored="yes">ρ: <foreign lang="greek">μοραίαν</foreign></note> ἐκκόπτειν ἀπαγορεύουσι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">προσαγορεύουσιν</foreign> μει</note>: ταῦτα γὰρ οὐ ποιεῖ
+                           </q></p></div3></div2></div1></body></text></TEI.2>

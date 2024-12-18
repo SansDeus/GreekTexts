@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-440a" n="440a" /> περιπατεῖν, ἑνὶ
+               δακτύλῳ τὸ τάριχος ἅρασθαι, <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἄρασθαι</foreign> ιδεμ: <foreign lang="greek">ἅψασθαι</foreign></note> δυσὶ τὸν ἰχθῦν σῖτον κρέας: οὕτω καθῆσθαι,
+               τὸ ἱμάτιον οὕτως ἀναλαβεῖν. <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀναβαλεῖν</foreign> σαλμασιυς</note> </p>
+         </div1>
+         <div1 type="section" n="3" org="uniform" sample="complete">
+            <p>τί οὖν; ὁ λέγων λειχῆνος ἰατρικὴν εἶναι καὶ παρωνυχίας, πλευρίτιδος δὲ
+               καὶ πυρετοῦ καὶ φρενίτιδος <milestone unit="tlnum" n="20" /> μὴ εἶναι, τί
+               διαφέρει τοῦ λέγοντος ὅτι τῶν μικρῶν καὶ παιδικῶν καθηκόντων εἰσὶ
+               διδασκαλεῖα καὶ λόγοι καὶ ὑποθῆκαι, τῶν δὲ μεγάλων καὶ τελείων ἄλογος
+               τριβὴ καὶ περίπτωσίς ἔστιν; ὡς γὰρ ὁ λέγων ὅτι δεῖ κώπην ἐλαύνειν
+               μαθόντα κυβερνᾶν <milestone unit="tlnum" n="25" /> δὲ καὶ μὴ μαθόντα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">κυβερνᾶν δὲ καὶ μὴ μαθόντα</foreign> ιαννοτιυς</note> γελοῖός
+               ἐστιν, οὕτως ὁ μὲν τῶν ἄλλων ἀπολείπων τεχνῶν μάθησιν ἀρετῆς δ᾽ <pb id="v.3.p.146" /> ἀναιρῶν τοὐναντίον ἔοικε τοῖς Σκύθαις ποιεῖν: ἐκεῖνοι
+               μὲν γάρ, ὥς φησιν Ἡρόδοτος, <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Ἡερόδοτος</foreign>] 4, 2 σθθ.</note> τοὺς οἰκέτας ἐκτυφλοῦσιν ὅπως παραδῶσιν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">παραδῶσιν</foreign>] <foreign lang="greek">παραμένωσιν</foreign> αυτ <foreign lang="greek">γάλα δονῶσιν</foreign> ξαντερυς</note>
+               αὐτοῖς: οὗτος δὲ ταῖς δούλαις </p></div1></body></text></TEI.2>

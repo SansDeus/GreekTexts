@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><milestone ed="p" n="1173" unit="card" />
+</sp></div2>
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Πηλεύς</speaker>
+<l>ὤμοι ἐγώ, κακὸν οἷον ὁρῶ τόδε</l>
+<l>καὶ δέχομαι χερὶ δώμασί τ᾽ ἀμοῖς.</l>
+<l n="1175">ἰώ μοί μοι, αἰαῖ,</l>
+<l>ὦ πόλι Θεσσαλία, διολώλαμεν,</l>
+<l>οἰχόμεθ᾽: οὐκέτι μοι γένος, οὐκέτι μοι τέκνα λείπεται οἴκοις:</l>
+<l>ὦ σχέτλιος παθέων ἐγώ: †εἰς τίνα</l>
+<l n="1180">δὴ φίλον αὐγὰς βαλὼν τέρψομαι;†</l>
+<l>ὦ φίλιον στόμα καὶ γένυ καὶ χέρες,</l>
+<l>εἴθε σ᾽ ὑπ᾽ Ἰλίῳ ἤναρε δαίμων</l>
+<l>Σιμοεντίδα παρ᾽ ἀκτάν.</l>
+</sp></div2></div1></body></text></TEI.2>

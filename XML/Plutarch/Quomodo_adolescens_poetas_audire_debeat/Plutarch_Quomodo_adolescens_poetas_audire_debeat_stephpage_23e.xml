@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="6" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-23e" n="23e" /> πραγμάτων ἀνάγκην
+                  ὀρθῶς ὑποδείκνυσιν, ὅτι καὶ πόλεσι καὶ στρατοπέδοις καὶ ἡγεμόσιν,
+                  ἂν μὲν σωφρονῶσιν , εὖ πράττειν πέπρωται καὶ κρατεῖν τῶν <milestone unit="tlnum" n="10" /> πολεμίων, ἂν δ᾽ εἰς πάθη καὶ ἁμαρτίας
+                  ἐμπεσόντες ὥσπερ οὗτοι διαφέρωνται πρὸς ἀλλήλους καὶ στασιάζωσιν ,
+                  ἀσχημονεῖν καὶ ταράττεσθαι καὶ κακῶς ἀπαλλάττειν. <quote rend="blockquote">
+                     <l>εἱμαρμένον γὰρ τῶν κακῶν βουλευμάτων <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 695</note> <milestone unit="tlnum" n="15" />
+                     </l>
+                     <l>κακὰς ἀμοιβάς ἐστι καρποῦσθαι βροτοῖς.</l>
+                  </quote> καὶ μὴν ὁ Ἡσίοδος τὸν Προμηθέα ποιῶν τῷ Ἐπιμηθεῖ
+                  παρακελευόμενον <quote rend="blockquote">
+                     <l>μή ποτε δῶρα </l> <note resp="ed" place="unspecified" anchored="yes">οδ 86</note>
+                     <l>δέξασθαι πὰρ Ζηνὸς Ὀλυμπίου ἀλλ᾽ ἀποπέμπειν</l>
+                  </quote>
+                  <milestone unit="tlnum" n="20" />
+                  </p></div2></div1></body></text></TEI.2>

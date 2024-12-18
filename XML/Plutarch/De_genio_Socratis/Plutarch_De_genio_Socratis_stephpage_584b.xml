@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="14" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-584b" n="584b" /> ὅπλων ἐπ᾽
+                  αὐτὴν μηδὲν ἀνιῶσαν ἀλλ᾽ ἀπάγγελλε τοῖς ἐκεῖ γνωρίμοις, ὅτι
+                  κάλλιστα μὲν αὐτοὶ πλούτῳ χρῶνται καλῶς δὲ πενίᾳ χρωμένους αὐτόθι
+                  φίλους <milestone unit="tlnum" n="5" /> ἔχουσι, τὰς δὲ Λύσιδος ἡμῖν
+                  τροφὰς καὶ ταφὰς αὐτὸς ὑπὲρ αὑτοῦ Λῦσις ἀπέδωκε, τὰ τ᾽ ἄλλα καὶ
+                  πενίαν διδάξας μὴ δυσχεραίνειν.</q>
+            </p>
+         </div1>
+         <div1 type="section" n="15" org="uniform" sample="complete">
+            <p>ὑπολαβὼν δ᾽ ὁ Θεάνωρ <q direct="unspecified">ἆρ᾽ οὖν</q> ἔφη <q direct="unspecified">τὸ πενίαν δυσχεραίνειν
+                  ἀγεννές ἐστι τὸ δὲ πλοῦτον δεδιέναι <milestone unit="tlnum" n="10" /> καὶ
+                  φεύγειν οὐκ ἄτοπον;</q>
+               <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἄτοπον</foreign> ποστεριυς ω. φορτ. αδδενδυμ ετιαμ <foreign lang="greek">εἶπεν Ἐπαμεινώνδας</foreign></note>
+               <q direct="unspecified">ἄτοπον, εἰ μὴ λόγῳ τις αὐτὸν ἀλλὰ σχηματιζόμενος ἢ δι᾽ ἀπειροκαλίαν
+                  ἢ τῦφόν τινα διωθεῖται.</q>
+               <q direct="unspecified">καὶ τίς ἄν</q> ἔφη <q direct="unspecified">λόγος ἀπείργοι τὴν ἐκ καλῶν καὶ δικαίων
+                  κτῆσιν, ὦ Ἐπαμεινώνδα; <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὦ Ἐπαμεινώνδα</foreign> ω: <foreign lang="greek">ὡς ἐπαμεινώνδας</foreign></note> μᾶλλον δὲ ῾πραότερον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">πραότερον</foreign>
+                     ιδεμ: <foreign lang="greek">πρότερον</foreign></note> γὰρ ἡμῖν ἢ τῷ
+                     <milestone unit="tlnum" n="15" />Θετταλῷ πρὸς τὰς ἀποκρίσεις ἐνδίδου
+                  σαυτὸν ὑπὲρ </q></p></div1></body></text></TEI.2>

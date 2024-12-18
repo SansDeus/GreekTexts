@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="712" unit="card" />
+</p></sp></div2>
+</div1>
+<div1 type="episode" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />πιθοῦ  γυναιξί, καίπερ οὐ στέργων ὅμως.
+</p></sp>
+<sp>
+<speaker>Ἐτεοκλής</speaker><p>
+<lb />λέγοιτ᾽ ἂν ὧν ἄνη τις:  οὐδὲ χρὴ μακράν.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />μὴ 'λθῃς ὁδοὺς σὺ τάσδ᾽ ἐφ᾽ ἑβδόμαις πύλαις.
+</p></sp>
+<sp>
+<speaker>Ἐτεοκλής</speaker><p>
+<lb rend="displayNum" n="715" />τεθηγμένον τοί μ᾽ οὐκ ἀπαμβλυνεῖς λόγῳ.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />νίκην γε μέντοι καὶ κακὴν τιμᾷ θεός.
+</p></sp>
+<sp>
+<speaker>Ἐτεοκλής</speaker><p>
+<lb />οὐκ ἄνδρ᾽ ὁπλίτην τοῦτο χρὴ στέργειν ἔπος.
+</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>
+<lb />ἀλλ᾽ αὐτάδελφον αἷμα δρέψασθαι θέλεις;
+</p></sp>
+<sp>
+<speaker>Ἐτεοκλής</speaker><p>
+<lb />θεῶν διδόντων οὐκ ἂν ἐκφύγοις κακά.
+</p></sp></div1></body></text></TEI.2>

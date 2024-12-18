@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" org="uniform" sample="complete"><sp><p><milestone ed="p" n="638" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />πόνοι γὰρ καὶ πόνων
+<lb rend="displayNum" n="640" />ἀνάγκαι κρείσσονες κυκλοῦνται
+<lb />κοινὸν δ᾽ ἐξ ἰδίας ἀνοίας
+<lb />κακὸν τᾷ Σιμουντίδι γᾷ
+<lb />ὀλέθριον ἔμολε συμφορά τ᾽ ἀπ᾽ ἄλλων.
+<lb />ἐκρίθη δ᾽ ἔρις, ἃν ἐν Ἴ-
+<lb rend="displayNum" n="645" />δᾳ κρίνει τρισσὰς μακάρων
+<lb />παῖδας ἀνὴρ βούτας,
+</p></sp></div2></div1></body></text></TEI.2>

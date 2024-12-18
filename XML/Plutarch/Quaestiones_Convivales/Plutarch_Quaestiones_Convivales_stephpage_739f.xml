@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="1" org="uniform" sample="complete"><div2 type="chapter" n="5" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-739f" n="739f" />τὰ λοιπὰ μεῖζον <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μεῖζον</foreign> χ: <foreign lang="greek">μεῖζον ἢ</foreign></note>
+                     φθεγγόμενος ἤδη πρὸς ἐκεῖνον ἐπέραινεν, <quote rend="blockquote">
+                        <l>ἀλλ᾽ ἴθι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἴθι</foreign>] <foreign lang="greek">ἄγε</foreign> ηομερυς <foreign lang="greek">λ</foreign> 561</note> δεῦρο, ἄναξ, ἵν᾽ ἔπος καὶ μῦθον ἀκούσῃς </l>
+                        <l>ἡμέτερον: δάμασον δὲ μένος καὶ ἀτειρέα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀτειρέα</foreign>] <foreign lang="greek">ἀγήνορα</foreign> ιδεμ</note> θυμόν: </l>
+                     </quote>
+                     <milestone unit="tlnum" n="15" />ἔτι δ᾽ ἀνώμαλος ὢν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀνώμαλος ὢν</foreign> δοεηνερυς: <foreign lang="greek">ὁμολογῶν</foreign></note> ὑπ᾽ ὀργῆς ὁ
+                     Ὕλας ἀπεκρίνατο σκαιῶς τὴν μὲν Αἴαντος ἔφη ψυχὴν εἰκοστὴν
+                     λαχοῦσαν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">λαλοῦσαι</foreign> μει</note> ἐν Ἅιδου διαμείψασθαι κατὰ τὸν Πλάτωνα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Πλάτωνα</foreign>] ρεπ. π. 620β</note> φύσιν λέοντος:
+                     αὑτῷ δὲ πολλάκις παρίσταθαι καὶ τὰ τοῦ κωμικοῦ γέροντος <milestone unit="tlnum" n="20" />
+                     <quote rend="blockquote">
+                        <l> ὄνον γενέσθαι κρεῖττον, ἢ τοὺς χείρονας </l> <note resp="ed" place="unspecified" anchored="yes">ξφ. κοξκ. 3 π. 64</note>
+                        <l> ὁρᾶν ἑαυτοῦ ζῶντας ἐπιφανέστερον.</l>
+                     </quote> καὶ ὁ Σῶσπις γελάσας <q direct="unspecified">ἀλλ᾽ ἕως μέλλομεν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μέλλομεν</foreign>] αδδ. ϝιδ. <foreign lang="greek">εἶπεν</foreign></note> <pb id="v.4.p.369" /> ἐνδύεσθαι</q></p></div3></div2></div1></body></text></TEI.2>

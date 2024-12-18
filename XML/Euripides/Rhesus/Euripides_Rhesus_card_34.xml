@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="34" unit="card" /></p></sp></div2>
+<div2 type="anapests" org="uniform" sample="complete">
+<sp>
+<speaker>Ἕκτωρ</speaker><p>
+<lb />τὰ μὲν ἀγγέλλεις δείματ᾽ ἀκούειν,
+<lb rend="displayNum" n="35" />τὰ δὲ θαρσύνεις, κοὐδὲν καθαρῶς.
+<lb />ἀλλ᾽ ἦ Κρονίου Πανὸς τρομερᾷ
+<lb />μάστιγι φοβῇ; <del status="unremarkable">φυλακὰς δὲ λιπὼν
+<lb />κινεῖς στρατιάν.</del> τί θροεῖς; τί σε φῶ
+<lb />νέον ἀγγέλλειν; πολλὰ γὰρ εἰπὼν
+<lb rend="displayNum" n="40" />οὐδὲν τρανῶς ἀπέδειξας.
+</p></sp>
+</div2></div1></body></text></TEI.2>

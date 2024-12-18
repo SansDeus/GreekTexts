@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="13" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-326c" n="326c" /> προτεταγμένην:
+               ὄνομα γὰρ καὶ δόξα τούτων <milestone unit="tlnum" n="10" /> ἐπιφανεστάτη
+               διεπέμπετο πρὸς αὐτὸν ὥσπερ ἀθλητῶν μυρίοις ἐγγεγυμνασμένων πολέμοις
+               <quote rend="blockquote"> οὐ γὰρ ἀναιμωτί γε διακρινθήμεναι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">διακρινέεσθαι ὀίω</foreign> ηομ. <foreign lang="greek">ς</foreign> 148</note> οἴω, </quote>
+               συμπεσόντων ὅπλοις ἀνικήτοις φρονημάτων ἀδουλώτων. πλῆθος μὲν γὰρ ἦσαν
+               οὗτοι τρισκαίδεκα μυριάδων <milestone unit="tlnum" n="15" /> οὐκ ἐλάττους,
+               πολεμικοὶ δὲ καὶ ἀνδρώδεις ἅπαντες, <quote rend="blockquote">
+                  <l> ἐπιστάμενοι μὲν ἀφ᾽ ἵππων </l> <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">ι</foreign> 49</note>
+                  <l> ἀνδράσι μάρνασθαι καὶ ὅθι χρὴ πεζὸν ἐόντα.</l>
+               </quote>
+            </p>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

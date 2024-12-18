@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="5" org="uniform" sample="complete"><div2 type="chapter" n="0" org="uniform" sample="complete"><div3 type="section" n="1" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-673c" n="673c" />
+                  </p>
+               </div3>
+            </div2>
+            <div2 type="chapter" n="1" org="uniform" sample="complete">
+               <head> Διὰ τί τῶν μιμουμένων τοὺς ὀργιζομένους καὶ λυπουμένους ἡδέως
+                  ἀκούομεν, αὐτῶν δὲ τῶν ἐν τοῖς πάθεσιν <milestone unit="tlnum" n="5" />
+                  ὄντων ἀηδῶς.</head>
+               <div3 type="section" n="1" org="uniform" sample="complete">
+                  <p>περὶ ὧν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">περὶ ὧν</foreign>] νοννυλλα εχξιδισσε πυτατ ρ. φορτ.
+                        ξορρ. <foreign lang="greek">πρῴην</foreign></note> ἐγένοντο λόγοι καὶ
+                     σοῦ παρόντος ἐν Ἀθήναις ἡμῖν, ὅτε Στράτων ὁ κωμῳδὸς εὐημέρησεν
+                     ἦν γὰρ αὐτοῦ πολὺς λόγος, ἑστιωμένων <milestone unit="tlnum" n="10" />
+                     ἡμῶν παρὰ Βοήθῳ τῷ Ἐπικουρείῳ συνεδείπνουν δ᾽ οὐκ ὀλίγοι τῶν
+                     ἀπὸ τῆς αἱρέσεως <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">τῶν ἀπὸ διαιρέσεως</foreign> μει</note>.
+                     εἶθ᾽ οἱονεὶ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οἱονεὶ</foreign>] μαλιμ <foreign lang="greek">οἶον
+                           ἐν</foreign></note> φιλολόγοις περιέστησεν ἡ τῆς κωμῳδίας μνήμη
+                     τὸν </p></div3></div2></div1></body></text></TEI.2>

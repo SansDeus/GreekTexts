@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Agon" org="uniform" sample="complete"><div2 type="epirrheme" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1386" unit="card" /></p></sp></div2>
+<div2 type="pnigos" org="uniform" sample="complete">
+<sp><speaker>Στρεψιάδης</speaker><p>
+<lb />βοῶντα καὶ κεκραγόθ᾽ ὅτι
+<lb />χεζητιῴην, οὐκ ἔτλης
+<lb />ἔξω 'ξενεγκεῖν ὦ μιαρὲ
+<lb />θύραζέ μ᾽, ἀλλὰ πνιγόμενος
+<lb rend="displayNum" n="1390" />αὐτοῦ 'ποίησα κακκᾶν.</p></sp></div2></div1></body></text></TEI.2>

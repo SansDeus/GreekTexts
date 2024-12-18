@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Choral" org="uniform" sample="complete"><div2 type="anapests" org="uniform" sample="complete"><sp><p><milestone ed="p" n="457" unit="card" /></p></sp></div2>
+<div2 type="lyric" org="uniform" sample="complete">
+<sp>
+<speaker>Χορός</speaker><p><lb />λῆμα μὲν πάρεστι τῷδέ γ᾽
+<lb />οὐκ ἄτολμον ἀλλ᾽ ἕτοιμον. ἴσθι δ᾽ ὡς
+<lb rend="displayNum" n="460" />ταῦτα μαθὼν παρ᾽ ἐμοῦ κλέος οὐρανόμηκες
+<lb />ἐν βροτοῖσιν ἕξεις.</p></sp>
+<sp>
+<speaker>Στρεψιάδης</speaker><p><lb />τί πείσομαι;</p></sp>
+<sp>
+<speaker>Χορός</speaker><p><lb />τὸν πάντα χρόνον μετ᾽ ἐμοῦ
+<lb rend="displayNum" n="465" />ζηλωτότατον βίον ἀνθρώπων διάξεις.</p></sp>
+<sp>
+<speaker>Στρεψιάδης</speaker><p><lb />ἆρά γε τοῦτ᾽ ἄρ᾽ ἐγώ ποτ᾽
+<lb />ὄψομαι;</p></sp>
+<sp>
+<speaker>Χορός</speaker><p>ὥστε γέ σου πολλοὺς ἐπὶ ταῖσι θύραις ἀεὶ καθῆσθαι,
+<lb rend="displayNum" n="470" />βουλομένους ἀνακοινοῦσθαί τε καὶ ἐς λόγον ἐλθεῖν
+<lb />πράγματα κἀντιγραφὰς πολλῶν ταλάντων,
+<lb rend="displayNum" n="475" />ἄξια σῇ φρενὶ συμβουλευσομένους μετὰ σοῦ.</p></sp></div2></div1></body></text></TEI.2>

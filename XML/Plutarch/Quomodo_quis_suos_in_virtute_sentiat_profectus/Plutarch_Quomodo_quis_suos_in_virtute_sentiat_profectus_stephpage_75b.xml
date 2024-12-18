@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="1" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-75b" n="75b" />
+               <p>τίς τῶν λόγων, ὦ Σόσσιε Σενεκίων, σώσει τὴν ἑαυτοῦ βελτιουμένου
+                  πρὸς ἀρετὴν συναίσθησιν, εἰ μηδεμίαν αἱ προκοπαὶ ποιοῦσι τῆς ἀφροσύνης
+                  ἄνεσιν, ἀλλ᾽ ἴσῳ σταθμῷ πᾶσιν ἡ κακία περιτιθεμένη <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">περιτιθεμένη</foreign> εμπεριυς: <foreign lang="greek">περιθεμένη</foreign></note> <milestone unit="tlnum" n="5" />
+                  <quote rend="blockquote">
+                     <l>μολυβδὶς ὥστε δίκτυον κατέσπασεν;</l> <note resp="ed" place="unspecified" anchored="yes">ναυξκ. π. 247</note>
+                  </quote> οὐδὲ γὰρ ἐν μουσικοῖς τις ἢ γραμματικοῖς ἐπιδιδοὺς ἂν γνοίη
+                  μηδὲν ἐν τῷ μανθάνειν ἀπαρύτων τῆς περὶ ταῦτα ἀμαθίας ἀλλ᾽ ἴσης
+                  ἀεὶ τῆς ἀτεχνίας αὐτῷ παρούσης , οὐδὲ κάμνοντι θεραπεία μὴ
+                     ποιοῦσα<milestone unit="tlnum" n="10" /> ῥᾳστώνην μηδὲ κουφισμὸν
+                  ἁμωσγέπως τοῦ νοσήματος ὑπείκοντος καὶ χαλῶντος αἴσθησιν ἂν </p></div2></div1></body></text></TEI.2>

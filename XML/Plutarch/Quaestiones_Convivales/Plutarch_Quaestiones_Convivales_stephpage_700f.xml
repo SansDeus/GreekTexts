@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="7" org="uniform" sample="complete"><div2 type="chapter" n="2" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-700f" n="700f" /> καὶ κυνηγίας προφέροντας: οἷον ἐδόκει τὸ περὶ τὴν
+                     χάλαζαν εἶναι τὴν ὑπὸ χαλαζοφυλάκων αἵματι σπάλακος <milestone unit="tlnum" n="15" /> ἢ ῥακίοις γυναικείοις ἀποτρεπομένην <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀποτρπομένη</foreign> μει</note> καὶ τὸ τῶν ἀγρίων ἐρινεῶν, ἃ
+                     ταῖς ἡμέροις περιαπτόμενα συκαῖς ἀπορρεῖν οὐκ ἐᾷ τὸν καρπὸν ἀλλὰ
+                     συνέχει καὶ συνεκπεπαίνει: καὶ τὸ τὰς ἐλάφους ἁλμυρὸν ἀφιέναι,
+                     τοὺς δὲ σῦς γλυκὺ τὸ δάκρυον ἁλισκομένους. <milestone unit="tlnum" n="20" />
+                     <q direct="unspecified">ἀλλ᾽ ἐὰν ταῦτ᾽</q> ἔφη <q direct="unspecified">ζητῇς</q> ὁ Εὐθύδημος, <q direct="unspecified">αὐτίκα
+                        δεήσει σε καὶ περὶ τοῦ σελίνου καὶ περὶ τοῦ κυμίνου διδόναι
+                        λόγον, ὧν τὸ μὲν ἐν τῷ βλαστάνειν καταπατοῦντες καὶ συντρίβοντες
+                        οἴονται </q></p></div3></div2></div1></body></text></TEI.2>

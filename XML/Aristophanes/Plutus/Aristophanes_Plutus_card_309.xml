@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Lyric-Scene" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="309" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2a" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />οὐκοῦν σε τὴν Κίρκην γε τὴν τὰ φάρμακ᾽ ἀνακυκῶσαν
+<lb rend="displayNum" n="310" />καὶ μαγγανεύουσαν μολύνουσάν τε τοὺς ἑταίρους
+<lb />λαβόντες ὑπὸ φιληδίας
+<lb />τὸν Λαρτίου μιμούμενοι τῶν ὄρχεων κρεμῶμεν,
+<lb />μινθώσομέν θ᾽ ὥσπερ τράγου
+<lb />τὴν ῥῖνα: σὺ δ᾽ Ἀρίστυλλος ὑποχάσκων ἐρεῖς,
+<lb rend="displayNum" n="315" />ἕπεσθε μητρὶ χοῖροι.</p></sp></div2></div1></body></text></TEI.2>

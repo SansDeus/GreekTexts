@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Episode" org="uniform" sample="complete"><sp><p><milestone ed="p" n="973" unit="card" /></p></sp></div1>
+<div1 type="Choral" org="uniform" sample="complete">
+<div2 type="strophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />ἥδιστον φάος ἡμέρας
+<lb />ἔσται τοῖσι παροῦσι καὶ
+<lb rend="displayNum" n="975" />τοῖσι δεῦρ᾽ ἀφικνουμένοις,
+<lb />ἢν Κλέων ἀπόληται.
+<lb />καίτοι πρεσβυτέρων τινῶν
+<lb />οἵων ἀργαλεωτάτων
+<lb />ἐν τῷ δείγματι τῶν δικῶν
+<lb rend="displayNum" n="980" />ἤκουσ᾽ ἀντιλεγόντων,
+<lb />ὡς εἰ μὴ 'γένεθ᾽ οὗτος ἐν
+<lb />τῇ πόλει μέγας, οὐκ ἂν ἤστην
+<lb />σκεύη δύο χρησίμω,
+<lb />δοῖδυξ οὐδὲ τορύνη.</p></sp></div2></div1></body></text></TEI.2>

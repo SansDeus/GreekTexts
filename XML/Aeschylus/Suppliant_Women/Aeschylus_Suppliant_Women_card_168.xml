@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="ephymnion" n="3" org="uniform" sample="complete"><sp><p><milestone ed="p" n="168" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="8" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />καὶ τότ᾽  οὐ δικαίοις
+<lb />Ζεὺς ἐνέξεται λόγοις,
+<lb rend="displayNum" n="170" />τὸν τᾶς βοὸς
+<lb />παῖδ᾽ ἀτιμάσας, τὸν αὐ-
+<lb />τός ποτ᾽ ἔκτισεν γόνῳ,
+<lb />νῦν ἔχων παλίντροπον
+<lb />ὄψιν ἐν λιταῖσιν;
+<lb rend="displayNum" n="175" />ὑψόθεν δ᾽ εὖ κλύοι καλούμενος.
+</p></sp></div2></div1></body></text></TEI.2>

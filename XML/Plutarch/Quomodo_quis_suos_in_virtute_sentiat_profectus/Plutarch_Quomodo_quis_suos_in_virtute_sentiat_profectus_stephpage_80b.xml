@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="chapter" org="uniform" sample="complete"><div2 type="section" n="8" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-80b" n="80b" />
+               </p>
+            </div2>
+            <div2 type="section" n="9" org="uniform" sample="complete">
+               <p>ὅθεν ἐπισκοπεῖν ἀναγκαῖον εἰ χρώμεθα τῷ λόγῳ πρὸς ἑαυτοὺς μὲν
+                  χρηστικῶς, πρὸς ἑτέρους δὲ μὴ δόξης εἰκαίας ἕνεκα μηδ᾽ ἐκ φιλοτιμίας,
+                  ἀλλὰ <milestone unit="tlnum" n="15" /> μᾶλλον ἀκοῦσαί τι καὶ διδάξαι
+                  βουλόμενοι, μάλιστα δ᾽ εἰ τὸ φιλόνεικον καὶ δύσερι περὶ τὰς ζητήσεις
+                  ὑφεῖται καὶ πεπαύμεθα τοὺς λόγους ὥσπερ ἱμάντας ἢ σφαίρας
+                  ἐπιδούμενοι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">περιδούμενοι</foreign> ω</note> πρὸς ἀλλήλους καὶ τῷ πατάξαι καὶ καταβαλεῖν μᾶλλον ἢ
+                  τῷ μαθεῖν τι καὶ <milestone unit="tlnum" n="20" /> διδάξαι χαίροντες: ἡ γὰρ
+                  ἐν τούτοις ἐπιείκεια καὶ πραότης καὶ τὸ μὴ μετ᾽ ἀγῶνος συνίστασθαι
+                  μηδὲ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μηδὲ</foreign> σξριπσι: <foreign lang="greek">μήτε</foreign></note> </p></div2></div1></body></text></TEI.2>

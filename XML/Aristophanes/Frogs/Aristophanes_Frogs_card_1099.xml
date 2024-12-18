@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Agon" org="uniform" sample="complete"><div2 type="Antipnigos" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1099" unit="card" /></p></sp></div2></div1>
+<div1 type="Choral" org="uniform" sample="complete">
+<div2 type="strophe" n="1" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />μέγα τὸ πρᾶγμα, πολὺ τὸ νεῖκος, ἁδρὸς ὁ πόλεμος ἔρχεται.
+<lb rend="displayNum" n="1100" />χαλεπὸν οὖν ἔργον διαιρεῖν,
+<lb />ὅταν ὁ μὲν τείνῃ βιαίως,
+<lb />ὁ δ᾽ ἐπαναστρέφειν δύνηται κἀπερείδεσθαι τορῶς.
+<lb />ἀλλὰ μὴ ν᾽ ταὐτῷ κάθησθον:
+<lb />ἐσβολαὶ γάρ εἰσι πολλαὶ χἄτεραι σοφισμάτων.
+<lb rend="displayNum" n="1105" />ὅ τι περ οὖν ἔχετον ἐρίζειν,
+<lb />λέγετον ἔπιτον ἀνά <add>τε</add> δέρετον
+<lb />τά τε παλαιὰ καὶ τὰ καινά,
+<lb />κἀποκινδυνεύετον λεπτόν τι καὶ σοφὸν λέγειν.</p></sp></div2></div1></body></text></TEI.2>

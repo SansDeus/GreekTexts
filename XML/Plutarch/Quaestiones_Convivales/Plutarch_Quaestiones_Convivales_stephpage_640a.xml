@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><div2 type="chapter" n="5" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-640a" n="640a" /> πολεμικῶν
+                        ὀνομάζεται <quote rend="blockquote">βριθύς, ὁπλιτοπάλας</quote>
+                        <note resp="ed" place="unspecified" anchored="yes">ξφ. βεργκ. 2 π.
+                           242</note> καὶ Σοφοκλῆς <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">Σοφοκλῆς</foreign>] ναυξκ. π.
+                           313</note> εἴρηκέ που περὶ τῶν Τρώων ὡς <quote rend="blockquote">
+                           <l> φίλιπποι καὶ κερουλκοί, </l>
+                           <l> σὺν σάκει δὲ κωδωνοκρότῳ παλαισταί:</l>
+                        </quote>
+                        <milestone unit="tlnum" n="10" /> καὶ μὴν ἐπὶ πᾶσί γε τὸ τρίτον
+                        ἐστὶ νικωμένους φεύγειν ἢ διώκειν νικῶντας. εἰκότως οὖν ἡ
+                        πυγμὴ προῆγε <note resp="ed" place="unspecified" anchored="yes">εμ. ω:
+                              <foreign lang="greek">προσῆγε</foreign></note>, δευτέραν δ᾽ εἶχεν
+                        ἡ πάλη τάξιν, καὶ τελευταίαν ὁ δρόμος: ὅτι πυγμὴ μέν ἐστι
+                        μίμημα πληγῆς καὶ φυλακῆς, πάλη δὲ συμπλοκῆς καὶ ὠθισμοῦ,
+                           <milestone unit="tlnum" n="15" /> δρόμῳ δὲ μελετῶσι φεύγειν καὶ
+                        διώκειν.</q>
+                  </p>
+               </div3>
+            </div2>
+            </div1></body></text></TEI.2>

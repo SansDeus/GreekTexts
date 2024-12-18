@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="antistrophe" n="1" org="uniform" sample="complete"><sp><p><milestone ed="p" n="1074" unit="card" /></p></sp></div2>
+<div2 type="strophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />αἰσχύνομαι τὸν πολύυ-
+<lb rend="displayNum" n="1075" />μνον θεόν, εἰ παρὰ καλλιχόροισι παγαῖς
+<lb />λαμπάδα θεωρὸν εἰκάδων
+<lb />ὄψεται ἐννύχιος ἄυπνος ὤν, ὅτε
+<lb />καὶ Διὸς ἀστερωπὸς
+<lb />ἀνεχόρευσεν αἰθήρ,
+<lb rend="displayNum" n="1080" />χορεύει δὲ σελάνα
+<lb />καὶ πεντήκοντα κόραι
+<lb />Νηρέος, αἱ κατὰ πόντον
+<lb />ἀενάων τε ποταμῶν
+<lb />δίνας, χορευόμεναι
+<lb rend="displayNum" n="1085" />τὰν χρυσοστέφανον κόραν
+<lb />καὶ ματέρα σεμνάν:
+<lb />ἵν᾽ ἐλπίζει βασιλεύ-
+<lb />σειν ἄλλων πόνον ἐσπεσὼν
+<lb />ὁ Φοίβειος ἀλάτας.
+</p></sp></div2></div1></body></text></TEI.2>

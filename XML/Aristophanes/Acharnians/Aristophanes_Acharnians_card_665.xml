@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Parabasis" org="uniform" sample="complete"><div2 type="pnigos" org="uniform" sample="complete"><sp><p><milestone ed="p" n="665" unit="card" /></p></sp></div2>
+<div2 type="strophe" org="uniform" sample="complete">
+<sp><speaker>Χορός</speaker><p>
+<lb />δεῦρο Μοῦσ᾽ ἐλθὲ φλεγυρὰ πυρὸς ἔχουσα μένος ἔντονος Ἀχαρνική.
+<lb />οἷον ἐξ ἀνθράκων πρινίνων φέψαλος ἀνήλατ᾽ ἐρεθιζόμενος οὐρίᾳ ῥιπίδι,
+<lb rend="displayNum" n="670" />ἡνίκ᾽ ἂν ἐπανθρακίδες ὦσι παρακείμεναι,
+<lb />οἱ δὲ Θασίαν ἀνακυκῶσι λιπαράμπυκα,
+<lb />οἱ δὲ μάττωσιν, οὕτω σοβαρὸν ἐλθὲ μέλος ἔντονον ἀγροικότερον
+<lb rend="displayNum" n="675" />ὡς ἐμὲ λαβοῦσα τὸν δημότην.
+</p></sp></div2></div1></body></text></TEI.2>

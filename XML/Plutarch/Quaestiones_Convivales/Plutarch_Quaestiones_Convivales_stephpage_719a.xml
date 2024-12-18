@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><div2 type="chapter" n="2" org="uniform" sample="complete"><div3 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-719a" n="719a" /> ὢν <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ὢν</foreign>] <foreign lang="greek">ἢν</foreign> μει</note> αὐτοῦ καὶ προσποιούμενος ἀεὶ μετὰ
+                     παιδιᾶς ἐραστὴς εἶναι καὶ φάσκων, <q direct="unspecified">ὤνησας</q> ἔφη <q direct="unspecified">τὸν λόγον
+                           <milestone unit="tlnum" n="10" /> οὐ σεαυτοῦ ποιησάμενος ἀλλὰ κοινόν
+                        ἐλέγξαι γὰρ ἔδωκας αὐτὸν ἀποδεικνύοντι <note resp="ed" place="unspecified" anchored="yes">ω: <foreign lang="greek">ἀποδεικνύοντα</foreign></note> μὴ θεοῖς οὖσαν ἀλλ᾽ ἡμῖν
+                        ἀναγκαίαν τὴν γεωμετρίαν οὐ γάρ τί που καὶ θεὸς δεῖται μαθήματος
+                        οἷον ὀργάνου στρέφοντος ἀπὸ τῶν γενητῶν καὶ περιάγοντος ἐπὶ τὰ
+                        ὄντα τὴν <milestone unit="tlnum" n="15" /> διάνοιαν ἐν αὐτῷ γὰρ
+                        ἔστιν ἐκεῖνα <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐκεῖνα</foreign> ϝυλξοβιυς: <foreign lang="greek">ἐκείνῳ</foreign></note> καὶ σὺν αὐτῷ καὶ περὶ αὐτόν.
+                        ἀλλ᾽ ὅρα μή τι σοι προσῆκον ὁ Πλάτων καὶ οἰκεῖον αἰνιττόμενος
+                        λέληθεν, ἅτε δὴ </q></p></div3></div2></div1></body></text></TEI.2>

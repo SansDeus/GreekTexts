@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="8" org="uniform" sample="complete"><div2 type="chapter" n="6" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><p><q direct="unspecified"><milestone unit="stephpage" id="stephpage-726c" n="726c" /> πάλαι, καὶ τὸ
+                        ἀκράτισμά φασιν <note resp="ed" place="unspecified" anchored="yes">ρ:
+                              <foreign lang="greek">φησὶν</foreign></note> οὕτω λέγεσθαι διὰ
+                        τὴν ἀκρασίαν.</q>
+                  </p>
+               </div3>
+               <div3 type="section" n="4" org="uniform" sample="complete">
+                  <pb id="v.4.p.330" />
+                  <p>ὑπολαβὼν δ᾽ ὁ Θέων <q direct="unspecified">ἥκιστ᾽</q> εἶπεν <q direct="unspecified">εἰ δεῖ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">εἰ
+                              δεῖ</foreign> ω: <foreign lang="greek">ἔδει</foreign></note> τοῖς
+                        τὸν ἀρχαῖον βίον διαμνημονεύουσι πιστεύειν. φασὶ γὰρ ἐκείνους,
+                        ἐργατικοὺς ἅμα καὶ σώφρονας ὄντας, ἕωθεν ἐσθίειν ἄρτον ἐν
+                        ἀκράτῳ, καὶ μηθὲν <milestone unit="tlnum" n="5" /> ἄλλο διὸ τοῦτο
+                        μὲν ἀκράτισμα καλεῖν διὰ τὸν ἄκρατον, ὄψον δὲ τὸ
+                        παρασκευαζόμενον εἰς δεῖπνον αὐτοῖς: ὀψὲ γὰρ δειπνεῖν ἀπὸ τῶν
+                        πράξεων γενομένους. ἐκ τούτου καὶ τὸ δεῖπνον καὶ τὸ ἄριστον, ἀφ᾽
+                        ὅτου λάβοι τοὔνομα, ζήτησιν παρέσχε. καὶ τὸ <milestone unit="tlnum" n="10" /> μὲν ἄριστον ἐδόκει τῷ ἀκρατίσματι ταὐτὸν εἶναι,
+                        μαρτυρεῖ τῷ Ὁμήρῳ λέγοντι <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">μάρτυρι τῷ Ὁμ. χρωμένοις
+                              λέγοντι</foreign> ρ. μιηι ϝιδ. ξορρ. <foreign lang="greek">μαρτυροῦσι</foreign> ῾δατ. πλυρ.᾿ προ <foreign lang="greek">μαρτυρεῖ</foreign> ξφ. π. 734δ</note> τοὺς περὶ τὸν Εὔμαιον
+                           <quote rend="blockquote">ἐντύνοντας <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἐντύνοντα</foreign> ϝελ
+                                 <foreign lang="greek">ἐντείνοντα</foreign> μει</note> ἄριστον
+                           ἃμ ἠοῖ φαινομένῃφι</quote>
+                        <note resp="ed" place="unspecified" anchored="yes">ηομ. <foreign lang="greek">π</foreign> 2</note>
+                        </q></p></div3></div2></div1></body></text></TEI.2>

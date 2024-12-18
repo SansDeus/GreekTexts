@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="section" n="2" org="uniform" sample="complete"><p><milestone unit="stephpage" id="stephpage-576d" n="576d" /> ἀφιξομένους:
+                  <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">ἀφιξομένους</foreign> ρ: <foreign lang="greek">ἀφικομένους</foreign></note> αὐτὸς δὲ πεμφθῆναι ταῦτά τε προερῶν, καὶ
+               τὴν οἰκίαν, ἐν κρυβήσονται παρελθόντες, <milestone unit="tlnum" n="20" /> ὃς
+               παρέξει γνωσόμενος, ὡς ἂν εἰδότες εὐθὺς ἐκεῖ βαδίζοιεν. ἀπορουμένων δ᾽
+               ἡμῶν καὶ σκοπούντων, αὐτὸς ὡμολόγησεν ὁ Χάρων παρέξειν. ὁ μὲν οὖν
+               ἄνθρωπος ἔγνω πάλιν ἀπελθεῖν σπουδῇ πρὸς τοὺς φυγάδας. </p>
+         </div1>
+         <div1 type="section" n="3" org="uniform" sample="complete">
+            <milestone unit="tlnum" n="25" />
+            <p>ἐμοῦ δ᾽ ὁ μάντις Θεόκριτος τὴν χεῖρα πιέσας σφόδρα καὶ πρὸς τὸν Χάρωνα
+               βλέψας <pb id="v.3.p.490" /> προερχόμενον <note resp="ed" place="unspecified" anchored="yes">μαλιμ <foreign lang="greek">προσερχόμενον</foreign></note>
+               <q direct="unspecified">οὗτος</q> εἶπεν <q direct="unspecified">ὦ Καφεισία, φιλόσοφος οὐκ ἔστιν οὐδὲ μετείληφε
+                  παιδείας διαφόρου καὶ περιττῆς, ὥσπερ Ἐπαμεινώνδας ὁ σὸς ἀδελφός
+                  ἀλλ᾽ ὁρᾷς, </q></p></div1></body></text></TEI.2>

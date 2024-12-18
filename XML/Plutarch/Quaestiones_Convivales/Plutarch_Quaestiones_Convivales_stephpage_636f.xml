@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="book" n="2" org="uniform" sample="complete"><div2 type="chapter" n="3" org="uniform" sample="complete"><div3 type="section" n="3" org="uniform" sample="complete"><milestone unit="stephpage" id="stephpage-636f" n="636f" />
+                  <p>ταῦτα τοῦ Φίρμου διεξιόντος, ὁ Σενεκίων <milestone unit="tlnum" n="15" /> ἔφη τὴν τελευταίαν τῶν εἰκόνων αὐτῷ πρώτην ἀντιπίπτειν.
+                        <q direct="unspecified">ἔλαθες γάρ</q> εἶπεν <q direct="unspecified">ὦ Φίρμε, τὸν κόσμον ἀντὶ τῆς
+                        παροιμιακῆς θύρας <q direct="unspecified">ἐπὶ σεαυτὸν <note resp="ed" place="unspecified" anchored="yes">ιβ. <foreign lang="greek">σαυτὸν</foreign>̣</note>
+                           ἀνοίξας:</q>
+                        <note resp="ed" place="unspecified" anchored="yes">ξφ. π. 1108δ. λευτσξη. 1
+                           π. 114</note> ὁ γὰρ κόσμος προϋφέστηκε πάντων τελειότατος ὤν:
+                        καὶ λόγον ἔχει τοῦ ἀτελοῦς φύσει πρότερον εἶναι <milestone unit="tlnum" n="20" /> τὸ τέλειον, ὡς τοῦ πεπηρωμένου τὸ ὁλόκληρον
+                        καὶ τοῦ μέρους τὸ ὅλον: οὐδὲ <note resp="ed" place="unspecified" anchored="yes"><foreign lang="greek">οὐδὲν</foreign> μει</note> γὰρ
+                        ἔχει λόγον εἶναι μέρος οὗ μέρος; ἐστὶ μὴ γεγονότος. ὅθεν
+                        οὐθεὶς λέγει τοῦ σπέρματος εἶναι τὸν ἄνθρωπον οὐδὲ τοῦ
+                           </q></p></div3></div2></div1></body></text></TEI.2>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text lang="greek"><body><div1 type="choral" org="uniform" sample="complete"><div2 type="strophe" n="2" org="uniform" sample="complete"><sp><p><milestone ed="p" n="811" unit="card" /></p></sp></div2>
+<div2 type="antistrophe" n="2" org="uniform" sample="complete">
+<sp><speaker>Ἄδραστος</speaker><p>
+<lb />προσάγετε <add>τῶν</add> δυσπότμων
+<lb />σώμαθ᾽ αἱματοσταγῆ,
+<lb />σφαγέντας οὐκ ἄξι᾽ οὐδ᾽ ὑπ᾽ ἀξίων,
+<lb />ἐν οἷς ἀγὼν ἐκράνθη.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb rend="displayNum" n="815" />δόθ᾽, ὡς περιπτυχαῖσι δὴ
+<lb />χέρας προσαρμόσασ᾽ ἐμοῖς
+<lb />ἐν ἀγκῶσι τέκνα θῶμαι.</p></sp>
+<sp><speaker>Ἄδραστος</speaker><p>
+<lb />ἔχεις ἔχεις.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+πημάτων γ᾽ ἅλις βάρος.</p></sp>
+<sp><speaker>Ἄδραστος</speaker><p>
+<lb />αἰαῖ.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+τοῖς τεκοῦσι δ᾽ οὐ λέγεις;</p></sp>
+<sp><speaker>Ἄδραστος</speaker><p>
+<lb rend="displayNum" n="820" />ἀίετέ μου.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+στένεις ἐπ᾽ ἀμφοῖν ἄχη.</p></sp>
+<sp><speaker>Ἄδραστος</speaker><p>
+<lb />εἴθε με Καδμείων ἔναρον στίχες ἐν κονίαισιν.</p></sp>
+<sp><speaker>Χορός</speaker><p>
+<lb />ἐμὸν δὲ μήποτ᾽ ἐζύγη
+<lb />δέμας ἐς ἀνδρὸς εὐνάν.
+</p></sp></div2></div1></body></text></TEI.2>
