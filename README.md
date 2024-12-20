@@ -12,7 +12,7 @@ Contains text in the original format available on the site.
 Contains sanitized versions of the text, combined into single works when it was presented in pieces.
 ```
 1,504 files
-537 folders (created before pruning some of the bad data)
+535 folders
 ```
 
 ## DIVDED
