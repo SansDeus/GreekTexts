@@ -1,5 +1,5 @@
 # GreekTexts
- Collection of Greek texts from Perseus tufts.edu
+ Collection of Greek texts from Perseus tufts.edu and other sources.
 
 ## XML
 Contains text in the original format available on the site.
@@ -11,15 +11,15 @@ Contains text in the original format available on the site.
 ## FULL
 Contains sanitized versions of the text, combined into single works when it was presented in pieces.
 ```
-1,504 files
-535 folders
+1,544 files
+543 folders
 ```
 
 ## DIVDED
 Contains sanitized versions of the text in smaller pieces. Like chapters from a book or slightly smaller.
 ```
-55,100 files
-535 folders
+55,593 files
+558 folders
 ```
 
 ## Missing or Bad data
@@ -35,6 +35,19 @@ Isaeus
 Isocrates
 Lysias
 Pindar
+```
+
+## Other external data
+```
+Anonymous
+Barnabas
+Clement
+Diadache
+Hermas
+Ignatius
+Irenaeus
+New_Testament
+Polycarp
 ```
 
 ## Errors
