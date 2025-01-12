@@ -1,5 +1,5 @@
 # GreekTexts
- Collection of Greek texts from Perseus tufts.edu and other sources.
+Collection of Greek from Perseus.tufts.edu: [Greek Texts](https://www.perseus.tufts.edu/hopper/collection?collection=Perseus%3Acorpus%3Aperseus%2CGreek%20Texts) and [Greek Prose](https://www.perseus.tufts.edu/hopper/collection?collection=Perseus%3Acorpus%3Aperseus%2CGreek%20Prose)
 
 ## XML
 Contains text in the original format available on the site.
