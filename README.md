@@ -36,7 +36,6 @@ External data is included.
 ## Missing or Bad data
 Some of the data couldn't be retrieved or it wasn't sorted properly. For instance, several directories contain the same files repeatedly. It will be fixed shortly, then this section will be removed.
 ```
-Callimachus
 Demosthenes
 Homeric_Hymns
 Hyperides
