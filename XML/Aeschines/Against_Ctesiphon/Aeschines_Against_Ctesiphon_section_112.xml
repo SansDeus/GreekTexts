@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="speech" n="3" org="uniform" sample="complete"><div2 type="section" n="112" org="uniform" sample="complete"><p>ὅτι δ᾽ ἀληθῆ λέγω, ἀνάγνωθι τὴν τοῦ θεοῦ μαντείαν. ἀκούσατε τῆς ἀρᾶς. ἀναμνήσθητε τῶν ὅρκων, οὓς ὑμῶν οἱ πρόγονοι μετὰ τῶν Ἀμφικτυόνων συνώμοσαν.
+
+<text n="oracle"><body><head>μαντεία</head>
+<l met="dact">οὐ πρὶν τῆσδε πόληος ἐρείψετε πύργον ἑλόντες,</l>
+<l>πρίν γε θεοῦ τεμένει κυανώπιδος Ἀμφιτρίτης</l>
+<l>κῦμα ποτικλύζῃ κελαδοῦν ἱεραῖσιν ἐπ᾽ ἀκταῖς.</l></body></text>
+<quote type="oaths"><title>Ὅρκοι</title></quote>
+<quote type="curses"><title>Ἀρά</title></quote></p></div2></div1></body></text></TEI.2>
