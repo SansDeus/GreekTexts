@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 n="3" type="speech" org="uniform" sample="complete"><p><milestone n="36" unit="section" />κ<add>αὶ ἐγώ, ὦ ἄνδρες δι</add>κασταί, δέομαι ὑμῶν <add>καὶ
+                    ἀντιβολῶ ἐλεῆσαί</add><note resp="Loeb" anchored="yes" place="unspecified"><foreign lang="greek">ἐλεῆσαί</foreign>ηαγερ.</note> με, ἐκεῖνο σκεψαμέ<add>νους, ὅτι
+                    προσήκει ἐν τα</add>ύτῃ τῇ δίκῃ<gap /><seg type="noparse">ιν</seg> ἐλεεῖν
+                    οὐ τὸν <seg type="noparse">φ</seg><gap /><add>ἐὰ</add>ν ἁλῷ οὐδὲν
+                        πάσχε<add>ιν</add><gap /><seg type="noparse">δε</seg>
+                    <seg type="noparse">τοτ</seg><gap /><seg type="noparse">τι</seg>
+                    <seg type="noparse">παλ</seg><gap />δ᾽ ἂν ἀ<add>πο</add>φύγῃ<note resp="Loeb" anchored="yes" place="unspecified"><foreign lang="greek">ἀποφύγῃ</foreign>διελς.</note>
+                        με<gap /><add>ἀπολο</add>ῦμαι.<note resp="Loeb" anchored="yes" place="unspecified"><foreign lang="greek">ἀπολοῦμαι</foreign>διελς.</note> οὐ γὰρ ἂν δ<add>υναίμην</add><gap /><seg type="noparse">ψ</seg>
+                    <gap />
+                    <seg type="noparse">ν</seg> οὐδὲ <add>π</add>ολλοστ<add>ὸν μέρος</add><gap /><seg type="noparse">αν</seg><gap /><seg type="noparse">αιαχ</seg><gap /><add>ὦ</add>
+                    ἄνδρ<add>ες δικ</add>αστ<add>αί,</add><gap /><seg type="noparse">ς</seg> ἐξ<gap />α<add>ὐτ</add>ῶν <seg type="noparse">τ</seg>
+                    <note type="Text" resp="P" anchored="yes" place="unspecified">δεσυντ ϝερσυς οξτο ϝελ μινυς.</note>
+                    <milestone n="1" unit="fragment" /><bibl default="NO">ιν εχτρεμα δυοδεξιμα
+                        ξολυμνα</bibl><seg type="noparse">αντησο</seg><gap /><seg type="noparse">λεκεν</seg> ἄλλοι<add>ς</add><gap /><add>τα</add>ῦτα πέπονθεν <seg type="noparse">τ</seg><gap /><seg type="noparse">ων</seg> ἀναλωμ<add>άτων</add>
+                        λωμ<add>άτων</add><gap /><seg type="noparse">αλυσιτ</seg><gap /><add>ὀ</add>φείλους<add>ι</add><gap />ὅ ποτε ἀπέλυσεν<gap /><add>ὦ ἄνδ</add>ρες
+                    δικας<add>ταί, ο</add>ὐδεὶς ὑ<add>μῶν</add><gap />του<gap /><seg type="noparse">κατα</seg></p>
+            </div1></body></text></TEI.2>

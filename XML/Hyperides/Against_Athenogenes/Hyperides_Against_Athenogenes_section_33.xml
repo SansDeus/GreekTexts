@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 n="3" type="speech" org="uniform" sample="complete"><p><milestone n="33" unit="section" />καὶ ταῦτα ὅτι ἀληθῆ
+                    λέ<add>γω, ἀνα</add>γνώσεται ὑμῖν πρῶτον μὲν τὸν νόμον <add>ὃς</add> οὐκ ἐᾷ τοὺς
+                    μετοίκους ἐξοι<add>κεῖ</add>ν ἐ<add>ν τῷ π</add>ολέμῳ, ἔπειτα τὴν Τροιζη<add>νίων</add>
+                    μαρ<add>τυ</add>ρίαν, πρὸς δὲ τούτοις τὸ τῶν <add>Τροιζηνίω</add>ν<note resp="Loeb" anchored="yes" place="unspecified"><foreign lang="greek">Τροιζηνίων</foreign>βλασς:<foreign lang="greek">αὐτῶν ἐκείνων</foreign>κενψον.</note> ψήφισμα ὃ
+                    ἐψηφίσαντ<add>ο τῇ πόλει τῇ ὑμ</add>ετέρᾳ,<note resp="Loeb" anchored="yes" place="unspecified"><foreign lang="greek">τῇ πόλει τῇ
+                    ὑμετέρᾳ</foreign>διελς.</note> δι᾽ ὃ ὑμεῖς αὐτοὺς <add>ὑπεδέξασθε</add> καὶ
+                    πολίτας ἐποιήσασθε. ἀνά<add>γνωθι</add>.<quote type="nomos">
+                        <title><del status="unremarkable">νόμος</del></title>
+                    </quote><quote type="marturia">
+                        <title>Μαρτυρία</title>
+                    </quote><quote type="yhfisma">
+                        <title><del status="unremarkable">ψήφισμα</del></title>
+                    </quote>
+                    </p></div1></body></text></TEI.2>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 n="1" type="speech" org="uniform" sample="complete"><p><milestone n="3" unit="section" />ἄξιον δ᾽ ἐστίν, ὦ ἄνδρες δικασταί, κἀκεῖθεν
+                    ἐξετάσαι τὸ πρᾶγμα, ἀφ᾽ ὧν ἐν τῷ δήμῳ τὸ πρῶτον αὐτοὶ εὐθὺς
+                    ᾐτιάσαντο. ἐμοὶ γὰρ <add>οἱ</add><note resp="Loeb" anchored="yes" place="unspecified"><foreign lang="greek">οἱ</foreign>αδδ. σξηνειδεωιν.</note> οἰκεῖοι
+                        ἀπέστειλαν<note resp="Loeb" anchored="yes" place="unspecified"><lemma lang="greek" targOrder="U" from="ROOT" to="DITTO">ἀπέστειλαν</lemma> <foreign lang="greek">ἐπέστειλαν</foreign>βλασς.</note> γράψαντες
+                    τήν τε εἰσαγγελίαν καὶ τὰς αἰτίας ἃς ἐν τῇ ἐκκλησίᾳ ᾐτιάσαντό
+                    με, ὅτε τὴν εἰσαγγελί<add>αν</add> ἐδίδοσαν, ἐν α<add>ἷς ἦ</add>ν γεγραμμένον ὅτι
+                    Λυκοῦργος λέγ<add>ει</add>, φάσκω<add>ν τ</add>ῶν <add>ο</add>ἰκ<add>είω</add>ν ἀκ<add>ηκ</add>οέναι,<note resp="Loeb" anchored="yes" place="unspecified"><foreign lang="greek">οἰκείων
+                        ἀκηκοέναι</foreign>βαβινγτον.</note> ὡς ἐγὼ παρακολουθῶν, ὅτε
+                    Χάριππος ἐγάμει τὴν γυναῖκα, παρεκελευόμην αὐτῇ ὅπως μὴ
+                        πλησιάσει<note resp="Loeb" anchored="yes" place="unspecified"><foreign lang="greek">πλησιάσει</foreign>σξηνειδεωιν:<foreign lang="greek">πλησιάσῃ</foreign>α.</note> Χαρίππῳ ἀλλὰ διαφυλάξει αὑτήν.
+                        </p></div1></body></text></TEI.2>
