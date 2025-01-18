@@ -5,32 +5,32 @@ Collection of Greek from Perseus.tufts.edu: [Greek Texts](https://www.perseus.tu
 Contains text in the original format available on the site.
 External data is not included.
 ```
-24,162 files
-553 folders
+27,079 files
+589 folders
 ```
 
 ## SANITIZED
 Direct copies of the XML files with markup language removed.
 External data is not included.
 ```
-24,162 files
-553 folders
+27,079 files
+589 folders
 ```
 
 ## FULL
 Contains sanitized versions of the text, combined into single works when it was presented in pieces.
 External data is included.
 ```
-1,550 files
-561 folders
+1,584 files
+597 folders
 ```
 
 ## DIVDED
 Contains sanitized versions of the text in smaller pieces. Like chapters from a book or slightly smaller.
 External data is included.
 ```
-60,067 files
-576 folders
+62,851 files
+612 folders
 ```
 
 ## Missing or Bad data
@@ -38,8 +38,7 @@ Some of the data couldn't be retrieved or it wasn't sorted properly. For instanc
 ```
 Demosthenes
 Homeric_Hymns
-Isaeus
-Isocrates
+Isocrates (partial)
 Lysias
 Pindar
 ```
