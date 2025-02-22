@@ -21,16 +21,16 @@ External data is not included.
 Contains sanitized versions of the text, combined into single works when it was presented in pieces.
 External data is included.
 ```
-1,584 files
-597 folders
+1,589 Files
+605 Folders
 ```
 
 ## DIVDED
 Contains sanitized versions of the text in smaller pieces. Like chapters from a book or slightly smaller.
 External data is included.
 ```
-62,851 files
-612 folders
+63,120 Files
+620 Folders
 ```
 
 ## Missing or Bad data
@@ -49,11 +49,14 @@ Greek texts retrieved from other sites.
 Anonymous
 Barnabas
 Clement
+Clement of Rome
 Diadache
 Hermas
 Ignatius
 Irenaeus
-New_Testament
+Justin Martyr
+Marcion
+New Testament
 Polycarp
 ```
 
