@@ -67,19 +67,18 @@ There might be some errors; the dividing of files was done via algorithms using:
 |Authors|Works of|
 | --- | --- |
 |Herbert Weir Smyth, Ph.D|Aeschylus|
-|Rudolf Hercher|Aelian, Arrian, Achilles Tatius, Chariton, Longus, Parthenius|
+|Rudolf Hercher|Aelian, Achilles Tatius, Chariton, Longus, Parthenius|
 |K. J. Maidment|Antiphon|
 |Sir James George Frazer|Apollodorus|
 |George W. Mooney|Apollonius Rhodius|
 |L. Mendelssohn|Appian|
-|Leonhard von Spengel|Aristides, Aelius|
-|Wilhelm Dindorf|Aristides, Aelius, Harpocration, Valerius|
+|Leonhard von Spengel, Wilhelm Dindorf|Aristides, Aelius|
+|Wilhelm Dindorf|Harpocration, Valerius|
 |G. R. Mair|Aratus, Solensis|
 |F.W. Hall and W.M. Geldart|Aristophanes|
-|Kenyon|Aristotle|
-|J. Bywater, W. D. Ross|Aristotle|
+|J. Bywater, Kenyon, W. D. Ross|Aristotle|
 |Alfred Eberhard, A.G. Roos, Rudolf Hercher|Arrian|
-|Charles Burton Gulick, Kaibel	Athenaeus|Athenaeus|
+|Charles Burton Gulick, Kaibel| Athenaeus, Athenaeus|
 |Kirsopp Lake|Barnabas|
 |A.W. Mair, Ulrich von Wilamowitz-Moellendorff|Callimachus|
 |A.W. Mair|Colluthus, Oppian of Apamea, Oppian, Tryphiodorus, Lycophron|
@@ -89,7 +88,7 @@ There might be some errors; the dividing of files was done via algorithms using:
 |Immanuel Bekker, Ludwig Dindorf, Friedrich Vogel|Diodorus Siculus|
 |Hermann Usener, Karl Jacoby, Ludwig Radermacher|Dionysius of Halicarnassus|
 |J. M. Edmonds|Elegy and Iambus|
-|J. L. Heiberg|Euclid					
+|J. L. Heiberg|Euclid|
 |David Kovacs, Gilbert Murray|Euripides|
 |W. R. Paton|Greek Anthology|
 |Hugh G. Evelyn-White|Homeric Hymns|
